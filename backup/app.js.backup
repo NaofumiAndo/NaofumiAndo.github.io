@@ -1,0 +1,627 @@
+// Main application logic for Economic Charts Dashboard
+
+class EconomicDashboard {
+    constructor() {
+        this.indicators = ['sp500', 'treasury', 'oil', 'gold', 'dollar'];
+        this.allData = {}; // Store all indicator data
+        this.momentumData = null; // Store raw momentum data
+        this.growthData = null; // Store raw growth data
+        this.chartColors = {
+            sp500: '#2E7D32',
+            treasury: '#1976D2',
+            oil: '#D84315',
+            gold: '#F9A825',
+            dollar: '#6A1B9A'
+        };
+        this.init();
+    }
+
+    init() {
+        // Set up event listeners
+        document.getElementById('refreshAllBtn').addEventListener('click', () => this.refreshAllData());
+
+        // Momentum chart controls
+        document.getElementById('momentum-baseline').addEventListener('change', () => this.loadMomentumChart());
+
+        // Growth chart time control
+        document.getElementById('growth-months').addEventListener('change', () => this.filterAndPlotGrowth());
+
+        // Individual indicator time range controls
+        document.querySelectorAll('.indicator-range').forEach(select => {
+            select.addEventListener('change', (e) => {
+                const indicator = e.target.getAttribute('data-indicator');
+                this.filterAndPlotChart(indicator);
+            });
+        });
+
+        // Individual refresh buttons
+        document.querySelectorAll('.refresh-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const indicator = e.target.getAttribute('data-indicator');
+                this.refreshData(indicator);
+            });
+        });
+
+        // Load initial data for all indicators
+        this.loadAllData();
+
+        // Load momentum chart
+        this.loadMomentumChart();
+
+        // Load growth rate chart
+        this.loadGrowthChart();
+    }
+
+    /**
+     * Calculate start date based on selected time range
+     */
+    getStartDate(range) {
+        const today = new Date();
+        const startDate = new Date();
+
+        switch(range) {
+            case '1y':
+                startDate.setFullYear(today.getFullYear() - 1);
+                break;
+            case '5y':
+                startDate.setFullYear(today.getFullYear() - 5);
+                break;
+            case '10y':
+                startDate.setFullYear(today.getFullYear() - 10);
+                break;
+            case 'max':
+                startDate.setFullYear(1950);
+                break;
+            default:
+                startDate.setFullYear(today.getFullYear() - 5);
+        }
+
+        return startDate.toISOString().split('T')[0];
+    }
+
+    /**
+     * Load data from local file for a specific indicator
+     */
+    async loadFromLocalFile(indicator) {
+        const loadingEl = document.getElementById(`${indicator}-loading`);
+        const errorEl = document.getElementById(`${indicator}-error`);
+        const chartEl = document.getElementById(`${indicator}-chart`);
+
+        try {
+            // Show loading state
+            loadingEl.style.display = 'block';
+            loadingEl.textContent = 'Loading data from local file...';
+            errorEl.style.display = 'none';
+            chartEl.style.display = 'none';
+
+            // Try to load from local file via server
+            const response = await fetch(`${CONFIG.SERVER_URL}/api/data/${indicator}`);
+            const result = await response.json();
+
+            if (result.success && result.data) {
+                // Data found in local file
+                this.allData[indicator] = {
+                    dates: result.data.dates,
+                    values: result.data.values,
+                    name: result.data.name
+                };
+
+                console.log(`${indicator} loaded from local file (last updated: ${result.data.lastUpdated})`);
+
+                // Plot data based on current time range selection
+                this.filterAndPlotChart(indicator);
+
+                // Hide loading, show chart
+                loadingEl.style.display = 'none';
+                chartEl.style.display = 'block';
+
+                // Try to load momentum chart (will succeed once we have data)
+                this.loadMomentumChart();
+            } else {
+                // No local file, need to fetch from API
+                console.log(`No local data found for ${indicator}, fetching from API...`);
+                await this.refreshData(indicator);
+            }
+
+        } catch (error) {
+            console.error(`Error loading ${indicator} from local file:`, error);
+            // If server is not running or error occurred, try to fetch from API
+            console.log(`Falling back to API for ${indicator}...`);
+            await this.refreshData(indicator);
+        }
+    }
+
+    /**
+     * Load all indicators from local files
+     */
+    async loadAllData() {
+        for (const indicator of this.indicators) {
+            await this.loadFromLocalFile(indicator);
+        }
+    }
+
+    /**
+     * Refresh data from API for a specific indicator
+     */
+    async refreshData(indicator) {
+        const loadingEl = document.getElementById(`${indicator}-loading`);
+        const errorEl = document.getElementById(`${indicator}-error`);
+        const chartEl = document.getElementById(`${indicator}-chart`);
+
+        try {
+            // Show loading state
+            loadingEl.style.display = 'block';
+            loadingEl.textContent = 'Fetching data from API...';
+            errorEl.style.display = 'none';
+            chartEl.style.display = 'none';
+
+            // Fetch from API via server (which will also save locally)
+            const response = await fetch(`${CONFIG.SERVER_URL}/api/data/${indicator}/refresh`, {
+                method: 'POST'
+            });
+
+            const result = await response.json();
+
+            if (result.success && result.data) {
+                // Store data
+                this.allData[indicator] = {
+                    dates: result.data.dates,
+                    values: result.data.values,
+                    name: result.data.name
+                };
+
+                console.log(`${indicator} refreshed from API and saved locally`);
+
+                // Plot data based on current time range selection
+                this.filterAndPlotChart(indicator);
+
+                // Hide loading, show chart
+                loadingEl.style.display = 'none';
+                chartEl.style.display = 'block';
+
+                // Reload momentum chart after each refresh
+                this.loadMomentumChart();
+            } else {
+                throw new Error(result.message || 'Failed to fetch data from API');
+            }
+
+        } catch (error) {
+            console.error(`Error refreshing ${indicator} data:`, error);
+            loadingEl.style.display = 'none';
+            errorEl.textContent = `Error loading data: ${error.message}`;
+            errorEl.style.display = 'block';
+        }
+    }
+
+    /**
+     * Refresh all indicators from API
+     */
+    async refreshAllData() {
+        for (const indicator of this.indicators) {
+            await this.refreshData(indicator);
+        }
+        // Reload momentum and growth charts after refreshing all data
+        await this.loadMomentumChart();
+        await this.loadGrowthChart();
+    }
+
+    /**
+     * Filter stored data based on time range and plot for a specific indicator
+     */
+    filterAndPlotChart(indicator) {
+        if (!this.allData[indicator]) {
+            console.warn(`No data available for ${indicator}`);
+            return;
+        }
+
+        // Get time range from individual indicator selector
+        const timeRangeElement = document.getElementById(`${indicator}-range`);
+        if (!timeRangeElement) {
+            console.warn(`No time range selector found for ${indicator}`);
+            return;
+        }
+
+        const timeRange = timeRangeElement.value;
+        const startDate = this.getStartDate(timeRange);
+
+        // Filter data based on selected time range
+        const filteredIndices = [];
+        for (let i = 0; i < this.allData[indicator].dates.length; i++) {
+            if (this.allData[indicator].dates[i] >= startDate) {
+                filteredIndices.push(i);
+            }
+        }
+
+        const filteredDates = filteredIndices.map(i => this.allData[indicator].dates[i]);
+        const filteredValues = filteredIndices.map(i => this.allData[indicator].values[i]);
+
+        // Plot the filtered data
+        this.plotChart(indicator, filteredDates, filteredValues);
+    }
+
+    /**
+     * Plot chart using Plotly
+     */
+    plotChart(indicator, dates, values) {
+        const trace = {
+            x: dates,
+            y: values,
+            type: 'scatter',
+            mode: 'lines',
+            name: this.allData[indicator].name || indicator,
+            line: {
+                color: this.chartColors[indicator] || '#666',
+                width: 2
+            },
+            hovertemplate: '<b>Date:</b> %{x}<br>' +
+                          '<b>Value:</b> %{y:.2f}<br>' +
+                          '<extra></extra>'
+        };
+
+        const layout = {
+            title: {
+                text: '',
+                font: { size: 18 }
+            },
+            xaxis: {
+                title: 'Date',
+                showgrid: true,
+                gridcolor: '#e0e0e0',
+                rangeslider: { visible: false }
+            },
+            yaxis: {
+                title: 'Value',
+                showgrid: true,
+                gridcolor: '#e0e0e0'
+            },
+            hovermode: 'x unified',
+            plot_bgcolor: '#fafafa',
+            paper_bgcolor: 'white',
+            margin: { t: 30, r: 30, b: 60, l: 60 },
+            showlegend: false
+        };
+
+        const config = {
+            responsive: true,
+            displayModeBar: true,
+            modeBarButtonsToRemove: ['lasso2d', 'select2d'],
+            displaylogo: false,
+            toImageButtonOptions: {
+                format: 'png',
+                filename: `${indicator}_chart`,
+                height: 600,
+                width: 1000,
+                scale: 2
+            }
+        };
+
+        Plotly.newPlot(`${indicator}-chart`, [trace], layout, config);
+    }
+
+    /**
+     * Load and plot momentum comparison chart
+     */
+    async loadMomentumChart() {
+        const loadingEl = document.getElementById('momentum-loading');
+        const errorEl = document.getElementById('momentum-error');
+        const chartEl = document.getElementById('momentum-chart');
+        const baselineDateEl = document.getElementById('baseline-date');
+
+        try {
+            // Show loading state
+            loadingEl.style.display = 'block';
+            errorEl.style.display = 'none';
+            chartEl.style.display = 'none';
+
+            // Get selected baseline period
+            const period = document.getElementById('momentum-baseline').value;
+
+            // Fetch momentum data from server with period parameter
+            const response = await fetch(`${CONFIG.SERVER_URL}/api/data/momentum?period=${period}`);
+            const result = await response.json();
+
+            console.log('Momentum API response:', result);
+
+            if (result.success && result.data) {
+                // Check if we have any data
+                const hasData = Object.keys(result.data).length > 0;
+
+                console.log('Has momentum data:', hasData, 'Keys:', Object.keys(result.data));
+
+                if (!hasData) {
+                    throw new Error('No data available yet. Please wait for initial data to load or click "Refresh All Data".');
+                }
+
+                // Store raw momentum data
+                this.momentumData = result.data;
+
+                // Set baseline date from first indicator's baseline date
+                let baselineDateStr = '';
+                for (const indicator of this.indicators) {
+                    if (this.momentumData[indicator] && this.momentumData[indicator].baselineDate) {
+                        const baselineDate = new Date(this.momentumData[indicator].baselineDate);
+                        baselineDateStr = baselineDate.toLocaleDateString('en-US', {
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric'
+                        });
+                        break;
+                    }
+                }
+                if (baselineDateStr) {
+                    baselineDateEl.textContent = `Baseline: ${baselineDateStr} = 100`;
+                }
+
+                // Plot momentum chart (showing all data from baseline)
+                this.plotMomentumChart();
+
+                // Hide loading, show chart
+                loadingEl.style.display = 'none';
+                chartEl.style.display = 'block';
+            } else {
+                throw new Error('No momentum data available');
+            }
+
+        } catch (error) {
+            console.error('Error loading momentum chart:', error);
+            loadingEl.style.display = 'none';
+            errorEl.textContent = `Error loading momentum chart: ${error.message}`;
+            errorEl.style.display = 'block';
+        }
+    }
+
+    /**
+     * Plot momentum chart showing all data from baseline
+     */
+    plotMomentumChart() {
+        if (!this.momentumData) return;
+
+        const traces = [];
+
+        // Plot all data from baseline onwards
+        for (const indicator of this.indicators) {
+            if (this.momentumData[indicator]) {
+                const dates = this.momentumData[indicator].dates;
+                const values = this.momentumData[indicator].values;
+
+                traces.push({
+                    x: dates,
+                    y: values,
+                    type: 'scatter',
+                    mode: 'lines',
+                    name: this.momentumData[indicator].name,
+                    line: {
+                        color: this.chartColors[indicator],
+                        width: 2.5
+                    },
+                    hovertemplate: '<b>%{fullData.name}</b><br>' +
+                                  'Date: %{x}<br>' +
+                                  'Value: %{y:.2f}<br>' +
+                                  '<extra></extra>'
+                });
+            }
+        }
+
+        const layout = {
+                    title: {
+                        text: '',
+                        font: { size: 18 }
+                    },
+                    xaxis: {
+                        title: 'Date',
+                        showgrid: true,
+                        gridcolor: '#e0e0e0'
+                    },
+                    yaxis: {
+                        title: 'Normalized Value (Baseline = 100)',
+                        showgrid: true,
+                        gridcolor: '#e0e0e0',
+                        zeroline: true,
+                        zerolinecolor: '#999',
+                        zerolinewidth: 1
+                    },
+                    hovermode: 'x unified',
+                    plot_bgcolor: '#fafafa',
+                    paper_bgcolor: 'white',
+                    margin: { t: 30, r: 30, b: 60, l: 70 },
+                    legend: {
+                        orientation: 'h',
+                        yanchor: 'bottom',
+                        y: 1.02,
+                        xanchor: 'left',
+                        x: 0,
+                        bgcolor: 'rgba(255,255,255,0.8)',
+                        bordercolor: '#ddd',
+                        borderwidth: 1
+                    },
+                    shapes: traces.length > 0 ? [{
+                        type: 'line',
+                        x0: traces[0].x[0],
+                        x1: traces[0].x[traces[0].x.length - 1],
+                        y0: 100,
+                        y1: 100,
+                        line: {
+                            color: 'rgba(0,0,0,0.3)',
+                            width: 1,
+                            dash: 'dash'
+                        }
+                    }] : []
+                };
+
+        const config = {
+            responsive: true,
+            displayModeBar: true,
+            modeBarButtonsToRemove: ['lasso2d', 'select2d'],
+            displaylogo: false,
+            toImageButtonOptions: {
+                format: 'png',
+                filename: 'momentum_comparison',
+                height: 800,
+                width: 1400,
+                scale: 2
+            }
+        };
+
+        Plotly.newPlot('momentum-chart', traces, layout, config);
+    }
+
+    /**
+     * Load and plot month-over-month growth rate chart
+     */
+    async loadGrowthChart() {
+        const loadingEl = document.getElementById('growth-loading');
+        const errorEl = document.getElementById('growth-error');
+        const chartEl = document.getElementById('growth-chart');
+
+        try {
+            // Show loading state
+            loadingEl.style.display = 'block';
+            errorEl.style.display = 'none';
+            chartEl.style.display = 'none';
+
+            // Fetch growth data from server
+            const response = await fetch(`${CONFIG.SERVER_URL}/api/data/growth`);
+            const result = await response.json();
+
+            console.log('Growth API response:', result);
+
+            if (result.success && result.data) {
+                // Check if we have any data
+                const hasData = Object.keys(result.data).length > 0;
+
+                console.log('Has growth data:', hasData, 'Keys:', Object.keys(result.data));
+
+                if (!hasData) {
+                    throw new Error('No growth data available yet. Please wait for initial data to load or click "Refresh All Data".');
+                }
+
+                // Store raw growth data
+                this.growthData = result.data;
+
+                // Plot with current filter
+                this.filterAndPlotGrowth();
+
+                // Hide loading, show chart
+                loadingEl.style.display = 'none';
+                chartEl.style.display = 'block';
+            } else {
+                throw new Error('No growth data available');
+            }
+
+        } catch (error) {
+            console.error('Error loading growth chart:', error);
+            loadingEl.style.display = 'none';
+            errorEl.textContent = `Error loading growth chart: ${error.message}`;
+            errorEl.style.display = 'block';
+        }
+    }
+
+    /**
+     * Filter and plot growth chart based on selected months
+     */
+    filterAndPlotGrowth() {
+        if (!this.growthData) return;
+
+        const monthsFilter = document.getElementById('growth-months').value;
+        const traces = [];
+
+        // Filter data based on selected months
+        for (const indicator of this.indicators) {
+            if (this.growthData[indicator]) {
+                let dates = this.growthData[indicator].dates;
+                let values = this.growthData[indicator].values;
+
+                // Apply filter if not "all"
+                if (monthsFilter !== 'all') {
+                    const numMonths = parseInt(monthsFilter);
+                    const startIndex = Math.max(0, dates.length - numMonths);
+                    dates = dates.slice(startIndex);
+                    values = values.slice(startIndex);
+                }
+
+                traces.push({
+                    x: dates,
+                    y: values,
+                    type: 'scatter',
+                    mode: 'lines',
+                    name: this.growthData[indicator].name,
+                    line: {
+                        color: this.chartColors[indicator],
+                        width: 2
+                    },
+                    hovertemplate: '<b>%{fullData.name}</b><br>' +
+                                  'Month: %{x}<br>' +
+                                  'Growth: %{y:.2f}%<br>' +
+                                  '<extra></extra>'
+                });
+            }
+        }
+
+        const layout = {
+                    title: {
+                        text: '',
+                        font: { size: 18 }
+                    },
+                    xaxis: {
+                        title: 'Month',
+                        showgrid: true,
+                        gridcolor: '#e0e0e0'
+                    },
+                    yaxis: {
+                        title: 'Growth Rate (%)',
+                        showgrid: true,
+                        gridcolor: '#e0e0e0',
+                        zeroline: true,
+                        zerolinecolor: '#999',
+                        zerolinewidth: 2
+                    },
+                    hovermode: 'x unified',
+                    plot_bgcolor: '#fafafa',
+                    paper_bgcolor: 'white',
+                    margin: { t: 30, r: 30, b: 60, l: 70 },
+                    legend: {
+                        orientation: 'h',
+                        yanchor: 'bottom',
+                        y: 1.02,
+                        xanchor: 'left',
+                        x: 0,
+                        bgcolor: 'rgba(255,255,255,0.8)',
+                        bordercolor: '#ddd',
+                        borderwidth: 1
+                    },
+                    shapes: traces.length > 0 ? [{
+                        type: 'line',
+                        x0: traces[0].x[0],
+                        x1: traces[0].x[traces[0].x.length - 1],
+                        y0: 0,
+                        y1: 0,
+                        line: {
+                            color: 'rgba(0,0,0,0.5)',
+                            width: 2,
+                            dash: 'solid'
+                        }
+                    }] : []
+                };
+
+        const config = {
+            responsive: true,
+            displayModeBar: true,
+            modeBarButtonsToRemove: ['lasso2d', 'select2d'],
+            displaylogo: false,
+            toImageButtonOptions: {
+                format: 'png',
+                filename: 'growth_rate_comparison',
+                height: 800,
+                width: 1400,
+                scale: 2
+            }
+        };
+
+        Plotly.newPlot('growth-chart', traces, layout, config);
+    }
+}
+
+// Initialize dashboard when DOM is loaded
+document.addEventListener('DOMContentLoaded', () => {
+    new EconomicDashboard();
+});

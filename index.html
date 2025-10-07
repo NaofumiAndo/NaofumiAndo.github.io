@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Economic Charts Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Plotly.js for interactive charts -->
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Economic Indicators Dashboard</h1>
+        </header>
+
+        <div class="controls-global">
+            <button id="adminLoginBtn" class="admin-btn">Admin Login</button>
+            <button id="refreshAllBtn" class="admin-only">Refresh All Data</button>
+            <span id="adminStatus" class="admin-status" style="display: none;">
+                Admin Mode
+                <button id="adminLogoutBtn" class="admin-logout-btn">Logout</button>
+            </span>
+        </div>
+
+        <!-- Month-over-Month Growth Rate Chart -->
+        <section class="growth-section">
+            <div class="chart-header">
+                <h2>Month-over-Month Growth Rate (%)</h2>
+                <div class="chart-controls">
+                    <div class="control-group">
+                        <label for="growth-months">Show last:</label>
+                        <select id="growth-months">
+                            <option value="6" selected>6 months</option>
+                            <option value="12">12 months</option>
+                            <option value="24">24 months</option>
+                            <option value="36">36 months</option>
+                            <option value="60">60 months</option>
+                            <option value="all">All</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Leader display -->
+            <div id="estimate-leader" class="estimate-leader"></div>
+
+            <!-- Previous Month Growth Rates Summary -->
+            <div class="growth-summary-wrapper">
+                <div class="growth-summary-fixed">
+                    <div class="summary-column">
+                        <h3 id="prev-month-header">Prev Month (%)</h3>
+                        <div class="growth-item">
+                            <span class="indicator-label">S&P 500:</span>
+                            <span id="prev-growth-sp500" class="growth-value">--</span>
+                        </div>
+                        <div class="growth-item">
+                            <span class="indicator-label">Treasury (TLT):</span>
+                            <span id="prev-growth-treasury" class="growth-value">--</span>
+                        </div>
+                        <div class="growth-item">
+                            <span class="indicator-label">Oil (WTI):</span>
+                            <span id="prev-growth-oil" class="growth-value">--</span>
+                        </div>
+                        <div class="growth-item">
+                            <span class="indicator-label">Gold:</span>
+                            <span id="prev-growth-gold" class="growth-value">--</span>
+                        </div>
+                        <div class="growth-item">
+                            <span class="indicator-label">Dollar Index:</span>
+                            <span id="prev-growth-dollar" class="growth-value">--</span>
+                        </div>
+                    </div>
+
+                    <div class="summary-column estimate-column">
+                        <h3>
+                            <input type="text" id="user-name" class="user-name-input" placeholder="Your name">
+                        </h3>
+                        <div class="growth-item">
+                            <select id="estimate-sp500" class="estimate-select">
+                                <option value="">--</option>
+                                <option value="up">↑ Up</option>
+                                <option value="flat">→ Flat</option>
+                                <option value="down">↓ Down</option>
+                            </select>
+                        </div>
+                        <div class="growth-item">
+                            <select id="estimate-treasury" class="estimate-select">
+                                <option value="">--</option>
+                                <option value="up">↑ Up</option>
+                                <option value="flat">→ Flat</option>
+                                <option value="down">↓ Down</option>
+                            </select>
+                        </div>
+                        <div class="growth-item">
+                            <select id="estimate-oil" class="estimate-select">
+                                <option value="">--</option>
+                                <option value="up">↑ Up</option>
+                                <option value="flat">→ Flat</option>
+                                <option value="down">↓ Down</option>
+                            </select>
+                        </div>
+                        <div class="growth-item">
+                            <select id="estimate-gold" class="estimate-select">
+                                <option value="">--</option>
+                                <option value="up">↑ Up</option>
+                                <option value="flat">→ Flat</option>
+                                <option value="down">↓ Down</option>
+                            </select>
+                        </div>
+                        <div class="growth-item">
+                            <select id="estimate-dollar" class="estimate-select">
+                                <option value="">--</option>
+                                <option value="up">↑ Up</option>
+                                <option value="flat">→ Flat</option>
+                                <option value="down">↓ Down</option>
+                            </select>
+                        </div>
+                        <div class="growth-item submit-row">
+                            <button id="submit-estimate" class="submit-estimate-btn">Submit</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="growth-summary-scrollable">
+                    <div id="current-growth-column" class="summary-column current-growth-column">
+                        <h3 id="current-month-header">Current</h3>
+                        <div class="growth-item">
+                            <span id="current-growth-sp500" class="growth-value">--</span>
+                        </div>
+                        <div class="growth-item">
+                            <span id="current-growth-treasury" class="growth-value">--</span>
+                        </div>
+                        <div class="growth-item">
+                            <span id="current-growth-oil" class="growth-value">--</span>
+                        </div>
+                        <div class="growth-item">
+                            <span id="current-growth-gold" class="growth-value">--</span>
+                        </div>
+                        <div class="growth-item">
+                            <span id="current-growth-dollar" class="growth-value">--</span>
+                        </div>
+                        <div class="growth-item submit-row">
+                            &nbsp;
+                        </div>
+                    </div>
+                    <div id="submissions-container" class="submissions-container">
+                        <!-- Submitted estimates will be dynamically added here -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Estimate criteria note -->
+            <div class="estimate-criteria">
+                <strong>Estimate criteria:</strong> Up = &gt;+1%, Flat = ±1%, Down = &lt;-1%. Correct estimates are highlighted in yellow.
+            </div>
+
+            <div id="growth-chart" class="chart-container-large"></div>
+            <div id="growth-loading" class="loading">Loading growth data...</div>
+            <div id="growth-error" class="error" style="display: none;"></div>
+        </section>
+
+        <!-- Momentum Comparison Chart -->
+        <section class="momentum-section">
+            <div class="chart-header">
+                <h2>Momentum Comparison (Normalized to 100 at Last Month End)</h2>
+                <div class="chart-controls">
+                    <span id="baseline-date" class="baseline-info"></span>
+                    <div class="control-group">
+                        <label for="momentum-baseline">Baseline Period:</label>
+                        <select id="momentum-baseline">
+                            <option value="1m" selected>1 Month</option>
+                            <option value="6m">6 Months</option>
+                            <option value="1y">1 Year</option>
+                            <option value="2y">2 Years</option>
+                            <option value="3y">3 Years</option>
+                            <option value="4y">4 Years</option>
+                            <option value="5y">5 Years</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div id="momentum-chart" class="chart-container-large"></div>
+            <div id="momentum-loading" class="loading">Loading momentum data...</div>
+            <div id="momentum-error" class="error" style="display: none;"></div>
+        </section>
+
+        <main>
+            <!-- S&P 500 -->
+            <section class="chart-section">
+                <div class="chart-header">
+                    <h2>S&P 500 Index</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="sp500-range">Time Range:</label>
+                            <select id="sp500-range" class="indicator-range" data-indicator="sp500">
+                                <option value="1y">1 Year</option>
+                                <option value="5y" selected>5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                        <button class="refresh-btn admin-only" data-indicator="sp500">Refresh</button>
+                    </div>
+                </div>
+                <div id="sp500-chart" class="chart-container"></div>
+                <div id="sp500-loading" class="loading">Loading data...</div>
+                <div id="sp500-error" class="error" style="display: none;"></div>
+                <div class="data-source">Source: FRED | Series: SP500</div>
+
+                <!-- News Section -->
+                <div class="news-section">
+                    <div class="news-header">
+                        <h3>Market Outlook News</h3>
+                        <button id="collect-news-btn" class="admin-only collect-news-btn">Collect News</button>
+                    </div>
+                    <div id="news-container" class="news-container">
+                        <div id="news-loading" class="news-loading" style="display: none;">Collecting news...</div>
+                        <div id="news-bullish" class="news-category">
+                            <h4>📈 Bullish Outlook</h4>
+                            <div id="bullish-news-list" class="news-list"></div>
+                        </div>
+                        <div id="news-bearish" class="news-category">
+                            <h4>📉 Bearish Outlook</h4>
+                            <div id="bearish-news-list" class="news-list"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Treasury ETF -->
+            <section class="chart-section">
+                <div class="chart-header">
+                    <h2>Long-Duration Treasury ETF (TLT)</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="treasury-range">Time Range:</label>
+                            <select id="treasury-range" class="indicator-range" data-indicator="treasury">
+                                <option value="1y">1 Year</option>
+                                <option value="5y" selected>5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                        <button class="refresh-btn admin-only" data-indicator="treasury">Refresh</button>
+                    </div>
+                </div>
+                <div id="treasury-chart" class="chart-container"></div>
+                <div id="treasury-loading" class="loading">Loading data...</div>
+                <div id="treasury-error" class="error" style="display: none;"></div>
+                <div class="data-source">Source: Yahoo Finance | Symbol: TLT</div>
+            </section>
+
+            <!-- Oil -->
+            <section class="chart-section">
+                <div class="chart-header">
+                    <h2>Crude Oil Prices: WTI</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="oil-range">Time Range:</label>
+                            <select id="oil-range" class="indicator-range" data-indicator="oil">
+                                <option value="1y">1 Year</option>
+                                <option value="5y" selected>5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                        <button class="refresh-btn admin-only" data-indicator="oil">Refresh</button>
+                    </div>
+                </div>
+                <div id="oil-chart" class="chart-container"></div>
+                <div id="oil-loading" class="loading">Loading data...</div>
+                <div id="oil-error" class="error" style="display: none;"></div>
+                <div class="data-source">Source: FRED | Series: DCOILWTICO</div>
+            </section>
+
+            <!-- Gold -->
+            <section class="chart-section">
+                <div class="chart-header">
+                    <h2>Gold Futures</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="gold-range">Time Range:</label>
+                            <select id="gold-range" class="indicator-range" data-indicator="gold">
+                                <option value="1y">1 Year</option>
+                                <option value="5y" selected>5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                        <button class="refresh-btn admin-only" data-indicator="gold">Refresh</button>
+                    </div>
+                </div>
+                <div id="gold-chart" class="chart-container"></div>
+                <div id="gold-loading" class="loading">Loading data...</div>
+                <div id="gold-error" class="error" style="display: none;"></div>
+                <div class="data-source">Source: Yahoo Finance | Symbol: GC=F</div>
+            </section>
+
+            <!-- Dollar Index -->
+            <section class="chart-section">
+                <div class="chart-header">
+                    <h2>Advanced Foreign Economies Dollar Index</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="dollar-range">Time Range:</label>
+                            <select id="dollar-range" class="indicator-range" data-indicator="dollar">
+                                <option value="1y">1 Year</option>
+                                <option value="5y" selected>5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                        <button class="refresh-btn admin-only" data-indicator="dollar">Refresh</button>
+                    </div>
+                </div>
+                <div id="dollar-chart" class="chart-container"></div>
+                <div id="dollar-loading" class="loading">Loading data...</div>
+                <div id="dollar-error" class="error" style="display: none;"></div>
+                <div class="data-source">Source: FRED | Series: DTWEXAFEGS</div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Data sources: <a href="https://fred.stlouisfed.org/" target="_blank">FRED</a> | <a href="https://finance.yahoo.com/" target="_blank">Yahoo Finance</a></p>
+        </footer>
+    </div>
+
+    <!-- Load configuration and app scripts -->
+    <script src="config.js"></script>
+    <!-- Load local config if it exists (overrides config.js, not committed to git) -->
+    <script src="config.local.js" onerror="console.log('No config.local.js found, using config.js defaults')"></script>
+    <script src="app.js"></script>
+</body>
+</html>

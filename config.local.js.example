@@ -1,0 +1,6 @@
+// Local configuration overrides (NOT committed to git)
+// Copy this file to config.local.js and set your actual admin password
+const CONFIG = {
+    SERVER_URL: 'http://localhost:3000',
+    ADMIN_PASSWORD: 'your_admin_password_here'  // Change this to your actual admin password
+};
