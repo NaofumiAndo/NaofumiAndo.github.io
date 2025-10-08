@@ -51,7 +51,7 @@ if (!ADMIN_PASSWORD) {
 // Data source configuration
 const DATA_SOURCES = {
     sp500: { type: 'fred', seriesId: 'SP500', name: 'S&P 500 Index' },
-    treasury: { type: 'fred', seriesId: 'NASDAQNCPXT', name: 'Nasdaq Composite U.S. Treasury 10-Year Note Total Return Index' },
+    treasury: { type: 'fred', seriesId: 'NASDAQNCPXT', name: 'Nasdaq Compoundr U.S. Treasury 10-Year Note Total Return Index' },
     oil: { type: 'fred', seriesId: 'DCOILWTICO', name: 'Crude Oil Prices: WTI' },
     gold: { type: 'yahoo', symbol: 'GC=F', name: 'Gold Futures' },
     dollar: { type: 'fred', seriesId: 'DTWEXAFEGS', name: 'Advanced Foreign Economies Dollar Index' }
