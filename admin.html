@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Admin Dashboard</h1>
+            <p><a href="index.html">← Back to Public Dashboard</a></p>
+        </header>
+
+        <div id="login-section" style="max-width: 400px; margin: 50px auto; padding: 30px; background: white; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+            <h2>Admin Login Required</h2>
+            <p>Enter your admin password to access admin controls.</p>
+            <input type="password" id="admin-password" placeholder="Password" style="width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 4px;">
+            <button id="login-btn" style="width: 100%; padding: 10px; background: #1976D2; color: white; border: none; border-radius: 4px; cursor: pointer;">Login</button>
+            <div id="login-error" style="color: red; margin-top: 10px; display: none;"></div>
+        </div>
+
+        <div id="admin-content" style="display: none;">
+            <section class="admin-section">
+                <h2>Data Management</h2>
+                <div style="margin: 20px 0;">
+                    <button id="refresh-all-btn" class="admin-btn">Refresh All Market Data</button>
+                    <p style="color: #666; margin-top: 10px;">Updates all market indicators (S&P 500, Treasury, Oil, Gold, Dollar) with latest data from APIs.</p>
+                </div>
+
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; margin-top: 20px;">
+                    <button class="refresh-individual-btn" data-indicator="sp500">Refresh S&P 500</button>
+                    <button class="refresh-individual-btn" data-indicator="treasury">Refresh Treasury</button>
+                    <button class="refresh-individual-btn" data-indicator="oil">Refresh Oil</button>
+                    <button class="refresh-individual-btn" data-indicator="gold">Refresh Gold</button>
+                    <button class="refresh-individual-btn" data-indicator="dollar">Refresh Dollar</button>
+                </div>
+                <div id="refresh-status" style="margin-top: 15px; padding: 10px; display: none;"></div>
+            </section>
+
+            <section class="admin-section" style="margin-top: 30px;">
+                <h2>News Management</h2>
+                <button id="collect-news-btn" class="admin-btn">Collect S&P 500 News</button>
+                <p style="color: #666; margin-top: 10px;">Searches for bullish and bearish S&P 500 news articles from the past 7 days.</p>
+                <div id="news-status" style="margin-top: 15px; padding: 10px; display: none;"></div>
+            </section>
+
+            <section class="admin-section" style="margin-top: 30px;">
+                <h2>User Estimates</h2>
+                <button id="view-estimates-btn" class="admin-btn">View & Manage Estimates</button>
+                <div id="estimates-container" style="margin-top: 20px; display: none;">
+                    <h3>All Submissions</h3>
+                    <div id="estimates-list"></div>
+                </div>
+            </section>
+
+            <div style="margin-top: 40px; text-align: center;">
+                <button id="logout-btn" style="padding: 10px 30px; background: #666; color: white; border: none; border-radius: 4px; cursor: pointer;">Logout</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="config.local.js" onerror="console.log('No config.local.js found')"></script>
+    <script src="admin.js"></script>
+
+    <style>
+        .admin-section {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .admin-btn {
+            padding: 12px 24px;
+            background: #1976D2;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .admin-btn:hover {
+            background: #1565C0;
+        }
+        .refresh-individual-btn {
+            padding: 10px 16px;
+            background: #2E7D32;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .refresh-individual-btn:hover {
+            background: #1B5E20;
+        }
+        .estimate-item {
+            padding: 15px;
+            margin: 10px 0;
+            background: #f5f5f5;
+            border-radius: 4px;
+            position: relative;
+        }
+        .delete-estimate-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #d32f2f;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .delete-estimate-btn:hover {
+            background: #b71c1c;
+        }
+    </style>
+</body>
+</html>

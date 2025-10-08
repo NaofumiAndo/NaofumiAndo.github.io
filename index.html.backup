@@ -190,6 +190,7 @@
                                 <option value="max">All Time</option>
                             </select>
                         </div>
+                        <button class="refresh-btn admin-only" data-indicator="sp500">Refresh</button>
                     </div>
                 </div>
                 <div id="sp500-chart" class="chart-container"></div>
@@ -201,6 +202,7 @@
                 <div class="news-section">
                     <div class="news-header">
                         <h3>Market Outlook News</h3>
+                        <button id="collect-news-btn" class="admin-only collect-news-btn">Collect News</button>
                     </div>
                     <div id="news-container" class="news-container">
                         <div id="news-loading" class="news-loading" style="display: none;">Collecting news...</div>
@@ -230,6 +232,7 @@
                                 <option value="max">All Time</option>
                             </select>
                         </div>
+                        <button class="refresh-btn admin-only" data-indicator="treasury">Refresh</button>
                     </div>
                 </div>
                 <div id="treasury-chart" class="chart-container"></div>
@@ -252,6 +255,7 @@
                                 <option value="max">All Time</option>
                             </select>
                         </div>
+                        <button class="refresh-btn admin-only" data-indicator="oil">Refresh</button>
                     </div>
                 </div>
                 <div id="oil-chart" class="chart-container"></div>
@@ -274,6 +278,7 @@
                                 <option value="max">All Time</option>
                             </select>
                         </div>
+                        <button class="refresh-btn admin-only" data-indicator="gold">Refresh</button>
                     </div>
                 </div>
                 <div id="gold-chart" class="chart-container"></div>
@@ -296,6 +301,7 @@
                                 <option value="max">All Time</option>
                             </select>
                         </div>
+                        <button class="refresh-btn admin-only" data-indicator="dollar">Refresh</button>
                     </div>
                 </div>
                 <div id="dollar-chart" class="chart-container"></div>

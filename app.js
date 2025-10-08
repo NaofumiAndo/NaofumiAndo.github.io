@@ -19,9 +19,6 @@ class EconomicDashboard {
     }
 
     init() {
-        // Set up event listeners
-        document.getElementById('refreshAllBtn').addEventListener('click', () => this.refreshAllData());
-
         // Momentum chart controls
         document.getElementById('momentum-baseline').addEventListener('change', () => this.loadMomentumChart());
 
@@ -31,26 +28,11 @@ class EconomicDashboard {
         // Estimate submission
         document.getElementById('submit-estimate').addEventListener('click', () => this.submitEstimate());
 
-        // Admin login/logout
-        document.getElementById('adminLoginBtn').addEventListener('click', () => this.adminLogin());
-        document.getElementById('adminLogoutBtn').addEventListener('click', () => this.adminLogout());
-
-        // News collection
-        document.getElementById('collect-news-btn').addEventListener('click', () => this.collectNews());
-
         // Individual indicator time range controls
         document.querySelectorAll('.indicator-range').forEach(select => {
             select.addEventListener('change', (e) => {
                 const indicator = e.target.getAttribute('data-indicator');
                 this.filterAndPlotChart(indicator);
-            });
-        });
-
-        // Individual refresh buttons
-        document.querySelectorAll('.refresh-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                const indicator = e.target.getAttribute('data-indicator');
-                this.refreshData(indicator);
             });
         });
 
