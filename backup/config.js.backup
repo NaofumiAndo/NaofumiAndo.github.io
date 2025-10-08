@@ -1,6 +1,0 @@
-// Configuration file for API keys and server
-const CONFIG = {
-    SERVER_URL: 'http://localhost:3000',
-    FRED_API_KEY: '897749d57f5119292c49800a9d38d81c',
-    FRED_API_BASE_URL: 'https://api.stlouisfed.org/fred/series/observations'
-};
