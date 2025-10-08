@@ -284,33 +284,19 @@ app.get('/api/data/growth', async (req, res) => {
 
         console.log(`Growth data ready for ${successCount} indicators`);
 
-        // Align all indicators to common months (take last 24 months of data)
+        // Limit each indicator to its own last 24 months (don't force alignment)
         if (successCount > 0) {
-            // Find all unique months across all indicators
-            const allMonths = new Set();
             for (const indicator in growthData) {
-                growthData[indicator].dates.forEach(date => allMonths.add(date));
-            }
+                const dates = growthData[indicator].dates;
+                const values = growthData[indicator].values;
 
-            // Sort months and take last 24
-            const sortedMonths = Array.from(allMonths).sort();
-            const recentMonths = sortedMonths.slice(-24); // Last 24 months
-            const recentMonthsSet = new Set(recentMonths);
+                // Keep only last 24 months for each indicator
+                if (dates.length > 24) {
+                    growthData[indicator].dates = dates.slice(-24);
+                    growthData[indicator].values = values.slice(-24);
+                }
 
-            console.log(`Aligning to ${recentMonths.length} common recent months`);
-
-            // Filter each indicator to only include recent common months
-            for (const indicator in growthData) {
-                const filtered = growthData[indicator].dates.reduce((acc, date, idx) => {
-                    if (recentMonthsSet.has(date)) {
-                        acc.dates.push(date);
-                        acc.values.push(growthData[indicator].values[idx]);
-                    }
-                    return acc;
-                }, { dates: [], values: [] });
-
-                growthData[indicator].dates = filtered.dates;
-                growthData[indicator].values = filtered.values;
+                console.log(`${indicator}: ${growthData[indicator].dates.length} months of growth data`);
             }
         }
 
