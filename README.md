@@ -107,3 +107,23 @@ git push
 
 ### Note on Free Tier
 Render's free tier spins down after 15 minutes of inactivity. The first request after inactivity may take 30-60 seconds to wake up the server.
+
+### Data Persistence
+Data files (market data, estimates, news) are stored in the `/data` folder and committed to GitHub. This ensures:
+- Data persists across Render deployments
+- Data is backed up in version control
+- No data loss when the server restarts
+
+**After updating data as admin:**
+1. Data is automatically saved to the `/data` folder on Render
+2. To persist changes, pull the updated data files from Render and commit them:
+   ```bash
+   # Option A: Manually download from Render and commit
+   # Or Option B: Set up automatic commits (advanced)
+   ```
+
+**Note:** On Render's free tier, the file system is ephemeral. Data updated through the admin panel will be lost when:
+- The service is redeployed
+- The service restarts after inactivity
+
+To keep data permanently, commit the updated data files from the `/data` folder to GitHub after making changes.

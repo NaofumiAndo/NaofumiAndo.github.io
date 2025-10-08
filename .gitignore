@@ -7,9 +7,6 @@ config.local.js
 # Node modules
 node_modules/
 
-# Data files
-data/
-
 # OS files
 .DS_Store
 Thumbs.db

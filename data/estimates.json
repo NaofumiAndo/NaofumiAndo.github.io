@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1759322855989,
+    "name": "A",
+    "timestamp": "2025-10-01T12:47:35.989Z",
+    "estimates": {
+      "sp500": "up",
+      "treasury": "flat",
+      "oil": "up",
+      "gold": "up",
+      "dollar": "down"
+    }
+  },
+  {
+    "id": 1759322867338,
+    "name": "B",
+    "timestamp": "2025-10-01T12:47:47.338Z",
+    "estimates": {
+      "sp500": "flat",
+      "treasury": "down",
+      "oil": "down",
+      "gold": "down",
+      "dollar": "down"
+    }
+  },
+  {
+    "id": 1759322882103,
+    "name": "C",
+    "timestamp": "2025-10-01T12:48:02.103Z",
+    "estimates": {
+      "sp500": "down",
+      "treasury": "up",
+      "oil": "flat",
+      "gold": "flat",
+      "dollar": "up"
+    }
+  },
+  {
+    "id": 1759322892988,
+    "name": "D",
+    "timestamp": "2025-10-01T12:48:12.988Z",
+    "estimates": {
+      "sp500": "flat",
+      "treasury": "up",
+      "oil": "up",
+      "gold": "up",
+      "dollar": "up"
+    }
+  },
+  {
+    "id": 1759323316399,
+    "name": "E",
+    "timestamp": "2025-10-01T12:55:16.399Z",
+    "estimates": {
+      "sp500": "flat",
+      "treasury": "flat",
+      "oil": "flat",
+      "gold": "flat",
+      "dollar": "flat"
+    }
+  },
+  {
+    "id": 1759356035288,
+    "name": "Naofumi",
+    "timestamp": "2025-10-01T22:00:35.288Z",
+    "estimates": {
+      "sp500": "up",
+      "treasury": "flat",
+      "oil": "down",
+      "gold": "up",
+      "dollar": "up"
+    }
+  }
+]
