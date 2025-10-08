@@ -90,13 +90,27 @@ class EconomicDashboard {
         try {
             // Show loading state
             loadingEl.style.display = 'block';
-            loadingEl.textContent = 'Loading data from local file...';
+            loadingEl.textContent = 'Loading data...';
             errorEl.style.display = 'none';
             chartEl.style.display = 'none';
 
-            // Try to load from local file via server
-            const response = await fetch(`${CONFIG.SERVER_URL}/api/data/${indicator}`);
-            const result = await response.json();
+            // Try to load directly from GitHub first (faster, no server wake-up delay)
+            let result;
+            try {
+                const ghResponse = await fetch(`data/${indicator}_data.json`);
+                if (ghResponse.ok) {
+                    const data = await ghResponse.json();
+                    result = { success: true, data: data };
+                    console.log(`${indicator} loaded directly from GitHub`);
+                } else {
+                    throw new Error('GitHub file not found');
+                }
+            } catch (ghError) {
+                // Fallback to server if GitHub fails
+                console.log(`${indicator} loading from server (GitHub failed)`);
+                const response = await fetch(`${CONFIG.SERVER_URL}/api/data/${indicator}`);
+                result = await response.json();
+            }
 
             if (result.success && result.data) {
                 // Data found in local file
