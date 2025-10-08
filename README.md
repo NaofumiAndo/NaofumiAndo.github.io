@@ -53,7 +53,57 @@ The server will run on `http://localhost:3000`
 
 ## Deployment
 
-When deploying to a platform like GitHub Pages, Vercel, or Netlify:
-1. Set environment variables in your hosting platform's settings
-2. Do not include the `.env` file in your deployment
-3. The application will automatically use environment variables from the hosting platform
+This project has two parts:
+1. **Frontend** - Deploy to GitHub Pages (static site)
+2. **Backend** - Deploy to Render.com (Node.js API server)
+
+### Deploy Backend to Render.com
+
+1. **Create a Render account** at [render.com](https://render.com)
+
+2. **Create a new Web Service**:
+   - Click "New +" → "Web Service"
+   - Connect your GitHub repository
+   - Select this repository
+
+3. **Configure the service**:
+   - Name: `naofumiando-api` (or any name you want)
+   - Environment: `Node`
+   - Build Command: `npm install`
+   - Start Command: `node server.js`
+   - Instance Type: `Free`
+
+4. **Add Environment Variables** in Render dashboard:
+   - `FRED_API_KEY` - Your FRED API key
+   - `OPENAI_API_KEY` - Your OpenAI API key
+   - `GOOGLE_SEARCH_API_KEY` - Your Google Search API key
+   - `GOOGLE_SEARCH_ENGINE_ID` - Your Google Search Engine ID
+   - `ADMIN_PASSWORD` - Your admin password
+
+5. **Deploy** - Render will automatically deploy your backend
+
+6. **Copy your Render URL** - It will be like `https://naofumiando-api.onrender.com`
+
+### Update Frontend Configuration
+
+After deploying the backend:
+
+1. Update `config.js` with your Render URL:
+```javascript
+const CONFIG = {
+    SERVER_URL: 'https://naofumiando-api.onrender.com',  // Your Render URL here
+    ADMIN_PASSWORD: 'your_password'
+};
+```
+
+2. Commit and push to GitHub:
+```bash
+git add config.js
+git commit -m "Update server URL to Render backend"
+git push
+```
+
+3. GitHub Pages will automatically update with the new configuration
+
+### Note on Free Tier
+Render's free tier spins down after 15 minutes of inactivity. The first request after inactivity may take 30-60 seconds to wake up the server.

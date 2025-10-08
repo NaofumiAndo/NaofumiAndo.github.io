@@ -1,6 +1,5 @@
-// Frontend configuration only (NO API KEYS HERE)
-// API keys are stored in .env file on the server side only
+// Frontend configuration only (NO SECRETS HERE)
+// API keys and passwords are securely stored on the backend server
 const CONFIG = {
-    SERVER_URL: 'http://localhost:3000',
-    ADMIN_PASSWORD: 'your_admin_password_here'  // Change this to match your .env ADMIN_PASSWORD
+    SERVER_URL: 'https://naofumiando-github-io.onrender.com'
 };

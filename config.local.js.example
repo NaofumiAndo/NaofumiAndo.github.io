@@ -1,6 +1,5 @@
 // Local configuration overrides (NOT committed to git)
-// Copy this file to config.local.js and set your actual admin password
+// Copy this file to config.local.js for local development
 const CONFIG = {
-    SERVER_URL: 'http://localhost:3000',
-    ADMIN_PASSWORD: 'your_admin_password_here'  // Change this to your actual admin password
+    SERVER_URL: 'http://localhost:3000'  // Use local server for development
 };

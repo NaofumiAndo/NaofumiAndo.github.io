@@ -7,6 +7,7 @@ class EconomicDashboard {
         this.momentumData = null; // Store raw momentum data
         this.growthData = null; // Store raw growth data
         this.isAdmin = false; // Track admin status
+        this.adminToken = null; // Store authentication token
         this.chartColors = {
             sp500: '#2E7D32',
             treasury: '#1976D2',
@@ -1021,31 +1022,55 @@ class EconomicDashboard {
     }
 
     /**
-     * Admin login
+     * Admin login - now uses server-side authentication
      */
-    adminLogin() {
+    async adminLogin() {
         const password = prompt('Enter admin password:');
 
-        if (password === CONFIG.ADMIN_PASSWORD) {
-            this.isAdmin = true;
-            document.getElementById('adminLoginBtn').style.display = 'none';
-            document.getElementById('adminStatus').style.display = 'inline';
+        if (!password) {
+            return;
+        }
 
-            // Show all admin-only elements
-            document.querySelectorAll('.admin-only').forEach(el => {
-                if (el.tagName === 'BUTTON') {
-                    el.style.display = 'inline-block';
-                } else {
-                    el.style.display = '';
-                }
+        try {
+            const response = await fetch(`${CONFIG.SERVER_URL}/api/auth/login`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ password })
             });
 
-            // Reload estimates to show delete buttons
-            this.loadEstimates();
+            const result = await response.json();
 
-            alert('Admin mode activated');
-        } else {
-            alert('Incorrect password');
+            if (result.success) {
+                this.isAdmin = true;
+                this.adminToken = result.token;
+
+                // Store token in sessionStorage
+                sessionStorage.setItem('adminToken', result.token);
+
+                document.getElementById('adminLoginBtn').style.display = 'none';
+                document.getElementById('adminStatus').style.display = 'inline';
+
+                // Show all admin-only elements
+                document.querySelectorAll('.admin-only').forEach(el => {
+                    if (el.tagName === 'BUTTON') {
+                        el.style.display = 'inline-block';
+                    } else {
+                        el.style.display = '';
+                    }
+                });
+
+                // Reload estimates to show delete buttons
+                this.loadEstimates();
+
+                alert('Admin mode activated');
+            } else {
+                alert('Incorrect password');
+            }
+        } catch (error) {
+            console.error('Login error:', error);
+            alert('Login failed. Please check your connection.');
         }
     }
 
@@ -1054,6 +1079,9 @@ class EconomicDashboard {
      */
     adminLogout() {
         this.isAdmin = false;
+        this.adminToken = null;
+        sessionStorage.removeItem('adminToken');
+
         document.getElementById('adminLoginBtn').style.display = '';
         document.getElementById('adminStatus').style.display = 'none';
 
@@ -1081,7 +1109,10 @@ class EconomicDashboard {
 
         try {
             const response = await fetch(`${CONFIG.SERVER_URL}/api/estimates/${id}`, {
-                method: 'DELETE'
+                method: 'DELETE',
+                headers: {
+                    'Authorization': `Bearer ${this.adminToken}`
+                }
             });
 
             const result = await response.json();
@@ -1179,7 +1210,8 @@ class EconomicDashboard {
             const response = await fetch(`${CONFIG.SERVER_URL}/api/news/collect`, {
                 method: 'POST',
                 headers: {
-                    'Content-Type': 'application/json'
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${this.adminToken}`
                 }
             });
 

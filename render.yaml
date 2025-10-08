@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: naofumiando-api
+    env: node
+    buildCommand: npm install
+    startCommand: node server.js
+    envVars:
+      - key: FRED_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GOOGLE_SEARCH_API_KEY
+        sync: false
+      - key: GOOGLE_SEARCH_ENGINE_ID
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false

@@ -35,6 +35,7 @@ const FRED_API_BASE_URL = 'https://api.stlouisfed.org/fred/series/observations';
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY || '';
 const GOOGLE_SEARCH_API_KEY = process.env.GOOGLE_SEARCH_API_KEY || '';
 const GOOGLE_SEARCH_ENGINE_ID = process.env.GOOGLE_SEARCH_ENGINE_ID || '';
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || '';
 
 // Validate required API keys
 if (!FRED_API_KEY) {
@@ -42,6 +43,9 @@ if (!FRED_API_KEY) {
 }
 if (!GOOGLE_SEARCH_API_KEY || !GOOGLE_SEARCH_ENGINE_ID) {
     console.warn('WARNING: Google Search API credentials not set in environment variables');
+}
+if (!ADMIN_PASSWORD) {
+    console.warn('WARNING: ADMIN_PASSWORD not set in environment variables');
 }
 
 // Data source configuration
@@ -59,6 +63,55 @@ async function ensureDataDir() {
         await fs.mkdir(DATA_DIR, { recursive: true });
     } catch (error) {
         console.error('Error creating data directory:', error);
+    }
+}
+
+// Admin authentication endpoint
+app.post('/api/auth/login', async (req, res) => {
+    try {
+        const { password } = req.body;
+
+        if (!password) {
+            return res.status(400).json({ success: false, message: 'Password required' });
+        }
+
+        if (password === ADMIN_PASSWORD) {
+            // Generate a simple session token (in production, use JWT or proper sessions)
+            const token = Buffer.from(`admin:${Date.now()}`).toString('base64');
+            res.json({
+                success: true,
+                message: 'Login successful',
+                token: token
+            });
+        } else {
+            res.status(401).json({ success: false, message: 'Invalid password' });
+        }
+    } catch (error) {
+        console.error('Login error:', error);
+        res.status(500).json({ success: false, message: error.message });
+    }
+});
+
+// Middleware to verify admin token (simple version)
+function verifyAdmin(req, res, next) {
+    const authHeader = req.headers.authorization;
+
+    if (!authHeader || !authHeader.startsWith('Bearer ')) {
+        return res.status(401).json({ success: false, message: 'Unauthorized - No token provided' });
+    }
+
+    const token = authHeader.substring(7);
+
+    // Simple token validation (in production, use JWT)
+    try {
+        const decoded = Buffer.from(token, 'base64').toString();
+        if (decoded.startsWith('admin:')) {
+            next();
+        } else {
+            res.status(401).json({ success: false, message: 'Unauthorized - Invalid token' });
+        }
+    } catch (error) {
+        res.status(401).json({ success: false, message: 'Unauthorized - Invalid token' });
     }
 }
 
@@ -484,7 +537,7 @@ function calculateMonthOverMonthGrowth(dates, values) {
     };
 }
 
-// Submit estimate endpoint
+// Submit estimate endpoint (no auth required - public can submit)
 app.post('/api/estimates/submit', async (req, res) => {
     try {
         const { name, estimates } = req.body;
@@ -543,8 +596,8 @@ app.get('/api/estimates', async (req, res) => {
     }
 });
 
-// Delete estimate endpoint
-app.delete('/api/estimates/:id', async (req, res) => {
+// Delete estimate endpoint (admin only)
+app.delete('/api/estimates/:id', verifyAdmin, async (req, res) => {
     try {
         const { id } = req.params;
 
@@ -596,8 +649,8 @@ app.get('/api/news/sp500', async (req, res) => {
     }
 });
 
-// Collect S&P 500 news using Google Custom Search (no OpenAI)
-app.post('/api/news/collect', async (req, res) => {
+// Collect S&P 500 news using Google Custom Search (admin only)
+app.post('/api/news/collect', verifyAdmin, async (req, res) => {
     try {
         if (!GOOGLE_SEARCH_API_KEY || !GOOGLE_SEARCH_ENGINE_ID) {
             return res.status(400).json({
@@ -716,7 +769,7 @@ app.post('/api/news/collect', async (req, res) => {
 });
 
 // Reset news cost counter (admin only)
-app.post('/api/news/reset-cost', async (req, res) => {
+app.post('/api/news/reset-cost', verifyAdmin, async (req, res) => {
     try {
         const newsData = await fs.readFile(DATA_FILES.news, 'utf8');
         const news = JSON.parse(newsData);
