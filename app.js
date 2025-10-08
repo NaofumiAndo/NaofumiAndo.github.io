@@ -937,15 +937,13 @@ class EconomicDashboard {
             header.style.paddingBottom = '0';
             headerContainer.appendChild(header);
 
-            // Add delete button for admin
-            if (this.isAdmin) {
-                const deleteBtn = document.createElement('button');
-                deleteBtn.className = 'delete-btn';
-                deleteBtn.innerHTML = '×';
-                deleteBtn.title = 'Delete this submission';
-                deleteBtn.onclick = () => this.deleteSubmission(submission.id, submission.name);
-                headerContainer.appendChild(deleteBtn);
-            }
+            // Add delete button for all users
+            const deleteBtn = document.createElement('button');
+            deleteBtn.className = 'delete-btn';
+            deleteBtn.innerHTML = '×';
+            deleteBtn.title = 'Delete this submission';
+            deleteBtn.onclick = () => this.deleteSubmission(submission.id, submission.name);
+            headerContainer.appendChild(deleteBtn);
 
             column.appendChild(headerContainer);
 
@@ -1077,29 +1075,22 @@ class EconomicDashboard {
     }
 
     /**
-     * Delete a submission
+     * Delete a submission (public - anyone can delete)
      */
     async deleteSubmission(id, name) {
-        if (!this.isAdmin) {
-            alert('Admin access required');
-            return;
-        }
-
         if (!confirm(`Delete submission by ${name}?`)) {
             return;
         }
 
         try {
             const response = await fetch(`${CONFIG.SERVER_URL}/api/estimates/${id}`, {
-                method: 'DELETE',
-                headers: {
-                    'Authorization': `Bearer ${this.adminToken}`
-                }
+                method: 'DELETE'
             });
 
             const result = await response.json();
 
             if (result.success) {
+                alert('Estimate deleted successfully');
                 this.loadEstimates();
             } else {
                 alert('Error: ' + result.message);

@@ -626,8 +626,8 @@ app.get('/api/estimates', async (req, res) => {
     }
 });
 
-// Delete estimate endpoint (admin only)
-app.delete('/api/estimates/:id', verifyAdmin, async (req, res) => {
+// Delete estimate endpoint (public - anyone can delete)
+app.delete('/api/estimates/:id', async (req, res) => {
     try {
         const { id } = req.params;
 
