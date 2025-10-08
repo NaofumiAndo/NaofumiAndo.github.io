@@ -1,9 +1,9 @@
 {
   "lastUpdated": "2025-10-02T00:18:59.515Z",
   "indicator": "treasury",
-  "name": "Long-Duration Treasury ETF (TLT)",
-  "source": "yahoo",
-  "sourceId": "TLT",
+  "name": "Nasdaq Compoundr U.S. Treasury 10-Year Note Total Return Index",
+  "source": "fred",
+  "sourceId": "NASDAQNCPXT",
   "dates": [
     "2005-10-03",
     "2005-10-04",
