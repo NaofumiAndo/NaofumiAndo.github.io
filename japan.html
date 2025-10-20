@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Japan Economic Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Plotly.js for interactive charts -->
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+</head>
+<body>
+    <!-- Left Sidebar -->
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h3>Markets</h3>
+        </div>
+        <ul class="sidebar-menu">
+            <li><a href="index.html">🇺🇸 USA</a></li>
+            <li><a href="japan.html" class="active">🇯🇵 Japan</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <header>
+            <h1>🇯🇵 Japan Economic Indicators Dashboard</h1>
+            <p style="text-align: right; margin-top: -30px;"><a href="admin.html" style="color: #1976D2; text-decoration: none;">Admin →</a></p>
+        </header>
+
+        <main>
+            <!-- Nikkei 225 -->
+            <section class="chart-section">
+                <div class="chart-header">
+                    <h2>Nikkei 225 Index</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="nikkei-range">Time Range:</label>
+                            <select id="nikkei-range" class="indicator-range" data-indicator="nikkei">
+                                <option value="1y">1 Year</option>
+                                <option value="5y" selected>5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div id="nikkei-chart" class="chart-container">
+                    <div class="placeholder-chart">
+                        <div class="placeholder-icon">📊</div>
+                        <p>Nikkei 225 Index</p>
+                        <small>Data source will be configured</small>
+                    </div>
+                </div>
+                <div id="nikkei-loading" class="loading" style="display: none;">Loading data...</div>
+                <div id="nikkei-error" class="error" style="display: none;"></div>
+                <div class="data-source">Source: To be configured</div>
+            </section>
+
+            <!-- TOPIX -->
+            <section class="chart-section">
+                <div class="chart-header">
+                    <h2>TOPIX (Tokyo Stock Price Index)</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="topix-range">Time Range:</label>
+                            <select id="topix-range" class="indicator-range" data-indicator="topix">
+                                <option value="1y">1 Year</option>
+                                <option value="5y" selected>5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div id="topix-chart" class="chart-container">
+                    <div class="placeholder-chart">
+                        <div class="placeholder-icon">📊</div>
+                        <p>TOPIX Index</p>
+                        <small>Data source will be configured</small>
+                    </div>
+                </div>
+                <div id="topix-loading" class="loading" style="display: none;">Loading data...</div>
+                <div id="topix-error" class="error" style="display: none;"></div>
+                <div class="data-source">Source: To be configured</div>
+            </section>
+
+            <!-- USD/JPY -->
+            <section class="chart-section">
+                <div class="chart-header">
+                    <h2>USD/JPY Exchange Rate</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="usdjpy-range">Time Range:</label>
+                            <select id="usdjpy-range" class="indicator-range" data-indicator="usdjpy">
+                                <option value="1y">1 Year</option>
+                                <option value="5y" selected>5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div id="usdjpy-chart" class="chart-container">
+                    <div class="placeholder-chart">
+                        <div class="placeholder-icon">💱</div>
+                        <p>USD/JPY Exchange Rate</p>
+                        <small>Data source will be configured</small>
+                    </div>
+                </div>
+                <div id="usdjpy-loading" class="loading" style="display: none;">Loading data...</div>
+                <div id="usdjpy-error" class="error" style="display: none;"></div>
+                <div class="data-source">Source: To be configured</div>
+            </section>
+
+            <!-- Japanese Government Bonds (JGB) 10-Year Yield -->
+            <section class="chart-section">
+                <div class="chart-header">
+                    <h2>Japanese Government Bond 10-Year Yield</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="jgb-range">Time Range:</label>
+                            <select id="jgb-range" class="indicator-range" data-indicator="jgb">
+                                <option value="1y">1 Year</option>
+                                <option value="5y" selected>5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div id="jgb-chart" class="chart-container">
+                    <div class="placeholder-chart">
+                        <div class="placeholder-icon">📈</div>
+                        <p>JGB 10-Year Yield</p>
+                        <small>Data source will be configured</small>
+                    </div>
+                </div>
+                <div id="jgb-loading" class="loading" style="display: none;">Loading data...</div>
+                <div id="jgb-error" class="error" style="display: none;"></div>
+                <div class="data-source">Source: To be configured</div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Data sources will be configured</p>
+        </footer>
+    </div>
+
+    <!-- Load configuration and app scripts -->
+    <script src="config.js"></script>
+    <script src="config.local.js" onerror="console.log('No config.local.js found, using config.js defaults')"></script>
+    <script src="japan.js"></script>
+</body>
+</html>

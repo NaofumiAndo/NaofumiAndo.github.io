@@ -259,6 +259,13 @@ class EconomicDashboard {
         const filteredDates = filteredIndices.map(i => this.allData[indicator].dates[i]);
         const filteredValues = filteredIndices.map(i => this.allData[indicator].values[i]);
 
+        // Log date range for debugging
+        if (filteredDates.length > 0) {
+            console.log(`${indicator} - Time range: ${timeRange}`);
+            console.log(`${indicator} - Showing ${filteredDates.length} data points`);
+            console.log(`${indicator} - Date range: ${filteredDates[0]} to ${filteredDates[filteredDates.length - 1]}`);
+        }
+
         // Plot the filtered data
         this.plotChart(indicator, filteredDates, filteredValues);
     }
@@ -291,12 +298,15 @@ class EconomicDashboard {
                 title: 'Date',
                 showgrid: true,
                 gridcolor: '#e0e0e0',
-                rangeslider: { visible: false }
+                rangeslider: { visible: false },
+                type: 'date',
+                autorange: true
             },
             yaxis: {
                 title: 'Value',
                 showgrid: true,
-                gridcolor: '#e0e0e0'
+                gridcolor: '#e0e0e0',
+                autorange: true
             },
             hovermode: 'x unified',
             plot_bgcolor: '#fafafa',
