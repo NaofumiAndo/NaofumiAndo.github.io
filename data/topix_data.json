@@ -1,0 +1,13 @@
+{
+  "lastUpdated": "2025-10-21T21:34:55.785Z",
+  "indicator": "topix",
+  "name": "TOPIX Index",
+  "source": "yahoo",
+  "sourceId": "^TPX",
+  "dates": [
+    "2015-10-20"
+  ],
+  "values": [
+    105.18000030517578
+  ]
+}

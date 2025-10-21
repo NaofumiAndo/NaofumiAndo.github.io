@@ -1,0 +1,46 @@
+name: Update Market Data
+
+on:
+  schedule:
+    # Run every day at 6 PM EST (11 PM UTC)
+    - cron: '0 23 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch and update data
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: node scripts/update-data.js
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet data/*.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/*.json
+          git commit -m "🤖 Auto-update market data [$(date +'%Y-%m-%d %H:%M UTC')]"
+          git push
