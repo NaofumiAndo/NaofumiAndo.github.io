@@ -161,31 +161,6 @@
             <div id="growth-error" class="error" style="display: none;"></div>
         </section>
 
-        <!-- Momentum Comparison Chart -->
-        <section class="momentum-section">
-            <div class="chart-header">
-                <h2>Momentum Comparison (Normalized to 100 at Last Month End)</h2>
-                <div class="chart-controls">
-                    <span id="baseline-date" class="baseline-info"></span>
-                    <div class="control-group">
-                        <label for="momentum-baseline">Baseline Period:</label>
-                        <select id="momentum-baseline">
-                            <option value="1m" selected>1 Month</option>
-                            <option value="6m">6 Months</option>
-                            <option value="1y">1 Year</option>
-                            <option value="2y">2 Years</option>
-                            <option value="3y">3 Years</option>
-                            <option value="4y">4 Years</option>
-                            <option value="5y">5 Years</option>
-                        </select>
-                    </div>
-                </div>
-            </div>
-            <div id="momentum-chart" class="chart-container-large"></div>
-            <div id="momentum-loading" class="loading">Loading momentum data...</div>
-            <div id="momentum-error" class="error" style="display: none;"></div>
-        </section>
-
         <main>
             <div class="charts-grid">
             <!-- S&P 500 -->
@@ -207,7 +182,32 @@
                 <div id="sp500-chart" class="chart-container-small"></div>
                 <div id="sp500-loading" class="loading">Loading data...</div>
                 <div id="sp500-error" class="error" style="display: none;"></div>
-                <div class="data-source">Source: FRED | Series: SP500</div>
+                <div class="data-source">Source: Yahoo Finance | Symbol: ^GSPC</div>
+            </section>
+
+            <!-- Momentum Comparison Chart -->
+            <section class="chart-section-compact momentum-compact">
+                <div class="chart-header">
+                    <h2>Momentum Comparison (Normalized to 100)</h2>
+                    <div class="chart-controls">
+                        <span id="baseline-date" class="baseline-info"></span>
+                        <div class="control-group">
+                            <label for="momentum-baseline">Baseline:</label>
+                            <select id="momentum-baseline">
+                                <option value="1m" selected>1M</option>
+                                <option value="6m">6M</option>
+                                <option value="1y">1Y</option>
+                                <option value="2y">2Y</option>
+                                <option value="3y">3Y</option>
+                                <option value="4y">4Y</option>
+                                <option value="5y">5Y</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div id="momentum-chart" class="chart-container-small"></div>
+                <div id="momentum-loading" class="loading">Loading momentum data...</div>
+                <div id="momentum-error" class="error" style="display: none;"></div>
             </section>
 
             <!-- Treasury 10-Year Note -->
