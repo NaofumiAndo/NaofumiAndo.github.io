@@ -54,7 +54,7 @@ if (!ADMIN_PASSWORD) {
 
 // Data source configuration
 const DATA_SOURCES = {
-    sp500: { type: 'fred', seriesId: 'SP500', name: 'S&P 500 Index' },
+    sp500: { type: 'yahoo', symbol: '^GSPC', name: 'S&P 500 Index' },
     treasury: { type: 'yahoo', symbol: 'IEF', name: 'iShares 7-10 Year Treasury Bond ETF' },
     oil: { type: 'fred', seriesId: 'DCOILWTICO', name: 'Crude Oil Prices: WTI' },
     gold: { type: 'yahoo', symbol: 'GC=F', name: 'Gold Futures' },
