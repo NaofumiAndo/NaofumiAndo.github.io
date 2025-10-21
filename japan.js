@@ -260,17 +260,13 @@ class JapanDashboard {
             hoverinfo: 'all'
         };
 
-        // Get the most recent date and format it
-        const lastDate = new Date(dates[dates.length - 1]);
-        const monthYear = lastDate.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
-
         const layout = {
             title: {
                 text: '',
                 font: { size: 18 }
             },
             xaxis: {
-                title: `Date (Latest: ${monthYear})`,
+                title: 'Date',
                 showgrid: true,
                 gridcolor: '#e0e0e0',
                 rangeslider: { visible: false },
