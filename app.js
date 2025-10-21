@@ -325,7 +325,7 @@ class EconomicDashboard {
         const firstDate = new Date(dates[0]);
         const lastDate = new Date(dates[dates.length - 1]);
         const dateRange = lastDate - firstDate;
-        const padding = dateRange * 0.02; // 2% padding on each side
+        const padding = dateRange * 0.05; // 5% padding on each side
 
         const layout = {
             title: {
