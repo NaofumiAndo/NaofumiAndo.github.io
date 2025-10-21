@@ -103,9 +103,13 @@ class AdminDashboard {
         const indicators = ['sp500', 'treasury', 'oil', 'gold', 'dollar'];
         let successCount = 0;
         let failCount = 0;
+        const errors = [];
 
-        for (const indicator of indicators) {
+        for (let i = 0; i < indicators.length; i++) {
+            const indicator = indicators[i];
             try {
+                statusEl.textContent = `Refreshing ${indicator}... (${i + 1}/${indicators.length})`;
+
                 const response = await fetch(`${CONFIG.SERVER_URL}/api/data/${indicator}/refresh`, {
                     method: 'POST'
                 });
@@ -113,13 +117,21 @@ class AdminDashboard {
 
                 if (result.success) {
                     successCount++;
-                    statusEl.textContent = `Refreshed ${successCount}/${indicators.length} indicators...`;
+                    statusEl.textContent = `✓ Refreshed ${indicator} (${successCount}/${indicators.length})`;
                 } else {
                     failCount++;
+                    errors.push(`${indicator}: ${result.message}`);
                 }
             } catch (error) {
                 console.error(`Error refreshing ${indicator}:`, error);
                 failCount++;
+                errors.push(`${indicator}: ${error.message}`);
+            }
+
+            // Add 3 second delay between requests to avoid rate limiting
+            if (i < indicators.length - 1) {
+                statusEl.textContent = `Waiting 3 seconds before next refresh... (${successCount}/${indicators.length} done)`;
+                await new Promise(resolve => setTimeout(resolve, 3000));
             }
         }
 
@@ -132,7 +144,11 @@ class AdminDashboard {
         } else {
             statusEl.style.background = '#FFF3E0';
             statusEl.style.color = '#F57C00';
-            statusEl.textContent = `Refreshed ${successCount} indicators. ${failCount} failed.`;
+            let errorMsg = `Refreshed ${successCount} indicators. ${failCount} failed.`;
+            if (errors.length > 0) {
+                errorMsg += '\n' + errors.join('\n');
+            }
+            statusEl.textContent = errorMsg;
         }
     }
 

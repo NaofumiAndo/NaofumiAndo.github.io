@@ -20,6 +20,10 @@ const DATA_FILES = {
     oil: path.join(DATA_DIR, 'oil_data.json'),
     gold: path.join(DATA_DIR, 'gold_data.json'),
     dollar: path.join(DATA_DIR, 'dollar_data.json'),
+    nikkei: path.join(DATA_DIR, 'nikkei_data.json'),
+    topix: path.join(DATA_DIR, 'topix_data.json'),
+    usdjpy: path.join(DATA_DIR, 'usdjpy_data.json'),
+    jgb: path.join(DATA_DIR, 'jgb_data.json'),
     estimates: path.join(DATA_DIR, 'estimates.json'),
     news: path.join(DATA_DIR, 'sp500_news.json')
 };
@@ -51,10 +55,14 @@ if (!ADMIN_PASSWORD) {
 // Data source configuration
 const DATA_SOURCES = {
     sp500: { type: 'yahoo', symbol: '^GSPC', name: 'S&P 500 Index' },
-    treasury: { type: 'fred', seriesId: 'NASDAQNCPXT', name: 'Nasdaq Compoundr U.S. Treasury 10-Year Note Total Return Index' },
+    treasury: { type: 'yahoo', symbol: 'IEF', name: 'iShares 7-10 Year Treasury Bond ETF' },
     oil: { type: 'fred', seriesId: 'DCOILWTICO', name: 'Crude Oil Prices: WTI' },
     gold: { type: 'yahoo', symbol: 'GC=F', name: 'Gold Futures' },
-    dollar: { type: 'fred', seriesId: 'DTWEXAFEGS', name: 'Advanced Foreign Economies Dollar Index' }
+    dollar: { type: 'fred', seriesId: 'DTWEXAFEGS', name: 'Advanced Foreign Economies Dollar Index' },
+    nikkei: { type: 'yahoo', symbol: '^N225', name: 'Nikkei 225 Index' },
+    topix: { type: 'yahoo', symbol: '^TPX', name: 'TOPIX Index' },
+    usdjpy: { type: 'yahoo', symbol: 'JPY=X', name: 'USD/JPY Exchange Rate' },
+    jgb: { type: 'fred', seriesId: 'IRLTLT01JPM156N', name: 'Japanese Government Bond 10-Year Yield' }
 };
 
 // Ensure data directory exists
@@ -145,23 +153,44 @@ async function fetchFromFRED(seriesId, startDate = '1950-01-01') {
 
 // Helper function to fetch from Yahoo Finance
 async function fetchFromYahoo(symbol) {
-    const endDate = new Date();
-    const startDate = new Date();
-    startDate.setFullYear(startDate.getFullYear() - 20); // Get 20 years of data
+    try {
+        const endDate = new Date();
+        const startDate = new Date();
+        startDate.setFullYear(startDate.getFullYear() - 20); // Get 20 years of data
 
-    const result = await yahooFinance.historical(symbol, {
-        period1: startDate,
-        period2: endDate,
-        interval: '1d'
-    });
+        const result = await yahooFinance.historical(symbol, {
+            period1: startDate,
+            period2: endDate,
+            interval: '1d'
+        });
 
-    // Sort by date
-    result.sort((a, b) => a.date - b.date);
+        if (!result || result.length === 0) {
+            throw new Error(`No data returned from Yahoo Finance for ${symbol}`);
+        }
 
-    return {
-        dates: result.map(item => item.date.toISOString().split('T')[0]),
-        values: result.map(item => item.close)
-    };
+        // Sort by date
+        result.sort((a, b) => a.date - b.date);
+
+        return {
+            dates: result.map(item => item.date.toISOString().split('T')[0]),
+            values: result.map(item => item.close)
+        };
+    } catch (error) {
+        // Check for JSON parsing errors (usually indicates rate limiting)
+        if (error.message && error.message.includes('Unexpected token')) {
+            throw new Error('Yahoo Finance rate limit exceeded. Please wait 5-10 minutes and try again. Try refreshing indicators one at a time instead of all at once.');
+        }
+        // Check for rate limiting
+        if (error.message && (error.message.includes('Too Many Requests') || error.message.includes('429'))) {
+            throw new Error('Yahoo Finance rate limit exceeded. Please wait 5-10 minutes and try again.');
+        }
+        // Check for other common errors
+        if (error.message && error.message.includes('Invalid symbol')) {
+            throw new Error(`Invalid symbol: ${symbol}`);
+        }
+        // Re-throw with more context
+        throw new Error(`Yahoo Finance error for ${symbol}: ${error.message}`);
+    }
 }
 
 // Momentum comparison endpoint (MUST be before generic :indicator route)

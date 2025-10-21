@@ -43,9 +43,6 @@
                 </div>
             </div>
 
-            <!-- Leader display -->
-            <div id="estimate-leader" class="estimate-leader"></div>
-
             <!-- Previous Month Growth Rates Summary -->
             <div class="growth-summary-wrapper">
                 <div class="growth-summary-fixed">
@@ -56,7 +53,7 @@
                             <span id="prev-growth-sp500" class="growth-value">--</span>
                         </div>
                         <div class="growth-item">
-                            <span class="indicator-label">Treasury 10Y:</span>
+                            <span class="indicator-label">Treasury 7-10Y:</span>
                             <span id="prev-growth-treasury" class="growth-value">--</span>
                         </div>
                         <div class="growth-item">
@@ -156,7 +153,21 @@
                 <strong>Estimate criteria:</strong> Up = &gt;+1%, Flat = ±1%, Down = &lt;-1%. Correct estimates are highlighted in yellow.
             </div>
 
-            <div id="growth-chart" class="chart-container-large"></div>
+            <!-- Growth chart and table container -->
+            <div class="growth-content-wrapper">
+                <div id="growth-chart" class="chart-container-large"></div>
+                <div id="growth-table-container" class="growth-table-container">
+                    <table id="growth-table" class="growth-table">
+                        <thead>
+                            <tr id="growth-table-header">
+                                <th>Indicator</th>
+                            </tr>
+                        </thead>
+                        <tbody id="growth-table-body">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
             <div id="growth-loading" class="loading">Loading growth data...</div>
             <div id="growth-error" class="error" style="display: none;"></div>
         </section>
@@ -171,8 +182,8 @@
                         <div class="control-group">
                             <label for="sp500-range">Time Range:</label>
                             <select id="sp500-range" class="indicator-range" data-indicator="sp500">
-                                <option value="1y">1 Year</option>
-                                <option value="5y" selected>5 Years</option>
+                                <option value="1y" selected>1 Year</option>
+                                <option value="5y">5 Years</option>
                                 <option value="10y">10 Years</option>
                                 <option value="max">All Time</option>
                             </select>
@@ -213,13 +224,13 @@
             <!-- Treasury 10-Year Note -->
             <section class="chart-section-compact">
                 <div class="chart-header">
-                    <h2>Nasdaq Compoundr U.S. Treasury 10-Year Note Total Return Index</h2>
+                    <h2>iShares 7-10 Year Treasury Bond ETF</h2>
                     <div class="chart-controls">
                         <div class="control-group">
                             <label for="treasury-range">Time Range:</label>
                             <select id="treasury-range" class="indicator-range" data-indicator="treasury">
-                                <option value="1y">1 Year</option>
-                                <option value="5y" selected>5 Years</option>
+                                <option value="1y" selected>1 Year</option>
+                                <option value="5y">5 Years</option>
                                 <option value="10y">10 Years</option>
                                 <option value="max">All Time</option>
                             </select>
@@ -229,7 +240,7 @@
                 <div id="treasury-chart" class="chart-container-small"></div>
                 <div id="treasury-loading" class="loading">Loading data...</div>
                 <div id="treasury-error" class="error" style="display: none;"></div>
-                <div class="data-source">Source: FRED | Series: NASDAQNCPXT</div>
+                <div class="data-source">Source: Yahoo Finance | Symbol: IEF</div>
             </section>
 
             <!-- Oil -->
@@ -240,8 +251,8 @@
                         <div class="control-group">
                             <label for="oil-range">Time Range:</label>
                             <select id="oil-range" class="indicator-range" data-indicator="oil">
-                                <option value="1y">1 Year</option>
-                                <option value="5y" selected>5 Years</option>
+                                <option value="1y" selected>1 Year</option>
+                                <option value="5y">5 Years</option>
                                 <option value="10y">10 Years</option>
                                 <option value="max">All Time</option>
                             </select>
@@ -262,8 +273,8 @@
                         <div class="control-group">
                             <label for="gold-range">Time Range:</label>
                             <select id="gold-range" class="indicator-range" data-indicator="gold">
-                                <option value="1y">1 Year</option>
-                                <option value="5y" selected>5 Years</option>
+                                <option value="1y" selected>1 Year</option>
+                                <option value="5y">5 Years</option>
                                 <option value="10y">10 Years</option>
                                 <option value="max">All Time</option>
                             </select>
@@ -284,8 +295,8 @@
                         <div class="control-group">
                             <label for="dollar-range">Time Range:</label>
                             <select id="dollar-range" class="indicator-range" data-indicator="dollar">
-                                <option value="1y">1 Year</option>
-                                <option value="5y" selected>5 Years</option>
+                                <option value="1y" selected>1 Year</option>
+                                <option value="5y">5 Years</option>
                                 <option value="10y">10 Years</option>
                                 <option value="max">All Time</option>
                             </select>

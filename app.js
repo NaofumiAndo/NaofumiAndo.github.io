@@ -15,6 +15,13 @@ class EconomicDashboard {
             gold: '#F9A825',
             dollar: '#6A1B9A'
         };
+        this.compactNames = {
+            sp500: 'S&P 500',
+            treasury: 'Treasury 7-10Y',
+            oil: 'Oil (WTI)',
+            gold: 'Gold',
+            dollar: 'Dollar Index'
+        };
         this.init();
     }
 
@@ -274,7 +281,8 @@ class EconomicDashboard {
      * Plot chart using Plotly
      */
     plotChart(indicator, dates, values) {
-        const trace = {
+        // Main line trace
+        const lineTrace = {
             x: dates,
             y: values,
             type: 'scatter',
@@ -289,13 +297,41 @@ class EconomicDashboard {
                           '<extra></extra>'
         };
 
+        // Most recent data point marker
+        const lastPointTrace = {
+            x: [dates[dates.length - 1]],
+            y: [values[values.length - 1]],
+            type: 'scatter',
+            mode: 'markers',
+            name: 'Latest',
+            marker: {
+                color: this.chartColors[indicator] || '#666',
+                size: 10,
+                symbol: 'circle',
+                line: {
+                    color: 'white',
+                    width: 2
+                }
+            },
+            hovertemplate: '<b>Latest</b><br>' +
+                          '<b>Date:</b> %{x}<br>' +
+                          '<b>Value:</b> %{y:.2f}<br>' +
+                          '<extra></extra>',
+            showlegend: false,
+            hoverinfo: 'all'
+        };
+
+        // Get the most recent date and format it
+        const lastDate = new Date(dates[dates.length - 1]);
+        const monthYear = lastDate.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+
         const layout = {
             title: {
                 text: '',
                 font: { size: 18 }
             },
             xaxis: {
-                title: 'Date',
+                title: `Date (Latest: ${monthYear})`,
                 showgrid: true,
                 gridcolor: '#e0e0e0',
                 rangeslider: { visible: false },
@@ -308,7 +344,7 @@ class EconomicDashboard {
                 gridcolor: '#e0e0e0',
                 autorange: true
             },
-            hovermode: 'x unified',
+            hovermode: 'closest',
             plot_bgcolor: '#fafafa',
             paper_bgcolor: 'white',
             margin: { t: 30, r: 30, b: 60, l: 60 },
@@ -329,7 +365,7 @@ class EconomicDashboard {
             }
         };
 
-        Plotly.newPlot(`${indicator}-chart`, [trace], layout, config);
+        Plotly.newPlot(`${indicator}-chart`, [lineTrace, lastPointTrace], layout, config);
     }
 
     /**
@@ -411,6 +447,7 @@ class EconomicDashboard {
         if (!this.momentumData) return;
 
         const traces = [];
+        let latestDate = null;
 
         // Plot all data from baseline onwards
         for (const indicator of this.indicators) {
@@ -418,12 +455,18 @@ class EconomicDashboard {
                 const dates = this.momentumData[indicator].dates;
                 const values = this.momentumData[indicator].values;
 
+                // Track latest date
+                if (!latestDate || dates[dates.length - 1] > latestDate) {
+                    latestDate = dates[dates.length - 1];
+                }
+
+                // Line trace
                 traces.push({
                     x: dates,
                     y: values,
                     type: 'scatter',
                     mode: 'lines',
-                    name: this.momentumData[indicator].name,
+                    name: this.compactNames[indicator] || this.momentumData[indicator].name,
                     line: {
                         color: this.chartColors[indicator],
                         width: 2.5
@@ -431,10 +474,38 @@ class EconomicDashboard {
                     hovertemplate: '<b>%{fullData.name}</b><br>' +
                                   'Date: %{x}<br>' +
                                   'Value: %{y:.2f}<br>' +
-                                  '<extra></extra>'
+                                  '<extra></extra>',
+                    legendgroup: indicator
+                });
+
+                // Most recent point marker
+                traces.push({
+                    x: [dates[dates.length - 1]],
+                    y: [values[values.length - 1]],
+                    type: 'scatter',
+                    mode: 'markers',
+                    name: this.compactNames[indicator] || this.momentumData[indicator].name,
+                    marker: {
+                        color: this.chartColors[indicator],
+                        size: 8,
+                        symbol: 'circle',
+                        line: {
+                            color: 'white',
+                            width: 2
+                        }
+                    },
+                    hovertemplate: '<b>%{fullData.name} Latest:</b> %{y:.2f}<br>' +
+                                  'Date: %{x}<br>' +
+                                  '<extra></extra>',
+                    showlegend: false,
+                    legendgroup: indicator
                 });
             }
         }
+
+        // Format latest date
+        const lastDate = new Date(latestDate);
+        const monthYear = lastDate.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
 
         const layout = {
                     title: {
@@ -442,7 +513,7 @@ class EconomicDashboard {
                         font: { size: 18 }
                     },
                     xaxis: {
-                        title: 'Date',
+                        title: `Date (Latest: ${monthYear})`,
                         showgrid: true,
                         gridcolor: '#e0e0e0'
                     },
@@ -454,7 +525,7 @@ class EconomicDashboard {
                         zerolinecolor: '#999',
                         zerolinewidth: 1
                     },
-                    hovermode: 'x unified',
+                    hovermode: 'closest',
                     plot_bgcolor: '#fafafa',
                     paper_bgcolor: 'white',
                     margin: { t: 30, r: 30, b: 60, l: 70 },
@@ -538,6 +609,9 @@ class EconomicDashboard {
 
                 // Plot with current filter
                 this.filterAndPlotGrowth();
+
+                // Update growth table
+                this.updateGrowthTable();
 
                 // Hide loading, show chart
                 loadingEl.style.display = 'none';
@@ -695,6 +769,7 @@ class EconomicDashboard {
 
         const monthsFilter = document.getElementById('growth-months').value;
         const traces = [];
+        let latestMonth = null;
 
         // Filter data based on selected months
         for (const indicator of this.indicators) {
@@ -710,24 +785,54 @@ class EconomicDashboard {
                     values = values.slice(startIndex);
                 }
 
+                // Track latest month
+                if (!latestMonth || dates[dates.length - 1] > latestMonth) {
+                    latestMonth = dates[dates.length - 1];
+                }
+
+                // Line trace with small markers
                 traces.push({
                     x: dates,
                     y: values,
                     type: 'scatter',
                     mode: 'lines+markers',
-                    name: this.growthData[indicator].name,
+                    name: this.compactNames[indicator] || this.growthData[indicator].name,
                     line: {
                         color: this.chartColors[indicator],
                         width: 2
                     },
                     marker: {
                         color: this.chartColors[indicator],
-                        size: 6
+                        size: 4
                     },
                     hovertemplate: '<b>%{fullData.name}</b><br>' +
                                   'Month: %{x}<br>' +
                                   'Growth: %{y:.2f}%<br>' +
-                                  '<extra></extra>'
+                                  '<extra></extra>',
+                    legendgroup: indicator
+                });
+
+                // Highlighted most recent point
+                traces.push({
+                    x: [dates[dates.length - 1]],
+                    y: [values[values.length - 1]],
+                    type: 'scatter',
+                    mode: 'markers',
+                    name: this.compactNames[indicator] || this.growthData[indicator].name,
+                    marker: {
+                        color: this.chartColors[indicator],
+                        size: 10,
+                        symbol: 'circle',
+                        line: {
+                            color: 'white',
+                            width: 2
+                        }
+                    },
+                    hovertemplate: '<b>%{fullData.name} Latest:</b> %{y:.2f}%<br>' +
+                                  'Month: %{x}<br>' +
+                                  '<extra></extra>',
+                    showlegend: false,
+                    legendgroup: indicator
                 });
             }
         }
@@ -738,7 +843,7 @@ class EconomicDashboard {
                         font: { size: 18 }
                     },
                     xaxis: {
-                        title: 'Month',
+                        title: `Month (Latest: ${latestMonth})`,
                         showgrid: true,
                         gridcolor: '#e0e0e0'
                     },
@@ -750,7 +855,7 @@ class EconomicDashboard {
                         zerolinecolor: '#999',
                         zerolinewidth: 2
                     },
-                    hovermode: 'x unified',
+                    hovermode: 'closest',
                     plot_bgcolor: '#fafafa',
                     paper_bgcolor: 'white',
                     margin: { t: 30, r: 30, b: 60, l: 70 },
@@ -794,6 +899,71 @@ class EconomicDashboard {
         };
 
         Plotly.newPlot('growth-chart', traces, layout, config);
+    }
+
+    /**
+     * Update growth table with last 6 months
+     */
+    updateGrowthTable() {
+        if (!this.growthData) return;
+
+        const tableHeader = document.getElementById('growth-table-header');
+        const tableBody = document.getElementById('growth-table-body');
+
+        // Clear existing content
+        tableHeader.innerHTML = '<th>Indicator</th>';
+        tableBody.innerHTML = '';
+
+        // Get the last 6 months of data from the first indicator
+        const firstIndicator = this.indicators.find(ind => this.growthData[ind]);
+        if (!firstIndicator) return;
+
+        const allDates = this.growthData[firstIndicator].dates;
+        const last6Months = allDates.slice(-6);
+
+        // Add month headers
+        last6Months.forEach(dateStr => {
+            const date = new Date(dateStr);
+            const monthName = date.toLocaleDateString('en-US', { month: 'short', year: '2-digit' });
+            const th = document.createElement('th');
+            th.textContent = monthName;
+            tableHeader.appendChild(th);
+        });
+
+        // Add rows for each indicator
+        this.indicators.forEach(indicator => {
+            if (this.growthData[indicator]) {
+                const row = document.createElement('tr');
+
+                // Add indicator name cell
+                const nameCell = document.createElement('td');
+                nameCell.textContent = this.compactNames[indicator] || indicator;
+                nameCell.className = 'indicator-name-cell';
+                row.appendChild(nameCell);
+
+                // Get last 6 months of growth data
+                const dates = this.growthData[indicator].dates;
+                const values = this.growthData[indicator].values;
+                const last6Values = values.slice(-6);
+
+                // Add value cells
+                last6Values.forEach(value => {
+                    const cell = document.createElement('td');
+                    cell.textContent = value.toFixed(2) + '%';
+
+                    // Add color class based on positive/negative
+                    if (value > 0) {
+                        cell.classList.add('positive');
+                    } else if (value < 0) {
+                        cell.classList.add('negative');
+                    }
+
+                    row.appendChild(cell);
+                });
+
+                tableBody.appendChild(row);
+            }
+        });
     }
 
     /**
