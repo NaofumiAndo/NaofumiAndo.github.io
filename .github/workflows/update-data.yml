@@ -46,4 +46,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add data/*.json
           git commit -m "🤖 Auto-update market data [$(date +'%Y-%m-%d %H:%M UTC')]"
-          git push
+          git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
