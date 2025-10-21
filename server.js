@@ -60,7 +60,7 @@ const DATA_SOURCES = {
     gold: { type: 'yahoo', symbol: 'GC=F', name: 'Gold Futures' },
     dollar: { type: 'fred', seriesId: 'DTWEXAFEGS', name: 'Advanced Foreign Economies Dollar Index' },
     nikkei: { type: 'yahoo', symbol: '^N225', name: 'Nikkei 225 Index' },
-    topix: { type: 'yahoo', symbol: '^TPX', name: 'TOPIX Index' },
+    topix: { type: 'yahoo', symbol: '1306.T', name: 'TOPIX ETF' },
     usdjpy: { type: 'yahoo', symbol: 'JPY=X', name: 'USD/JPY Exchange Rate' },
     jgb: { type: 'fred', seriesId: 'IRLTLT01JPM156N', name: 'Japanese Government Bond 10-Year Yield' }
 };
