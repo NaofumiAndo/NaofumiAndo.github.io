@@ -187,8 +187,9 @@
         </section>
 
         <main>
+            <div class="charts-grid">
             <!-- S&P 500 -->
-            <section class="chart-section">
+            <section class="chart-section-compact">
                 <div class="chart-header">
                     <h2>S&P 500 Index</h2>
                     <div class="chart-controls">
@@ -203,32 +204,14 @@
                         </div>
                     </div>
                 </div>
-                <div id="sp500-chart" class="chart-container"></div>
+                <div id="sp500-chart" class="chart-container-small"></div>
                 <div id="sp500-loading" class="loading">Loading data...</div>
                 <div id="sp500-error" class="error" style="display: none;"></div>
                 <div class="data-source">Source: FRED | Series: SP500</div>
-
-                <!-- News Section -->
-                <div class="news-section">
-                    <div class="news-header">
-                        <h3>Market Outlook News</h3>
-                    </div>
-                    <div id="news-container" class="news-container">
-                        <div id="news-loading" class="news-loading" style="display: none;">Collecting news...</div>
-                        <div id="news-bullish" class="news-category">
-                            <h4>📈 Bullish Outlook</h4>
-                            <div id="bullish-news-list" class="news-list"></div>
-                        </div>
-                        <div id="news-bearish" class="news-category">
-                            <h4>📉 Bearish Outlook</h4>
-                            <div id="bearish-news-list" class="news-list"></div>
-                        </div>
-                    </div>
-                </div>
             </section>
 
             <!-- Treasury 10-Year Note -->
-            <section class="chart-section">
+            <section class="chart-section-compact">
                 <div class="chart-header">
                     <h2>Nasdaq Compoundr U.S. Treasury 10-Year Note Total Return Index</h2>
                     <div class="chart-controls">
@@ -243,14 +226,14 @@
                         </div>
                     </div>
                 </div>
-                <div id="treasury-chart" class="chart-container"></div>
+                <div id="treasury-chart" class="chart-container-small"></div>
                 <div id="treasury-loading" class="loading">Loading data...</div>
                 <div id="treasury-error" class="error" style="display: none;"></div>
                 <div class="data-source">Source: FRED | Series: NASDAQNCPXT</div>
             </section>
 
             <!-- Oil -->
-            <section class="chart-section">
+            <section class="chart-section-compact">
                 <div class="chart-header">
                     <h2>Crude Oil Prices: WTI</h2>
                     <div class="chart-controls">
@@ -265,14 +248,14 @@
                         </div>
                     </div>
                 </div>
-                <div id="oil-chart" class="chart-container"></div>
+                <div id="oil-chart" class="chart-container-small"></div>
                 <div id="oil-loading" class="loading">Loading data...</div>
                 <div id="oil-error" class="error" style="display: none;"></div>
                 <div class="data-source">Source: FRED | Series: DCOILWTICO</div>
             </section>
 
             <!-- Gold -->
-            <section class="chart-section">
+            <section class="chart-section-compact">
                 <div class="chart-header">
                     <h2>Gold Futures</h2>
                     <div class="chart-controls">
@@ -287,14 +270,14 @@
                         </div>
                     </div>
                 </div>
-                <div id="gold-chart" class="chart-container"></div>
+                <div id="gold-chart" class="chart-container-small"></div>
                 <div id="gold-loading" class="loading">Loading data...</div>
                 <div id="gold-error" class="error" style="display: none;"></div>
                 <div class="data-source">Source: Yahoo Finance | Symbol: GC=F</div>
             </section>
 
             <!-- Dollar Index -->
-            <section class="chart-section">
+            <section class="chart-section-compact">
                 <div class="chart-header">
                     <h2>Advanced Foreign Economies Dollar Index</h2>
                     <div class="chart-controls">
@@ -309,10 +292,29 @@
                         </div>
                     </div>
                 </div>
-                <div id="dollar-chart" class="chart-container"></div>
+                <div id="dollar-chart" class="chart-container-small"></div>
                 <div id="dollar-loading" class="loading">Loading data...</div>
                 <div id="dollar-error" class="error" style="display: none;"></div>
                 <div class="data-source">Source: FRED | Series: DTWEXAFEGS</div>
+            </section>
+            </div>
+
+            <!-- News Section -->
+            <section class="news-section-full">
+                <div class="news-header">
+                    <h3>Market Outlook News</h3>
+                </div>
+                <div id="news-container" class="news-container">
+                    <div id="news-loading" class="news-loading" style="display: none;">Collecting news...</div>
+                    <div id="news-bullish" class="news-category">
+                        <h4>📈 Bullish Outlook</h4>
+                        <div id="bullish-news-list" class="news-list"></div>
+                    </div>
+                    <div id="news-bearish" class="news-category">
+                        <h4>📉 Bearish Outlook</h4>
+                        <div id="bearish-news-list" class="news-list"></div>
+                    </div>
+                </div>
             </section>
         </main>
 
