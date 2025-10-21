@@ -260,6 +260,12 @@ class JapanDashboard {
             hoverinfo: 'all'
         };
 
+        // Calculate date range with padding
+        const firstDate = new Date(dates[0]);
+        const lastDate = new Date(dates[dates.length - 1]);
+        const dateRange = lastDate - firstDate;
+        const padding = dateRange * 0.02; // 2% padding on each side
+
         const layout = {
             title: {
                 text: '',
@@ -271,7 +277,7 @@ class JapanDashboard {
                 gridcolor: '#e0e0e0',
                 rangeslider: { visible: false },
                 type: 'date',
-                autorange: true
+                range: [new Date(firstDate.getTime() - padding), new Date(lastDate.getTime() + padding)]
             },
             yaxis: {
                 title: 'Value',
