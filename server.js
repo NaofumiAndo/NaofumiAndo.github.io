@@ -681,14 +681,12 @@ app.get('/api/news/sp500', async (req, res) => {
         const news = JSON.parse(newsData);
         res.json({ success: true, data: news });
     } catch (error) {
-        // If file doesn't exist, return empty lists
+        // If file doesn't exist, return empty array
         res.json({
             success: true,
             data: {
-                bullish: [],
-                bearish: [],
-                lastUpdated: null,
-                estimatedCost: 0
+                articles: [],
+                lastUpdated: null
             }
         });
     }
@@ -706,14 +704,13 @@ app.post('/api/news/collect', verifyAdmin, async (req, res) => {
 
         console.log('Collecting S&P 500 news articles from Google...');
 
-        const dateRestrict = `d7`; // Last 7 days
+        const dateRestrict = `d2`; // Last 2 days
+        const query = 'S&P 500';
 
-        // Search for bullish articles
-        const bullishQuery = 'S&P 500 bullish';
-        console.log('Searching for bullish articles:', bullishQuery);
+        console.log('Searching for S&P 500 news:', query);
 
-        const bullishResponse = await fetch(
-            `https://www.googleapis.com/customsearch/v1?key=${GOOGLE_SEARCH_API_KEY}&cx=${GOOGLE_SEARCH_ENGINE_ID}&q=${encodeURIComponent(bullishQuery)}&num=5&dateRestrict=${dateRestrict}&sort=date`,
+        const response = await fetch(
+            `https://www.googleapis.com/customsearch/v1?key=${GOOGLE_SEARCH_API_KEY}&cx=${GOOGLE_SEARCH_ENGINE_ID}&q=${encodeURIComponent(query)}&num=5&dateRestrict=${dateRestrict}&sort=date`,
             {
                 headers: {
                     'Accept': 'application/json'
@@ -721,89 +718,44 @@ app.post('/api/news/collect', verifyAdmin, async (req, res) => {
             }
         );
 
-        if (!bullishResponse.ok) {
-            const error = await bullishResponse.text();
-            throw new Error(`Google API error (bullish): ${error}`);
+        if (!response.ok) {
+            const error = await response.text();
+            throw new Error(`Google API error: ${error}`);
         }
 
-        const bullishData = await bullishResponse.json();
-        console.log(`Found ${bullishData.items?.length || 0} bullish articles`);
+        const data = await response.json();
+        console.log(`Found ${data.items?.length || 0} articles`);
 
-        // Search for bearish articles
-        const bearishQuery = 'S&P 500 bearish';
-        console.log('Searching for bearish articles:', bearishQuery);
-
-        const bearishResponse = await fetch(
-            `https://www.googleapis.com/customsearch/v1?key=${GOOGLE_SEARCH_API_KEY}&cx=${GOOGLE_SEARCH_ENGINE_ID}&q=${encodeURIComponent(bearishQuery)}&num=5&dateRestrict=${dateRestrict}&sort=date`,
-            {
-                headers: {
-                    'Accept': 'application/json'
-                }
-            }
-        );
-
-        if (!bearishResponse.ok) {
-            const error = await bearishResponse.text();
-            throw new Error(`Google API error (bearish): ${error}`);
-        }
-
-        const bearishData = await bearishResponse.json();
-        console.log(`Found ${bearishData.items?.length || 0} bearish articles`);
-
-        // Combine results
-        const allArticles = [];
-
-        // Process bullish articles
-        if (bullishData.items && bullishData.items.length > 0) {
-            bullishData.items.slice(0, 5).forEach(item => {
-                allArticles.push({
+        // Process articles
+        const articles = [];
+        if (data.items && data.items.length > 0) {
+            data.items.forEach(item => {
+                articles.push({
                     url: item.link,
                     title: item.title,
                     source: item.displayLink || 'Unknown',
-                    date: new Date().toISOString().split('T')[0],
-                    sentiment: 'bullish'
+                    date: new Date().toISOString().split('T')[0]
                 });
             });
         }
 
-        // Process bearish articles
-        if (bearishData.items && bearishData.items.length > 0) {
-            bearishData.items.slice(0, 5).forEach(item => {
-                allArticles.push({
-                    url: item.link,
-                    title: item.title,
-                    source: item.displayLink || 'Unknown',
-                    date: new Date().toISOString().split('T')[0],
-                    sentiment: 'bearish'
-                });
-            });
-        }
-
-        console.log(`Total articles collected: ${allArticles.length}`);
-
-        if (allArticles.length === 0) {
+        if (articles.length === 0) {
             throw new Error('No articles found from Google search');
         }
 
-        // Categorize articles
-        const bullish = allArticles.filter(a => a.sentiment === 'bullish');
-        const bearish = allArticles.filter(a => a.sentiment === 'bearish');
-
         // Save to file
         const newsData = {
-            bullish,
-            bearish,
-            lastUpdated: new Date().toISOString(),
-            totalCost: 0 // No OpenAI cost
+            articles,
+            lastUpdated: new Date().toISOString()
         };
 
         await fs.writeFile(DATA_FILES.news, JSON.stringify(newsData, null, 2));
 
-        console.log(`Successfully saved ${allArticles.length} articles to file`);
+        console.log(`Successfully saved ${articles.length} articles to file`);
 
         res.json({
             success: true,
-            message: `Successfully collected ${allArticles.length} articles (${bullish.length} bullish, ${bearish.length} bearish)`,
+            message: `Successfully collected ${articles.length} articles`,
             data: newsData
         });
 

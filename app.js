@@ -1321,45 +1321,26 @@ class EconomicDashboard {
      * Display news articles
      */
     displayNews(newsData) {
-        const bullishList = document.getElementById('bullish-news-list');
-        const bearishList = document.getElementById('bearish-news-list');
+        const newsList = document.getElementById('news-list');
 
         // Clear existing content
-        bullishList.innerHTML = '';
-        bearishList.innerHTML = '';
+        newsList.innerHTML = '';
 
-        // Display bullish news
-        if (newsData.bullish && newsData.bullish.length > 0) {
-            newsData.bullish.forEach(article => {
+        // Display news articles
+        if (newsData.articles && newsData.articles.length > 0) {
+            newsData.articles.forEach(article => {
                 const item = document.createElement('div');
-                item.className = 'news-item bullish';
+                item.className = 'news-item';
                 const dateStr = article.date ? ` - ${article.date}` : '';
                 item.innerHTML = `
                     <div class="news-headline">${article.title}</div>
                     <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="news-url">${article.url}</a>
                     <div class="news-source">${article.source}${dateStr}</div>
                 `;
-                bullishList.appendChild(item);
+                newsList.appendChild(item);
             });
         } else {
-            bullishList.innerHTML = '<div class="news-empty">No bullish articles yet</div>';
-        }
-
-        // Display bearish news
-        if (newsData.bearish && newsData.bearish.length > 0) {
-            newsData.bearish.forEach(article => {
-                const item = document.createElement('div');
-                item.className = 'news-item bearish';
-                const dateStr = article.date ? ` - ${article.date}` : '';
-                item.innerHTML = `
-                    <div class="news-headline">${article.title}</div>
-                    <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="news-url">${article.url}</a>
-                    <div class="news-source">${article.source}${dateStr}</div>
-                `;
-                bearishList.appendChild(item);
-            });
-        } else {
-            bearishList.innerHTML = '<div class="news-empty">No bearish articles yet</div>';
+            newsList.innerHTML = '<div class="news-empty">No recent articles yet</div>';
         }
     }
 
