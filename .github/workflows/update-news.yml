@@ -1,4 +1,4 @@
-name: Update Market Data
+name: Update News Data
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  update-data:
+  update-news:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,15 +25,15 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Fetch and update market data
+      - name: Fetch and update news
         env:
-          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
-        run: node scripts/update-data.js
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: node scripts/update-news.js
 
       - name: Check for changes
         id: check_changes
         run: |
-          if git diff --quiet data/*.json; then
+          if git diff --quiet data/news.json; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
             echo "has_changes=true" >> $GITHUB_OUTPUT
@@ -44,6 +44,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/*.json
-          git commit -m "🤖 Auto-update market data [$(date +'%Y-%m-%d %H:%M UTC')]"
+          git add data/news.json
+          git commit -m "🤖 Auto-update news [$(date +'%Y-%m-%d %H:%M UTC')]"
           git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
