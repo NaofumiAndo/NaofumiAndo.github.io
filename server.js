@@ -25,7 +25,7 @@ const DATA_FILES = {
     usdjpy: path.join(DATA_DIR, 'usdjpy_data.json'),
     jgb: path.join(DATA_DIR, 'jgb_data.json'),
     estimates: path.join(DATA_DIR, 'estimates.json'),
-    news: path.join(DATA_DIR, 'sp500_news.json')
+    news: path.join(DATA_DIR, 'news.json')
 };
 
 // Middleware
