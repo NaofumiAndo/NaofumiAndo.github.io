@@ -64,9 +64,17 @@ class EconomicDashboard {
      */
     getStartDate(range) {
         const today = new Date();
-        const startDate = new Date();
+        let startDate = new Date();
 
         switch(range) {
+            case '3m':
+                // Calculate 3 months ago
+                startDate = new Date(today.getFullYear(), today.getMonth() - 3, today.getDate());
+                break;
+            case '6m':
+                // Calculate 6 months ago
+                startDate = new Date(today.getFullYear(), today.getMonth() - 6, today.getDate());
+                break;
             case '1y':
                 startDate.setFullYear(today.getFullYear() - 1);
                 break;
