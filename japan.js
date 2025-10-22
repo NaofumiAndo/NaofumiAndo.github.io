@@ -34,6 +34,12 @@ class JapanDashboard {
         const startDate = new Date();
 
         switch(range) {
+            case '3m':
+                startDate.setMonth(today.getMonth() - 3);
+                break;
+            case '6m':
+                startDate.setMonth(today.getMonth() - 6);
+                break;
             case '1y':
                 startDate.setFullYear(today.getFullYear() - 1);
                 break;
@@ -47,7 +53,7 @@ class JapanDashboard {
                 startDate.setFullYear(1950);
                 break;
             default:
-                startDate.setFullYear(today.getFullYear() - 5);
+                startDate.setFullYear(today.getFullYear() - 1);
         }
 
         return startDate.toISOString().split('T')[0];
