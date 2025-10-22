@@ -39,14 +39,15 @@ const FRED_API_BASE_URL = 'https://api.stlouisfed.org/fred/series/observations';
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY || '';
 const GOOGLE_SEARCH_API_KEY = process.env.GOOGLE_SEARCH_API_KEY || '';
 const GOOGLE_SEARCH_ENGINE_ID = process.env.GOOGLE_SEARCH_ENGINE_ID || '';
+const SERPAPI_API_KEY = process.env.SERPAPI_API_KEY || '';
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || '';
 
 // Validate required API keys
 if (!FRED_API_KEY) {
     console.warn('WARNING: FRED_API_KEY not set in environment variables');
 }
-if (!GOOGLE_SEARCH_API_KEY || !GOOGLE_SEARCH_ENGINE_ID) {
-    console.warn('WARNING: Google Search API credentials not set in environment variables');
+if (!SERPAPI_API_KEY) {
+    console.warn('WARNING: SERPAPI_API_KEY not set in environment variables');
 }
 if (!ADMIN_PASSWORD) {
     console.warn('WARNING: ADMIN_PASSWORD not set in environment variables');
@@ -692,55 +693,107 @@ app.get('/api/news/sp500', async (req, res) => {
     }
 });
 
-// Collect S&P 500 news using Google Custom Search (admin only)
+// Collect S&P 500 news using SerpAPI Google News (admin only)
 app.post('/api/news/collect', verifyAdmin, async (req, res) => {
     try {
-        if (!GOOGLE_SEARCH_API_KEY || !GOOGLE_SEARCH_ENGINE_ID) {
+        if (!SERPAPI_API_KEY) {
             return res.status(400).json({
                 success: false,
-                message: 'Google Search API key or Engine ID not configured. Please add them to config.js.'
+                message: 'SerpAPI key not configured. Please add SERPAPI_API_KEY to environment variables.'
             });
         }
 
-        console.log('Collecting S&P 500 news articles from Google...');
+        console.log('Collecting S&P 500 news articles from Google News via SerpAPI...');
 
-        const dateRestrict = `d2`; // Last 2 days
         const query = 'S&P 500';
 
-        console.log('Searching for S&P 500 news:', query);
+        // Allowed media sources
+        const allowedSources = [
+            'reuters.com',
+            'bloomberg.com',
+            'ft.com',
+            'wsj.com',
+            'nytimes.com',
+            'fortune.com',
+            'barrons.com',
+            'finance.yahoo.com',
+            'cnbc.com',
+            'marketwatch.com',
+            'seekingalpha.com',
+            'investopedia.com'
+        ];
 
-        const response = await fetch(
-            `https://www.googleapis.com/customsearch/v1?key=${GOOGLE_SEARCH_API_KEY}&cx=${GOOGLE_SEARCH_ENGINE_ID}&q=${encodeURIComponent(query)}&num=5&dateRestrict=${dateRestrict}&sort=date`,
-            {
-                headers: {
-                    'Accept': 'application/json'
-                }
-            }
-        );
+        // Calculate date range (1 week ago)
+        const today = new Date();
+        const oneWeekAgo = new Date(today);
+        oneWeekAgo.setDate(today.getDate() - 7);
+
+        const afterDate = oneWeekAgo.toISOString().split('T')[0]; // YYYY-MM-DD format
+        const beforeDate = today.toISOString().split('T')[0];
+
+        console.log(`Searching for news from ${afterDate} to ${beforeDate}`);
+
+        // SerpAPI Google News request
+        const url = new URL('https://serpapi.com/search');
+        url.searchParams.append('engine', 'google_news');
+        url.searchParams.append('q', query);
+        url.searchParams.append('api_key', SERPAPI_API_KEY);
+        url.searchParams.append('gl', 'us'); // Country: US
+        url.searchParams.append('hl', 'en'); // Language: English
+        url.searchParams.append('tbs', `cdr:1,cd_min:${afterDate.replace(/-/g, '/')},cd_max:${beforeDate.replace(/-/g, '/')}`); // Date range
+
+        console.log('Fetching from SerpAPI:', url.toString().replace(SERPAPI_API_KEY, '***'));
+
+        const response = await fetch(url);
 
         if (!response.ok) {
             const error = await response.text();
-            throw new Error(`Google API error: ${error}`);
+            throw new Error(`SerpAPI error: ${error}`);
         }
 
         const data = await response.json();
-        console.log(`Found ${data.items?.length || 0} articles`);
+        console.log(`SerpAPI returned ${data.news_results?.length || 0} news results`);
 
-        // Process articles
+        // Process and filter articles
         const articles = [];
-        if (data.items && data.items.length > 0) {
-            data.items.forEach(item => {
-                articles.push({
-                    url: item.link,
-                    title: item.title,
-                    source: item.displayLink || 'Unknown',
-                    date: new Date().toISOString().split('T')[0]
-                });
-            });
+        if (data.news_results && data.news_results.length > 0) {
+            for (const item of data.news_results) {
+                // Extract domain from link
+                let domain = '';
+                try {
+                    const urlObj = new URL(item.link);
+                    domain = urlObj.hostname.replace('www.', '');
+                } catch (e) {
+                    console.log(`Invalid URL: ${item.link}`);
+                    continue;
+                }
+
+                // Check if source is in allowed list
+                const isAllowed = allowedSources.some(allowedDomain =>
+                    domain === allowedDomain || domain.endsWith('.' + allowedDomain)
+                );
+
+                if (isAllowed) {
+                    articles.push({
+                        url: item.link,
+                        title: item.title,
+                        source: item.source?.name || domain,
+                        date: item.date || new Date().toISOString().split('T')[0],
+                        snippet: item.snippet || ''
+                    });
+                }
+
+                // Stop when we have 10 articles
+                if (articles.length >= 10) {
+                    break;
+                }
+            }
         }
 
+        console.log(`Filtered to ${articles.length} articles from reliable sources`);
+
         if (articles.length === 0) {
-            throw new Error('No articles found from Google search');
+            throw new Error('No articles found from reliable sources. Try again later.');
         }
 
         // Save to file
@@ -755,7 +808,7 @@ app.post('/api/news/collect', verifyAdmin, async (req, res) => {
 
         res.json({
             success: true,
-            message: `Successfully collected ${articles.length} articles`,
+            message: `Successfully collected ${articles.length} articles from reliable sources`,
             data: newsData
         });
 
