@@ -25,10 +25,15 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Fetch and update data
+      - name: Fetch and update market data
         env:
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
         run: node scripts/update-data.js
+
+      - name: Fetch and update news
+        env:
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: node scripts/update-news.js
 
       - name: Check for changes
         id: check_changes
@@ -45,5 +50,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add data/*.json
-          git commit -m "🤖 Auto-update market data [$(date +'%Y-%m-%d %H:%M UTC')]"
+          git commit -m "🤖 Auto-update market data and news [$(date +'%Y-%m-%d %H:%M UTC')]"
           git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
