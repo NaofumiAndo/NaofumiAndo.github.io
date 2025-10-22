@@ -2,10 +2,11 @@
 
 class JapanDashboard {
     constructor() {
-        this.indicators = ['nikkei', 'topix', 'usdjpy', 'jgb'];
+        this.indicators = ['nikkei', 'nikkei-usd', 'topix', 'usdjpy', 'jgb'];
         this.allData = {}; // Store all indicator data
         this.chartColors = {
             nikkei: '#DC143C',    // Crimson (Japan red)
+            'nikkei-usd': '#8B0000', // Dark red
             topix: '#FF6B6B',     // Light red
             usdjpy: '#4ECDC4',    // Turquoise
             jgb: '#95E1D3'        // Mint green
@@ -129,7 +130,75 @@ class JapanDashboard {
      */
     async loadAllData() {
         for (const indicator of this.indicators) {
+            // Skip nikkei-usd as it's calculated, not loaded
+            if (indicator === 'nikkei-usd') continue;
             await this.loadFromLocalFile(indicator);
+        }
+
+        // After loading nikkei and usdjpy, calculate dollarized nikkei
+        this.calculateDollarizedNikkei();
+    }
+
+    /**
+     * Calculate dollarized Nikkei (Nikkei / USD/JPY)
+     */
+    calculateDollarizedNikkei() {
+        if (!this.allData['nikkei'] || !this.allData['usdjpy']) {
+            console.warn('Cannot calculate dollarized Nikkei: missing nikkei or usdjpy data');
+            return;
+        }
+
+        const loadingEl = document.getElementById('nikkei-usd-loading');
+        const errorEl = document.getElementById('nikkei-usd-error');
+        const chartEl = document.getElementById('nikkei-usd-chart');
+
+        try {
+            loadingEl.style.display = 'block';
+            loadingEl.textContent = 'Calculating dollarized Nikkei...';
+            errorEl.style.display = 'none';
+
+            // Create a map of dates to exchange rates for quick lookup
+            const exchangeRateMap = {};
+            for (let i = 0; i < this.allData['usdjpy'].dates.length; i++) {
+                exchangeRateMap[this.allData['usdjpy'].dates[i]] = this.allData['usdjpy'].values[i];
+            }
+
+            // Calculate dollarized values for dates where we have both nikkei and exchange rate
+            const dollarizedDates = [];
+            const dollarizedValues = [];
+
+            for (let i = 0; i < this.allData['nikkei'].dates.length; i++) {
+                const date = this.allData['nikkei'].dates[i];
+                const nikkeiValue = this.allData['nikkei'].values[i];
+                const exchangeRate = exchangeRateMap[date];
+
+                if (exchangeRate && exchangeRate > 0) {
+                    dollarizedDates.push(date);
+                    dollarizedValues.push(nikkeiValue / exchangeRate);
+                }
+            }
+
+            // Store calculated data
+            this.allData['nikkei-usd'] = {
+                dates: dollarizedDates,
+                values: dollarizedValues,
+                name: 'Nikkei 225 Index (USD)'
+            };
+
+            console.log(`nikkei-usd calculated (${dollarizedDates.length} data points)`);
+
+            // Plot the data
+            this.filterAndPlotChart('nikkei-usd');
+
+            // Hide loading, show chart
+            loadingEl.style.display = 'none';
+            chartEl.style.display = 'block';
+
+        } catch (error) {
+            console.error('Error calculating dollarized Nikkei:', error);
+            loadingEl.style.display = 'none';
+            errorEl.textContent = `Error calculating dollarized Nikkei: ${error.message}`;
+            errorEl.style.display = 'block';
         }
     }
 

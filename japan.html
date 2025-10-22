@@ -52,6 +52,30 @@
                 <div class="data-source">Source: Yahoo Finance | Symbol: ^N225</div>
             </section>
 
+            <!-- Nikkei 225 Dollarized -->
+            <section class="chart-section-compact">
+                <div class="chart-header">
+                    <h2>Nikkei 225 Index (USD)</h2>
+                    <div class="chart-controls">
+                        <div class="control-group">
+                            <label for="nikkei-usd-range">Time Range:</label>
+                            <select id="nikkei-usd-range" class="indicator-range" data-indicator="nikkei-usd">
+                                <option value="3m">3 Months</option>
+                                <option value="6m">6 Months</option>
+                                <option value="1y" selected>1 Year</option>
+                                <option value="5y">5 Years</option>
+                                <option value="10y">10 Years</option>
+                                <option value="max">All Time</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div id="nikkei-usd-chart" class="chart-container-small"></div>
+                <div id="nikkei-usd-loading" class="loading">Loading data...</div>
+                <div id="nikkei-usd-error" class="error" style="display: none;"></div>
+                <div class="data-source">Calculated: Nikkei 225 ÷ USD/JPY Exchange Rate</div>
+            </section>
+
             <!-- TOPIX -->
             <section class="chart-section-compact">
                 <div class="chart-header">
