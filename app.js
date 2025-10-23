@@ -1305,9 +1305,10 @@ class EconomicDashboard {
      * Load news for all indicators
      */
     async loadNews() {
+        let newsData = null;
+
         try {
             // Try to load directly from GitHub first (faster, auto-updates when GitHub Actions runs)
-            let newsData;
             try {
                 // Add timestamp to prevent caching
                 const timestamp = new Date().getTime();
@@ -1315,32 +1316,40 @@ class EconomicDashboard {
                 if (ghResponse.ok) {
                     newsData = await ghResponse.json();
                     console.log('News loaded directly from GitHub');
-                }else {
+                } else {
                     throw new Error('GitHub file not found');
                 }
             } catch (ghError) {
                 // Fallback to server if GitHub fails
                 console.log('News loading from server (GitHub failed)');
-                const response = await fetch(`${CONFIG.SERVER_URL}/api/news/sp500`);
-                const result = await response.json();
-                if (result.success && result.data) {
-                    newsData = result.data;
+                try {
+                    const response = await fetch(`${CONFIG.SERVER_URL}/api/news/sp500`);
+                    const result = await response.json();
+                    if (result.success && result.data) {
+                        newsData = result.data;
+                    }
+                } catch (serverError) {
+                    console.log('Server also failed, will show empty news');
                 }
-            }
-
-            if (newsData && newsData.articles) {
-                // Display S&P 500 news under sp500 chart
-                this.displayCompactNews('sp500', newsData.articles);
-
-                // Show placeholder for other indicators
-                this.displayCompactNews('treasury', []);
-                this.displayCompactNews('oil', []);
-                this.displayCompactNews('gold', []);
-                this.displayCompactNews('dollar', []);
             }
         } catch (error) {
             console.error('Error loading news:', error);
         }
+
+        // Always display news sections, even if empty
+        if (newsData && newsData.articles) {
+            // Display S&P 500 news under sp500 chart
+            this.displayCompactNews('sp500', newsData.articles);
+        } else {
+            // Show empty state for S&P 500
+            this.displayCompactNews('sp500', []);
+        }
+
+        // Show placeholder for other indicators
+        this.displayCompactNews('treasury', []);
+        this.displayCompactNews('oil', []);
+        this.displayCompactNews('gold', []);
+        this.displayCompactNews('dollar', []);
     }
 
     /**
