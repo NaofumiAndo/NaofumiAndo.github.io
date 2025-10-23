@@ -1,8 +1,188 @@
 {
-  "sp500": [],
-  "treasury": [],
-  "oil": [],
-  "gold": [],
-  "dollar": [],
-  "lastUpdated": "2025-10-23T19:08:42.729Z"
+  "sp500": [
+    {
+      "url": "https://www.cnbc.com/2025/10/22/stock-market-today-live-updates.html",
+      "title": "S&P 500 closes higher, recouping Wednesday’s loss and then some",
+      "source": "CNBC",
+      "date": "10/22/2025, 10:12 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://ca.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-futures-wobble-as-tesla-stock-falls-after-earnings-002648209.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as oil jumps, earnings roll in after Tesla disappoints",
+      "source": "Yahoo",
+      "date": "10/23/2025, 04:43 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102325?gaa_at=eafs&gaa_n=AWEtsqc521_i1akG_fJ8QZ8taKYy7YwDUZeKLEwoL7nfDkxCURiqhy2OdsXI&gaa_ts=68fab9e0&gaa_sig=qFVaQn9uWT-_9Q3Y2HvePqQoqvri2dzapYystRJO32k6pleRhY8264M2UZHf5CtTihl7c1ggrIxPfMN4cm9Lpw%3D%3D",
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq Rise; Tesla, Intel, Nvidia, IBM, More Movers",
+      "source": "Barron's",
+      "date": "10/23/2025, 08:04 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.marketwatch.com/story/10-stocks-primed-for-growth-in-the-s-p-500s-cheapest-sectors-74efe3ce?gaa_at=eafs&gaa_n=AWEtsqdt5GEh5bmxjlsReS3I-yv4usSnHAgoms2_nSk_r_9Z-DPEQvCNlhx6&gaa_ts=68fab9e0&gaa_sig=B-jFiT-00cafKu3AcYDa5fpYL359KhlSKsrUmJWW_C78IbgjbHjhZfNMkIwO_f0dHAxgJFiXplqrO5JeD3HRSw%3D%3D",
+      "title": "10 stocks primed for growth in the S&P 500’s cheapest sectors",
+      "source": "MarketWatch",
+      "date": "10/23/2025, 03:29 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-10-23/hotter-cpi-unlikely-to-deter-rate-cuts-s-p-500-rally-for-now",
+      "title": "Hotter CPI Unlikely to Deter Rate Cuts, S&P 500 Rally — For Now",
+      "source": "Bloomberg.com",
+      "date": "10/23/2025, 02:38 PM, +0000 UTC",
+      "snippet": ""
+    }
+  ],
+  "treasury": [
+    {
+      "url": "https://www.cnbc.com/2025/10/23/us-treasury-yields-trade-comes-into-focus-.html",
+      "title": "10-year Treasury yield rises back above 4% as U.S.-China trade relations return to focus",
+      "source": "CNBC",
+      "date": "10/23/2025, 09:47 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/china/china-confirms-us-trade-talks-be-held-malaysia-friday-2025-10-23/",
+      "title": "China confirms US trade talks to be held in Malaysia from Friday",
+      "source": "Reuters",
+      "date": "10/23/2025, 09:20 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/articles/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-a14f06fc?gaa_at=eafs&gaa_n=AWEtsqeJdeC1F9FD56gkAxgeOZMwuEDYFqIYHKHHxJlPUX8_PRrO4-syYcWK&gaa_ts=68fab9e4&gaa_sig=EGZbAsWLi-AdioJK8-H7dQXiMb3GVkDBJ9s1gEqnmPnunSTxR4deuAhwuFxjBiGHedHyo7esRrpLw8DnuCrnZQ%3D%3D",
+      "title": "Treasury Yields Rise Ahead of September CPI",
+      "source": "The Wall Street Journal",
+      "date": "10/23/2025, 07:46 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102325/card/u-s-treasury-yields-edge-higher-but-10-year-remains-below-4--EcViXgka9GABi5fKADD0?gaa_at=eafs&gaa_n=AWEtsqd6bvP0B5mbhO_Gl-H6BLXJaG--EmgbYnrNd1SIcGT53xTVIEeVckFs&gaa_ts=68fab9e4&gaa_sig=ICz12YmI3FigNPmN--bseKhnHIxKwRRlLOn58qwq0ELyVobjCQJOoCsZUeeUDmw2O50eeH8on8QAtuSMHYgxsw%3D%3D",
+      "title": "U.S. Treasury Yields Edge Higher But 10-Year Remains Below 4%",
+      "source": "Barron's",
+      "date": "10/23/2025, 08:11 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/10/20/us-treasury-yields-investors-weigh-the-state-of-the-us-economy.html",
+      "title": "10-year Treasury yield dips back below 4% as investors weigh the state of the U.S. economy",
+      "source": "CNBC",
+      "date": "10/20/2025, 09:43 AM, +0000 UTC",
+      "snippet": ""
+    }
+  ],
+  "oil": [
+    {
+      "url": "https://www.nytimes.com/2025/10/23/business/oil-prices-russia-sanctions.html",
+      "title": "Oil Price Jumps on Trump’s Russia Sanctions",
+      "source": "The New York Times",
+      "date": "10/23/2025, 05:58 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/articles/oil-price-trump-sanctions-russia-8f3f8da6?gaa_at=eafs&gaa_n=AWEtsqcFl7DwKOvetiXh5xNue9YD0sTD76rJqUWxFHiW70x1nNvVs9s9dgc-&gaa_ts=68fab9e9&gaa_sig=-HkwHfxc1UKgpXJkkiBT-zSfbu1K6uzojEU0xJcFb6tpZGFs1x4lNi9A2nYezaUPaDH6jNAdXGnMDSb4sI_m_g%3D%3D",
+      "title": "Oil Price Rallies as Trump Sanctions Russian Producers. Why China, India Are Key.",
+      "source": "Barron's",
+      "date": "10/23/2025, 04:14 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/us-crude-futures-up-13-after-us-sanctions-russias-rosneft-lukoil-says-more-come-2025-10-22/",
+      "title": "Oil surges 5% after US sanctions Russian firms Rosneft, Lukoil",
+      "source": "Reuters",
+      "date": "10/23/2025, 07:14 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/europe/trump-sanctions-russian-oil-majors-prompting-oil-price-rise-india-jitters-2025-10-23/",
+      "title": "Putin defiant after Trump sanctions Russian oil majors over Ukraine",
+      "source": "Reuters",
+      "date": "10/23/2025, 08:57 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/video/oils-price-spike-adds-pressure-134453939.html",
+      "title": "Oil's price spike adds new pressure to US Treasuries. Here's how.",
+      "source": "Yahoo Finance",
+      "date": "10/23/2025, 01:44 PM, +0000 UTC",
+      "snippet": ""
+    }
+  ],
+  "gold": [
+    {
+      "url": "https://www.reuters.com/business/jp-morgan-sees-gold-averaging-5055oz-by-late-2026-2025-10-23/",
+      "title": "JP Morgan sees gold prices averaging $5,055 per ounce by late 2026",
+      "source": "Reuters",
+      "date": "10/23/2025, 03:53 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-october-23-gold-opens-higher-as-pullback-levels-out-125354680.html",
+      "title": "Gold price today, Thursday, October 23: Gold opens higher as pullback levels out",
+      "source": "Yahoo Finance",
+      "date": "10/23/2025, 11:45 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4832480-idaho-strategic-resources-stock-solid-tracker-historic-gold-price-rally",
+      "title": "Idaho Strategic Resources: A Solid Tracker Of The Historic Gold Price Rally (NYSE:IDR)",
+      "source": "Seeking Alpha",
+      "date": "10/23/2025, 03:29 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.ft.com/content/ed7f86e8-d12a-4c0a-a7d6-8400bfde6140",
+      "title": "Gold price tops $4,000 for first time",
+      "source": "Financial Times",
+      "date": "10/08/2025, 07:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.marketwatch.com/story/gold-just-stumbled-a-jpmorgan-strategist-says-the-metal-could-double-in-value-c97eb6fd?gaa_at=eafs&gaa_n=AWEtsqd-MHTfOVdoAlnN8Sohw8N4mdC8kn_pkCAGiZOEawmqvbcZ7Jy4YuO9&gaa_ts=68fab9ee&gaa_sig=tBij9VD3hfhxfnTvdswBGfZWCqfaDd4D0IQp2MmLHVYmxxv676HUNc7G706KkFcJQf8ZInFjNr5bRJuppfHBBA%3D%3D",
+      "title": "Gold just stumbled. A JPMorgan strategist says the metal could double in value.",
+      "source": "MarketWatch",
+      "date": "10/23/2025, 10:51 AM, +0000 UTC",
+      "snippet": ""
+    }
+  ],
+  "dollar": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-10-23/why-the-world-started-hedging-its-us-dollar-exposure-mh34tm3n",
+      "title": "Why The World Started Hedging Its US Dollar Exposure",
+      "source": "Bloomberg.com",
+      "date": "10/23/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/why-bitcoin-dropping-billionaire-crypto-085837395.html",
+      "title": "Why is Bitcoin Dropping? Billionaire Crypto Whale Places Quarter-Billion Dollar Bitcoin Bet (Is The Top In For BTC USD?)",
+      "source": "Yahoo Finance",
+      "date": "10/22/2025, 08:58 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/africa/dollar-edges-up-ahead-cpi-trade-news-yen-slips-2025-10-23/",
+      "title": "Yen slides as traders eye new US sanctions, CPI data",
+      "source": "Reuters",
+      "date": "10/23/2025, 07:45 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4831376-bitcoin-bulls-have-lost-they-just-dont-know-it-yet",
+      "title": "Bitcoin's Bulls Have Lost, They Just Don't Know It Yet (Cryptocurrency:BTC-USD)",
+      "source": "Seeking Alpha",
+      "date": "10/21/2025, 11:22 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/electric-vehicle-ev-testing-inspection-140000749.html",
+      "title": "Electric Vehicle (EV) Testing, Inspection and Certification Market Worth USD 10.32 Bn by 2034",
+      "source": "Yahoo Finance",
+      "date": "10/23/2025, 02:00 PM, +0000 UTC",
+      "snippet": ""
+    }
+  ],
+  "lastUpdated": "2025-10-23T23:12:26.316Z"
 }
