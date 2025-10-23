@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-// Standalone script to fetch and update S&P 500 news
+// Standalone script to fetch and update news for all indicators
 // This runs in GitHub Actions without needing the full server
 
 require('dotenv').config();
@@ -12,6 +12,15 @@ const DATA_DIR = path.join(__dirname, '..', 'data');
 const NEWS_FILE = path.join(DATA_DIR, 'news.json');
 
 const SERPAPI_API_KEY = process.env.SERPAPI_API_KEY;
+
+// Indicator search queries
+const INDICATORS = {
+    sp500: 'S&P 500',
+    treasury: 'US treasury',
+    oil: 'oil price',
+    gold: 'gold price',
+    dollar: 'USD'
+};
 
 // Allowed media sources
 const ALLOWED_SOURCES = [
@@ -38,15 +47,13 @@ async function ensureDataDir() {
     }
 }
 
-// Fetch news from SerpAPI
-async function fetchNews() {
-    console.log('🔍 Fetching news from SerpAPI...');
+// Fetch news from SerpAPI for a specific query
+async function fetchNewsForQuery(query, maxArticles = 5) {
+    console.log(`🔍 Fetching news for "${query}"...`);
 
     if (!SERPAPI_API_KEY) {
         throw new Error('SERPAPI_API_KEY not set in environment variables');
     }
-
-    const query = 'S&P 500';
 
     // Calculate date range (1 week ago)
     const today = new Date();
@@ -56,7 +63,6 @@ async function fetchNews() {
     const afterDate = oneWeekAgo.toISOString().split('T')[0];
     const beforeDate = today.toISOString().split('T')[0];
 
-    console.log(`   Query: ${query}`);
     console.log(`   Date range: ${afterDate} to ${beforeDate}`);
 
     // SerpAPI Google News request
@@ -116,8 +122,8 @@ async function fetchNews() {
                 console.log(`   ⏭️  Filtered out ${domain}`);
             }
 
-            // Stop after collecting 10 articles
-            if (articles.length >= 10) {
+            // Stop after collecting requested number of articles
+            if (articles.length >= maxArticles) {
                 break;
             }
         }
@@ -125,29 +131,62 @@ async function fetchNews() {
         console.log('   ⚠️  No news results found');
     }
 
+    console.log(`   Collected ${articles.length} articles\n`);
     return articles;
+}
+
+// Add delay between API calls to avoid rate limiting
+async function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 // Main function
 async function main() {
-    console.log('📰 Starting news update...');
+    console.log('📰 Starting news update for all indicators...');
     console.log(`📅 ${new Date().toISOString()}\n`);
 
     try {
         await ensureDataDir();
 
-        const articles = await fetchNews();
-
         const newsData = {
-            articles,
+            sp500: [],
+            treasury: [],
+            oil: [],
+            gold: [],
+            dollar: [],
             lastUpdated: new Date().toISOString()
         };
 
+        // Fetch news for each indicator with delay between requests
+        for (const [indicator, query] of Object.entries(INDICATORS)) {
+            try {
+                newsData[indicator] = await fetchNewsForQuery(query, 5);
+
+                // Add 2 second delay between requests to avoid rate limiting
+                if (indicator !== 'dollar') { // Don't delay after last request
+                    console.log('⏳ Waiting 2 seconds before next request...\n');
+                    await delay(2000);
+                }
+            } catch (error) {
+                console.error(`   ❌ Error fetching news for ${indicator}: ${error.message}`);
+                newsData[indicator] = []; // Set empty array on error
+            }
+        }
+
         await fs.writeFile(NEWS_FILE, JSON.stringify(newsData, null, 2));
+
+        const totalArticles = Object.values(newsData).reduce((sum, articles) => {
+            return sum + (Array.isArray(articles) ? articles.length : 0);
+        }, 0);
 
         console.log('\n' + '='.repeat(60));
         console.log('✨ News update complete!');
-        console.log(`   Collected ${articles.length} articles from reliable sources`);
+        console.log(`   Total articles collected: ${totalArticles}`);
+        console.log(`   - S&P 500: ${newsData.sp500.length} articles`);
+        console.log(`   - Treasury: ${newsData.treasury.length} articles`);
+        console.log(`   - Oil: ${newsData.oil.length} articles`);
+        console.log(`   - Gold: ${newsData.gold.length} articles`);
+        console.log(`   - Dollar: ${newsData.dollar.length} articles`);
         console.log(`   Saved to: ${NEWS_FILE}`);
         console.log('='.repeat(60));
 

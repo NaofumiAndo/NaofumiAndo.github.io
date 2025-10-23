@@ -1326,7 +1326,14 @@ class EconomicDashboard {
                     const response = await fetch(`${CONFIG.SERVER_URL}/api/news/sp500`);
                     const result = await response.json();
                     if (result.success && result.data) {
-                        newsData = result.data;
+                        // Server returns old format with articles array
+                        newsData = {
+                            sp500: result.data.articles || [],
+                            treasury: [],
+                            oil: [],
+                            gold: [],
+                            dollar: []
+                        };
                     }
                 } catch (serverError) {
                     console.log('Server also failed, will show empty news');
@@ -1336,20 +1343,22 @@ class EconomicDashboard {
             console.error('Error loading news:', error);
         }
 
-        // Always display news sections, even if empty
-        if (newsData && newsData.articles) {
-            // Display S&P 500 news under sp500 chart
-            this.displayCompactNews('sp500', newsData.articles);
+        // Always display news sections for all indicators
+        if (newsData) {
+            // Display news for each indicator (new format: newsData.sp500, newsData.treasury, etc.)
+            this.displayCompactNews('sp500', newsData.sp500 || []);
+            this.displayCompactNews('treasury', newsData.treasury || []);
+            this.displayCompactNews('oil', newsData.oil || []);
+            this.displayCompactNews('gold', newsData.gold || []);
+            this.displayCompactNews('dollar', newsData.dollar || []);
         } else {
-            // Show empty state for S&P 500
+            // Show empty state for all indicators
             this.displayCompactNews('sp500', []);
+            this.displayCompactNews('treasury', []);
+            this.displayCompactNews('oil', []);
+            this.displayCompactNews('gold', []);
+            this.displayCompactNews('dollar', []);
         }
-
-        // Show placeholder for other indicators
-        this.displayCompactNews('treasury', []);
-        this.displayCompactNews('oil', []);
-        this.displayCompactNews('gold', []);
-        this.displayCompactNews('dollar', []);
     }
 
     /**
