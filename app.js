@@ -1306,11 +1306,30 @@ class EconomicDashboard {
      */
     async loadNews() {
         try {
-            const response = await fetch(`${CONFIG.SERVER_URL}/api/news/sp500`);
-            const result = await response.json();
+            // Try to load directly from GitHub first (faster, auto-updates when GitHub Actions runs)
+            let newsData;
+            try {
+                // Add timestamp to prevent caching
+                const timestamp = new Date().getTime();
+                const ghResponse = await fetch(`data/news.json?t=${timestamp}`);
+                if (ghResponse.ok) {
+                    newsData = await ghResponse.json();
+                    console.log('News loaded directly from GitHub');
+                }else {
+                    throw new Error('GitHub file not found');
+                }
+            } catch (ghError) {
+                // Fallback to server if GitHub fails
+                console.log('News loading from server (GitHub failed)');
+                const response = await fetch(`${CONFIG.SERVER_URL}/api/news/sp500`);
+                const result = await response.json();
+                if (result.success && result.data) {
+                    newsData = result.data;
+                }
+            }
 
-            if (result.success && result.data) {
-                this.displayNews(result.data);
+            if (newsData) {
+                this.displayNews(newsData);
             }
         } catch (error) {
             console.error('Error loading news:', error);
