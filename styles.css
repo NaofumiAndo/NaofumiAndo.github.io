@@ -1173,6 +1173,55 @@ main {
     padding: 20px;
 }
 
+/* Compact News under Charts */
+.chart-news {
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid #e0e0e0;
+}
+
+.chart-news h4 {
+    font-size: 0.9em;
+    color: #555;
+    margin: 0 0 8px 0;
+    font-weight: 600;
+}
+
+.news-compact-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.news-compact-item {
+    font-size: 0.8em;
+    line-height: 1.4;
+}
+
+.news-compact-item a {
+    color: #2a5298;
+    text-decoration: none;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 2px;
+}
+
+.news-compact-item a:hover {
+    text-decoration: underline;
+    color: #1e3c72;
+}
+
+.news-compact-meta {
+    font-size: 0.9em;
+    color: #999;
+}
+
+.news-compact-empty {
+    color: #999;
+    font-size: 0.85em;
+    font-style: italic;
+}
+
 /* Footer */
 footer {
     text-align: center;

@@ -1302,7 +1302,7 @@ class EconomicDashboard {
     }
 
     /**
-     * Load S&P 500 news
+     * Load news for all indicators
      */
     async loadNews() {
         try {
@@ -1328,8 +1328,15 @@ class EconomicDashboard {
                 }
             }
 
-            if (newsData) {
-                this.displayNews(newsData);
+            if (newsData && newsData.articles) {
+                // Display S&P 500 news under sp500 chart
+                this.displayCompactNews('sp500', newsData.articles);
+
+                // Show placeholder for other indicators
+                this.displayCompactNews('treasury', []);
+                this.displayCompactNews('oil', []);
+                this.displayCompactNews('gold', []);
+                this.displayCompactNews('dollar', []);
             }
         } catch (error) {
             console.error('Error loading news:', error);
@@ -1337,29 +1344,38 @@ class EconomicDashboard {
     }
 
     /**
-     * Display news articles
+     * Display compact news articles under a chart
      */
-    displayNews(newsData) {
-        const newsList = document.getElementById('news-list');
+    displayCompactNews(indicator, articles) {
+        const newsContainer = document.getElementById(`${indicator}-news`);
+
+        if (!newsContainer) {
+            console.warn(`News container not found for ${indicator}`);
+            return;
+        }
 
         // Clear existing content
-        newsList.innerHTML = '';
+        newsContainer.innerHTML = '';
 
-        // Display news articles
-        if (newsData.articles && newsData.articles.length > 0) {
-            newsData.articles.forEach(article => {
+        if (articles && articles.length > 0) {
+            // Show only first 3 articles
+            const articlesToShow = articles.slice(0, 3);
+
+            articlesToShow.forEach(article => {
                 const item = document.createElement('div');
-                item.className = 'news-item';
-                const dateStr = article.date ? ` - ${article.date}` : '';
+                item.className = 'news-compact-item';
+
+                // Format date without time (just show YYYY-MM-DD)
+                const dateOnly = article.date ? article.date.split('T')[0] : '';
+
                 item.innerHTML = `
-                    <div class="news-headline">${article.title}</div>
-                    <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="news-url">${article.url}</a>
-                    <div class="news-source">${article.source}${dateStr}</div>
+                    <a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.title}</a>
+                    <div class="news-compact-meta">${article.source}${dateOnly ? ' • ' + dateOnly : ''}</div>
                 `;
-                newsList.appendChild(item);
+                newsContainer.appendChild(item);
             });
         } else {
-            newsList.innerHTML = '<div class="news-empty">No recent articles yet</div>';
+            newsContainer.innerHTML = '<div class="news-compact-empty">No recent news</div>';
         }
     }
 
@@ -1390,8 +1406,9 @@ class EconomicDashboard {
 
             const result = await response.json();
 
-            if (result.success) {
-                this.displayNews(result.data);
+            if (result.success && result.data && result.data.articles) {
+                // Update S&P 500 news display
+                this.displayCompactNews('sp500', result.data.articles);
                 alert(result.message);
             } else {
                 alert('Error: ' + result.message);
