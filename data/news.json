@@ -1,13 +1,6 @@
 {
   "sp500": [
     {
-      "url": "https://www.cnbc.com/2025/10/25/buffetts-berkshire-is-lagging-the-sp-500-by-the-largest-gap-so-far-this-year.html",
-      "title": "Warren Buffett's Berkshire is lagging the S&P 500 by the largest gap so far this year",
-      "source": "CNBC",
-      "date": "10/25/2025, 11:47 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://finance.yahoo.com/news/nancy-pelosi-crushing-p-500-153246932.html",
       "title": "Nancy Pelosi Is Crushing The S&P 500 And These Are Her 3 Best Positions",
       "source": "Yahoo Finance",
@@ -15,40 +8,47 @@
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/finance/stocks/s-p-500-climbs-to-new-record-on-strong-earnings-0be1c68f?gaa_at=eafs&gaa_n=AWEtsqeiyIjdl06mBS5IgUk8rnMUs95xRAK48vKOv4Lu1HTLF1fh9-4S6RoH&gaa_ts=68fd5cd4&gaa_sig=KiMFS42gmSFXaC8umfZXKHKdbN5r1vyU_SGhe9WsXhjExMOGnGIO3pl4BkOS-WybnXY5lvIlomndyoSfmUhV3Q%3D%3D",
-      "title": "S&P 500 Climbs to New Record on Strong Earnings - WSJ",
-      "source": "The Wall Street Journal",
-      "date": "10/24/2025, 08:58 PM, +0000 UTC",
+      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-ford-leads-automakers-higher-deckers-drops-11837019",
+      "title": "S&P 500 Gains and Losses Today: Ford Leads Automakers Higher; Deckers Stock Drops",
+      "source": "Investopedia",
+      "date": "10/24/2025, 09:14 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-for-gains-as-key-cpi-report-awaits?gaa_at=eafs&gaa_n=AWEtsqdaJHynVWCCaQmbu-gwFGH_nclarDtd1H2J2YcYC3gCcKlJPXqnZKE9&gaa_ts=68fd5cd4&gaa_sig=6CIptdqDwO3MPbb183IdpMyIwNvCKmZ5s9mAB3kmR5gzLkon585BNMB3EEWcpwA797WM5kJTlyE5iswUPYSFvw%3D%3D",
-      "title": "Stock Market on Oct. 24, 2025: Dow, S&P 500, tech-heavy Nasdaq close at record highs after softer-than-expected CPI inflation report",
-      "source": "MarketWatch",
-      "date": "10/24/2025, 08:54 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/2-magnificent-p-500-dividend-101000142.html",
+      "title": "2 Magnificent S&P 500 Dividend Stocks Down 24% to 50% to Buy and Hold Forever",
+      "source": "Yahoo Finance",
+      "date": "10/25/2025, 10:10 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-10-24/s-p-500-rally-s-next-leg-seen-fueled-by-big-buyers-on-sidelines",
-      "title": "S&P 500 Rally’s Next Leg Seen Fueled by Big Buyers on Sidelines",
-      "source": "Bloomberg.com",
-      "date": "10/24/2025, 09:30 AM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/10/22/stock-market-today-live-updates.html",
+      "title": "S&P 500 closes higher, recouping Wednesday’s loss and then some",
+      "source": "CNBC",
+      "date": "10/23/2025, 08:21 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/10/26/stock-market-today-live-updates.html",
+      "title": "Stock futures climb ahead of Big Tech earnings, widely expected Fed rate cut: Live updates",
+      "source": "CNBC",
+      "date": "10/26/2025, 10:19 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.cnbc.com/2025/10/23/us-treasury-yields-trade-comes-into-focus-.html",
-      "title": "10-year Treasury yield rises back above 4% as U.S.-China trade relations return to focus",
-      "source": "CNBC",
-      "date": "10/23/2025, 09:47 AM, +0000 UTC",
+      "url": "https://www.reuters.com/world/americas/bessent-vows-that-us-wont-lose-taxpayer-money-aiding-argentina-2025-10-26/",
+      "title": "Bessent vows that US won't lose taxpayer money aiding Argentina",
+      "source": "Reuters",
+      "date": "10/26/2025, 11:57 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/articles/jgbs-edge-higher-tracking-gains-in-u-s-treasurys-a14f06fc?gaa_at=eafs&gaa_n=AWEtsqeswSmRqqTbFD7QUnM9BcPobVkM-MPKTfnUMeFvPXPqw94ALd__AD8a&gaa_ts=68fd5cd9&gaa_sig=ZovrqSkuBiq6r8MVRUqg4gWUzRcLSW_3csLKwYzqSwvgnZttXVKA6xSsrYeINog_bmPjCdRfRkNaalWFErSRmg%3D%3D",
-      "title": "Treasury Yields Rise Ahead of September CPI",
-      "source": "The Wall Street Journal",
-      "date": "10/23/2025, 07:46 PM, +0000 UTC",
+      "url": "https://www.reuters.com/world/china/bessent-says-us-china-reach-framework-deal-rare-earths-trumps-tariff-threat-nbc-2025-10-26/",
+      "title": "Bessent says US, China reach framework deal on rare earths, Trump's tariff threat -NBC interview",
+      "source": "Reuters",
+      "date": "10/26/2025, 10:07 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -59,47 +59,40 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/china/us-china-seek-avoid-trade-war-escalation-salvage-trump-xi-meeting-malaysia-talks-2025-10-25/",
-      "title": "US, China seek to avoid trade war escalation, salvage Trump-Xi meeting in Malaysia talks",
-      "source": "Reuters",
-      "date": "10/25/2025, 10:17 AM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/10/23/us-treasury-yields-trade-comes-into-focus-.html",
+      "title": "10-year Treasury yield rises back above 4% as U.S.-China trade relations return to focus",
+      "source": "CNBC",
+      "date": "10/23/2025, 09:47 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.nytimes.com/2025/10/24/world/americas/us-sanctions-colombia-president-petro-drugs.html",
-      "title": "U.S. Imposes Sanctions on Colombia’s Leader, One of Trump’s Harshest Critics",
-      "source": "The New York Times",
-      "date": "10/25/2025, 03:50 AM, +0000 UTC",
+      "url": "https://www.reuters.com/world/china/bessent-says-china-delay-rare-earths-rules-by-year-buy-us-soybeans-2025-10-26/",
+      "title": "Bessent says China to delay rare earths rules by a year, buy U.S. soybeans",
+      "source": "Reuters",
+      "date": "10/26/2025, 01:40 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://finance.yahoo.com/news/stanchart-finally-turns-bearish-cuts-000000636.html",
-      "title": "StanChart Finally Turns Bearish, Cuts Oil Price Forecast By $15/bbl",
+      "url": "https://finance.yahoo.com/video/oils-price-spike-adds-pressure-134453939.html",
+      "title": "Oil's price spike adds new pressure to US Treasuries. Here's how.",
       "source": "Yahoo Finance",
-      "date": "10/24/2025, 12:00 AM, +0000 UTC",
+      "date": "10/23/2025, 01:44 PM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.reuters.com/world/europe/trump-sanctions-russian-oil-majors-prompting-oil-price-rise-india-jitters-2025-10-23/",
       "title": "Putin defiant after Trump sanctions Russian oil companies over Ukraine",
       "source": "Reuters",
-      "date": "10/24/2025, 04:33 AM, +0000 UTC",
+      "date": "10/23/2025, 09:45 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/oil-price-trump-sanctions-russia-8f3f8da6?gaa_at=eafs&gaa_n=AWEtsqe9bq2eQesjBrh87s8sk9_BqkdNqEQRKphzTh9GRJGYhKlZG4bxqWD8&gaa_ts=68fd5ce2&gaa_sig=-zmQ4mYtgsdystyozvBVzqGhbVm1hcKPZAoF5I2Ra-fOPT2XgyUPnHToLu7BQS4QD3WsbfNGSIR3d-H1xgbxIw%3D%3D",
-      "title": "Oil Price Rallies as Trump Sanctions Russian Producers. Why China, India Are Key.",
-      "source": "Barron's",
-      "date": "10/23/2025, 04:14 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.nytimes.com/2025/10/23/business/oil-prices-russia-sanctions.html",
-      "title": "Oil Price Jumps on Trump’s Russia Sanctions",
+      "url": "https://www.nytimes.com/2025/10/22/business/energy-environment/oil-gasoline-prices-change.html",
+      "title": "Oil Prices Dropped 18%, Helping Drivers, but Squeezing the Industry",
       "source": "The New York Times",
-      "date": "10/23/2025, 10:59 AM, +0000 UTC",
+      "date": "10/22/2025, 03:31 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -108,16 +101,16 @@
       "source": "Reuters",
       "date": "10/23/2025, 07:14 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.nytimes.com/2025/10/23/business/oil-prices-russia-sanctions.html",
+      "title": "Oil Price Jumps on Trump’s Russia Sanctions",
+      "source": "The New York Times",
+      "date": "10/23/2025, 10:59 AM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "gold": [
-    {
-      "url": "https://au.finance.yahoo.com/news/chinas-quiet-plan-behind-rising-gold-prices-as-global-economy-shifts-firewall-against-weaponisation-010101370.html",
-      "title": "China's quiet plan behind rising gold prices as global economy shifts: 'Firewall against weaponisation'",
-      "source": "Yahoo",
-      "date": "10/25/2025, 01:01 AM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-october-24-gold-opens-at-4144-after-trump-ends-trade-talks-with-canada-125354307.html",
       "title": "Gold price today, Friday, October 24: Gold opens at $4,144 after Trump ends trade talks with Canada",
@@ -133,21 +126,35 @@
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/gold-price-drops-trump-china-0c1ff421?gaa_at=eafs&gaa_n=AWEtsqcgwMv1nOypAQmJdEA4LmLRzSTluvOi5TTuUutQXgC1EH3oXBy2MT2D&gaa_ts=68fd5ce9&gaa_sig=flRuRlUayNrZFde7vFu0Bp8s_hzvSWkOPsIWAgF997Kqx48bFJJBv7zuG1lO-bhrgPCcxE5VdoRIaiL3Qg0Fcw%3D%3D",
-      "title": "Gold Price Drops Again. What’s Halting Its 9-Week Winning Run.",
-      "source": "Barron's",
-      "date": "10/24/2025, 08:48 AM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/10/24/gold-trims-losses-after-us-inflation-data-set-to-end-nine-week-win-streak.html",
+      "title": "Gold turns lower despite U.S. inflation data; set to end nine-week win streak",
+      "source": "CNBC",
+      "date": "10/24/2025, 02:05 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/barrick-mining-tsx-abx-loulo-131329420.html",
-      "title": "What Barrick Mining (TSX:ABX)'s Loulo-Gounkoto Restart Amid Gold Price Drop Means For Shareholders",
-      "source": "Yahoo Finance",
-      "date": "10/25/2025, 01:13 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/jp-morgan-sees-gold-averaging-5055oz-by-late-2026-2025-10-23/",
+      "title": "JP Morgan sees gold prices averaging $5,055 per ounce by late 2026",
+      "source": "Reuters",
+      "date": "10/23/2025, 03:53 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/articles/gold-price-rebounds-today-bc6e61a8?gaa_at=eafs&gaa_n=AWEtsqfr1XkCTT7xvZEHubd79GlIWtvibFjSUgu1kMzuVkB4rRBU_tVTxPoZ&gaa_ts=68feae99&gaa_sig=ZSi7LcJpsxB7i-Iywpi8CeQ9QTD5iVTtJzEjDtBsQXCp_j8WA5J94FIdfMzrBZXwm64LXn9uuBu1AfgMt_UAJg%3D%3D",
+      "title": "Gold Price Rebounds After Sharp Selloff. Why It's Back in Demand.",
+      "source": "Barron's",
+      "date": "10/23/2025, 02:36 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
+    {
+      "url": "https://finance.yahoo.com/news/soaring-ruble-says-russia-ukraine-155925166.html",
+      "title": "What a Soaring Ruble Says About the Russia-Ukraine War, and How to Trade It Now",
+      "source": "Yahoo Finance",
+      "date": "10/24/2025, 03:59 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.reuters.com/world/asia-pacific/dollar-calm-traders-brace-us-inflation-data-2025-10-24/",
       "title": "US dollar set for modest weekly gain after soft inflation data",
@@ -156,33 +163,19 @@
       "snippet": ""
     },
     {
+      "url": "https://finance.yahoo.com/news/bitcoin-just-doesnt-cut-it-anymore-miners-pivot-to-ai-sends-stocks-soaring-150018229.html",
+      "title": "Bitcoin 'just doesn’t cut it anymore': Miners' pivot to AI sends stocks soaring",
+      "source": "Yahoo Finance",
+      "date": "10/26/2025, 03:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://seekingalpha.com/article/4833377-growth-and-a-catalyst-make-binance-coin-more-interesting",
       "title": "Growth And A Catalyst Make Binance Coin More Interesting (Cryptocurrency:BNB-USD)",
       "source": "Seeking Alpha",
       "date": "10/25/2025, 12:45 PM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/chinas-gold-binge-may-eclipse-213103014.html",
-      "title": "China's Gold Binge May Eclipse US Dollar, Says Top Economist",
-      "source": "Yahoo Finance",
-      "date": "10/22/2025, 09:31 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://uk.finance.yahoo.com/news/usd-ai-bridges-defi-ai-103324748.html",
-      "title": "USD.AI Bridges DeFi and AI by Turning Stablecoins Into Loans for Nvidia GPUs",
-      "source": "Yahoo",
-      "date": "10/24/2025, 10:33 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/electric-vehicle-ev-testing-inspection-140000749.html",
-      "title": "Electric Vehicle (EV) Testing, Inspection and Certification Market Worth USD 10.32 Bn by 2034",
-      "source": "Yahoo Finance",
-      "date": "10/23/2025, 02:00 PM, +0000 UTC",
-      "snippet": ""
     }
   ],
-  "lastUpdated": "2025-10-25T23:12:14.266Z"
+  "lastUpdated": "2025-10-26T23:12:58.506Z"
 }
