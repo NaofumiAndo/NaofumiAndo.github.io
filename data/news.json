@@ -1,47 +1,54 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-notch-fresh-records-as-nvidia-soars-ahead-of-fed-rate-decision-200057996.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq notch fresh records as Nvidia soars ahead of Fed rate decision",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-clinches-record-dow-sp-500-dip-as-fed-cuts-rates-powell-downplays-december-cut-200248155.html",
+      "title": "Stock market today: Nasdaq clinches record, Dow, S&P 500 dip as Fed cuts rates, Powell downplays December cut",
       "source": "Yahoo Finance",
-      "date": "10/28/2025, 08:44 PM, +0000 UTC",
+      "date": "10/29/2025, 09:01 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/10/27/stock-market-today-live-updates.html",
-      "title": "Stocks close at record highs for second day as AI trade heats up ahead of Fed rate decision",
-      "source": "CNBC",
-      "date": "10/27/2025, 10:02 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/sp-nasdaq-futures-up-nvidia-eyes-5-trillion-mark-ahead-big-tech-results-2025-10-29/",
+      "title": "Dow ends down, S&P 500 flat as Powell says December rate cut far from assured",
+      "source": "Reuters",
+      "date": "10/29/2025, 10:12 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-10-28/stock-market-today-dow-s-p-live-updates?srnd=phx-markets",
-      "title": "Asian Stocks Look Higher as Fed, AI Lift Sentiment: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-29/stock-market-today-dow-s-p-live-updates",
+      "title": "Asian Rally to Stall After Powell Rate Cut Caution: Markets Wrap",
       "source": "Bloomberg.com",
-      "date": "10/28/2025, 10:30 PM, +0000 UTC",
+      "date": "10/29/2025, 10:39 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-flat-with-fed-decision-slew-of-big-tech-earnings-on-deck-225431419.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures flat with Fed decision, slew of Big Tech earnings on deck",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-drop-after-mixed-big-tech-earnings-with-trump-xi-meet-ahead-224956110.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures drop after mixed Big Tech earnings with Trump-Xi meet ahead",
       "source": "Yahoo Finance",
-      "date": "10/28/2025, 10:54 PM, +0000 UTC",
+      "date": "10/29/2025, 10:49 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/sp-500-index-additions-subtractions-honeywell-dupont-3c94c177?gaa_at=eafs&gaa_n=AWEtsqd9dr2boVaYkeSMDwKC1QdjaYod-uxOAN2ErXQy9Jl2W2dVTYmvKyp_&gaa_ts=69015187&gaa_sig=bXZw7OVWcxYG11-3IXjQF1qwyH_MPv__Q9u8So_2guw10cjtHmAVn2vFGhYU4bmslTQHTUBeoWQRDGLkh8sGFg%3D%3D",
-      "title": "The S&P 500 Adds Solstice, Qnity. Who They’re Replacing.",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-102925?gaa_at=eafs&gaa_n=AWEtsqf51xS62J3a6vZRadz9DjTP3A6esHPQo2-0BZI_dBlcf743MtN_wNDw&gaa_ts=6902a30b&gaa_sig=01V8QhDuZycdOGVwxhit4vLodPBpqIPXrOQtr_vQF-ZXZ4R-51-T5bT5TXNk0vqnb25Vgtajk3QDNpDWOTB8yg%3D%3D",
+      "title": "Stock Market Today: Stocks and Bonds Take a Hit",
       "source": "Barron's",
-      "date": "10/28/2025, 08:34 PM, +0000 UTC",
+      "date": "10/29/2025, 09:23 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.cnbc.com/2025/10/28/us-treasury-yields-investors-look-ahead-to-interest-rate-decision-.html",
-      "title": "10-year Treasury yield moves lower ahead of Fed rate decision",
+      "url": "https://www.cnbc.com/2025/10/29/us-treasury-yields-investors-await-feds-rate-decision-.html",
+      "title": "10-year Treasury yield surges back above 4% after Powell says December rate cut far from certain",
       "source": "CNBC",
-      "date": "10/28/2025, 11:26 AM, +0000 UTC",
+      "date": "10/29/2025, 10:49 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/us-treasury-gets-currency-intervention-disclosure-commitments-thailand-malaysia-2025-10-28/",
+      "title": "US Treasury gets currency intervention disclosure commitments from Thailand, Malaysia",
+      "source": "Reuters",
+      "date": "10/28/2025, 02:55 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -52,33 +59,33 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/americas/bessent-vows-that-us-wont-lose-taxpayer-money-aiding-argentina-2025-10-26/",
-      "title": "Bessent vows that US won't lose taxpayer money aiding Argentina",
-      "source": "Reuters",
-      "date": "10/26/2025, 11:57 AM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4834552-wasatch-hoisington-us-treasury-fund-q3-2025-commentary",
+      "title": "Wasatch-Hoisington U.S. Treasury Fund Q3 2025 Commentary",
+      "source": "Seeking Alpha",
+      "date": "10/29/2025, 12:43 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/asia-pacific/uss-bessent-highlights-need-sound-monetary-policy-japan-talks-2025-10-28/",
-      "title": "US Treasury's Bessent calls for 'sound' monetary policy in Japan",
-      "source": "Reuters",
-      "date": "10/28/2025, 07:22 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/10/27/us-treasury-yields-investors-await-feds-interest-rate-decision-.html",
-      "title": "10-year Treasury yield is little changed as investors await Fed's interest rate decision",
+      "url": "https://www.cnbc.com/2025/10/28/us-treasury-yields-investors-look-ahead-to-interest-rate-decision-.html",
+      "title": "10-year Treasury yield moves lower ahead of Fed rate decision",
       "source": "CNBC",
-      "date": "10/27/2025, 09:48 AM, +0000 UTC",
+      "date": "10/28/2025, 11:26 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/business/energy/oil-prices-rise-after-us-china-reach-trade-deal-framework-2025-10-27/",
-      "title": "Oil settles lower as OPEC plans to increase oil output",
+      "url": "https://www.reuters.com/sustainability/climate-energy/equinor-q3-core-profit-falls-more-than-expected-2025-10-29/",
+      "title": "Equinor profit lags forecast, lowers oil price outlook",
       "source": "Reuters",
-      "date": "10/27/2025, 08:03 PM, +0000 UTC",
+      "date": "10/29/2025, 08:09 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/india-intensifying-search-oil-gas-080200173.html",
+      "title": "India Is Intensifying Its Search for Oil and Gas as Import Pressure Builds",
+      "source": "Yahoo Finance",
+      "date": "10/27/2025, 08:02 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -89,100 +96,93 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/opinion/articles/2025-10-06/the-oil-market-s-2026-tsunami-will-be-costly-to-finance",
-      "title": "The Oil Market’s 2026 Tsunami Will Be Costly to Finance",
-      "source": "Bloomberg.com",
-      "date": "10/05/2025, 07:00 AM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/oil-edges-up-us-crude-inventory-draw-2025-10-29/",
+      "title": "Oil settles higher on large drop in US stockpiles, trade optimism",
+      "source": "Reuters",
+      "date": "10/29/2025, 07:45 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.nytimes.com/2025/10/23/business/oil-prices-russia-sanctions.html",
-      "title": "Oil Price Jumps on Trump’s Russia Sanctions",
-      "source": "The New York Times",
-      "date": "10/23/2025, 10:59 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/story/oil-prices-jumped-this-week-and-now-u-s-consumers-may-be-the-ones-to-feel-the-pain-from-trumps-russia-sanctions-269fbccf?gaa_at=eafs&gaa_n=AWEtsqeDvJvyGjkxDfHcZ-thP3MiBo6VAv2XmdLkd1D8mTE3J2vURX8xRlDQ&gaa_ts=6901518f&gaa_sig=O5khumI0inRCdKe3bH0YuC-t_CgV2R4PUnKOutwo9_NkFEnvGzlvNy8tni7cwRrHsjfHGI4COQCC4JBs6kvDsg%3D%3D",
-      "title": "Oil prices jumped this week — and now U.S. consumers may be the ones to feel the pain from Trump’s Russia sanctions",
-      "source": "MarketWatch",
-      "date": "10/25/2025, 11:00 AM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/big-oil-earnings-expected-edge-up-analysts-eye-2026-outlook-2025-10-29/",
+      "title": "Big Oil earnings expected to edge up as analysts eye 2026 outlook",
+      "source": "Reuters",
+      "date": "10/29/2025, 01:04 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://www.reuters.com/business/gold-industry-sees-price-rising-near-5000-an-ounce-over-12-months-2025-10-28/",
-      "title": "Gold industry sees price rising to near $5,000 an ounce over 12 months",
+      "url": "https://www.barrons.com/articles/gold-price-mining-stock-newmont-24feb137?gaa_at=eafs&gaa_n=AWEtsqc41zdTwNqWv6Zrazcr8MbMuVKC6YL9C9owryWEcNzTc_eJrEhiuojb&gaa_ts=6902a322&gaa_sig=6T83UF7jR6g-qzJfCQD6EsruLnekmHV9SVnXdm45s4xHhd2S24idqABTJRi2dZhNZ2V0Ww8hbnLiOgDSeY9Zxw%3D%3D",
+      "title": "Gold Prices and Miner Stocks Keep Falling. That’s a Surprise.",
+      "source": "Barron's",
+      "date": "10/27/2025, 02:04 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/annual-2026-gold-price-forecast-tops-4000oz-first-time-2025-10-27/",
+      "title": "Annual 2026 gold price forecast tops $4,000/oz for first time",
       "source": "Reuters",
-      "date": "10/28/2025, 09:35 AM, +0000 UTC",
+      "date": "10/27/2025, 11:16 AM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://fortune.com/article/current-price-of-gold-10-28-2025/",
       "title": "Current price of gold as of October 28, 2025",
       "source": "Fortune",
-      "date": "10/28/2025, 01:29 PM, +0000 UTC",
+      "date": "10/28/2025, 01:27 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/india/gold-reclaims-4000-level-softer-us-dollar-rate-cut-prospects-2025-10-28/",
-      "title": "Gold hits three-week low amid US-China trade progress",
-      "source": "Reuters",
-      "date": "10/28/2025, 06:17 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-october-29-gold-opens-flat-ahead-of-fed-rate-announcement-120123657.html",
+      "title": "Gold price today, Wednesday, October 29: Gold opens flat ahead of Fed rate announcement",
+      "source": "Yahoo Finance",
+      "date": "10/29/2025, 01:06 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/the-price-of-gold-continues-sliding-investors-should-monitor-these-critical-levels-11838288",
-      "title": "The Price of Gold Continues Sliding. Investors Should Monitor These Critical Levels",
-      "source": "Investopedia",
-      "date": "10/28/2025, 01:01 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/story/golds-selloff-may-be-an-opportunity-in-disguise-for-investors-as-the-fed-looks-to-cut-interest-rates-f2935394?gaa_at=eafs&gaa_n=AWEtsqd6P0HbLUXeotNBWgUeJIMHKeMWCihLwpWdB5u7AE6j-jx_GdiNXRew&gaa_ts=69015194&gaa_sig=-u8geJhgLa7_DYUNsENtCkj9u2KwKRgnq-zFgg4govzUMKLfX6IzES475uFv8lWy0Qf0vQYynJ6SkHaQbqsCTQ%3D%3D",
-      "title": "Gold’s selloff may be an opportunity in disguise for investors as the Fed looks to cut interest rates",
-      "source": "MarketWatch",
-      "date": "10/28/2025, 06:52 PM, +0000 UTC",
+      "url": "https://fortune.com/article/current-price-of-gold-10-29-2025/",
+      "title": "Current price of gold as of October 29, 2025",
+      "source": "Fortune",
+      "date": "10/29/2025, 01:37 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
+      "url": "https://finance.yahoo.com/news/laurentian-bank-canada-decreases-usd-222600396.html",
+      "title": "Laurentian Bank of Canada decreases its USD base rate in Canada",
+      "source": "Yahoo Finance",
+      "date": "10/29/2025, 10:26 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://www.bloomberg.com/news/articles/2025-10-28/php-usd-philippine-peso-flirts-with-record-low-on-rate-cut-view-stock-outflow",
       "title": "PHP/USD: Philippine Peso Falls to New Record Low on Rate View, Outflow",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "10/28/2025, 06:53 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/food-coatings-market-reach-usd-191700316.html",
-      "title": "Food Can Coatings Market to Reach USD 5.68 Billion by 2032, Growing At An 2.8% CAGR - Credence Research",
-      "source": "Yahoo Finance",
-      "date": "10/28/2025, 07:17 PM, +0000 UTC",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-backfoot-ahead-expected-fed-cut-aussie-gains-cpi-2025-10-29/",
+      "title": "Powell's comments curb December rate cut bets, boosting dollar",
+      "source": "Reuters",
+      "date": "10/29/2025, 07:53 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/electronic-toothbrush-market-reach-usd-195600954.html",
-      "title": "Electronic Toothbrush Market to Reach USD 6,480.86 million by 2032, Growing At An 7.45% CAGR - Credence Research",
-      "source": "Yahoo Finance",
-      "date": "10/28/2025, 07:56 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-29/pound-falls-as-investors-prepare-for-economic-blow-from-budget",
+      "title": "(GBP/USD) Pound Falls as Investors Prepare for Economic Blow From Budget",
+      "source": "Bloomberg",
+      "date": "10/29/2025, 07:49 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/latest-global-airport-cabin-baggage-153000437.html",
-      "title": "[Latest] Global Airport Cabin Baggage Scanner Market Size/Share Worth USD 7.5 Billion by 2034 at a 9.8% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "url": "https://finance.yahoo.com/news/plastic-waste-management-market-size-182600852.html",
+      "title": "Plastic Waste Management Market Size to Surpass USD 54.66 Bn by 2034",
       "source": "Yahoo Finance",
-      "date": "10/28/2025, 03:30 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/smart-grid-analytics-raises-usd-073800067.html",
-      "title": "Smart Grid Analytics Raises USD $3.3 Million to Accelerate Next-Generation AI Energy Management and Renewable Project Intelligence",
-      "source": "Yahoo Finance",
-      "date": "10/28/2025, 07:38 AM, +0000 UTC",
+      "date": "10/29/2025, 06:26 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-10-28T23:13:04.040Z"
+  "lastUpdated": "2025-10-29T23:13:10.105Z"
 }
