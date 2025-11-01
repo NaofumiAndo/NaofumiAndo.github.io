@@ -1,17 +1,17 @@
 {
   "sp500": [
     {
-      "url": "https://uk.finance.yahoo.com/news/stock-market-today-sp-500-nasdaq-rebound-as-amazon-earnings-revive-faith-in-big-tech-232027753.html",
-      "title": "Stock market today: S&P 500, Nasdaq rebound loses steam as Amazon soars after earnings shine",
-      "source": "Yahoo! Finance UK",
-      "date": "10/31/2025, 06:15 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/01/lock-in-the-gain-sp-500-enters-final-two-months-of-the-year-up-16percent.html",
+      "title": "Lock in the gain? S&P 500 enters final two months of the year up 16%",
+      "source": "CNBC",
+      "date": "11/01/2025, 12:16 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/sp-nasdaq-futures-rise-apple-amazon-forecasts-lift-sentiment-2025-10-31/",
-      "title": "Wall Street gains on Amazon boost but rate caution tempers enthusiasm",
-      "source": "Reuters",
-      "date": "10/31/2025, 08:53 PM, +0000 UTC",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-103125/card/the-s-p-500-is-up-16-in-2025-so-far-what-history-says-happens-next--ZRTcm1dB99dUIeGKXrIQ?gaa_at=eafs&gaa_n=AWEtsqfwG_tdPfegPXpuQvckY9dR2iO1zip9unv1doKa64a8WK2JBBbzponp&gaa_ts=6906976a&gaa_sig=GpqWZCrHFBB67jkw7kuC25maPfJgAugfAQoPTvl9I-VUiy-uorDlB8unY6X89lwfcUU4QLoAa6jlRJav8fbLKg%3D%3D",
+      "title": "The S&P 500 Is Up 16% in 2025 So Far. What History Says Happens Next.",
+      "source": "Barron's",
+      "date": "10/31/2025, 05:32 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -22,17 +22,17 @@
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-103125/card/dow-s-p-500-mark-best-octobers-since-2022-q4t0nNLHwG24TJxTjQYf?gaa_at=eafs&gaa_n=AWEtsqfieEEir-pdqvUB7GJ64wJ3wFr4D3-2tOcKmt_acmoh9348-YDFfdRJ&gaa_ts=69054611&gaa_sig=R6bADP7g6eN6y7hltd1vqJ0qxbJUyyrjqVUGo3zwUI7wNBfjFhC-5K4pL8PyNo1JMeisGeXowD_mehuahOcInQ%3D%3D",
-      "title": "Dow, S&P 500 Mark Best Octobers Since 2022",
-      "source": "Barron's",
-      "date": "10/31/2025, 08:41 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/finance/bullish-options-plays-set-boost-sp-500-gyrations-around-7000-level-2025-10-30/",
+      "title": "Bullish options plays set to boost S&P 500 gyrations around 7,000 level",
+      "source": "Reuters",
+      "date": "10/30/2025, 06:08 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/10/31/sp-500-tries-to-hold-gains-friday-plus-more-portfolio-earnings-on-the-horizon-.html",
-      "title": "S&P 500 tries to hold gains Friday. Plus, more portfolio earnings on the horizon",
-      "source": "CNBC",
-      "date": "10/31/2025, 06:52 PM, +0000 UTC",
+      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-meta-stock-drops-after-earnings-miss-moderna-surges-11840615",
+      "title": "S&P 500 Gains and Losses Today: Meta Stock Drops After Earnings; Moderna Surges",
+      "source": "Investopedia",
+      "date": "10/30/2025, 08:39 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -45,17 +45,10 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/china/china-us-trade-deal-could-be-signed-next-week-us-treasurys-bessent-says-2025-10-30/",
-      "title": "US Treasury's Bessent says China has approved TikTok transfer deal",
+      "url": "https://www.reuters.com/world/china/taiwans-apec-representative-discusses-chips-with-us-treasurys-bessent-2025-11-01/",
+      "title": "Taiwan's APEC representative discusses chips with US Treasury's Bessent",
       "source": "Reuters",
-      "date": "10/30/2025, 10:15 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.ft.com/content/14ca193e-8134-4215-a16b-825495fbbbe5",
-      "title": "How Scott Bessent is bringing the Maga movement to the US Treasury",
-      "source": "Financial Times",
-      "date": "10/28/2025, 01:00 PM, +0000 UTC",
+      "date": "11/01/2025, 09:17 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -71,21 +64,28 @@
       "source": "Reuters",
       "date": "10/30/2025, 12:51 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/us-retailers-left-short-changed-penny-production-ends-2025-11-01/",
+      "title": "US retailers left short-changed as penny production ends",
+      "source": "Reuters",
+      "date": "11/01/2025, 10:05 AM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.barrons.com/articles/chevron-earnings-stock-price-a53c5cee?gaa_at=eafs&gaa_n=AWEtsqeHUPWImxDrH03sV3F8cHiDlfT8J_FJ6RKJVuNODhMhg3o9WhaAPDh2&gaa_ts=69054626&gaa_sig=7Ks6vNK3ssej_gRc7wmfozdGhKV_x7dXzmDyjuV7fxea-JoyxQLiKMaIOyPnNGH79Sodbfv_WIKVQ2jufOUdyQ%3D%3D",
+      "url": "https://www.barrons.com/articles/chevron-earnings-stock-price-a53c5cee?gaa_at=eafs&gaa_n=AWEtsqcGY1qS3OWKO_rG0NZyZyKpxsMdWr6twxPPIibETFCrEUKqwpzUikIs&gaa_ts=69069774&gaa_sig=kh4rMNqaLaVy4H7aoJrGBSjxF3uG_YseqXbVI9JDqTYFgd_Wy-nPKHUSUgkB5oJGouKnkOjtFyj4Y5mBQ3Kixw%3D%3D",
       "title": "Chevron Earnings Surprise the Street as Oil Price Falls",
       "source": "Barron's",
       "date": "10/31/2025, 03:32 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/saudi-arabia-uae-pour-over-200000359.html",
-      "title": "Saudi Arabia, UAE Pour Over $130 B Into AI To Offset Oil Price Risks",
-      "source": "Yahoo Finance",
-      "date": "10/30/2025, 08:00 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4512637-exxon-and-chevron-keep-boosting-production-despite-weak-oil-price-outlook",
+      "title": "Exxon and Chevron keep boosting production despite weak oil price outlook (USO:NYSEARCA)",
+      "source": "Seeking Alpha",
+      "date": "10/31/2025, 11:37 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -96,26 +96,26 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/sustainability/climate-energy/equinor-q3-core-profit-falls-more-than-expected-2025-10-29/",
-      "title": "Equinor profit lags forecast, lowers oil price outlook",
-      "source": "Reuters",
-      "date": "10/29/2025, 08:09 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/saudi-arabia-uae-pour-over-200000359.html",
+      "title": "Saudi Arabia, UAE Pour Over $130 B Into AI To Offset Oil Price Risks",
+      "source": "Yahoo Finance",
+      "date": "10/30/2025, 08:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4836051-sabine-royalty-trust-better-way-benefit-localized-oil-price-inflation",
-      "title": "Sabine Royalty Trust: A Better Way To Benefit From Localized Oil Price Inflation",
-      "source": "Seeking Alpha",
-      "date": "10/31/2025, 02:00 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/indian-oil-corp-seeks-replace-074500227.html",
+      "title": "Indian Oil Corp. Seeks to Replace Russian Oil With American Barrels",
+      "source": "Yahoo Finance",
+      "date": "10/30/2025, 07:45 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://fortune.com/article/current-price-of-gold-10-31-2025/",
-      "title": "Current price of gold: Month Day, Year",
-      "source": "Fortune",
-      "date": "10/31/2025, 01:05 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-october-29-gold-opens-flat-ahead-of-fed-rate-announcement-120123657.html",
+      "title": "Gold price today, Wednesday, October 29: Gold opens flat ahead of Fed rate announcement",
+      "source": "Yahoo Finance",
+      "date": "10/29/2025, 01:06 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -133,10 +133,10 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-october-28-2025-gold-prices-ease-opening-below-4000-120123523.html",
-      "title": "Gold price today, Tuesday, October 28, 2025: Gold prices ease, opening below $4,000",
-      "source": "Yahoo Finance",
-      "date": "10/28/2025, 01:11 PM, +0000 UTC",
+      "url": "https://fortune.com/article/current-price-of-gold-10-31-2025/",
+      "title": "Current price of gold: Month Day, Year",
+      "source": "Fortune",
+      "date": "10/31/2025, 01:05 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -149,24 +149,24 @@
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-three-month-high-markets-puzzle-over-outlook-2025-10-31/",
-      "title": "Yen faces worst monthly drop since July as BOJ disappoints",
+      "url": "https://www.reuters.com/business/dollar-faces-prolonged-weakness-amid-fed-rate-cuts-2025-10-01/",
+      "title": "Dollar faces prolonged weakness amid Fed rate cuts: Reuters poll",
       "source": "Reuters",
-      "date": "10/31/2025, 07:01 PM, +0000 UTC",
+      "date": "10/01/2025, 07:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-10-31/hedge-funds-are-betting-yen-will-slide-to-160-by-year-s-end",
-      "title": "Hedge Funds Are Betting Yen Will Slide to 160 by Year’s End",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-28/php-usd-philippine-peso-flirts-with-record-low-on-rate-cut-view-stock-outflow",
+      "title": "PHP/USD: Philippine Peso Falls to New Record Low on Rate View, Outflow",
       "source": "Bloomberg.com",
-      "date": "10/31/2025, 03:07 AM, +0000 UTC",
+      "date": "10/28/2025, 06:53 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4836310-us-dollar-gets-more-fuel-from-powell-doubts-about-december-rate-cut",
-      "title": "The U.S. Dollar Gets More Fuel From Powell's Doubts About December Rate Cut",
-      "source": "Seeking Alpha",
-      "date": "10/31/2025, 02:00 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-10-30/php-usd-why-is-the-philippine-peso-so-weak-will-the-central-bank-intervene",
+      "title": "Why Is the Philippine Peso So Weak and Who Benefits?",
+      "source": "Bloomberg.com",
+      "date": "10/30/2025, 07:04 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -177,12 +177,12 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-10-28/php-usd-philippine-peso-flirts-with-record-low-on-rate-cut-view-stock-outflow",
-      "title": "PHP/USD: Philippine Peso Falls to New Record Low on Rate View, Outflow",
-      "source": "Bloomberg.com",
-      "date": "10/28/2025, 06:53 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/data-center-infrastructure-management-dcim-192000351.html",
+      "title": "Data Center Infrastructure Management (DCIM) Market to Surge to USD 13.93 Billion by 2035, Driven by AI and Efficiency Mandates",
+      "source": "Yahoo Finance",
+      "date": "10/30/2025, 07:20 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-10-31T23:13:15.076Z"
+  "lastUpdated": "2025-11-01T23:12:36.007Z"
 }
