@@ -1,47 +1,61 @@
 {
   "sp500": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-04/asian-stocks-look-sluggish-after-wall-street-slump-markets-wrap",
-      "title": "Asian Stocks Look Sluggish After Wall Street Slump: Markets Wrap",
-      "source": "Bloomberg",
-      "date": "11/04/2025, 10:34 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-push-higher-after-sell-off-and-adp-jobs-report-returns-to-growth-235720700.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rebound as ADP jobs jump, Supreme Court questions Trump tariff power",
+      "source": "Yahoo Finance",
+      "date": "11/05/2025, 06:36 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/futures-tumble-after-wall-st-banks-warn-market-pullback-palantir-slides-2025-11-04/",
-      "title": "Wall St ends lower as bank CEOs warn of possible pullback, fueling tech bubble jitters",
-      "source": "Reuters",
-      "date": "11/04/2025, 09:21 PM, +0000 UTC",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-try-to-consoidate-after-slide-amd-super-micro-dip-on-earnings?gaa_at=eafs&gaa_n=AWEtsqf831LhkJZUk8o14td7UGjfj2TH_tJ6qT9PaJ-fUxvnuBUJdOITw5bv&gaa_ts=690bdda1&gaa_sig=9KYwyPGjFJT8gSImFvv3t3yUWMFbSx1reKxgI3eEki_xGKzJ5fTWq3t3IUcXWwEvAB2Zed72UG6Rog8NC49i-Q%3D%3D",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq score best day in more than a week as tech rebounds and investors weigh ADP jobs report",
+      "source": "MarketWatch",
+      "date": "11/05/2025, 10:06 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-palantir-stock-plunges-despite-earnings-beat-yum-brands-climbs-11843226",
-      "title": "S&P 500 Gains & Losses Today: Palantir Stock Plunges Despite Earnings Beat; Yum! Brands Climbs",
-      "source": "Investopedia",
-      "date": "11/04/2025, 09:19 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/11/04/here-are-the-most-expensive-stocks-in-the-sp-500-alongside-palantir.html",
-      "title": "Here are the most expensive stocks in the S&P 500 alongside Palantir",
+      "url": "https://www.cnbc.com/2025/11/04/stock-market-today-live-updates.html",
+      "title": "Dow closes up 200 points after Supreme Court probes Trump tariff argument, AMD sparks AI rebound",
       "source": "CNBC",
-      "date": "11/04/2025, 02:22 PM, +0000 UTC",
+      "date": "11/05/2025, 09:22 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/s-p-500-futures-decline-in-premarket-trading-super-group-sghc-life-time-group-holdings-lead-45209726?gaa_at=eafs&gaa_n=AWEtsqfROc99D7d2nCvaTKG7zK7_I1EFdtuDxgERB8ihjw8XDgSqN8URfpHu&gaa_ts=690a8c11&gaa_sig=vZdVQRE0giB-0IhWfCm1NTENsGvsHgIJr7o72HT621uNVuCnHV-lOnnem170exgohyTpjvuRieqXdxcqDkbm2w%3D%3D",
-      "title": "S&P 500 Futures Decline in Premarket Trading; Super Group (SGHC), Life Time Group Holdings Lead",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110525?gaa_at=eafs&gaa_n=AWEtsqcLF8rhZkEAiLC_zrGYTN5lIzqZRAlt2fka1IqzWNViAEMjmBDNjXrB&gaa_ts=690bdda1&gaa_sig=RAN2p6fMmpyusZDQZ5qI0gLkhYqf0SaATFKQiW6cUB6D4Y4yBOALs6d1kXk5LkKvzoQSVl0A272h-yIKgsIg8g%3D%3D",
+      "title": "Stock Market Today: Dow, S&P 500, Nasdaq Rise; Novo Nordisk, Sarepta, Pfizer, Nvidia, More Movers",
       "source": "Barron's",
-      "date": "11/04/2025, 12:31 PM, +0000 UTC",
+      "date": "11/05/2025, 09:06 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slip-valuation-concerns-linger-2025-11-05/",
+      "title": "Wall Street ends higher as solid data, strong earnings offset valuation concerns",
+      "source": "Reuters",
+      "date": "11/05/2025, 09:20 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.bloomberg.com/news/features/2025-11-02/us-treasury-rally-stuns-wall-street-with-best-return-since-2020",
-      "title": "Treasuries Rally Is Proving Trump’s ‘Sell America’ Critics Wrong",
-      "source": "Bloomberg",
-      "date": "11/02/2025, 10:00 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-03/us-treasury-lowers-oct-dec-borrowing-estimate-to-569-billion",
+      "title": "US Treasury Lowers Oct.-Dec. Borrowing Estimate to $569 Billion",
+      "source": "Bloomberg.com",
+      "date": "11/03/2025, 08:12 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/china/us-issues-new-north-korea-related-sanctions-treasury-website-shows-2025-11-04/",
+      "title": "US imposes North Korea-related sanctions on individuals, entities for money laundering",
+      "source": "Reuters",
+      "date": "11/04/2025, 05:02 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/05/us-treasury-yields-government-shutdown-longest-in-us-history.html",
+      "title": "10-year Treasury yield jumps to 4.15% on strong data, SCOTUS skepticism on tariffs",
+      "source": "CNBC",
+      "date": "11/05/2025, 10:51 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -52,22 +66,8 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/02/bessent-trump-snap-food-stamps-shutdown.html",
-      "title": "Treasury Secretary Bessent says SNAP food benefits could restart by Wednesday",
-      "source": "CNBC",
-      "date": "11/02/2025, 03:49 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-03/us-treasury-lowers-oct-dec-borrowing-estimate-to-569-billion",
-      "title": "US Treasury Lowers Oct.-Dec. Borrowing Estimate to $569 Billion",
-      "source": "Bloomberg",
-      "date": "11/03/2025, 08:12 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://seekingalpha.com/news/4513509-us-treasury-lowers-borrowing-guidance-for-last-quarter-of-cy2025-by-21b",
-      "title": "US. Treasury lowers borrowing guidance for last quarter of CY2025 by $21B (DXY:)",
+      "title": "U.S. Treasury lowers borrowing guidance for last quarter of CY2025 by $21B (DXY:)",
       "source": "Seeking Alpha",
       "date": "11/03/2025, 08:55 PM, +0000 UTC",
       "snippet": ""
@@ -75,17 +75,10 @@
   ],
   "oil": [
     {
-      "url": "https://finance.yahoo.com/news/hsbc-maintains-bearish-oil-price-200000157.html",
-      "title": "HSBC Maintains Bearish Oil Price Forecast Despite OPEC+ Hikes",
-      "source": "Yahoo Finance",
-      "date": "11/04/2025, 08:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-extends-gains-after-opec-pauses-q1-output-hikes-2025-11-03/",
-      "title": "Oil prices steady despite OPEC+ plans to pause output increases",
+      "url": "https://www.reuters.com/business/energy/oil-prices-fall-amid-broader-market-selloff-gains-us-crude-stockpiles-2025-11-05/",
+      "title": "Oil settles down more than 1% at 2-week lows on fears of glut",
       "source": "Reuters",
-      "date": "11/03/2025, 08:19 PM, +0000 UTC",
+      "date": "11/05/2025, 08:41 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -96,6 +89,13 @@
       "snippet": ""
     },
     {
+      "url": "https://www.reuters.com/business/energy/oil-extends-gains-after-opec-pauses-q1-output-hikes-2025-11-03/",
+      "title": "Oil prices steady despite OPEC+ plans to pause output increases",
+      "source": "Reuters",
+      "date": "11/03/2025, 08:19 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://www.reuters.com/business/energy/totalenergies-ceo-bullish-oil-price-despite-slowing-chinese-demand-2025-11-03/",
       "title": "TotalEnergies CEO bullish on oil price despite slowing Chinese demand",
       "source": "Reuters",
@@ -103,19 +103,26 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/indian-refiners-pivot-away-russian-230000877.html",
-      "title": "Indian Refiners Pivot Away From Russian Oil",
-      "source": "Yahoo Finance",
-      "date": "11/01/2025, 11:00 PM, +0000 UTC",
+      "url": "https://www.nytimes.com/2025/10/23/business/oil-prices-russia-sanctions.html",
+      "title": "Oil Price Jumps on Trump’s Russia Sanctions",
+      "source": "The New York Times",
+      "date": "10/23/2025, 07:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-november-3-gold-opens-at-4001-after-china-changes-gold-tax-rebate-133421639.html",
-      "title": "Gold price today, Monday, November 3: Gold opens at $4,001 after China changes gold tax rebate",
+      "url": "https://finance.yahoo.com/news/gold-holds-drop-investors-weigh-002839440.html",
+      "title": "Gold Rebounds as Traders Assess Fed Rate Path After Job Data",
       "source": "Yahoo Finance",
-      "date": "11/03/2025, 01:34 PM, +0000 UTC",
+      "date": "11/05/2025, 08:03 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-11-03-2025/",
+      "title": "Current price of gold as of November 3, 2025",
+      "source": "Fortune",
+      "date": "11/03/2025, 02:20 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -126,63 +133,56 @@
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-on-worries-over-china-ending-tax-incentive-684e2e1b?gaa_at=eafs&gaa_n=AWEtsqdwNIku5Kry1l8fxgjaNBnlWFtIMx-0Uqq2xuKBg-77FtJMDXtcW1yW&gaa_ts=690a8c20&gaa_sig=yFqfAL5-zfnI9f01QcIHKkn6t6BiUD6eqJP97q5PkAS22GVjZe-KWkFIFy_edbaYDfQnkaO1Q8koPCxcJjCOOw%3D%3D",
-      "title": "Gold Slips Below $4,000/oz as Analysts Call Downturn ‘Correction’",
-      "source": "The Wall Street Journal",
-      "date": "11/04/2025, 07:40 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/india/gold-steadies-stronger-dollar-investors-trim-rate-cut-bets-2025-11-03/",
-      "title": "Gold steady as focus shifts to US private payroll data",
-      "source": "Reuters",
-      "date": "11/03/2025, 06:44 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-october-30-gold-falls-as-investors-weigh-rate-outlook-and-china-trade-truce-120123793.html",
-      "title": "Gold price today, Thursday, October 30: Gold falls as investors weigh rate outlook and China trade truce",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-4-2025-gold-opens-above-4000-softens-in-early-trading-133421467.html",
+      "title": "Gold price today, Tuesday, November 4, 2025: Gold opens above $4,000, softens in early trading",
       "source": "Yahoo Finance",
-      "date": "10/30/2025, 01:12 PM, +0000 UTC",
+      "date": "11/04/2025, 01:39 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-november-3-gold-opens-at-4001-after-china-changes-gold-tax-rebate-133421639.html",
+      "title": "Gold price today, Monday, November 3: Gold opens at $4,001 after China changes gold tax rebate",
+      "source": "Yahoo Finance",
+      "date": "11/03/2025, 01:34 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
-    {
-      "url": "https://www.marketwatch.com/story/why-the-u-s-dollar-is-finally-rebounding-after-a-disastrous-start-to-the-year-063fbc03?gaa_at=eafs&gaa_n=AWEtsqdXM8pcdUdezSAdlViUsWHLu0oG0bLbuIfXe8fbOLWXernO8s7gC8IQ&gaa_ts=690a8c24&gaa_sig=bpYWqXC43lsgpMw0vqUobn6JjAPbJjqVq2-bHFNi1QVAR9Z1yw36O6Fh_GYNv7DyCs0-jr1NFgbYAkAZhrAbaw%3D%3D",
-      "title": "Why the U.S. dollar is finally rebounding after a disastrous start to the year",
-      "source": "MarketWatch",
-      "date": "11/04/2025, 07:08 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-04/rbi-intervenes-again-as-indian-rupee-approaches-fresh-record-low",
-      "title": "RBI Intervenes Again, Lifting Indian Rupee From Near Record Low",
-      "source": "Bloomberg",
-      "date": "11/04/2025, 07:18 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/sol-usd-showing-signs-strength-174626872.html",
-      "title": "SOL USD Showing Signs Of Strength: Are ALTs Outperforming Bitcoin?",
-      "source": "Yahoo Finance",
-      "date": "11/04/2025, 05:46 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/european-banks-increase-reliance-us-dollar-funding-eu-regulator-finds-2025-11-03/",
-      "title": "European banks increase reliance on US dollar funding, EU regulator finds",
-      "source": "Reuters",
-      "date": "11/03/2025, 03:18 PM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://seekingalpha.com/news/4512988-bitcoin-ether-other-crypto-prices-slide-after-weekend-lull",
       "title": "Bitcoin, ether, other crypto prices slide after weekend lull (BTC-USD:Cryptocurrency)",
       "source": "Seeking Alpha",
       "date": "11/03/2025, 03:04 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/latest-global-precision-swine-farming-193000101.html",
+      "title": "[Latest] Global Precision Swine Farming Market Size/Share Worth USD 2061.6 Million by 2034 at a 9.78% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "source": "Yahoo Finance",
+      "date": "11/05/2025, 07:30 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4838484-eurusd-stabilizes-as-traders-weigh-ecb-caution-and-us-fiscal-gridlock-technical-analysis",
+      "title": "EUR/USD Stabilizes As Traders Weigh ECB Caution And U.S. Fiscal Gridlock (Technical Analysis)",
+      "source": "Seeking Alpha",
+      "date": "11/05/2025, 07:16 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/traders-stay-net-short-us-dollar-say-fx-forecasters-clinging-bearish-views-2025-11-05/",
+      "title": "Traders to stay net short the US dollar, say FX forecasters clinging to bearish views: Reuters poll",
+      "source": "Reuters",
+      "date": "11/05/2025, 01:29 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/latest-global-floor-pop-display-173000931.html",
+      "title": "[Latest] Global Floor POP Display Market Size/Share Worth USD 9.1 Billion by 2034 at a 6.2% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "source": "Yahoo Finance",
+      "date": "11/05/2025, 05:30 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-04T23:13:15.512Z"
+  "lastUpdated": "2025-11-05T23:13:31.097Z"
 }
