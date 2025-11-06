@@ -1,54 +1,47 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-push-higher-after-sell-off-and-adp-jobs-report-returns-to-growth-235720700.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rebound as ADP jobs jump, Supreme Court questions Trump tariff power",
-      "source": "Yahoo Finance",
-      "date": "11/05/2025, 06:36 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-try-to-consoidate-after-slide-amd-super-micro-dip-on-earnings?gaa_at=eafs&gaa_n=AWEtsqf831LhkJZUk8o14td7UGjfj2TH_tJ6qT9PaJ-fUxvnuBUJdOITw5bv&gaa_ts=690bdda1&gaa_sig=9KYwyPGjFJT8gSImFvv3t3yUWMFbSx1reKxgI3eEki_xGKzJ5fTWq3t3IUcXWwEvAB2Zed72UG6Rog8NC49i-Q%3D%3D",
-      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq score best day in more than a week as tech rebounds and investors weigh ADP jobs report",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-dip-valuation-anxiety-qualcomm-robinhood-lower-tesla-vote?gaa_at=eafs&gaa_n=AWEtsqdXU01U5TysFi-79B3Wfdby2GXUq_yosUA4guXhLOY01XntPoThYt_j&gaa_ts=690d2f07&gaa_sig=tYGF2mmRdl83lShX2Hf-N8POCNhlwAbKvUsjTdm1i2xdn4Fdk6ryMtzRrbpyWROY885He4Vt9qga6kieMOTYZQ%3D%3D",
+      "title": "Stock Market News, Nov. 6, 2025: Dow sheds around 400 points, S&P 500 and Nasdaq fall as investors focus on valuations, layoffs and Tesla pay vote; Qualcomm, Robinhood shares slip",
       "source": "MarketWatch",
-      "date": "11/05/2025, 10:06 PM, +0000 UTC",
+      "date": "11/06/2025, 09:55 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/04/stock-market-today-live-updates.html",
-      "title": "Dow closes up 200 points after Supreme Court probes Trump tariff argument, AMD sparks AI rebound",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-push-higher-after-sell-off-and-adp-jobs-report-returns-to-growth-235720700.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as tech rebounds, Supreme Court questions Trump tariffs",
+      "source": "Yahoo Finance",
+      "date": "11/05/2025, 09:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/05/stock-market-today-live-updates.html",
+      "title": "Dow closes lower by nearly 400 points, Nasdaq drops 1.9% as AI stocks resume their decline",
       "source": "CNBC",
-      "date": "11/05/2025, 09:22 PM, +0000 UTC",
+      "date": "11/06/2025, 09:29 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110525?gaa_at=eafs&gaa_n=AWEtsqcLF8rhZkEAiLC_zrGYTN5lIzqZRAlt2fka1IqzWNViAEMjmBDNjXrB&gaa_ts=690bdda1&gaa_sig=RAN2p6fMmpyusZDQZ5qI0gLkhYqf0SaATFKQiW6cUB6D4Y4yBOALs6d1kXk5LkKvzoQSVl0A272h-yIKgsIg8g%3D%3D",
-      "title": "Stock Market Today: Dow, S&P 500, Nasdaq Rise; Novo Nordisk, Sarepta, Pfizer, Nvidia, More Movers",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110625?gaa_at=eafs&gaa_n=AWEtsqf1WvJmj8IchNLxI54BEqg0ljZLe3XToyAPGbtbQbr0I39hWGS-BP-9&gaa_ts=690d2f07&gaa_sig=eCpKC-ihipoHhHTahmhvuhGFu9aUea0WUIzmC2bI3SNqgV89aiTURdqPcbW7jtWkQMKY5GU55MlctPOEHBiLJw%3D%3D",
+      "title": "Stock Market News From Nov. 6, 2025: Dow Falls After New Labor Market Data",
       "source": "Barron's",
-      "date": "11/05/2025, 09:06 PM, +0000 UTC",
+      "date": "11/06/2025, 10:40 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-slip-valuation-concerns-linger-2025-11-05/",
-      "title": "Wall Street ends higher as solid data, strong earnings offset valuation concerns",
-      "source": "Reuters",
-      "date": "11/05/2025, 09:20 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4517354-ai-fueled-rally-faces-reality-check-as-apollo-highlights-overheated-sp-500-valuations",
+      "title": "AI-fueled rally faces reality check as Apollo highlights overheated S&P 500 valuations",
+      "source": "Seeking Alpha",
+      "date": "11/06/2025, 03:37 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-03/us-treasury-lowers-oct-dec-borrowing-estimate-to-569-billion",
-      "title": "US Treasury Lowers Oct.-Dec. Borrowing Estimate to $569 Billion",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-06/ars-usd-warren-confirms-jpmorgan-bought-argentine-pesos-for-us-treasury",
+      "title": "ARS/USD: Warren Confirms JPMorgan Bought Argentine Pesos for US Treasury",
       "source": "Bloomberg.com",
-      "date": "11/03/2025, 08:12 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/china/us-issues-new-north-korea-related-sanctions-treasury-website-shows-2025-11-04/",
-      "title": "US imposes North Korea-related sanctions on individuals, entities for money laundering",
-      "source": "Reuters",
-      "date": "11/04/2025, 05:02 PM, +0000 UTC",
+      "date": "11/06/2025, 07:10 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -66,10 +59,17 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4513509-us-treasury-lowers-borrowing-guidance-for-last-quarter-of-cy2025-by-21b",
-      "title": "U.S. Treasury lowers borrowing guidance for last quarter of CY2025 by $21B (DXY:)",
-      "source": "Seeking Alpha",
-      "date": "11/03/2025, 08:55 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-03/us-treasury-lowers-oct-dec-borrowing-estimate-to-569-billion",
+      "title": "US Treasury Lowers Oct.-Dec. Borrowing Estimate to $569 Billion",
+      "source": "Bloomberg.com",
+      "date": "11/03/2025, 08:12 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/06/us-treasury-yields-scotus-casts-legality-doubts-on-trumps-tariffs-.html",
+      "title": "10-year Treasury yield retreats after big jump in October layoffs",
+      "source": "CNBC",
+      "date": "11/06/2025, 12:55 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -82,17 +82,17 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/morgan-stanley-first-revise-oil-090000678.html",
-      "title": "Morgan Stanley First to Revise Oil Price Forecast After OPEC+ Update",
-      "source": "Yahoo Finance",
-      "date": "11/03/2025, 09:00 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-06/saudis-cut-main-oil-price-to-asia-as-signs-of-caution-emerge",
+      "title": "Saudis Cut Main Oil Price to Asia as Signs of Caution Emerge",
+      "source": "Bloomberg.com",
+      "date": "11/06/2025, 08:10 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-extends-gains-after-opec-pauses-q1-output-hikes-2025-11-03/",
-      "title": "Oil prices steady despite OPEC+ plans to pause output increases",
-      "source": "Reuters",
-      "date": "11/03/2025, 08:19 PM, +0000 UTC",
+      "url": "https://www.wsj.com/business/energy-oil/saudi-arabia-cuts-december-oil-price-for-asia-in-sign-of-caution-9eb7bb5a?gaa_at=eafs&gaa_n=AWEtsqcGgo68HZS54CAmdyKoIZuj8rcLqUpNGDmd54ujUSIgaYMstbyHJnnD&gaa_ts=690d2f11&gaa_sig=z2pyPlDTzcrdAQqCOcgiXeopbQSAIKTn5VCq49S316YmzJ0f6q2guEYPEwpr0tzr3pqfCiNux2O_xNfeap47JA%3D%3D",
+      "title": "Saudi Arabia Cuts December Oil Price for Asia in Sign of Caution",
+      "source": "The Wall Street Journal",
+      "date": "11/06/2025, 09:31 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -103,40 +103,19 @@
       "snippet": ""
     },
     {
-      "url": "https://www.nytimes.com/2025/10/23/business/oil-prices-russia-sanctions.html",
-      "title": "Oil Price Jumps on Trump’s Russia Sanctions",
-      "source": "The New York Times",
-      "date": "10/23/2025, 07:00 AM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/oil-flat-weak-demand-oil-glut-weigh-market-2025-11-06/",
+      "title": "Oil falls as investors weigh potential supply glut, weak demand",
+      "source": "Reuters",
+      "date": "11/06/2025, 08:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://finance.yahoo.com/news/gold-holds-drop-investors-weigh-002839440.html",
-      "title": "Gold Rebounds as Traders Assess Fed Rate Path After Job Data",
-      "source": "Yahoo Finance",
-      "date": "11/05/2025, 08:03 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-11-03-2025/",
-      "title": "Current price of gold as of November 3, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-11-06-2025/",
+      "title": "Current price of gold as of November 6, 2025",
       "source": "Fortune",
-      "date": "11/03/2025, 02:20 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/finance/bofa-hikes-gold-price-forecast-5000oz-2026-2025-10-13/",
-      "title": "Morgan Stanley forecasts gold prices to reach $4,500/Oz by mid-2026",
-      "source": "Reuters",
-      "date": "10/31/2025, 07:44 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-4-2025-gold-opens-above-4000-softens-in-early-trading-133421467.html",
-      "title": "Gold price today, Tuesday, November 4, 2025: Gold opens above $4,000, softens in early trading",
-      "source": "Yahoo Finance",
-      "date": "11/04/2025, 01:39 PM, +0000 UTC",
+      "date": "11/06/2025, 02:16 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -145,28 +124,49 @@
       "source": "Yahoo Finance",
       "date": "11/03/2025, 01:34 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/annual-2026-gold-price-forecast-tops-4000oz-first-time-2025-10-27/",
+      "title": "Annual 2026 gold price forecast tops $4,000/oz for first time",
+      "source": "Reuters",
+      "date": "10/27/2025, 07:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-07-11-2025/",
+      "title": "Current price of gold as of July 11, 2025",
+      "source": "Fortune",
+      "date": "11/06/2025, 02:43 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-4-2025-gold-opens-above-4000-softens-in-early-trading-133421467.html",
+      "title": "Gold price today, Tuesday, November 4, 2025: Gold opens above $4,000, softens in early trading",
+      "source": "Yahoo Finance",
+      "date": "11/04/2025, 01:39 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://seekingalpha.com/news/4512988-bitcoin-ether-other-crypto-prices-slide-after-weekend-lull",
-      "title": "Bitcoin, ether, other crypto prices slide after weekend lull (BTC-USD:Cryptocurrency)",
-      "source": "Seeking Alpha",
-      "date": "11/03/2025, 03:04 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/dollar-dips-peaks-sterling-squeezed-ahead-boe-2025-11-06/",
+      "title": "Dollar weakens amid soft labor US data",
+      "source": "Reuters",
+      "date": "11/06/2025, 09:47 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/latest-global-precision-swine-farming-193000101.html",
-      "title": "[Latest] Global Precision Swine Farming Market Size/Share Worth USD 2061.6 Million by 2034 at a 9.78% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "url": "https://seekingalpha.com/article/4839057-bitcoin-its-now-or-never",
+      "title": "Bitcoin: It's Now Or Never (Cryptocurrency:BTC-USD)",
+      "source": "Seeking Alpha",
+      "date": "11/06/2025, 11:53 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/latest-global-orthodontic-headgear-market-203000405.html",
+      "title": "[Latest] Global Orthodontic Headgear Market Size/Share Worth USD 2.84 Billion by 2034 at a 6.24% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
       "source": "Yahoo Finance",
-      "date": "11/05/2025, 07:30 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/article/4838484-eurusd-stabilizes-as-traders-weigh-ecb-caution-and-us-fiscal-gridlock-technical-analysis",
-      "title": "EUR/USD Stabilizes As Traders Weigh ECB Caution And U.S. Fiscal Gridlock (Technical Analysis)",
-      "source": "Seeking Alpha",
-      "date": "11/05/2025, 07:16 PM, +0000 UTC",
+      "date": "11/06/2025, 08:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -177,12 +177,12 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/latest-global-floor-pop-display-173000931.html",
-      "title": "[Latest] Global Floor POP Display Market Size/Share Worth USD 9.1 Billion by 2034 at a 6.2% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "source": "Yahoo Finance",
-      "date": "11/05/2025, 05:30 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4838607-us-dollar-jumps-fed-rate-cut-bets-fall-strong-us-data",
+      "title": "U.S. Dollar Jumps: Fed Rate Cut Bets Fall And Strong U.S. Data",
+      "source": "Seeking Alpha",
+      "date": "11/05/2025, 09:56 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-05T23:13:31.097Z"
+  "lastUpdated": "2025-11-06T23:13:05.912Z"
 }
