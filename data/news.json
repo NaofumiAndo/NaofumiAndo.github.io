@@ -1,38 +1,38 @@
 {
   "sp500": [
     {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-dip-valuation-anxiety-qualcomm-robinhood-lower-tesla-vote?gaa_at=eafs&gaa_n=AWEtsqdXU01U5TysFi-79B3Wfdby2GXUq_yosUA4guXhLOY01XntPoThYt_j&gaa_ts=690d2f07&gaa_sig=tYGF2mmRdl83lShX2Hf-N8POCNhlwAbKvUsjTdm1i2xdn4Fdk6ryMtzRrbpyWROY885He4Vt9qga6kieMOTYZQ%3D%3D",
-      "title": "Stock Market News, Nov. 6, 2025: Dow sheds around 400 points, S&P 500 and Nasdaq fall as investors focus on valuations, layoffs and Tesla pay vote; Qualcomm, Robinhood shares slip",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-for-opening-gains-after-398-point-blue-chip-slump?gaa_at=eafs&gaa_n=AWEtsqcaOYNXjuUifu3d59U2lEBVi1RZzVTKX1aG6HNoDMh10Eo-MbpOocXr&gaa_ts=690e8065&gaa_sig=ADVLBIFHywcZybvNmuxs6boRuVJMHkWzIcIavQ4wl0SPnPdmE9NQJPOWAKF6aM5ENc2vIBGunJNE9021ZfdItQ%3D%3D",
+      "title": "Stock Market on Nov. 7, 2025: Dow, S&P 500 close modestly higher, Nasdaq falls as tech sees worst week since April",
       "source": "MarketWatch",
-      "date": "11/06/2025, 09:55 PM, +0000 UTC",
+      "date": "11/07/2025, 09:44 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-push-higher-after-sell-off-and-adp-jobs-report-returns-to-growth-235720700.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as tech rebounds, Supreme Court questions Trump tariffs",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-sink-as-another-tech-sell-off-has-stocks-on-track-for-brutal-week-000747395.html",
+      "title": "Stock market today: Nasdaq, S&P 500, Dow rise off lows as rough week for tech nears end",
       "source": "Yahoo Finance",
-      "date": "11/05/2025, 09:00 PM, +0000 UTC",
+      "date": "11/07/2025, 08:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/05/stock-market-today-live-updates.html",
-      "title": "Dow closes lower by nearly 400 points, Nasdaq drops 1.9% as AI stocks resume their decline",
-      "source": "CNBC",
-      "date": "11/06/2025, 09:29 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110625?gaa_at=eafs&gaa_n=AWEtsqf1WvJmj8IchNLxI54BEqg0ljZLe3XToyAPGbtbQbr0I39hWGS-BP-9&gaa_ts=690d2f07&gaa_sig=eCpKC-ihipoHhHTahmhvuhGFu9aUea0WUIzmC2bI3SNqgV89aiTURdqPcbW7jtWkQMKY5GU55MlctPOEHBiLJw%3D%3D",
-      "title": "Stock Market News From Nov. 6, 2025: Dow Falls After New Labor Market Data",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110725?gaa_at=eafs&gaa_n=AWEtsqejE6S0A_hV6JrLWVD7PPUgej29IgsONgw6BR0F7pHQwBKc-WpI6nYA&gaa_ts=690e8065&gaa_sig=x1hH3GEIj635PAJLzF7Qo-hPVOrHUEz9pu1Do1tzcZlOz1jDNmHtiw8MMb8Gm4PA-702wvLkDOo0nis9C8Nfag%3D%3D",
+      "title": "Stock Market Today: Dow, S&P 500 Rise; Nasdaq Falls; Tesla, Nvidia, Expedia, More Movers",
       "source": "Barron's",
-      "date": "11/06/2025, 10:40 PM, +0000 UTC",
+      "date": "11/07/2025, 09:25 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4517354-ai-fueled-rally-faces-reality-check-as-apollo-highlights-overheated-sp-500-valuations",
-      "title": "AI-fueled rally faces reality check as Apollo highlights overheated S&P 500 valuations",
-      "source": "Seeking Alpha",
-      "date": "11/06/2025, 03:37 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/06/stock-market-today-live-updates.html",
+      "title": "Nasdaq closes lower, capping its worst week since April",
+      "source": "CNBC",
+      "date": "11/07/2025, 09:20 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/wall-street-futures-struggle-traction-end-wobbly-week-2025-11-07/",
+      "title": "Wall St ends mixed on signs of shutdown progress",
+      "source": "Reuters",
+      "date": "11/07/2025, 09:21 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -45,35 +45,49 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/05/us-treasury-yields-government-shutdown-longest-in-us-history.html",
-      "title": "10-year Treasury yield jumps to 4.15% on strong data, SCOTUS skepticism on tariffs",
-      "source": "CNBC",
-      "date": "11/05/2025, 10:51 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/us/us-treasury-chief-says-he-will-be-present-supreme-court-hearing-tariffs-2025-11-04/",
-      "title": "US treasury chief says he will be present at Supreme Court hearing on tariffs",
-      "source": "Reuters",
-      "date": "11/04/2025, 01:49 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-03/us-treasury-lowers-oct-dec-borrowing-estimate-to-569-billion",
-      "title": "US Treasury Lowers Oct.-Dec. Borrowing Estimate to $569 Billion",
-      "source": "Bloomberg.com",
-      "date": "11/03/2025, 08:12 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.cnbc.com/2025/11/06/us-treasury-yields-scotus-casts-legality-doubts-on-trumps-tariffs-.html",
       "title": "10-year Treasury yield retreats after big jump in October layoffs",
       "source": "CNBC",
       "date": "11/06/2025, 12:55 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/politics/policy/treasury-probes-contract-program-tied-to-about-9-billion-in-small-business-deals-d90210b0?gaa_at=eafs&gaa_n=AWEtsqeFWBJVPD9yKeZg1vVQjN5MUOz35KAWigQ_X8wisTORpjcQB9oHJzj3&gaa_ts=690e806b&gaa_sig=p9Tixre2jYbUF-68-xrQE9x6RMKlb1GHnh9GhgKXmzy3BG---WNZnquoKApKjqxwdDUXsnVzc__tPV6TaLQ1xg%3D%3D",
+      "title": "Exclusive | Treasury Probes Contract Program Tied to About $9 Billion in Small-Business Deals",
+      "source": "The Wall Street Journal",
+      "date": "11/07/2025, 05:10 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.ft.com/content/e8571c4d-de75-444b-a946-38de43e687e2",
+      "title": "China borrows as cheaply as US in dollar bond market",
+      "source": "Financial Times",
+      "date": "11/06/2025, 09:56 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/china/us-issues-new-north-korea-related-sanctions-treasury-website-shows-2025-11-04/",
+      "title": "US imposes North Korea-related sanctions on individuals, entities for money laundering",
+      "source": "Reuters",
+      "date": "11/04/2025, 05:02 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "oil": [
+    {
+      "url": "https://finance.yahoo.com/news/petrobras-hikes-dividend-production-surge-110000668.html",
+      "title": "Petrobras Hikes Dividend as Production Surge Offsets Lower Oil Prices",
+      "source": "Yahoo Finance",
+      "date": "11/07/2025, 11:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/business/energy-oil/saudi-arabia-cuts-december-oil-price-for-asia-in-sign-of-caution-9eb7bb5a?gaa_at=eafs&gaa_n=AWEtsqedwH1W8wZgQrdMJeiZ2UJ4jekcllwItgsOw_xTpCLF63WQa4aKfBUN&gaa_ts=690e8072&gaa_sig=kgV5NhKQ0vWJCZ-gsErWceD0T3ZXsNLCptzX3opNmgD_Me4TPWwWANlmsdwKnbJ9UqQfSGSQhBtGzGO60boqHg%3D%3D",
+      "title": "Saudi Arabia Cuts December Oil Price for Asia in Sign of Caution",
+      "source": "The Wall Street Journal",
+      "date": "11/06/2025, 09:31 AM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.reuters.com/business/energy/oil-prices-fall-amid-broader-market-selloff-gains-us-crude-stockpiles-2025-11-05/",
       "title": "Oil settles down more than 1% at 2-week lows on fears of glut",
@@ -89,70 +103,70 @@
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/business/energy-oil/saudi-arabia-cuts-december-oil-price-for-asia-in-sign-of-caution-9eb7bb5a?gaa_at=eafs&gaa_n=AWEtsqcGgo68HZS54CAmdyKoIZuj8rcLqUpNGDmd54ujUSIgaYMstbyHJnnD&gaa_ts=690d2f11&gaa_sig=z2pyPlDTzcrdAQqCOcgiXeopbQSAIKTn5VCq49S316YmzJ0f6q2guEYPEwpr0tzr3pqfCiNux2O_xNfeap47JA%3D%3D",
-      "title": "Saudi Arabia Cuts December Oil Price for Asia in Sign of Caution",
-      "source": "The Wall Street Journal",
-      "date": "11/06/2025, 09:31 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/totalenergies-ceo-bullish-oil-price-despite-slowing-chinese-demand-2025-11-03/",
-      "title": "TotalEnergies CEO bullish on oil price despite slowing Chinese demand",
+      "url": "https://www.reuters.com/business/energy/oil-heads-second-weekly-loss-supply-concerns-weigh-2025-11-07/",
+      "title": "Crude recovers late in session on hopes over US-Hungary meeting",
       "source": "Reuters",
-      "date": "11/03/2025, 01:17 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-flat-weak-demand-oil-glut-weigh-market-2025-11-06/",
-      "title": "Oil falls as investors weigh potential supply glut, weak demand",
-      "source": "Reuters",
-      "date": "11/06/2025, 08:00 PM, +0000 UTC",
+      "date": "11/07/2025, 08:53 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://fortune.com/article/current-price-of-gold-11-06-2025/",
-      "title": "Current price of gold as of November 6, 2025",
+      "url": "https://seekingalpha.com/article/4840137-golden-year-2025-gold-price-surge-signal-in-noise",
+      "title": "A Golden Year (2025): Gold's Price Surge - The Signal In The Noise",
+      "source": "Seeking Alpha",
+      "date": "11/07/2025, 11:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-11-07-2025/",
+      "title": "Current price of gold as of November 7, 2025",
       "source": "Fortune",
-      "date": "11/06/2025, 02:16 PM, +0000 UTC",
+      "date": "11/07/2025, 02:22 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-november-3-gold-opens-at-4001-after-china-changes-gold-tax-rebate-133421639.html",
-      "title": "Gold price today, Monday, November 3: Gold opens at $4,001 after China changes gold tax rebate",
+      "url": "https://fortune.com/article/current-price-of-gold-09-11-2025/",
+      "title": "Current price of gold as of September 11, 2025",
+      "source": "Fortune",
+      "date": "11/07/2025, 11:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/gold-on-pace-for-its-best-year-since-1979--but-one-analyst-thinks-prices-have-peaked-154103408.html",
+      "title": "Gold on pace for its best year since 1979 — but one analyst thinks prices have peaked",
       "source": "Yahoo Finance",
-      "date": "11/03/2025, 01:34 PM, +0000 UTC",
+      "date": "11/07/2025, 03:41 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/finance/annual-2026-gold-price-forecast-tops-4000oz-first-time-2025-10-27/",
-      "title": "Annual 2026 gold price forecast tops $4,000/oz for first time",
+      "url": "https://www.reuters.com/world/india/gold-gains-dollar-weakens-us-rate-cut-bets-grow-2025-11-07/",
+      "title": "Gold gains as dollar softens, US shutdown jitters persist",
       "source": "Reuters",
-      "date": "10/27/2025, 07:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-07-11-2025/",
-      "title": "Current price of gold as of July 11, 2025",
-      "source": "Fortune",
-      "date": "11/06/2025, 02:43 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-4-2025-gold-opens-above-4000-softens-in-early-trading-133421467.html",
-      "title": "Gold price today, Tuesday, November 4, 2025: Gold opens above $4,000, softens in early trading",
-      "source": "Yahoo Finance",
-      "date": "11/04/2025, 01:39 PM, +0000 UTC",
+      "date": "11/07/2025, 04:19 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/business/dollar-dips-peaks-sterling-squeezed-ahead-boe-2025-11-06/",
-      "title": "Dollar weakens amid soft labor US data",
-      "source": "Reuters",
-      "date": "11/06/2025, 09:47 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-07/myr-usd-malaysian-ringgit-rises-to-13-month-high-on-rate-growth-outlook",
+      "title": "MYR/USD: Malaysian Ringgit Rises to 13-Month High on Rate, Growth Outlook",
+      "source": "Bloomberg.com",
+      "date": "11/07/2025, 03:40 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4839617-bitcoin-holds-above-100000-but-for-how-long",
+      "title": "Bitcoin Holds Above $100,000, But For How Long? (Cryptocurrency:BTC-USD)",
+      "source": "Seeking Alpha",
+      "date": "11/06/2025, 09:31 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4839922-ibit-bear-stacked-hitting-the-bounce-technical-analysis",
+      "title": "IBIT ETF: Bear Stacked, Hitting The Bounce (Technical Analysis) (Cryptocurrency:BTC-USD)",
+      "source": "Seeking Alpha",
+      "date": "11/07/2025, 03:21 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -163,26 +177,12 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/latest-global-orthodontic-headgear-market-203000405.html",
-      "title": "[Latest] Global Orthodontic Headgear Market Size/Share Worth USD 2.84 Billion by 2034 at a 6.24% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+      "url": "https://finance.yahoo.com/news/u-dental-services-organization-market-170000256.html",
+      "title": "U.S. Dental Services Organization Market to Drive USD 196.5 Billion, Growing at 17.9% CAGR by 2034",
       "source": "Yahoo Finance",
-      "date": "11/06/2025, 08:30 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/traders-stay-net-short-us-dollar-say-fx-forecasters-clinging-bearish-views-2025-11-05/",
-      "title": "Traders to stay net short the US dollar, say FX forecasters clinging to bearish views: Reuters poll",
-      "source": "Reuters",
-      "date": "11/05/2025, 01:29 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/article/4838607-us-dollar-jumps-fed-rate-cut-bets-fall-strong-us-data",
-      "title": "U.S. Dollar Jumps: Fed Rate Cut Bets Fall And Strong U.S. Data",
-      "source": "Seeking Alpha",
-      "date": "11/05/2025, 09:56 PM, +0000 UTC",
+      "date": "11/07/2025, 05:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-06T23:13:05.912Z"
+  "lastUpdated": "2025-11-07T23:12:31.360Z"
 }
