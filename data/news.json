@@ -1,91 +1,91 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-off-lows-as-rough-week-for-tech-nears-end-201237983.html",
-      "title": "Stock market today: Nasdaq, S&P 500, Dow rise off lows as rough week for tech nears end",
-      "source": "Yahoo Finance",
-      "date": "11/07/2025, 08:12 PM, +0000 UTC",
+      "url": "https://fortune.com/2025/11/10/markets-k-shaped-economy-apollo-winners-losers-wealth-ai/",
+      "title": "The S&P 500 is also in a K-shaped economy, says Apollo, with a widening gap between the winners and losers",
+      "source": "Fortune",
+      "date": "11/10/2025, 10:42 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-09/asian-traders-cautious-on-tech-shutdown-concerns-markets-wrap",
-      "title": "Asian Traders Cautious on Tech, Shutdown Concerns: Markets Wrap",
-      "source": "Bloomberg.com",
-      "date": "11/09/2025, 10:28 PM, +0000 UTC",
+      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-palantir-pops-amid-hopes-of-end-to-shutdown-health-insurer-stocks-fall-11847046",
+      "title": "S&P 500 Gains and Losses Today: Palantir Pops Amid Hopes of End to Shutdown; Health Insurer Stocks Fall",
+      "source": "Investopedia",
+      "date": "11/10/2025, 09:36 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4840566-the-one-chart-every-s-and-p-500-investor-needs-to-see-right-now",
-      "title": "The One Chart Every S&P 500 Investor Needs To See Right Now",
+      "url": "https://seekingalpha.com/article/4840576-sp-500-8-stock-market-red-flags-3-ways-to-potentially-profit-from-a-big-decline",
+      "title": "S&P 500: 8 Stock Market Red Flags, 3 Ways To Potentially Profit From A Big Decline",
       "source": "Seeking Alpha",
-      "date": "11/08/2025, 12:30 PM, +0000 UTC",
+      "date": "11/09/2025, 02:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html",
-      "title": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
-      "source": "CNBC",
-      "date": "11/08/2025, 11:32 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/meet-newest-addition-p-500-132000883.html",
+      "title": "Meet the Newest Addition to the S&P 500. The Stock Has Soared 200% Since Early Last Year, and Is Still a Buy Right Now, According to 1 Wall Street Analyst.",
+      "source": "Yahoo Finance",
+      "date": "11/09/2025, 01:20 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/story/as-stocks-wobbled-the-s-p-500-held-a-critical-threshold-heres-what-history-says-happens-next-872e02f9?gaa_at=eafs&gaa_n=AWEtsqfPc8Kl8Efg-DIRVwbX_9Xj8_fl4rjxs0fBBIG66idreeyLgNDyzWi-&gaa_ts=6911235e&gaa_sig=QuZIcCQ1Oti7vAKBygr4lx9985-FzK6OWUyggc3wIiogCmSDFYShYgbOxri8fkK6vIbtJ1xl1xEOl33okqm8wQ%3D%3D",
-      "title": "As stocks wobbled, the S&P 500 held a critical threshold. Here’s what history says happens next.",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-climb-after-vote-to-end-u-s-government-shutdown?gaa_at=eafs&gaa_n=AWEtsqfLMgVgULH3FG5mIuTDocU_GDgGouHjc3-XQIzGBYKalb0uWD63ZSVU&gaa_ts=69127528&gaa_sig=3Y9mxNKjHP27FsNjfUWhMsfNhw2oa-itzbxQwUDEgLKdPABqv-_LzVxGVEjrvxlEXhLy5lvpO-Dmc26ZGWXUew%3D%3D",
+      "title": "Stock Market News Nov. 10: Dow ends up 380 points, S&P 500 and Nasdaq record best days since May, as investors eye potential end of U.S. government shutdown this week",
       "source": "MarketWatch",
-      "date": "11/07/2025, 10:56 PM, +0000 UTC",
+      "date": "11/10/2025, 10:02 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-06/ars-usd-warren-confirms-jpmorgan-bought-argentine-pesos-for-us-treasury",
-      "title": "ARS/USD: Warren Confirms JPMorgan Bought Argentine Pesos for US Treasury",
-      "source": "Bloomberg.com",
-      "date": "11/06/2025, 07:10 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/11/06/us-treasury-yields-scotus-casts-legality-doubts-on-trumps-tariffs-.html",
-      "title": "10-year Treasury yield retreats after big jump in October layoffs",
+      "url": "https://www.cnbc.com/2025/11/10/us-treasury-yields-rise-hopes-on-government-shutdown-nearing-end-.html",
+      "title": "10-year Treasury yield gains as investors look to potential end to government shutdown",
       "source": "CNBC",
-      "date": "11/06/2025, 12:55 PM, +0000 UTC",
+      "date": "11/10/2025, 11:35 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/07/us-treasury-yields-economic-data-blackout-continues-.html",
-      "title": "Treasury yields are little changed as investors continue to face economic data blackout",
-      "source": "CNBC",
-      "date": "11/07/2025, 10:15 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-09/treasury-debt-sales-dominate-light-data-week-for-bond-traders",
-      "title": "Treasury Debt Sales Dominate Light Data Week for Bond Traders",
-      "source": "Bloomberg.com",
-      "date": "11/09/2025, 08:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/middle-east/us-sanctions-official-says-time-is-right-cut-irans-hezbollah-funding-2025-11-09/",
-      "title": "US sanctions official says time is right to cut Iran's Hezbollah funding",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-10/",
+      "title": "Stocks rally, Treasury yields advance on hopes for a US government reopening",
       "source": "Reuters",
-      "date": "11/09/2025, 06:44 AM, +0000 UTC",
+      "date": "11/10/2025, 10:26 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/ethereum-solana-etfs-green-light-213810599.html",
+      "title": "Ethereum, Solana ETFs Get Green Light for Staking via US Treasury, IRS Crypto Fund Guidance",
+      "source": "Yahoo Finance",
+      "date": "11/10/2025, 09:38 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111025/card/u-s-treasury-yields-rise-on-prospect-of-end-to-government-shutdown-Ygs3WH5CbeHWuIWOhl25?gaa_at=eafs&gaa_n=AWEtsqfruboyPQ7OFkLhKheqOcmzesuhnzDzIU6nz2H4YcMJXevaypdZ-EmJ&gaa_ts=6912752e&gaa_sig=0TTn_Ah30zB3Hg6HOSissFonRg8k2BwEOA_dydtze-3wBTNqc0EZPbp9lEskFlHNX_7FUGgqi3dyoLEWzEITWw%3D%3D",
+      "title": "U.S. Treasury Yields Rise on Prospect of End to Government Shutdown",
+      "source": "Barron's",
+      "date": "11/10/2025, 08:45 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-11-10/treasury-yields-rise-amid-breakthrough-on-us-government-shutdown",
+      "title": "Treasury Yields Rise Amid Breakthrough on US Government Shutdown",
+      "source": "Bloomberg.com",
+      "date": "11/10/2025, 09:18 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://finance.yahoo.com/news/oil-prices-set-extend-losing-064500435.html",
-      "title": "Oil Prices Set to Extend Losing Streak as Floating Storage Soars",
-      "source": "Yahoo Finance",
-      "date": "11/07/2025, 06:45 AM, +0000 UTC",
+      "url": "https://www.reuters.com/markets/commodities/trumps-oil-price-sweet-spot-is-no-mans-land-everyone-else-2025-11-10/",
+      "title": "Trump’s oil price sweet spot is ‘no man’s land’ for everyone else",
+      "source": "Reuters",
+      "date": "11/10/2025, 12:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-prices-fall-amid-broader-market-selloff-gains-us-crude-stockpiles-2025-11-05/",
-      "title": "Oil settles down more than 1% at 2-week lows on fears of glut",
-      "source": "Reuters",
-      "date": "11/05/2025, 08:41 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-06/saudis-cut-main-oil-price-to-asia-as-signs-of-caution-emerge",
+      "title": "Saudis Cut Main Oil Price to Asia as Signs of Caution Emerge",
+      "source": "Bloomberg.com",
+      "date": "11/06/2025, 08:10 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -96,93 +96,93 @@
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?gaa_at=eafs&gaa_n=AWEtsqdFH3vBuPJo58Wv1FPah6itA3fjwGngyr71Ur1j-CPZQU0ceosTTNcb&gaa_ts=69112366&gaa_sig=PIvudGLJRxwKnCak8ixx4L_QCXz45hoz6fr1hBjUreQNsG9Tlq1raNZr3p6Cb5sIyJiIkbDFd8BSxgR2mXIiMg%3D%3D",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?gaa_at=eafs&gaa_n=AWEtsqeM53MYdvWrCf6u4OPXlFJk2XHOVDzKAbmNxrCDL2wgrsQ43aVIN9uF&gaa_ts=69127537&gaa_sig=cFpS5MVM-aj4_1-xaGJKrx1EEC16SdB5xRyQuuQ0FMZS3aklkq1x7g8iZ5DvX2cXmK48qy2qZxtU8l_ybBE41g%3D%3D",
       "title": "Oil Prices Drop to the Lowest Level in Nearly Five Years - WSJ",
       "source": "The Wall Street Journal",
       "date": "10/16/2025, 07:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-extends-gains-after-opec-pauses-q1-output-hikes-2025-11-03/",
-      "title": "Oil prices steady despite OPEC+ plans to pause output increases",
+      "url": "https://www.reuters.com/business/energy/oil-gains-optimism-us-government-reopen-soon-2025-11-10/",
+      "title": "Oil prices see-saw as oversupply concerns persist",
       "source": "Reuters",
-      "date": "11/03/2025, 08:19 PM, +0000 UTC",
+      "date": "11/10/2025, 06:21 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://seekingalpha.com/article/4840137-golden-year-2025-gold-price-surge-signal-in-noise",
-      "title": "A Golden Year (2025): Gold's Price Surge - The Signal In The Noise",
-      "source": "Seeking Alpha",
-      "date": "11/07/2025, 11:00 AM, +0000 UTC",
+      "url": "https://www.barrons.com/articles/gold-price-forecast-stock-miners-ad3dd3dd?gaa_at=eafs&gaa_n=AWEtsqc7AJjuFxhyr0FsVZCdGjnq2O5W0dIXFs6aKsYr4aTIUXSu400aFNA0&gaa_ts=6912753b&gaa_sig=ELMwj3JG7XxIHF6OvKhRE4aXQj5Sq0ptHr0iiTjhnK0hIJ1LpCHTGM5NJMbwHhH-OSzG3HQlMrBhVAgF3rjVYA%3D%3D",
+      "title": "Gold Prices Are Rising Again. Why $5,000 Could Be the Next Stop.",
+      "source": "Barron's",
+      "date": "11/10/2025, 09:42 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/gold-on-pace-for-its-best-year-since-1979--but-one-analyst-thinks-prices-have-peaked-154103408.html",
-      "title": "Gold on pace for its best year since 1979 — but one analyst thinks prices have peaked",
-      "source": "Yahoo Finance",
-      "date": "11/07/2025, 03:41 PM, +0000 UTC",
+      "url": "https://ca.finance.yahoo.com/news/barrick-mining-stock-soars-near-52-week-high-as-gold-price-glitters-155413290.html",
+      "title": "Barrick Mining stock soars near 52-week high as gold price glitters",
+      "source": "Yahoo! Finance Canada",
+      "date": "11/10/2025, 09:15 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/finance/bofa-hikes-gold-price-forecast-5000oz-2026-2025-10-13/",
-      "title": "Morgan Stanley forecasts gold prices to reach $4,500/Oz by mid-2026",
-      "source": "Reuters",
-      "date": "10/31/2025, 07:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-11-07-2025/",
-      "title": "Current price of gold as of November 7, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-11-10-2025/",
+      "title": "Current price of gold as of November 10, 2025",
       "source": "Fortune",
-      "date": "11/07/2025, 02:22 PM, +0000 UTC",
+      "date": "11/10/2025, 02:14 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/india/gold-gains-dollar-weakens-us-rate-cut-bets-grow-2025-11-07/",
-      "title": "Gold gains as dollar softens, US shutdown jitters persist",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-november-7-gold-moves-above-4000-after-stock-prices-dip-133421851.html",
+      "title": "Gold price today, Friday, November 7: Gold moves above $4,000 after stock prices dip",
+      "source": "Yahoo Finance",
+      "date": "11/07/2025, 01:51 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/barrick-mining-beats-estimates-third-quarter-profit-2025-11-10/",
+      "title": "Barrick hikes dividend, shifts focus to North America as gold prices bolster profit",
       "source": "Reuters",
-      "date": "11/07/2025, 08:42 PM, +0000 UTC",
+      "date": "11/10/2025, 03:41 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-07/myr-usd-malaysian-ringgit-rises-to-13-month-high-on-rate-growth-outlook",
-      "title": "MYR/USD: Malaysian Ringgit Rises to 13-Month High on Rate, Growth Outlook",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-10/new-zealand-dollar-on-cusp-of-erasing-2025-gain-on-rate-cut-bets",
+      "title": "NZD/USD: New Zealand Dollar on Cusp of Erasing 2025 Gain on Rate-Cut Bets",
       "source": "Bloomberg.com",
-      "date": "11/07/2025, 03:40 AM, +0000 UTC",
+      "date": "11/10/2025, 08:35 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4839057-bitcoin-its-now-or-never",
-      "title": "Bitcoin: It's Now Or Never (Cryptocurrency:BTC-USD)",
-      "source": "Seeking Alpha",
-      "date": "11/06/2025, 11:53 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-09/aussie-primed-for-rare-annual-gain-on-rba-s-restrictive-policy",
-      "title": "AUD/USD: Aussie Primed for Rare Annual Gain on RBA’s Restrictive Policy",
-      "source": "Bloomberg.com",
-      "date": "11/09/2025, 07:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/textile-market-size-surpass-usd-123800010.html",
-      "title": "Textile Market Size to Surpass USD 2.01 Trillion by 2034",
+      "url": "https://finance.yahoo.com/news/does-upcoming-sofi-usd-crypto-171012782.html",
+      "title": "Does the Upcoming SoFi USD Crypto Launch Make SOFI Stock a Buy, Sell, or Hold?",
       "source": "Yahoo Finance",
-      "date": "11/07/2025, 12:38 PM, +0000 UTC",
+      "date": "11/10/2025, 05:10 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4839922-ibit-bear-stacked-hitting-the-bounce-technical-analysis",
-      "title": "IBIT ETF: Bear Stacked, Hitting The Bounce (Technical Analysis) (Cryptocurrency:BTC-USD)",
-      "source": "Seeking Alpha",
-      "date": "11/07/2025, 03:21 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/north-america-edge-data-center-162700212.html",
+      "title": "North America Edge Data Center Market to Reach USD 29.21 Billion by 2035 - DC Market Insights",
+      "source": "Yahoo Finance",
+      "date": "11/10/2025, 04:27 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/perovskite-solar-cell-market-size-151400529.html",
+      "title": "Perovskite Solar Cell Market Size Worth USD 3,604.85 Million by 2034",
+      "source": "Yahoo Finance",
+      "date": "11/10/2025, 03:14 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/hybrid-fiber-coaxial-market-expected-154400825.html",
+      "title": "Hybrid Fiber Coaxial Market is expected to generate a revenue of USD 24.37 Billion by 2031, Globally, at 8.78% CAGR: Verified Market Research®",
+      "source": "Yahoo Finance",
+      "date": "11/10/2025, 03:44 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-09T23:12:24.688Z"
+  "lastUpdated": "2025-11-10T23:13:37.853Z"
 }
