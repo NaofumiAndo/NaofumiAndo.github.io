@@ -1,54 +1,47 @@
 {
   "sp500": [
     {
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2025?gaa_at=eafs&gaa_n=AWEtsqcE_AGP5s8FIX6BehQXxWsSX7YvAspFJRbt9aWTFc2uj44egxugl_jR&gaa_ts=691669bc&gaa_sig=LBYu9he5UdT-4_Og9XXssp5zyDh6H5ib08D74LqphSKa1SDQKVbplsB5Uo6EF5AvVBaScTdmuoRGJYet-0SawQ%3D%3D",
-      "title": "Stock Market Today: Dow Falls After Shutdown Ends; Nasdaq Leads Losses — Live Updates",
-      "source": "The Wall Street Journal",
-      "date": "11/13/2025, 10:19 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-wall-street-eyes-fallout-from-us-shutdown-232101043.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq sink as Wall Street eyes fallout from US shutdown",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-close-mixed-to-cap-a-volatile-week-as-fed-cut-in-doubt-210027944.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq close mixed to cap a volatile week as Fed cut in doubt",
       "source": "Yahoo Finance",
-      "date": "11/13/2025, 09:01 PM, +0000 UTC",
+      "date": "11/14/2025, 10:03 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111325?gaa_at=eafs&gaa_n=AWEtsqcfL2CEejCuOYl8zoRGUrlh9OfZp7S8ey2_I-PS7AKBqYuAmOYjUL8N&gaa_ts=691669bc&gaa_sig=We0bWfXymst5wqE2uRL5jzYFp7UhQxDzNNaT_yiGtiZB-Xj41Zl9yAKJRRb_gPRdztC0TJeBUTf9Frh7NIuVXw%3D%3D",
-      "title": "Stock Market News From Nov. 13, 2025: Dow Falls 800 Points",
-      "source": "Barron's",
-      "date": "11/13/2025, 10:10 PM, +0000 UTC",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-14-2025?gaa_at=eafs&gaa_n=AWEtsqfPk7ek5JEshKYWLI58adSsU0GlWJsekZNOiOquplJBbvbq9Zn_Xn8-&gaa_ts=6917bb18&gaa_sig=WnUxdSRD8NuHA-LtqUxjV94QewQWFOlexAcXK0yzhPT0lgK0VuKFbgW9zoiERrkxTf79WrZhwRhkcNL5lilp5w%3D%3D",
+      "title": "Stock Market Today: Dow Slips, Nasdaq, S&P 500 Turn Higher; Bitcoin Falls— Live Updates",
+      "source": "The Wall Street Journal",
+      "date": "11/14/2025, 10:22 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-disney-drops-after-sales-miss-cisco-stock-climbs-dis-csco-11849234",
-      "title": "S&P 500 Gains and Losses Today: Disney Drops After Sales Miss; Cisco Stock Climbs",
-      "source": "Investopedia",
-      "date": "11/13/2025, 09:33 PM, +0000 UTC",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-for-more-selling-bitcoin-trades-below-100-000?gaa_at=eafs&gaa_n=AWEtsqc16QKMt40tUE1brMVWPw6Su5QuRfBVovs2kO5HDYR7hZVJH55Z__4H&gaa_ts=6917bb18&gaa_sig=WOYUvCHbka4csrz7np1MNeYzlFz1h6eczJWQjmdV2gRbx2rJDcbLe1Y65q6fCgxKzdME3tkp-1V08vPbunNBGg%3D%3D",
+      "title": "Stock Market on Nov. 14, 2025: Dow ends lower, S&P 500 slips in choppy trading session; Nasdaq rises as tech stocks advance; S&P 500 ekes out weekly gain",
+      "source": "MarketWatch",
+      "date": "11/14/2025, 09:45 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-12/stock-market-today-dow-s-p-live-updates",
-      "title": "Stocks Fall as US Reopens Amid Cloudy Fed Outlook: Markets Wrap",
-      "source": "Bloomberg.com",
-      "date": "11/13/2025, 10:02 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/13/stock-market-today-live-updates.html",
+      "title": "Nasdaq closes higher, snapping three-day losing streak as tech stocks recover some ground",
+      "source": "CNBC",
+      "date": "11/14/2025, 09:22 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/news/4522109-most-shorted-s-and-p-500-stocks-in-october",
+      "title": "Most shorted S&P 500 stocks in October (SP500:) (SP500:)",
+      "source": "Seeking Alpha",
+      "date": "11/14/2025, 02:28 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.reuters.com/world/china/us-treasury-issues-iran-related-missile-drone-sanctions-2025-11-12/",
-      "title": "US Treasury issues Iran-related missile and drone sanctions",
+      "url": "https://www.reuters.com/business/finance/us-treasury-taiwan-reaffirm-pledges-against-currency-manipulation-2025-11-14/",
+      "title": "US Treasury, Taiwan reaffirm pledges against currency manipulation",
       "source": "Reuters",
-      "date": "11/12/2025, 04:36 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/11/13/us-treasury-yields-investors-cheer-end-of-government-shutdown-.html",
-      "title": "Treasury yields rise as investors cheer end of government shutdown",
-      "source": "CNBC",
-      "date": "11/13/2025, 10:48 AM, +0000 UTC",
+      "date": "11/14/2025, 01:51 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -59,17 +52,24 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/us-10-year-treasury-yields-priced-no-inflation-surprises-set-rise-modestly-2025-11-13/",
-      "title": "US 10-year Treasury yields priced for no inflation surprises, set to rise modestly: Reuters poll",
+      "url": "https://www.reuters.com/world/china/us-treasury-issues-iran-related-missile-drone-sanctions-2025-11-12/",
+      "title": "US Treasury issues Iran-related missile and drone sanctions",
       "source": "Reuters",
-      "date": "11/13/2025, 02:04 PM, +0000 UTC",
+      "date": "11/12/2025, 04:36 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/finance/investing/jgbs-consolidate-ahead-of-japans-five-year-auction-c4204551?gaa_at=eafs&gaa_n=AWEtsqfWTow9TGPkMlJxpKCAg8kP6dlyG3X1a-by7dPP0URheyusTXv5G-5s&gaa_ts=691669c0&gaa_sig=2476jSUgaVwonTn0itsRgd50_Wmc2MLVukmxHZ5SGNauv-hMgqvsHlbqsrnEhoTpqHvD3AN8Y3dZrX5tMQVDbA%3D%3D",
-      "title": "Eurozone Bond Yields Edge Higher as U.S. Shutdown Ends",
-      "source": "The Wall Street Journal",
-      "date": "11/13/2025, 07:44 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/us-treasury-buys-back-142m-092847653.html",
+      "title": "US Treasury Buys Back $142M in Debt — Here’s What It Means for Crypto",
+      "source": "Yahoo Finance",
+      "date": "11/13/2025, 09:28 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/13/us-treasury-yields-investors-cheer-end-of-government-shutdown-.html",
+      "title": "Treasury yields rise as investors cheer end of government shutdown",
+      "source": "CNBC",
+      "date": "11/13/2025, 10:48 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -96,21 +96,35 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-retreats-oversupply-worries-2025-11-11/",
-      "title": "Oil up as investors balance sanctions risks, oversupply worries",
+      "url": "https://www.reuters.com/business/energy/eia-raises-us-oil-output-forecast-says-oversupply-will-weigh-prices-2025-11-12/",
+      "title": "EIA raises US oil output forecast, says oversupply will weigh on prices",
       "source": "Reuters",
-      "date": "11/11/2025, 08:11 PM, +0000 UTC",
+      "date": "11/12/2025, 07:53 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/markets/commodities/saudi-crude-oil-price-cut-is-just-enough-stay-competitive-2025-11-11/",
-      "title": "Saudi crude oil price cut is just enough to stay competitive",
-      "source": "Reuters",
-      "date": "11/11/2025, 01:00 PM, +0000 UTC",
+      "url": "https://www.nytimes.com/2025/10/22/business/energy-environment/oil-gasoline-prices-change.html",
+      "title": "Oil Prices Dropped 18%, Helping Drivers, but Squeezing the Industry",
+      "source": "The New York Times",
+      "date": "10/22/2025, 07:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
+    {
+      "url": "https://www.bloomberg.com/news/features/2025-11-14/soaring-gold-price-fuels-south-africa-s-deadly-illegal-mining-sector",
+      "title": "The Deadly Scrabble for Gold in Johannesburg’s Abandoned Mines",
+      "source": "Bloomberg.com",
+      "date": "11/14/2025, 09:30 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/china/asia-gold-price-rise-dulls-activity-top-hubs-india-discounts-hit-5-month-high-2025-11-14/",
+      "title": "ASIA GOLD Price rise dulls activity in top hubs; India discounts hit 5-month high",
+      "source": "Reuters",
+      "date": "11/14/2025, 06:03 AM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://fortune.com/article/current-price-of-gold-11-13-2025/",
       "title": "Current price of gold as of November 13, 2025",
@@ -119,70 +133,56 @@
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/gold-price-forecast-stock-miners-ad3dd3dd?gaa_at=eafs&gaa_n=AWEtsqeOtmKD_enPFoABSflt7ofho3xWCDDfwQ8Y0vunKCTHuDUI_c6o8eRj&gaa_ts=691669cf&gaa_sig=7ecAeyvufsncdqqTumht4TubGg4Z-sOwK83ozyf-PSPTAerd5ANM0Rdi4DPoAFxonClzfAyOtwHRTKdS7HjgoQ%3D%3D",
-      "title": "Gold Prices Are Rising Again. Why $5,000 Could Be the Next Stop.",
-      "source": "Barron's",
-      "date": "11/13/2025, 08:13 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-11-2025-gold-moves-over-4100-continuing-this-weeks-rally-130014943.html",
+      "title": "Gold price today, Tuesday, November 11, 2025: Gold moves over $4,100, continuing this week’s rally",
+      "source": "Yahoo Finance",
+      "date": "11/11/2025, 12:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-11-11-2025/",
-      "title": "Current price of gold as of November 11, 2025",
-      "source": "Fortune",
-      "date": "11/11/2025, 03:32 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-11-12-2025/",
-      "title": "Current price of gold as of November 12, 2025",
-      "source": "Fortune",
-      "date": "11/12/2025, 02:21 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/india/gold-extends-rise-trump-signs-deal-lift-shutdown-2025-11-13/",
-      "title": "Gold falls 1% as broad market sell-off follows US government reopening",
-      "source": "Reuters",
-      "date": "11/13/2025, 07:39 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/14/gold-falls-as-fed-cut-hopes-fade-after-hawkish-fed-comments.html",
+      "title": "Gold slips over 3% as hawkish Fed comments spark market sell-off",
+      "source": "CNBC",
+      "date": "11/14/2025, 12:24 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-12/jpy-usd-why-is-the-japanese-yen-so-weak-how-would-the-boj-intervene",
-      "title": "Why a Weak Japanese Yen Could Trigger Intervention",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-13/malaysia-ringgit-nears-four-year-high-as-economy-gains-strength",
+      "title": "MYR/USD: Malaysia Ringgit Nears Four-Year High as Economy Gains Strength",
       "source": "Bloomberg.com",
-      "date": "11/12/2025, 06:15 AM, +0000 UTC",
+      "date": "11/13/2025, 01:36 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/does-upcoming-sofi-usd-crypto-171012782.html",
-      "title": "Does the Upcoming SoFi USD Crypto Launch Make SOFI Stock a Buy, Sell, or Hold?",
-      "source": "Yahoo Finance",
-      "date": "11/10/2025, 05:10 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/article/4841961-cryptocurrencies-monetary-alternative-or-mass-delusion",
-      "title": "Cryptocurrencies: Monetary Alternative Or Mass Delusion? (Cryptocurrency:BTC-USD)",
+      "url": "https://seekingalpha.com/article/4843446-ethereum-time-for-panic-or-opportunity-technical-analysis",
+      "title": "Ethereum: Time For Panic Or Opportunity? (Cryptocurrency:ETH-USD)",
       "source": "Seeking Alpha",
-      "date": "11/11/2025, 05:59 PM, +0000 UTC",
+      "date": "11/13/2025, 10:38 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/africa/dollar-eases-traders-eye-december-fed-cut-weakening-us-jobs-market-2025-11-12/",
-      "title": "US dollar dips as government reopens after record shutdown",
-      "source": "Reuters",
-      "date": "11/13/2025, 03:34 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/zefiro-methane-corp-announces-record-223000162.html",
+      "title": "Zefiro Methane Corp. Announces Record Quarterly Earnings with Revenue of USD $12.1 Million",
+      "source": "Yahoo Finance",
+      "date": "11/14/2025, 10:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-13/rand-breaches-17-per-dollar-for-first-time-since-february-2023",
-      "title": "Rand Breaches 17 Per Dollar for First Time Since February 2023",
-      "source": "Bloomberg.com",
-      "date": "11/13/2025, 12:34 PM, +0000 UTC",
+      "url": "https://www.marketwatch.com/investing/cryptocurrency/ethusd?gaa_at=eafs&gaa_n=AWEtsqcWOWuHQ93DaBXYpNqpxMcgjROKx6-FGuIJMGvOQFtbkG9iUSrufv-R&gaa_ts=6917bb2f&gaa_sig=e44WZbjwCIcyfT6_ImJUlkLXUCLzJiFVQjExxsiKHE1fEshI2Bok3QKP5yg-cJAkNGzAbU-54icYQyViLJxXiw%3D%3D",
+      "title": "ETHUSD | Ethereum USD Overview",
+      "source": "MarketWatch",
+      "date": "11/14/2025, 07:45 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/property-management-software-market-reach-140000263.html",
+      "title": "Property Management Software Market to Reach USD 13.20 Billion by 2032, Growing at a CAGR of 10.14% | Report by SNS Insider",
+      "source": "Yahoo Finance",
+      "date": "11/14/2025, 02:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-13T23:13:57.513Z"
+  "lastUpdated": "2025-11-14T23:13:20.031Z"
 }
