@@ -8,47 +8,54 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-wall-street-eyes-fallout-from-us-shutdown-232101043.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq sink as Wall Street eyes fallout from US shutdown",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-as-clouded-fed-rate-cut-picture-weighs-on-wall-street-235130811.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in",
       "source": "Yahoo Finance",
-      "date": "11/13/2025, 09:01 PM, +0000 UTC",
+      "date": "11/14/2025, 02:20 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/story/here-are-novembers-worst-performing-s-p-500-stocks-so-far-including-some-surprises-783101fb?gaa_at=eafs&gaa_n=AWEtsqduMAy20o532qg1xRR2NUj_lV12NAu6pXzP9XQVpKvnqtaByh_WKBDC&gaa_ts=69190c71&gaa_sig=7H5j2jpPntVwozOMnKlNncZ_Pb3X1RLv9nsVWNCyIlmxDu8JCvaEbhzkVt8iIsijr8y7i143OPbr6Rbh980hZA%3D%3D",
+      "url": "https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html",
+      "title": "Stock futures are little changed to start the week: Live updates",
+      "source": "CNBC",
+      "date": "11/16/2025, 11:03 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/warren-buffetts-simple-advice-investors-193108468.html",
+      "title": "Warren Buffett's Simple Advice For New Investors: Start With An S&P 500 Index Fund",
+      "source": "Yahoo Finance",
+      "date": "11/16/2025, 07:31 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.marketwatch.com/story/here-are-novembers-worst-performing-s-p-500-stocks-so-far-including-some-surprises-783101fb?gaa_at=eafs&gaa_n=AWEtsqc_b0GOA-NEnjr6lQIwCantA7_bO9JqH4ocoRbkzntC9f-Cat3-m5MP&gaa_ts=691a5deb&gaa_sig=Mc4JJiRWywLmWGc2Gmc3ajJusgmrF6a32fXijaMaDBAAkjEdFxKps7VDGBj0gBQV1N5d7UE3HnOn91xIYSkSWw%3D%3D",
       "title": "Here are November’s worst-performing S&P 500 stocks so far — including some surprises",
       "source": "MarketWatch",
       "date": "11/14/2025, 01:20 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-14-2025?gaa_at=eafs&gaa_n=AWEtsqee-iDRFteuEwpUvIqrHjhNiB-vxFUII0disAsZryGScEihQvCni-at&gaa_ts=69190c71&gaa_sig=yb1IJuAPTHrQgAx5-PeLfgVrMTrD6I2N1mTY27ZtPc94JsOb_Pm93qQtXDJhWadQOFt3HZ-xtCGbM1ZbVCSVEg%3D%3D",
-      "title": "Stock Market News, Nov. 14, 2025: Dow Slips as Volatile Week Wraps Up",
-      "source": "The Wall Street Journal",
-      "date": "11/15/2025, 03:09 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/articles/healthcare-stocks-unitedhealth-pfizer-rally-26bcf393?gaa_at=eafs&gaa_n=AWEtsqfRuuOU-xSfUoeONWqwv6GjJjVO6Ri_l71BQPcAl8PchsIYIlb9Ed-N&gaa_ts=69190c71&gaa_sig=wSuMRSum1GZjCjRKX1o14R-Xs-VQam05RXiCCOq3PYFCw7AsB8LZ9RFvrKKl2Whv37Wbs0bIz8KI_iI3ZFSALg%3D%3D",
-      "title": "Healthcare Stocks Are Beating the S&P 500. Some Theories Why.",
-      "source": "Barron's",
-      "date": "11/13/2025, 07:20 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.reuters.com/business/finance/us-treasury-taiwan-reaffirm-pledges-against-currency-manipulation-2025-11-14/",
-      "title": "US Treasury, Taiwan reaffirm pledges against currency manipulation",
-      "source": "Reuters",
-      "date": "11/14/2025, 01:51 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.cnbc.com/2025/11/14/us-treasury-yields-investors-weigh-the-state-of-the-us-economy.html",
       "title": "10-year Treasury yield rises as traders assess rate outlook",
       "source": "CNBC",
       "date": "11/14/2025, 10:33 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/us/trump-withdraws-nominee-assistant-general-counsel-treasury-department-2025-11-14/",
+      "title": "Trump withdraws nominee for assistant general counsel at Treasury Department",
+      "source": "Reuters",
+      "date": "11/14/2025, 08:02 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/us-treasury-taiwan-reaffirm-pledges-against-currency-manipulation-2025-11-14/",
+      "title": "US Treasury, Taiwan reaffirm pledges against currency manipulation",
+      "source": "Reuters",
+      "date": "11/14/2025, 01:51 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -59,47 +66,19 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/china/us-treasury-issues-iran-related-missile-drone-sanctions-2025-11-12/",
-      "title": "US Treasury issues Iran-related missile and drone sanctions",
+      "url": "https://www.reuters.com/business/finance/bessent-says-he-will-adjust-us-treasury-debt-auctions-gradually-safeguard-2025-11-12/",
+      "title": "Bessent says he will adjust US Treasury debt auctions gradually, safeguard stability",
       "source": "Reuters",
-      "date": "11/12/2025, 04:36 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/11/12/us-treasury-yields-end-of-government-shutdown-nears-.html",
-      "title": "Treasury yields move lower as end of the government shutdown nears",
-      "source": "CNBC",
-      "date": "11/12/2025, 11:04 AM, +0000 UTC",
+      "date": "11/12/2025, 03:59 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/business/energy/oil-climbs-more-than-2-after-ukrainian-attack-damages-russian-oil-depot-2025-11-14/",
-      "title": "Oil settles up more than 2% as Russian port suspends oil exports after Ukrainian attack",
+      "url": "https://www.reuters.com/markets/commodities/saudi-crude-oil-price-cut-is-just-enough-stay-competitive-2025-11-11/",
+      "title": "Saudi crude oil price cut is just enough to stay competitive",
       "source": "Reuters",
-      "date": "11/14/2025, 08:04 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/why-big-oil-still-gushing-010000927.html",
-      "title": "Why Big Oil Is Still Gushing Profits Despite Low Oil Prices",
-      "source": "Yahoo Finance",
-      "date": "11/13/2025, 01:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-extends-losses-us-inventory-build-opec-forecast-shift-2025-11-13/",
-      "title": "Oil prices steady after steep losses in previous session",
-      "source": "Reuters",
-      "date": "11/13/2025, 08:29 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/eia-raises-us-oil-output-forecast-says-oversupply-will-weigh-prices-2025-11-12/",
-      "title": "EIA raises US oil output forecast, says oversupply will weigh on prices",
-      "source": "Reuters",
-      "date": "11/12/2025, 07:53 PM, +0000 UTC",
+      "date": "11/11/2025, 01:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -108,9 +87,37 @@
       "source": "The New York Times",
       "date": "10/22/2025, 07:00 AM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?gaa_at=eafs&gaa_n=AWEtsqencFpnQd78shiWQwoxpKajru1yOuO0QUFEK8z3HkXbK5C35vX-u4vZ&gaa_ts=691a5df7&gaa_sig=06rGIgFV4jMGfsndbvVxrxksMGF9N9gJplyN5EH-0JivhyiYEAmEn_qS5y3oEUaxqYLsPVji_JyEfMKg6xU3Nw%3D%3D",
+      "title": "Oil Prices Drop to the Lowest Level in Nearly Five Years",
+      "source": "The Wall Street Journal",
+      "date": "10/16/2025, 07:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-retreats-oversupply-worries-2025-11-11/",
+      "title": "Oil up as investors balance sanctions risks, oversupply worries",
+      "source": "Reuters",
+      "date": "11/11/2025, 08:11 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-extends-losses-us-inventory-build-opec-forecast-shift-2025-11-13/",
+      "title": "Oil prices steady after steep losses in previous session",
+      "source": "Reuters",
+      "date": "11/13/2025, 08:29 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "gold": [
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-11-13-2025/",
+      "title": "Current price of gold as of November 13, 2025",
+      "source": "Fortune",
+      "date": "11/13/2025, 02:22 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.bloomberg.com/news/features/2025-11-14/soaring-gold-price-fuels-south-africa-s-deadly-illegal-mining-sector",
       "title": "The Deadly Scrabble for Gold in Johannesburg’s Abandoned Mines",
@@ -126,28 +133,28 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-12-gold-stays-above-4100-as-government-shutdown-nears-an-end-130014076.html",
-      "title": "Gold price today, Wednesday, November 12: Gold stays above $4,100 as government shutdown nears an end",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-november-13-gold-rises-over-4200-after-government-shutdown-ends-130014208.html",
+      "title": "Gold price today, Thursday, November 13: Gold rises over $4,200 after government shutdown ends",
       "source": "Yahoo Finance",
-      "date": "11/12/2025, 12:53 PM, +0000 UTC",
+      "date": "11/13/2025, 12:45 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-11-12-2025/",
-      "title": "Current price of gold as of November 12, 2025",
-      "source": "Fortune",
-      "date": "11/12/2025, 02:20 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/11/14/gold-falls-as-fed-cut-hopes-fade-after-hawkish-fed-comments.html",
-      "title": "Gold slips over 3% as hawkish Fed comments spark market sell-off",
-      "source": "CNBC",
-      "date": "11/14/2025, 12:24 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/finance/bofa-hikes-gold-price-forecast-5000oz-2026-2025-10-13/",
+      "title": "Morgan Stanley forecasts gold prices to reach $4,500/Oz by mid-2026",
+      "source": "Reuters",
+      "date": "10/31/2025, 07:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
+    {
+      "url": "https://finance.yahoo.com/news/better-stablecoin-buy-paypal-usd-220300806.html",
+      "title": "Better Stablecoin Buy: PayPal USD vs. Ripple USD",
+      "source": "Yahoo Finance",
+      "date": "11/16/2025, 10:03 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.bloomberg.com/news/articles/2025-11-14/swiss-franc-surges-to-decade-high-on-stickier-inflation-outlook",
       "title": "CHF USD: Swiss Franc Surges to Decade High on Stickier Inflation Outlook",
@@ -163,26 +170,19 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-13/malaysia-ringgit-nears-four-year-high-as-economy-gains-strength",
-      "title": "MYR/USD: Malaysia Ringgit Nears Four-Year High as Economy Gains Strength",
-      "source": "Bloomberg.com",
-      "date": "11/13/2025, 01:36 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/better-stablecoin-buy-tether-usdt-144700454.html",
+      "title": "Better Stablecoin Buy: Tether (USDT) vs. Ripple USD (RLUSD)",
+      "source": "Yahoo Finance",
+      "date": "11/16/2025, 02:47 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/cardiovascular-biologics-market-expected-reach-150100677.html",
-      "title": "Cardiovascular Biologics Market Expected to Reach USD 4.23 Billion by 2033 Amid Advances in RNA and Biologic Therapies | DataM Intelligence",
+      "url": "https://finance.yahoo.com/news/crypto-price-plunge-what-eric-trump-michael-saylor-and-others-are-saying-133032286.html",
+      "title": "Crypto price plunge: What Eric Trump, Michael Saylor, and others are saying",
       "source": "Yahoo Finance",
-      "date": "11/14/2025, 03:01 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/forget-bitcoin-buy-usd-coin-114500789.html",
-      "title": "Should You Forget Bitcoin and Buy USD Coin (USDC) Instead?",
-      "source": "Yahoo Finance",
-      "date": "11/13/2025, 11:45 AM, +0000 UTC",
+      "date": "11/16/2025, 01:30 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-15T23:12:43.337Z"
+  "lastUpdated": "2025-11-16T23:12:37.715Z"
 }
