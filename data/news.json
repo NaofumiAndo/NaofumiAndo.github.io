@@ -1,54 +1,47 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-dive-after-bruising-sell-off-as-rate-cut-doubts-creep-in-235130357.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq close mixed to cap a volatile week as Fed cut in doubt",
-      "source": "Yahoo Finance",
-      "date": "11/14/2025, 09:00 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/newsletters/2025-11-17/predicting-a-16-s-p-rally-for-2026-evening-briefing-americas",
+      "title": "Who Would Predict a 16% S&P Rally for 2026?",
+      "source": "Bloomberg.com",
+      "date": "11/17/2025, 10:53 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-edge-up-as-clouded-fed-rate-cut-picture-weighs-on-wall-street-235130811.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures dive after bruising sell-off as rate-cut doubts creep in",
-      "source": "Yahoo Finance",
-      "date": "11/14/2025, 02:20 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-17/-ugly-technicals-put-the-us-stock-rally-at-risk-of-correction",
+      "title": "‘Ugly’ Technicals Put the US Stock Rally at Risk of Correction",
+      "source": "Bloomberg.com",
+      "date": "11/17/2025, 10:01 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/16/stock-market-today-live-updates.html",
-      "title": "Stock futures are little changed to start the week: Live updates",
-      "source": "CNBC",
-      "date": "11/16/2025, 11:03 PM, +0000 UTC",
+      "url": "https://www.investopedia.com/why-dell-technologies-stock-is-plunging-to-lead-s-and-p-500-decliners-monday-dell-hpe-hpq-11850671",
+      "title": "Why Dell Technologies Stock is Plunging to Lead S&P 500 Decliners Monday",
+      "source": "Investopedia",
+      "date": "11/17/2025, 08:25 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/warren-buffetts-simple-advice-investors-193108468.html",
-      "title": "Warren Buffett's Simple Advice For New Investors: Start With An S&P 500 Index Fund",
-      "source": "Yahoo Finance",
-      "date": "11/16/2025, 07:31 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/story/here-are-novembers-worst-performing-s-p-500-stocks-so-far-including-some-surprises-783101fb?gaa_at=eafs&gaa_n=AWEtsqc_b0GOA-NEnjr6lQIwCantA7_bO9JqH4ocoRbkzntC9f-Cat3-m5MP&gaa_ts=691a5deb&gaa_sig=Mc4JJiRWywLmWGc2Gmc3ajJusgmrF6a32fXijaMaDBAAkjEdFxKps7VDGBj0gBQV1N5d7UE3HnOn91xIYSkSWw%3D%3D",
-      "title": "Here are November’s worst-performing S&P 500 stocks so far — including some surprises",
+      "url": "https://www.marketwatch.com/story/the-s-p-500s-next-addition-could-be-this-red-hot-tech-stock-e8374457?gaa_at=eafs&gaa_n=AWEtsqdmzinlxdkvGulSaBTu4P22huQF24c9WLtzLyGQ5Gq3vUxKfMCkKnQq&gaa_ts=691baf91&gaa_sig=fWxgfJ6VjH4lhvxrPWYLvY5HzqCdfbmtc9U7zivwfWiM7HVJBh0Y12tmFFwlrcMWlRY7q7eDvnKFIpAGwF2raA%3D%3D",
+      "title": "The S&P 500’s next addition could be this red-hot tech stock",
       "source": "MarketWatch",
-      "date": "11/14/2025, 01:20 PM, +0000 UTC",
+      "date": "11/17/2025, 07:10 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-11-17/s-p-500-fluctuates-ahead-of-nvidia-results-economic-data-deluge",
+      "title": "S&P 500 Fluctuates Ahead of Nvidia Results, Economic Data Deluge",
+      "source": "Bloomberg.com",
+      "date": "11/17/2025, 09:27 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.cnbc.com/2025/11/14/us-treasury-yields-investors-weigh-the-state-of-the-us-economy.html",
-      "title": "10-year Treasury yield rises as traders assess rate outlook",
+      "url": "https://www.cnbc.com/2025/11/17/us-treasury-yields-investors-anticipate-delayed-economic-data.html",
+      "title": "10-year Treasury yield inches lower as investors anticipate delayed economic data",
       "source": "CNBC",
-      "date": "11/14/2025, 10:33 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/us/trump-withdraws-nominee-assistant-general-counsel-treasury-department-2025-11-14/",
-      "title": "Trump withdraws nominee for assistant general counsel at Treasury Department",
-      "source": "Reuters",
-      "date": "11/14/2025, 08:02 PM, +0000 UTC",
+      "date": "11/17/2025, 09:57 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -59,40 +52,33 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/13/us-treasury-yields-investors-cheer-end-of-government-shutdown-.html",
-      "title": "Treasury yields rise as investors cheer end of government shutdown",
-      "source": "CNBC",
-      "date": "11/13/2025, 10:48 AM, +0000 UTC",
+      "url": "https://www.reuters.com/world/us/trump-withdraws-nominee-assistant-general-counsel-treasury-department-2025-11-14/",
+      "title": "Trump withdraws nominee for assistant general counsel at Treasury Department",
+      "source": "Reuters",
+      "date": "11/14/2025, 08:02 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/finance/bessent-says-he-will-adjust-us-treasury-debt-auctions-gradually-safeguard-2025-11-12/",
-      "title": "Bessent says he will adjust US Treasury debt auctions gradually, safeguard stability",
+      "url": "https://www.ft.com/content/e8571c4d-de75-444b-a946-38de43e687e2",
+      "title": "China borrows as cheaply as US in dollar bond market",
+      "source": "Financial Times",
+      "date": "11/05/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/retail-consumer/global-markets-global-markets-2025-11-17/",
+      "title": "Wall Street dips and Treasury yields slip as investors eye Nvidia results, data onslaught",
       "source": "Reuters",
-      "date": "11/12/2025, 03:59 PM, +0000 UTC",
+      "date": "11/17/2025, 08:16 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/markets/commodities/saudi-crude-oil-price-cut-is-just-enough-stay-competitive-2025-11-11/",
-      "title": "Saudi crude oil price cut is just enough to stay competitive",
-      "source": "Reuters",
-      "date": "11/11/2025, 01:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.nytimes.com/2025/10/22/business/energy-environment/oil-gasoline-prices-change.html",
-      "title": "Oil Prices Dropped 18%, Helping Drivers, but Squeezing the Industry",
-      "source": "The New York Times",
-      "date": "10/22/2025, 07:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-drop-to-the-lowest-level-in-nearly-five-years-d7515a8f?gaa_at=eafs&gaa_n=AWEtsqencFpnQd78shiWQwoxpKajru1yOuO0QUFEK8z3HkXbK5C35vX-u4vZ&gaa_ts=691a5df7&gaa_sig=06rGIgFV4jMGfsndbvVxrxksMGF9N9gJplyN5EH-0JivhyiYEAmEn_qS5y3oEUaxqYLsPVji_JyEfMKg6xU3Nw%3D%3D",
-      "title": "Oil Prices Drop to the Lowest Level in Nearly Five Years",
-      "source": "The Wall Street Journal",
-      "date": "10/16/2025, 07:00 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-17/russian-oil-plunges-with-top-producers-days-away-from-sanctions",
+      "title": "Russian Oil Plunges With Top Producers Days Away From Sanctions",
+      "source": "Bloomberg.com",
+      "date": "11/17/2025, 11:59 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -103,86 +89,100 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-extends-losses-us-inventory-build-opec-forecast-shift-2025-11-13/",
-      "title": "Oil prices steady after steep losses in previous session",
+      "url": "https://www.nytimes.com/2025/10/22/business/energy-environment/oil-gasoline-prices-change.html",
+      "title": "Oil Prices Dropped 18%, Helping Drivers, but Squeezing the Industry",
+      "source": "The New York Times",
+      "date": "10/22/2025, 07:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-falls-after-loadings-resume-key-russian-export-hub-2025-11-17/",
+      "title": "Oil prices steady after loadings resume at Russian export hub",
       "source": "Reuters",
-      "date": "11/13/2025, 08:29 PM, +0000 UTC",
+      "date": "11/17/2025, 06:11 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/markets/commodities/saudi-crude-oil-price-cut-is-just-enough-stay-competitive-2025-11-11/",
+      "title": "Saudi crude oil price cut is just enough to stay competitive",
+      "source": "Reuters",
+      "date": "11/11/2025, 01:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://fortune.com/article/current-price-of-gold-11-13-2025/",
-      "title": "Current price of gold as of November 13, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-11-17-2025/",
+      "title": "Current price of gold as of November 17, 2025",
       "source": "Fortune",
-      "date": "11/13/2025, 02:22 PM, +0000 UTC",
+      "date": "11/17/2025, 02:19 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/features/2025-11-14/soaring-gold-price-fuels-south-africa-s-deadly-illegal-mining-sector",
-      "title": "The Deadly Scrabble for Gold in Johannesburg’s Abandoned Mines",
-      "source": "Bloomberg.com",
-      "date": "11/14/2025, 09:30 AM, +0000 UTC",
+      "url": "https://www.investopedia.com/where-do-gold-prices-go-from-here-here-is-what-experts-say-11848737",
+      "title": "Where Do Gold Prices Go From Here? Here's What Experts Say",
+      "source": "Investopedia",
+      "date": "11/13/2025, 11:11 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4844225-k92-mining-processing-plant-expansion-and-record-gold-price-upward-momentum-continues",
-      "title": "K92 Mining: Processing Plant Expansion And Record Gold Price; Upward Momentum Continues (OTCMKTS:KNTNF)",
-      "source": "Seeking Alpha",
-      "date": "11/15/2025, 12:27 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/14/gold-falls-as-fed-cut-hopes-fade-after-hawkish-fed-comments.html",
+      "title": "Gold edges lower as dollar firms; investors eye US data",
+      "source": "CNBC",
+      "date": "11/14/2025, 12:24 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-november-13-gold-rises-over-4200-after-government-shutdown-ends-130014208.html",
-      "title": "Gold price today, Thursday, November 13: Gold rises over $4,200 after government shutdown ends",
+      "url": "https://finance.yahoo.com/news/gold-steady-two-days-losses-011909221.html",
+      "title": "Gold Slips as Traders Assess Fading US Interest Rate Cut Outlook",
       "source": "Yahoo Finance",
-      "date": "11/13/2025, 12:45 PM, +0000 UTC",
+      "date": "11/17/2025, 09:08 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/finance/bofa-hikes-gold-price-forecast-5000oz-2026-2025-10-13/",
-      "title": "Morgan Stanley forecasts gold prices to reach $4,500/Oz by mid-2026",
-      "source": "Reuters",
-      "date": "10/31/2025, 07:00 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-november-14-gold-hangs-around-4200-amid-unclear-rate-outlook-130014946.html",
+      "title": "Gold price today, Friday, November 14: Gold hangs around $4,200 amid unclear rate outlook",
+      "source": "Yahoo Finance",
+      "date": "11/14/2025, 12:42 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://finance.yahoo.com/news/better-stablecoin-buy-paypal-usd-220300806.html",
-      "title": "Better Stablecoin Buy: PayPal USD vs. Ripple USD",
+      "url": "https://finance.yahoo.com/news/eth-usd-trapped-ethereum-price-104646056.html",
+      "title": "ETH USD Is Trapped: Ethereum Price Prediction Sounds Alarm on Bear Channel",
       "source": "Yahoo Finance",
-      "date": "11/16/2025, 10:03 PM, +0000 UTC",
+      "date": "11/17/2025, 10:46 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-14/swiss-franc-surges-to-decade-high-on-stickier-inflation-outlook",
-      "title": "CHF USD: Swiss Franc Surges to Decade High on Stickier Inflation Outlook",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-steady-investors-eye-release-us-data-backlog-2025-11-17/",
+      "title": "Dollar firms as traders await return of U.S. data",
+      "source": "Reuters",
+      "date": "11/17/2025, 03:52 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-11-17/taiwan-dollar-rises-as-central-bank-to-avoid-fx-manipulation",
+      "title": "TWD/USD: Taiwan Dollar Rises as Central Bank to Avoid FX Manipulation",
       "source": "Bloomberg.com",
-      "date": "11/14/2025, 10:02 AM, +0000 UTC",
+      "date": "11/17/2025, 03:13 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4521724-bitcoin-slides-below-100k-dragging-down-coinbase-robinhood-miners-others",
-      "title": "Crypto weakness drags down Coinbase, Robinhood, miners, others (BTC-USD:Cryptocurrency)",
+      "url": "https://seekingalpha.com/article/4844754-usd-amplified-exposure-to-semiconductor-industry",
+      "title": "USD: Amplified Exposure To The Semiconductor Industry (NYSEARCA:USD)",
       "source": "Seeking Alpha",
-      "date": "11/13/2025, 06:51 PM, +0000 UTC",
+      "date": "11/17/2025, 09:24 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/better-stablecoin-buy-tether-usdt-144700454.html",
-      "title": "Better Stablecoin Buy: Tether (USDT) vs. Ripple USD (RLUSD)",
+      "url": "https://finance.yahoo.com/video/citi-says-bitcoin-drop-flashing-202511096.html",
+      "title": "Citi says bitcoin’s drop is flashing a warning sign for stocks",
       "source": "Yahoo Finance",
-      "date": "11/16/2025, 02:47 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/crypto-price-plunge-what-eric-trump-michael-saylor-and-others-are-saying-133032286.html",
-      "title": "Crypto price plunge: What Eric Trump, Michael Saylor, and others are saying",
-      "source": "Yahoo Finance",
-      "date": "11/16/2025, 01:30 PM, +0000 UTC",
+      "date": "11/17/2025, 08:25 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-16T23:12:37.715Z"
+  "lastUpdated": "2025-11-17T23:13:14.995Z"
 }
