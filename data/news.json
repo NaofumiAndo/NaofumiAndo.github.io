@@ -1,47 +1,47 @@
 {
   "sp500": [
     {
-      "url": "https://www.cnbc.com/2025/11/18/stock-market-today-live-updates.html",
-      "title": "Stocks close higher, snapping losing streak as Nvidia rebounds ahead of earnings report",
-      "source": "CNBC",
-      "date": "11/19/2025, 09:19 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-inch-up-as-wall-street-awaits-nvidia-earnings-233634256.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as stocks pause sell-off streak before Nvidia earnings",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-after-nvidia-earnings-jobs-report-beats-143553801.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq wipe out gains in sharp reversal lower as Nvidia slides",
       "source": "Yahoo Finance",
-      "date": "11/19/2025, 10:11 PM, +0000 UTC",
+      "date": "11/20/2025, 06:07 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/finance/stocks/tech-rebound-helps-s-p-500-snap-four-day-slump-bf7169b7?gaa_at=eafs&gaa_n=AWEtsqchJ3QaA0cN0djfPmkOCznl0U7pqWPPe8CrKo6UORh3PQwOo3ibpP8R&gaa_ts=691e52b1&gaa_sig=G7y1VwCnWLUVjDTZKSuaAiJduvlQDoKm0Slhp99RM6LVU72HO2WRWBzH-hZIQXg0nuDbIt6sX03x3oJMbY4icg%3D%3D",
-      "title": "Tech Rebound Helps S&P 500 Snap Four-Day Slump",
-      "source": "The Wall Street Journal",
-      "date": "11/19/2025, 10:01 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111925?gaa_at=eafs&gaa_n=AWEtsqeOBpiwxrh7i8OldUyvlrz8IzNHgOHP473CAfgyt1oXAIrmX915Wpon&gaa_ts=691e52b1&gaa_sig=aEr37dyn65mjZC5dF-9JwmFCvQuXDLoS32rsv9bMJ-KrJj-RjC_T5uQi1zLOHLjN7lEh7JHTXi9tWjQWviGYAA%3D%3D",
-      "title": "S&P 500 Rises 0.4% to Snap Losing Streak. Nvidia Earnings Push Stocks Even Higher in After-Hours Trading.",
+      "url": "https://www.barrons.com/articles/strategy-sp500-msci-indexes-c35cbcc5?gaa_at=eafs&gaa_n=AWEtsqc3-2iG3YAseu6bptCdYIBPp38VShwGF5AAz5JqyFTBvqBN1kcOwEI6&gaa_ts=691fa427&gaa_sig=0dnv16taf8oHs7mXScInwIQoWcN9lBMEtInZgrSfv-Z3scONsMQ1Vc8l3fYc_vn9HO1jH2QHPqxCWrxMTbSqqQ%3D%3D",
+      "title": "Strategy Isn’t in S&P 500. Now It Could Get Kicked Out of Other Indexes.",
       "source": "Barron's",
-      "date": "11/19/2025, 10:04 PM, +0000 UTC",
+      "date": "11/20/2025, 05:05 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-steady-after-4-day-losing-streak-nvidia-earnings/card/dow-and-s-p-500-snap-4-day-losing-streaks-nasdaq-climbs-ahead-of-nvidia-earnings-PjDzld6EzLa8Mpq79IB6?gaa_at=eafs&gaa_n=AWEtsqcPVmvaJfLYZCDciKMHRyfWzll3myUIjbGrMeYJuEpzgL1E8JKgRmNv&gaa_ts=691e52b1&gaa_sig=YjA2e1U7-1vACiuGNyrpRMYjXRZoEnsoBdjyHUDenqTyhpBzd34hGwVtJzDBbr8tGWZ4ZnSNBKJ6cWA2c7NTIQ%3D%3D",
-      "title": "Dow and S&P 500 snap 4-day losing streaks, Nasdaq climbs ahead of Nvidia earnings",
-      "source": "MarketWatch",
-      "date": "11/19/2025, 09:25 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-20/citadel-s-rubner-sees-s-p-500-rebounding-to-7-000-after-healthy-pullback",
+      "title": "Citadel’s Rubner Sees S&P 500 Rebounding to 7,000 After ‘Healthy’ Pullback",
+      "source": "Bloomberg.com",
+      "date": "11/20/2025, 04:25 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/barclays-raises-target-estimates-11-gain-sp-500-by-end-2026-2025-11-19/",
+      "title": "Barclays raises target, estimates 11% gain for S&P 500 by end-2026",
+      "source": "Reuters",
+      "date": "11/19/2025, 11:48 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4846152-100000-in-the-s-and-p-500s-5-cheapest-healthcare-stocks-4-percent-average-dividend-yield",
+      "title": "$100,000 In The S&P 500’s 5 Cheapest Healthcare Stocks, 4% Average Dividend Yield (SP500)",
+      "source": "Seeking Alpha",
+      "date": "11/20/2025, 04:17 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111925/card/u-s-treasury-yields-stall-as-investors-await-fed-minutes-yycJlcQc3zzmJE2tZF5k?modCode=hp_LEDE_A_LC_9&gaa_at=eafs&gaa_n=AWEtsqeP-NyLg6vdTDFI73WQ9zVdC4jnzXD7bh402zYmwm5_SC4DWs9ytajk&gaa_ts=691e52b6&gaa_sig=4URbedpCAPR2WEPuK2AFIoHUcnsGch1unrm0foEajzGcnQ3ZBziuKfdm876COB-4txAnlohm9fWuX3DuH5H5JA%3D%3D",
-      "title": "U.S. Treasury Yields Stall as Investors Await Fed Minutes",
-      "source": "Barron's",
-      "date": "11/19/2025, 09:36 AM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/20/us-treasury-yields-investors-await-delayed-jobs-report.html",
+      "title": "Treasury yields are lower after jobless rate moves up in delayed September labor report",
+      "source": "CNBC",
+      "date": "11/20/2025, 11:09 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -52,10 +52,17 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/17/us-treasury-yields-investors-anticipate-delayed-economic-data.html",
-      "title": "10-year Treasury yield inches lower as investors anticipate delayed economic data",
-      "source": "CNBC",
-      "date": "11/17/2025, 09:57 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-20/us-treasuries-gain-after-unemployment-rate-ticks-higher",
+      "title": "US Treasuries Gain After Unemployment Rate Ticks Higher",
+      "source": "Bloomberg.com",
+      "date": "11/20/2025, 09:17 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-112025/card/u-s-treasury-yields-rise-after-fed-minutes-u23WnyzipVMxQwsAJCW9?gaa_at=eafs&gaa_n=AWEtsqd7rtpGGrvFapQ1vuHMI5XKrPG_VyCFKD-urTj38rBlHAIK0EWvOlLf&gaa_ts=691fa42c&gaa_sig=Iw22SOWjKUch9Yif4JYocHqqYEyu7pekEwEWeSjdHthzENz-B4DucX6Ges9oWB6KQKck4AfIdS92A5TxnjLhXg%3D%3D",
+      "title": "U.S. Treasury Yields Rise After Fed Minutes",
+      "source": "Barron's",
+      "date": "11/20/2025, 09:07 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -63,13 +70,6 @@
       "title": "Inside Buffett's Strategy: Berkshire Hathaway Owns More Treasury Bills Than the Federal Reserve",
       "source": "Investopedia",
       "date": "11/15/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-calls-exempting-treasuries-bank-leverage-rule-2025-11-19/",
-      "title": "Fed's Miran calls for exempting Treasuries from bank leverage rule",
-      "source": "Reuters",
-      "date": "11/19/2025, 03:19 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -82,17 +82,10 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-prices-fall-rising-us-inventories-reinforce-oversupply-concerns-2025-11-19/",
-      "title": "Oil falls on signs of renewed push to end Russia-Ukraine war",
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-sees-oil-prices-falling-through-2026-supply-surge-2025-11-17/",
+      "title": "Goldman Sachs sees oil prices falling through 2026 on supply surge",
       "source": "Reuters",
-      "date": "11/19/2025, 05:28 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-17/russian-oil-plunges-with-top-producers-days-away-from-sanctions",
-      "title": "Russian Oil Plunges With Top Producers Days Away From Sanctions",
-      "source": "Bloomberg.com",
-      "date": "11/17/2025, 11:59 AM, +0000 UTC",
+      "date": "11/17/2025, 06:40 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -103,10 +96,17 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-falls-after-loadings-resume-key-russian-export-hub-2025-11-17/",
-      "title": "Oil prices ease after loadings resume at Russian export hub",
-      "source": "Reuters",
-      "date": "11/17/2025, 08:23 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-17/russian-oil-plunges-with-top-producers-days-away-from-sanctions",
+      "title": "Russian Oil Plunges With Top Producers Days Away From Sanctions",
+      "source": "Bloomberg.com",
+      "date": "11/17/2025, 11:59 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.nytimes.com/2025/10/22/business/energy-environment/oil-gasoline-prices-change.html",
+      "title": "Oil Prices Dropped 18%, Helping Drivers, but Squeezing the Industry",
+      "source": "The New York Times",
+      "date": "10/22/2025, 07:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -119,35 +119,49 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-november-17-gold-opens-below-4100-as-optimism-for-rate-reduction-fades-123849335.html",
-      "title": "Gold price today, Monday, November 17: Gold opens below $4,100 as optimism for rate reduction fades",
-      "source": "Yahoo Finance",
-      "date": "11/17/2025, 12:50 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-11-17-2025/",
-      "title": "Current price of gold as of November 17, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-11-19-2025/",
+      "title": "Current price of gold as of November 19, 2025",
       "source": "Fortune",
-      "date": "11/17/2025, 02:19 PM, +0000 UTC",
+      "date": "11/19/2025, 03:19 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-11-18-2025/",
-      "title": "Current price of gold as of November 18, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-11-20-2025/",
+      "title": "Current price of gold as of November 20, 2025",
       "source": "Fortune",
-      "date": "11/18/2025, 02:25 PM, +0000 UTC",
+      "date": "11/20/2025, 02:21 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/gold-price-forecast-stock-miners-ad3dd3dd?gaa_at=eafs&gaa_n=AWEtsqfsbz9q89Zo--wnuwMkVTemMBrP5lMqRRs-YY0J9xDwrn46YHvQP2-_&gaa_ts=691e52c5&gaa_sig=h8DSNsCn0hInVRmvCAyQjf5BM8ns62Iv-TLGbjgIIP447RX6H7DfLpJcQuZhnumgE4FL12KzvO2O2gFjRquSCQ%3D%3D",
-      "title": "Gold Prices Are Rising Again. Why $5,000 Could Be the Next Stop.",
-      "source": "Barron's",
-      "date": "11/10/2025, 08:00 AM, +0000 UTC",
+      "url": "https://www.reuters.com/world/india/gold-eases-dollar-gains-traders-dial-back-us-rate-cut-bets-2025-11-20/",
+      "title": "Gold falls as strong US jobs data dims prospects for December rate cut",
+      "source": "Reuters",
+      "date": "11/20/2025, 07:08 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/20/gold-eases-as-dollar-gains-traders-dial-back-us-rate-cut-bets.html",
+      "title": "Gold falls as strong U.S. jobs data dims prospects for December rate cut",
+      "source": "CNBC",
+      "date": "11/20/2025, 05:38 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
+    {
+      "url": "https://seekingalpha.com/news/4524576-bitcoin-extends-rout-as-us-equities-reverse-nvidia-driven-gains",
+      "title": "Bitcoin extends rout as U.S. equities reverse Nvidia-driven gains (BTC-USD:Cryptocurrency)",
+      "source": "Seeking Alpha",
+      "date": "11/20/2025, 05:12 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/elevator-escalator-market-reach-usd-183100381.html",
+      "title": "Elevator and Escalator Market to Reach USD 228.94 billion by 2032 at 4.40 % CAGR - Credence Research",
+      "source": "Yahoo Finance",
+      "date": "11/20/2025, 06:31 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://seekingalpha.com/article/4845459-bitcoin-crypto-winter-a-contrary-view",
       "title": "Bitcoin: Crypto Winter? A Contrary View (BTC-USD)",
@@ -156,33 +170,19 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/eth-usd-trapped-ethereum-price-104646056.html",
-      "title": "ETH USD Is Trapped: Ethereum Price Prediction Sounds Alarm on Bear Channel",
+      "url": "https://finance.yahoo.com/news/capability-center-services-market-set-150100439.html",
+      "title": "Capability Center Services Market Set to Surpass USD 403.22 Billion by 2032 as Global Enterprises Accelerate Digital, Cloud, AI & GBS Transformation | According to DataM Intelligence",
       "source": "Yahoo Finance",
-      "date": "11/17/2025, 10:46 AM, +0000 UTC",
+      "date": "11/20/2025, 03:01 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/metal-stamping-market-size-worth-155800787.html",
-      "title": "Metal Stamping Market Size to Worth USD 385.66 Billion by 2035",
+      "url": "https://finance.yahoo.com/news/industrial-sugar-market-size-worth-093000600.html",
+      "title": "Industrial Sugar Market Size Worth USD 71.17 Billion by 2034 | Towards FnB",
       "source": "Yahoo Finance",
-      "date": "11/19/2025, 03:58 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/scandium-metal-market-reach-usd-190100468.html",
-      "title": "Scandium Metal Market to Reach USD 1,205.89 Million by 2032 at 8.70% CAGR - Credence Research",
-      "source": "Yahoo Finance",
-      "date": "11/19/2025, 07:01 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/middle-office-outsourcing-market-hit-144500757.html",
-      "title": "Middle Office Outsourcing Market to Hit USD 17.65 Billion by 2033, Driven by Rising Operational Complexity and Cost-Efficiency Needs | Report by SNS Insider",
-      "source": "Yahoo Finance",
-      "date": "11/19/2025, 02:45 PM, +0000 UTC",
+      "date": "11/20/2025, 09:30 AM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-19T23:13:43.348Z"
+  "lastUpdated": "2025-11-20T23:13:38.213Z"
 }
