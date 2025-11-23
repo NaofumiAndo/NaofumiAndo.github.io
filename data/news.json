@@ -1,24 +1,17 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-bounce-but-end-turbulent-week-with-sharp-losses-210532877.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq bounce but end turbulent week with sharp losses",
-      "source": "Yahoo Finance",
-      "date": "11/21/2025, 09:13 PM, +0000 UTC",
+      "url": "https://www.ft.com/content/6daa949d-7aa5-47da-b1ab-ae59691cba9b",
+      "title": "Moderna is most shorted stock in S&P 500 as Americans skip jabs",
+      "source": "Financial Times",
+      "date": "11/23/2025, 12:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4525153-goldmans-20-sp-500-stocks-with-least-concentrated-hedge-fund-ownership-ranked-by-sa-quant",
-      "title": "Goldman's 20 S&P 500 stocks with least concentrated hedge fund ownership ranked by SA Quant",
-      "source": "Seeking Alpha",
-      "date": "11/22/2025, 09:22 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/news/4525152-goldmans-20-sp-500-stocks-with-most-concentrated-hedge-fund-ownership-ranked-by-sa-quant",
-      "title": "Goldman's 20 S&P 500 stocks with most concentrated hedge fund ownership ranked by SA Quant",
-      "source": "Seeking Alpha",
-      "date": "11/22/2025, 08:57 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-23/asian-stocks-poised-for-cautiously-upbeat-open-markets-wrap",
+      "title": "Asian Stocks Poised for Cautiously Upbeat Open: Markets Wrap",
+      "source": "Bloomberg.com",
+      "date": "11/23/2025, 10:37 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -29,7 +22,14 @@
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/strategy-sp500-msci-indexes-c35cbcc5?gaa_at=eafs&gaa_n=AWEtsqfWppzkd6ApbcTxoiSmi5TFVyrLCboa1z0kqUUAKdQEx344Tx7kZfW9&gaa_ts=69224702&gaa_sig=z1Ag9Im1CmBmxJdEZFcM6DdQKQpiBRu0dKNvYlQZudWokFgISLkljqcBbhcOS3n3kZEbNiT3e_fRIunoaInuew%3D%3D",
+      "url": "https://seekingalpha.com/article/4846911-s-and-p-500-one-step-closer-to-the-end-technical-analysis",
+      "title": "S&P 500: One Step Closer To The End (Technical Analysis) (SP500)",
+      "source": "Seeking Alpha",
+      "date": "11/23/2025, 09:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/articles/strategy-sp500-msci-indexes-c35cbcc5?gaa_at=eafs&gaa_n=AWEtsqecQ_4w4Scp5hI01w0KA63v1Fz-UWLvo9sXM_xVyq4my_CRHn4lIgyi&gaa_ts=6923988c&gaa_sig=lPlDCFcQjFFFEsN_IJwX443rBo_KVwlNmzEo7CEB5jfTVNgwxWz-7WsC8xb2qYrUZTfU27qinbWbbXBlWYHDNw%3D%3D",
       "title": "Strategy Isn’t in S&P 500. Now It Could Get Kicked Out of Other Indexes.",
       "source": "Barron's",
       "date": "11/20/2025, 05:05 PM, +0000 UTC",
@@ -38,38 +38,38 @@
   ],
   "treasury": [
     {
-      "url": "https://www.cnbc.com/2025/11/20/us-treasury-yields-investors-await-delayed-jobs-report.html",
-      "title": "Treasury yields are lower after jobless rate moves up in delayed September labor report",
-      "source": "CNBC",
-      "date": "11/20/2025, 11:09 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/story/why-trouble-for-the-biggest-foreign-buyer-of-u-s-debt-could-ripple-through-americas-bond-market-d70ba933?gaa_at=eafs&gaa_n=AWEtsqdOsm-LxOutsMO9Z9KMBSC-hV-Sl76VQjynIf6BOAxj8mOBljHFW9bx&gaa_ts=6922470c&gaa_sig=nxhTQzJk7kuqJUltmWCQo5nxC5t0J8p7EDza0gCAXGeOznLaqaRo64JVWxnYoSEV36gWkL8dF1EBWOIPB-581g%3D%3D",
+      "url": "https://www.marketwatch.com/story/why-trouble-for-the-biggest-foreign-buyer-of-u-s-debt-could-ripple-through-americas-bond-market-d70ba933?gaa_at=eafs&gaa_n=AWEtsqcFv3yvlX1M1JxCW_mXMKwkg5A5G3MA4LfcEPdswJmqwjblciebqOXl&gaa_ts=69239893&gaa_sig=otARHycH1tq8Yl3OS26UzFOpduclOu6UhK845MgNLtPbgrdYF-5BetM3h-4xK9WkQ31NdLYZ-yZxZVEXQfvR0g%3D%3D",
       "title": "Why trouble for the biggest foreign buyer of U.S. debt could ripple through America’s bond market",
       "source": "MarketWatch",
       "date": "11/21/2025, 08:41 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/china/foreign-demand-us-treasuries-slips-september-japan-steps-up-buying-2025-11-18/",
-      "title": "Foreign demand for US Treasuries slips in September, but Japan steps up buying",
-      "source": "Reuters",
-      "date": "11/18/2025, 10:59 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.ft.com/content/754ef60f-bbbb-496c-9548-04cde2930730",
-      "title": "Top Fed official warns on risk hedge funds pose to $30tn Treasury market",
-      "source": "Financial Times",
-      "date": "11/20/2025, 07:07 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/11/21/us-treasury-yields-edge-lower-as-fed-rate-cut-bets-fall.html",
-      "title": "Treasury yields slide after Williams suggests Fed could cut again in December",
+      "url": "https://www.cnbc.com/2025/11/07/us-treasury-yields-economic-data-blackout-continues-.html",
+      "title": "Treasury yields are little changed as investors continue to face economic data blackout",
       "source": "CNBC",
-      "date": "11/21/2025, 08:20 AM, +0000 UTC",
+      "date": "11/07/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-pix-2025-11-20/",
+      "title": "US stocks end lower, Treasury yields slide amid revived valuation concerns, Fed uncertainty",
+      "source": "Reuters",
+      "date": "11/20/2025, 09:47 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.investopedia.com/inside-buffett-s-strategy-berkshire-hathaway-owns-more-treasury-bills-than-the-federal-reserve-11850030",
+      "title": "Inside Buffett's Strategy: Berkshire Hathaway Owns More Treasury Bills Than the Federal Reserve",
+      "source": "Investopedia",
+      "date": "11/15/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/12/us-treasury-yields-end-of-government-shutdown-nears-.html",
+      "title": "Treasury yields move lower as end of the government shutdown nears",
+      "source": "CNBC",
+      "date": "11/12/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -82,24 +82,10 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4845760-xle-unprecedented-decoupling-from-oil-price-is-a-warning-sign",
-      "title": "XLE: Unprecedented Decoupling From Oil Price Is A Warning Sign (NYSEARCA:XLE)",
-      "source": "Seeking Alpha",
-      "date": "11/19/2025, 09:18 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.bloomberg.com/news/articles/2025-11-17/russian-oil-plunges-with-top-producers-days-away-from-sanctions",
       "title": "Russian Oil Plunges With Top Producers Days Away From Sanctions",
       "source": "Bloomberg.com",
       "date": "11/17/2025, 11:59 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.nytimes.com/2025/10/22/business/energy-environment/oil-gasoline-prices-change.html",
-      "title": "Oil Prices Dropped 18%, Helping Drivers, but Squeezing the Industry",
-      "source": "The New York Times",
-      "date": "10/22/2025, 07:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -108,14 +94,35 @@
       "source": "Reuters",
       "date": "11/17/2025, 08:23 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-sees-oil-prices-falling-through-2026-supply-surge-2025-11-17/",
+      "title": "Goldman Sachs sees oil prices falling through 2026 on supply surge",
+      "source": "Reuters",
+      "date": "11/17/2025, 06:40 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-prices-fall-rising-us-inventories-reinforce-oversupply-concerns-2025-11-19/",
+      "title": "Oil settles down on renewed push to end Russia-Ukraine war",
+      "source": "Reuters",
+      "date": "11/19/2025, 09:24 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "gold": [
     {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-november-21-gold-holds-below-4100-after-jobs-report-125031698.html",
+      "title": "Gold price today, Friday, November 21: Gold holds below $4,100 after jobs report",
+      "source": "Yahoo Finance",
+      "date": "11/21/2025, 01:05 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://fortune.com/article/current-price-of-gold-11-21-2025/",
       "title": "Current price of gold as of November 21, 2025",
       "source": "Fortune",
-      "date": "11/21/2025, 02:16 PM, +0000 UTC",
+      "date": "11/21/2025, 02:15 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -133,33 +140,26 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-11-20-2025/",
-      "title": "Current price of gold as of November 20, 2025",
-      "source": "Fortune",
-      "date": "11/20/2025, 02:21 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-19-gold-rises-after-stock-prices-fall-125031752.html",
-      "title": "Gold price today, Wednesday, November 19: Gold rises after stock prices fall",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-november-20-gold-holds-as-rate-cut-hopes-dwindle-125031252.html",
+      "title": "Gold price today, Thursday, November 20: Gold holds as rate-cut hopes dwindle",
       "source": "Yahoo Finance",
-      "date": "11/19/2025, 12:39 PM, +0000 UTC",
+      "date": "11/20/2025, 12:49 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/india/rupee-weakens-record-low-us-india-trade-limbo-fed-rate-outlook-2025-11-21/",
-      "title": "Outflows, trade angst push rupee to record low past RBI's defended line",
-      "source": "Reuters",
-      "date": "11/21/2025, 11:20 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.bloomberg.com/news/articles/2025-11-21/indian-rupee-slides-to-record-low-on-delay-in-us-trade-deal",
       "title": "Indian Rupee Slides to Record Low on Delay in US Trade Deal",
       "source": "Bloomberg.com",
       "date": "11/21/2025, 03:22 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/video/bitcoin-stocks-fall-us-dollar-230000303.html",
+      "title": "Bitcoin & stocks fall, US dollar & VIX jump: Market takeaways",
+      "source": "Yahoo Finance",
+      "date": "11/20/2025, 11:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -170,19 +170,19 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-set-weekly-gain-fed-cut-bets-recede-yen-intervention-eyed-2025-11-21/",
-      "title": "Dollar slips against yen but heads for broad weekly rise",
+      "url": "https://www.reuters.com/world/india/rupee-weakens-record-low-us-india-trade-limbo-fed-rate-outlook-2025-11-21/",
+      "title": "Outflows, trade angst push rupee to record low past RBI's defended line",
       "source": "Reuters",
-      "date": "11/21/2025, 08:58 PM, +0000 UTC",
+      "date": "11/21/2025, 11:20 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/video/bitcoin-stocks-fall-us-dollar-230000303.html",
-      "title": "Bitcoin & stocks fall, US dollar & VIX jump: Market takeaways",
+      "url": "https://finance.yahoo.com/news/operational-technology-market-reach-usd-154000401.html",
+      "title": "Operational Technology Market to Reach USD 364.74 Billion by 2030 | According to DataM Intelligence",
       "source": "Yahoo Finance",
-      "date": "11/20/2025, 11:00 PM, +0000 UTC",
+      "date": "11/21/2025, 03:40 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-22T23:12:58.605Z"
+  "lastUpdated": "2025-11-23T23:13:09.137Z"
 }
