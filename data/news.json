@@ -1,24 +1,24 @@
 {
   "sp500": [
     {
-      "url": "https://www.ft.com/content/6daa949d-7aa5-47da-b1ab-ae59691cba9b",
-      "title": "Moderna is most shorted stock in S&P 500 as Americans skip jabs",
+      "url": "https://www.marketwatch.com/story/this-booming-tech-stock-will-join-the-s-p-500-and-its-not-strategy-6b340451?gaa_at=eafs&gaa_n=AWEtsqeYnMGANU6V170eFETKNZE3Nt5symzavJBnCM-lvQ1NWGJb2Pa0eWMN&gaa_ts=6924ea2f&gaa_sig=iMeWF1DRIkFwHsXlpRFalTrMCIqt8hAE2tkRpLoFoWIReyHPJf8Rr7swdrzvfQ3kHa2l_dzFMYWjIoHp11g_6g%3D%3D",
+      "title": "This booming tech stock will join the S&P 500 — and it’s not Strategy",
+      "source": "MarketWatch",
+      "date": "11/24/2025, 11:07 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/articles/sandisk-index-memory-chips-stock-3604638b?gaa_at=eafs&gaa_n=AWEtsqfucbsOzhJ-OXtqavVVDaRfXMBILJnomn6t8GpjMdfR121VITXi3A2J&gaa_ts=6924ea2f&gaa_sig=k2yeYGBVON6Vw9SDDLh2W0iroJ9g5jIOYIk67mMGdMRXsbomUKwGfPOx0aUB7aGpanYur9FkbOp1IRUiK78zkw%3D%3D",
+      "title": "Sandisk Stock to Join S&P 500 Index. Which Stock It’s Bumping Out.",
+      "source": "Barron's",
+      "date": "11/24/2025, 10:53 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.ft.com/content/a7f1f427-c84e-45de-980c-234570305561",
+      "title": "Maybe the S&P 500 will triple?",
       "source": "Financial Times",
-      "date": "11/23/2025, 12:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-23/asian-stocks-poised-for-cautiously-upbeat-open-markets-wrap",
-      "title": "Asian Stocks Poised for Cautiously Upbeat Open: Markets Wrap",
-      "source": "Bloomberg.com",
-      "date": "11/23/2025, 10:37 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/11/22/the-dividend-yield-on-the-sp-500-is-the-lowest-since-the-dotcom-bubble.html",
-      "title": "The dividend yield on the S&P 500 is the lowest since the dotcom bubble",
-      "source": "CNBC",
-      "date": "11/22/2025, 01:00 PM, +0000 UTC",
+      "date": "11/24/2025, 11:55 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -29,33 +29,33 @@
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/strategy-sp500-msci-indexes-c35cbcc5?gaa_at=eafs&gaa_n=AWEtsqecQ_4w4Scp5hI01w0KA63v1Fz-UWLvo9sXM_xVyq4my_CRHn4lIgyi&gaa_ts=6923988c&gaa_sig=lPlDCFcQjFFFEsN_IJwX443rBo_KVwlNmzEo7CEB5jfTVNgwxWz-7WsC8xb2qYrUZTfU27qinbWbbXBlWYHDNw%3D%3D",
-      "title": "Strategy Isn’t in S&P 500. Now It Could Get Kicked Out of Other Indexes.",
-      "source": "Barron's",
-      "date": "11/20/2025, 05:05 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/23/stock-market-today-live-updates.html",
+      "title": "S&P 500 rips 1.6% higher, Nasdaq posts best day since May as Alphabet reignites AI trade",
+      "source": "CNBC",
+      "date": "11/24/2025, 09:22 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.marketwatch.com/story/why-trouble-for-the-biggest-foreign-buyer-of-u-s-debt-could-ripple-through-americas-bond-market-d70ba933?gaa_at=eafs&gaa_n=AWEtsqcFv3yvlX1M1JxCW_mXMKwkg5A5G3MA4LfcEPdswJmqwjblciebqOXl&gaa_ts=69239893&gaa_sig=otARHycH1tq8Yl3OS26UzFOpduclOu6UhK845MgNLtPbgrdYF-5BetM3h-4xK9WkQ31NdLYZ-yZxZVEXQfvR0g%3D%3D",
+      "url": "https://www.cnbc.com/2025/11/24/us-treasury-yields-investors-await-delayed-economic-data-.html",
+      "title": "10-year Treasury yield edges lower as investors await delayed economic data",
+      "source": "CNBC",
+      "date": "11/24/2025, 10:24 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.marketwatch.com/story/why-trouble-for-the-biggest-foreign-buyer-of-u-s-debt-could-ripple-through-americas-bond-market-d70ba933?gaa_at=eafs&gaa_n=AWEtsqcV2F0zwQnmm77HMsdBPxusBYqjGonMRR3Ha7u0-gwRdH7EBjq2IVU1&gaa_ts=6924ea3f&gaa_sig=UdZ5fCKwLbhJB1sCJn3Lj7wLt1Op0_TsL4m9iALQr661_ey3m7tLKOUAxxmM5j7rqGAsA47NxF6nM6Q07dYj4g%3D%3D",
       "title": "Why trouble for the biggest foreign buyer of U.S. debt could ripple through America’s bond market",
       "source": "MarketWatch",
       "date": "11/21/2025, 08:41 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/07/us-treasury-yields-economic-data-blackout-continues-.html",
-      "title": "Treasury yields are little changed as investors continue to face economic data blackout",
-      "source": "CNBC",
-      "date": "11/07/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-pix-2025-11-20/",
-      "title": "US stocks end lower, Treasury yields slide amid revived valuation concerns, Fed uncertainty",
+      "url": "https://www.reuters.com/business/energy/lukoil-seeks-extension-us-treasurys-sanctions-grace-period-sources-say-2025-11-12/",
+      "title": "Lukoil seeks extension to US Treasury's sanctions grace period, sources say",
       "source": "Reuters",
-      "date": "11/20/2025, 09:47 PM, +0000 UTC",
+      "date": "11/12/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -66,19 +66,19 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/12/us-treasury-yields-end-of-government-shutdown-nears-.html",
-      "title": "Treasury yields move lower as end of the government shutdown nears",
-      "source": "CNBC",
-      "date": "11/12/2025, 08:00 AM, +0000 UTC",
+      "url": "https://www.reuters.com/world/americas/us-designates-cartel-de-los-soles-foreign-terrorist-organization-treasury-says-2025-11-24/",
+      "title": "US designates Cartel de los Soles as foreign terrorist organization, Treasury says",
+      "source": "Reuters",
+      "date": "11/24/2025, 03:34 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/business/energy/oil-extends-decline-possible-russia-ukraine-peace-deal-2025-11-21/",
-      "title": "Oil prices settle down at lowest in a month as US seeks Russia-Ukraine peace deal",
+      "url": "https://www.reuters.com/business/energy/oil-falls-ukraine-peace-talks-edge-toward-solution-2025-11-24/",
+      "title": "Oil prices settle up 1% on bets Fed will cut US rates and doubts about Ukraine peace",
       "source": "Reuters",
-      "date": "11/21/2025, 08:32 PM, +0000 UTC",
+      "date": "11/24/2025, 08:32 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -96,28 +96,21 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/goldman-sachs-sees-oil-prices-falling-through-2026-supply-surge-2025-11-17/",
-      "title": "Goldman Sachs sees oil prices falling through 2026 on supply surge",
-      "source": "Reuters",
-      "date": "11/17/2025, 06:40 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.reuters.com/business/energy/oil-prices-fall-rising-us-inventories-reinforce-oversupply-concerns-2025-11-19/",
       "title": "Oil settles down on renewed push to end Russia-Ukraine war",
       "source": "Reuters",
       "date": "11/19/2025, 09:24 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-sees-oil-prices-falling-through-2026-supply-surge-2025-11-17/",
+      "title": "Goldman Sachs sees oil prices falling through 2026 on supply surge",
+      "source": "Reuters",
+      "date": "11/17/2025, 06:40 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "gold": [
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-november-21-gold-holds-below-4100-after-jobs-report-125031698.html",
-      "title": "Gold price today, Friday, November 21: Gold holds below $4,100 after jobs report",
-      "source": "Yahoo Finance",
-      "date": "11/21/2025, 01:05 PM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://fortune.com/article/current-price-of-gold-11-21-2025/",
       "title": "Current price of gold as of November 21, 2025",
@@ -126,10 +119,10 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/china/asia-gold-price-volatility-saps-bullion-demand-top-asian-hubs-2025-11-21/",
-      "title": "Asia Gold: Price volatility saps bullion demand in top Asian hubs",
-      "source": "Reuters",
-      "date": "11/21/2025, 04:48 AM, +0000 UTC",
+      "url": "https://fortune.com/article/current-price-of-gold-11-24-2025/",
+      "title": "Current price of gold as of November 24, 2025",
+      "source": "Fortune",
+      "date": "11/24/2025, 03:23 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -140,49 +133,56 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-thursday-november-20-gold-holds-as-rate-cut-hopes-dwindle-125031252.html",
-      "title": "Gold price today, Thursday, November 20: Gold holds as rate-cut hopes dwindle",
-      "source": "Yahoo Finance",
-      "date": "11/20/2025, 12:49 PM, +0000 UTC",
+      "url": "https://uk.finance.yahoo.com/news/gold-price-pound-interest-rates-oil-currency-commodities-latest-091710336.html",
+      "title": "Gold extends losses, though Bank of America sees a path to $5,000 in 2026",
+      "source": "Yahoo Finance UK",
+      "date": "11/24/2025, 09:17 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/india/gold-eases-dollar-gains-traders-dial-back-us-rate-cut-bets-2025-11-20/",
+      "title": "Gold falls as strong US jobs data dims prospects for December rate cut",
+      "source": "Reuters",
+      "date": "11/20/2025, 07:08 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-21/indian-rupee-slides-to-record-low-on-delay-in-us-trade-deal",
-      "title": "Indian Rupee Slides to Record Low on Delay in US Trade Deal",
+      "url": "https://www.cnbc.com/2025/11/24/dollar-steady-thanksgiving-looms-as-yen-test.html",
+      "title": "US dollar mixed as market digests Fed comments; yen slides",
+      "source": "CNBC",
+      "date": "11/24/2025, 04:04 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-11-24/indian-traders-watch-for-rbi-presence-as-rupee-in-uncharted-zone",
+      "title": "Rupee Gains as RBI Returns to Defend Currency After Slump: INR/USD",
       "source": "Bloomberg.com",
-      "date": "11/21/2025, 03:22 PM, +0000 UTC",
+      "date": "11/24/2025, 11:43 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/video/bitcoin-stocks-fall-us-dollar-230000303.html",
-      "title": "Bitcoin & stocks fall, US dollar & VIX jump: Market takeaways",
+      "url": "https://finance.yahoo.com/news/golden-chance-buy-bitcoin-btc-121826986.html",
+      "title": "A Golden Chance To Buy Bitcoin BTC USD Price? Bears Retest A Key Loading Zone",
       "source": "Yahoo Finance",
-      "date": "11/20/2025, 11:00 PM, +0000 UTC",
+      "date": "11/24/2025, 12:18 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4846424-buy-bitcoin-a-tsunami-of-global-liquidity-is-coming",
-      "title": "Buy Bitcoin - A Tsunami Of Global Liquidity Is Coming (Cryptocurrency:BTC-USD)",
-      "source": "Seeking Alpha",
-      "date": "11/21/2025, 04:32 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/india/rupee-weakens-record-low-us-india-trade-limbo-fed-rate-outlook-2025-11-21/",
-      "title": "Outflows, trade angst push rupee to record low past RBI's defended line",
-      "source": "Reuters",
-      "date": "11/21/2025, 11:20 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/operational-technology-market-reach-usd-154000401.html",
-      "title": "Operational Technology Market to Reach USD 364.74 Billion by 2030 | According to DataM Intelligence",
+      "url": "https://finance.yahoo.com/news/ultra-low-temperature-freezer-market-164100123.html",
+      "title": "Ultra-Low Temperature Freezer Market Size Worth USD 1,721.56 Million by 2034",
       "source": "Yahoo Finance",
-      "date": "11/21/2025, 03:40 PM, +0000 UTC",
+      "date": "11/24/2025, 04:41 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/insulin-delivery-devices-market-surges-115900128.html",
+      "title": "Insulin Delivery Devices Market Surges to USD 43.11 Billion by 2033 as Smart Pumps, Automated Systems & Digital Diabetes Management Transform Patient Care",
+      "source": "Yahoo Finance",
+      "date": "11/24/2025, 11:59 AM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-23T23:13:09.137Z"
+  "lastUpdated": "2025-11-24T23:13:45.032Z"
 }
