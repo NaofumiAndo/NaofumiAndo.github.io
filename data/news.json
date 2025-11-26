@@ -1,10 +1,24 @@
 {
   "sp500": [
     {
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-nvidia-amd-slide-after-report-of-google-ai-chip-deal-best-buy-stock-jumps-nvda-amd-bby-11856492",
-      "title": "S&P 500 Gains and Losses Today: Nvidia, AMD Slide After Report of Google AI Chip Deal; Best Buy Stock Jumps",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-as-wall-street-eyes-4th-straight-win-before-thanksgiving-180742437.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq jump as Wall Street eyes 4th straight win before Thanksgiving",
+      "source": "Yahoo Finance",
+      "date": "11/26/2025, 08:25 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-robinhood-pops-on-prediction-markets-play-workday-stock-slumps-hood-wday-11857795",
+      "title": "S&P 500 Gains and Losses Today: Robinhood Pops on Prediction Markets Play, Workday Stock Slumps",
       "source": "Investopedia",
-      "date": "11/25/2025, 09:33 PM, +0000 UTC",
+      "date": "11/26/2025, 09:23 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-11-26/stock-market-today-dow-s-p-live-updates",
+      "title": "Asian Stocks Look Higher as Rate-Cut Rally Extends: Markets Wrap",
+      "source": "Bloomberg.com",
+      "date": "11/26/2025, 10:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -15,24 +29,10 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4525946-thanksgiving-leftovers-no-one-wants-10-worst-s-and-p-500-stocks-of-2025",
-      "title": "Thanksgiving leftovers no one wants: 10 worst S&P 500 stocks of 2025",
+      "url": "https://seekingalpha.com/article/4847652-s-and-p500-the-fed-saves-the-day-year-end-rally-underway",
+      "title": "S&P 500: The Fed Saves The Day, Year-End Rally Underway (SP500)",
       "source": "Seeking Alpha",
-      "date": "11/25/2025, 05:28 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.ft.com/content/6daa949d-7aa5-47da-b1ab-ae59691cba9b",
-      "title": "Moderna is most shorted stock in S&P 500 as Americans skip jabs",
-      "source": "Financial Times",
-      "date": "11/23/2025, 12:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-dow-rally-stalls-adter-tech-surge-retil-sales-and-inflation-data?gaa_at=eafs&gaa_n=AWEtsqeheMi-BSMnpuJPC4Cv8zTdN6AOfgAJ0Pfyd2susWX8plZwERZaPbmU&gaa_ts=69263b9a&gaa_sig=pH2csVl0OlOJePpUDwIBjs9gnLWdN85ajrEXhk6VsqxRMRPHIckvUwNlNuX71_HbW-lT6P71_qdkKnuEuZLliA%3D%3D",
-      "title": "Stock Market News, Nov. 25, 2025: Dow jumps 1.4% as the S&P 500 and Nasdaq clock in three days of gains in a row",
-      "source": "MarketWatch",
-      "date": "11/25/2025, 09:55 PM, +0000 UTC",
+      "date": "11/25/2025, 09:57 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -45,6 +45,13 @@
       "snippet": ""
     },
     {
+      "url": "https://www.ft.com/content/e23fccca-605f-4c38-b03c-7724e7221117",
+      "title": "Voice trading makes a comeback in $30tn Treasury market",
+      "source": "Financial Times",
+      "date": "11/26/2025, 04:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://www.cnbc.com/2025/11/25/us-treasury-yields-fed-cut-remains-in-focus.html",
       "title": "10-year Treasury yield declines on signs of weaker labor market",
       "source": "CNBC",
@@ -52,28 +59,35 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/24/us-treasury-yields-investors-await-delayed-economic-data-.html",
-      "title": "10-year Treasury yield edges lower as investors await delayed economic data",
-      "source": "CNBC",
-      "date": "11/24/2025, 10:24 AM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4848045-octobers-treasury-statement-affects-of-the-shutdown-on-deficit",
+      "title": "October's Treasury Statement: Affects Of The Shutdown On Deficit (DJI)",
+      "source": "Seeking Alpha",
+      "date": "11/26/2025, 08:23 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/americas/us-designates-cartel-de-los-soles-foreign-terrorist-organization-treasury-says-2025-11-24/",
-      "title": "US designates Cartel de los Soles as foreign terrorist organization, Treasury says",
+      "url": "https://www.reuters.com/world/us/us-posts-284-billion-october-budget-deficit-report-impacted-by-shutdown-2025-11-25/",
+      "title": "US budget deficit hits $284 billion in October; report impacted by shutdown",
       "source": "Reuters",
-      "date": "11/24/2025, 03:34 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/story/why-trouble-for-the-biggest-foreign-buyer-of-u-s-debt-could-ripple-through-americas-bond-market-d70ba933?gaa_at=eafs&gaa_n=AWEtsqciZKpw1kP1lVz6WWLK1YVJ3pfMro-Xfqu-X5oefQ0UuQO64uKiK-Tm&gaa_ts=69263b9f&gaa_sig=F_CbBS4mXjUVbZwbBYo1csfUC54guCqHCXp7fA_Iky4VDnr8CkYct9oY31N1B4VqdMdzZy8x7d5k1PZxwqes2Q%3D%3D",
-      "title": "Why trouble for the biggest foreign buyer of U.S. debt could ripple through America’s bond market",
-      "source": "MarketWatch",
-      "date": "11/21/2025, 08:41 PM, +0000 UTC",
+      "date": "11/25/2025, 08:56 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
+    {
+      "url": "https://finance.yahoo.com/news/u-shale-starts-crack-under-210000901.html",
+      "title": "U.S. Shale Starts to Crack Under $50–$60 Oil",
+      "source": "Yahoo Finance",
+      "date": "11/26/2025, 09:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-11-25/russian-oil-exports-extend-slide-with-prices-retreating-again-too",
+      "title": "Russian Oil Flows Extend Slide With Prices Retreating Again Too",
+      "source": "Bloomberg",
+      "date": "11/25/2025, 12:37 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://finance.yahoo.com/news/jp-morgan-says-oil-prices-150000026.html",
       "title": "JP Morgan Says Oil Prices Could Plunge Into $30s by 2027",
@@ -82,40 +96,47 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-falls-ukraine-peace-talks-edge-toward-solution-2025-11-24/",
-      "title": "Oil prices settle up 1% on bets Fed will cut US rates and doubts about Ukraine peace",
+      "url": "https://www.reuters.com/business/energy/oil-steadies-oversupply-concerns-vie-with-ukraine-talks-investor-focus-2025-11-25/",
+      "title": "Oil falls as Ukraine signals support for framework of Russia peace deal",
       "source": "Reuters",
-      "date": "11/24/2025, 08:32 PM, +0000 UTC",
+      "date": "11/25/2025, 10:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-17/russian-oil-plunges-with-top-producers-days-away-from-sanctions",
-      "title": "Russian Oil Plunges With Top Producers Days Away From Sanctions",
-      "source": "Bloomberg.com",
-      "date": "11/17/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-falls-after-loadings-resume-key-russian-export-hub-2025-11-17/",
-      "title": "Oil prices ease after loadings resume at Russian export hub",
-      "source": "Reuters",
-      "date": "11/17/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-18/russia-s-oil-exports-fall-and-prices-slump-to-hit-moscow-s-war-chest",
-      "title": "Russia’s Oil Flows and Prices Deepen Slide in Hit to War Funding",
-      "source": "Bloomberg.com",
-      "date": "11/18/2025, 01:56 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/25/oil-dips-on-oversupply-concerns-while-investors-eye-ukraine-talks.html",
+      "title": "Oil prices fall more than 1% amid Ukraine peace deal reports",
+      "source": "CNBC",
+      "date": "11/25/2025, 05:41 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://fortune.com/article/current-price-of-gold-11-25-2025/",
-      "title": "Current price of gold as of November 25, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-11-26-2025/",
+      "title": "Current price of gold as of November 26, 2025",
       "source": "Fortune",
-      "date": "11/25/2025, 03:26 PM, +0000 UTC",
+      "date": "11/26/2025, 03:38 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/articles/gold-price-forecast-stock-miners-ad3dd3dd?gaa_at=eafs&gaa_n=AWEtsqc9xcpNNszgxhmYCpEoRI_iWmLKvD8QpFpXmzpKJJqaS4XwxW_G9zob&gaa_ts=69278d26&gaa_sig=PFllWS-W_imnhntNarsWJ0G3b4GU18rEKvBYEBD_PuAGQscYBUWNe1a7nC_xVIvPS7i5Nw0WmbbE3nLUulckow%3D%3D",
+      "title": "Gold Prices Are Rising Again. Why $5,000 Could Be the Next Stop.",
+      "source": "Barron's",
+      "date": "11/10/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/india/gold-climbs-near-two-week-high-reinforced-us-rate-cut-bets-2025-11-26/",
+      "title": "Gold climbs to over one-week peak as hopes of Fed rate cut rises",
+      "source": "Reuters",
+      "date": "11/26/2025, 09:37 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-25-2025-gold-rises-above-4100-after-waller-backs-rate-cut-123653947.html",
+      "title": "Gold price today, Tuesday, November 25, 2025: Gold rises above $4,100 after Waller backs rate cut",
+      "source": "Yahoo Finance",
+      "date": "11/25/2025, 01:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -124,65 +145,44 @@
       "source": "CNBC",
       "date": "11/25/2025, 05:21 AM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-11-24-2025/",
-      "title": "Current price of gold as of November 24, 2025",
-      "source": "Fortune",
-      "date": "11/24/2025, 03:26 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/india/gold-dips-dollar-firms-investors-weigh-us-rate-cut-bets-2025-11-24/",
-      "title": "Gold rises over 1% on Fed cut hopes, US data in focus",
-      "source": "Reuters",
-      "date": "11/24/2025, 07:24 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/2025/11/25/bitcoin-price-gold-safe-haven-narrative-over/",
-      "title": "Bitcoin plunges while gold rises, destroying the crypto ‘safe haven’ narrative",
-      "source": "Fortune",
-      "date": "11/25/2025, 12:18 PM, +0000 UTC",
-      "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-unfazed-even-fed-cut-comes-back-into-view-2025-11-25/",
-      "title": "US dollar weakens as data backs Fed rate cut view; yen watch continues",
-      "source": "Reuters",
-      "date": "11/25/2025, 04:39 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/quantum-biopharma-usd-700-million-210000583.html",
-      "title": "Quantum Biopharma’s USD $700 Million Lawsuit Alleging Stock Market Manipulation Subject of 3-part Series Investigative News Program W5",
-      "source": "Yahoo Finance",
-      "date": "11/25/2025, 09:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-24/indian-traders-watch-for-rbi-presence-as-rupee-in-uncharted-zone",
-      "title": "Rupee Gains as RBI Returns to Defend Currency After Slump: INR/USD",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-26/krw-usd-south-korea-closely-monitoring-speculative-one-sided-won-moves",
+      "title": "South Korea Is Closely Monitoring Speculative, One-Sided Won Moves, to Sternly Respond If Needed",
       "source": "Bloomberg.com",
-      "date": "11/24/2025, 11:43 AM, +0000 UTC",
+      "date": "11/26/2025, 05:41 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/audio-interface-market-size-surpass-130000781.html",
-      "title": "Audio Interface Market Size to Surpass USD 367.83 Million by 2033 | Research by SNS Insider",
-      "source": "Yahoo Finance",
-      "date": "11/25/2025, 01:00 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4526306-tethers-ability-to-maintain-dollar-peg-downgraded-to-weak-at-sp",
+      "title": "Tether's ability to maintain dollar peg downgraded to 'weak' at S&P (USDT-USD:Cryptocurrency)",
+      "source": "Seeking Alpha",
+      "date": "11/26/2025, 04:44 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/oxygen-cylinders-concentrators-market-size-142800477.html",
-      "title": "Oxygen Cylinders and Concentrators Market Size Worth USD 7.69 Bn by 2034",
+      "url": "https://finance.yahoo.com/news/nanocellulose-market-size-worth-usd-110400558.html",
+      "title": "Nanocellulose Market Size to Worth USD 6.44 Billion by 2035",
       "source": "Yahoo Finance",
-      "date": "11/25/2025, 02:28 PM, +0000 UTC",
+      "date": "11/26/2025, 11:04 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/financial-advisory-services-market-hit-144500393.html",
+      "title": "Financial Advisory Services Market to Hit USD 169.22 Billion by 2033, Owing to Rising Demand for Digital and Personalized Financial Guidance | SNS Insider",
+      "source": "Yahoo Finance",
+      "date": "11/26/2025, 02:45 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/dna-damaging-agents-market-grows-140000098.html",
+      "title": "DNA Damaging Agents Market Grows at 11.67% CAGR, to Hit USD 46.31 Billion by 2034",
+      "source": "Yahoo Finance",
+      "date": "11/26/2025, 02:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-25T23:13:25.024Z"
+  "lastUpdated": "2025-11-26T23:13:15.963Z"
 }
