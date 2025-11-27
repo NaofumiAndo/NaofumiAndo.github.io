@@ -1,10 +1,10 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-as-wall-street-eyes-4th-straight-win-before-thanksgiving-180742437.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq jump as Wall Street eyes 4th straight win before Thanksgiving",
-      "source": "Yahoo Finance",
-      "date": "11/26/2025, 08:25 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/25/sp-500-corrective-phase-could-take-it-down-10percent-says-raymond-james.html",
+      "title": "S&P 500 entering 'corrective phase' that could take it down 8% to 10%, says Raymond James",
+      "source": "CNBC",
+      "date": "11/25/2025, 04:40 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -15,24 +15,24 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-26/stock-market-today-dow-s-p-live-updates",
-      "title": "Asian Stocks Look Higher as Rate-Cut Rally Extends: Markets Wrap",
-      "source": "Bloomberg.com",
-      "date": "11/26/2025, 10:30 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/11/25/sp-500-corrective-phase-could-take-it-down-10percent-says-raymond-james.html",
-      "title": "S&P 500 entering 'corrective phase' that could take it down 8% to 10%, says Raymond James",
-      "source": "CNBC",
-      "date": "11/25/2025, 04:40 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/article/4847652-s-and-p500-the-fed-saves-the-day-year-end-rally-underway",
-      "title": "S&P 500: The Fed Saves The Day, Year-End Rally Underway (SP500)",
+      "url": "https://seekingalpha.com/news/4525946-thanksgiving-leftovers-no-one-wants-10-worst-s-and-p-500-stocks-of-2025",
+      "title": "Thanksgiving leftovers no one wants: 10 worst S&P 500 stocks of 2025",
       "source": "Seeking Alpha",
-      "date": "11/25/2025, 09:57 PM, +0000 UTC",
+      "date": "11/25/2025, 05:28 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-112525?gaa_at=eafs&gaa_n=AWEtsqduwtWDGQpoTSi-K4s2pxPASdOAH-0f2rAkUtAPcOJ88Ym3k3tW4Jk1&gaa_ts=6928de9c&gaa_sig=1IZLHfRgAAOWdf_yHE8MnzPyLH2sptx2Qu9H_94KEDcndN-pJ7sMv1M7HCuvLVIhZFNnsojfR9FjlrdE5_d2pw%3D%3D",
+      "title": "Stock Market News From Nov. 25, 2025: Dow Pops 660 Points",
+      "source": "Barron's",
+      "date": "11/26/2025, 12:38 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-as-wall-street-eyes-4th-straight-win-before-thanksgiving-180742437.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq jump as Wall Street eyes 4th straight win before Thanksgiving",
+      "source": "Yahoo Finance",
+      "date": "11/26/2025, 08:25 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -45,17 +45,17 @@
       "snippet": ""
     },
     {
+      "url": "https://www.cnbc.com/2025/11/26/us-treasury-yields-investors-weigh-the-state-of-the-us-economy.html",
+      "title": "10-year Treasury yield is little changed as investors weigh the state of the U.S. economy",
+      "source": "CNBC",
+      "date": "11/26/2025, 09:24 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://www.ft.com/content/e23fccca-605f-4c38-b03c-7724e7221117",
       "title": "Voice trading makes a comeback in $30tn Treasury market",
       "source": "Financial Times",
       "date": "11/26/2025, 04:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/11/25/us-treasury-yields-fed-cut-remains-in-focus.html",
-      "title": "10-year Treasury yield declines on signs of weaker labor market",
-      "source": "CNBC",
-      "date": "11/25/2025, 09:33 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -66,33 +66,33 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/us/us-posts-284-billion-october-budget-deficit-report-impacted-by-shutdown-2025-11-25/",
-      "title": "US budget deficit hits $284 billion in October; report impacted by shutdown",
-      "source": "Reuters",
-      "date": "11/25/2025, 08:56 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/25/us-treasury-yields-fed-cut-remains-in-focus.html",
+      "title": "10-year Treasury yield declines on signs of weaker labor market",
+      "source": "CNBC",
+      "date": "11/25/2025, 09:33 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://finance.yahoo.com/news/u-shale-starts-crack-under-210000901.html",
-      "title": "U.S. Shale Starts to Crack Under $50–$60 Oil",
-      "source": "Yahoo Finance",
-      "date": "11/26/2025, 09:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-25/russian-oil-exports-extend-slide-with-prices-retreating-again-too",
-      "title": "Russian Oil Flows Extend Slide With Prices Retreating Again Too",
-      "source": "Bloomberg",
-      "date": "11/25/2025, 12:37 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://finance.yahoo.com/news/jp-morgan-says-oil-prices-150000026.html",
       "title": "JP Morgan Says Oil Prices Could Plunge Into $30s by 2027",
       "source": "Yahoo Finance",
       "date": "11/24/2025, 03:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/opinion/articles/2025-11-26/oil-market-gloom-about-long-term-prices-is-overdone",
+      "title": "The Oil Market Is Always Wrong About Long-Term Prices",
+      "source": "Bloomberg.com",
+      "date": "11/26/2025, 04:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-falls-ukraine-peace-talks-edge-toward-solution-2025-11-24/",
+      "title": "Oil prices settle up 1% on bets Fed will cut US rates and doubts about Ukraine peace",
+      "source": "Reuters",
+      "date": "11/24/2025, 08:32 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -112,31 +112,24 @@
   ],
   "gold": [
     {
-      "url": "https://fortune.com/article/current-price-of-gold-11-26-2025/",
-      "title": "Current price of gold as of November 26, 2025",
-      "source": "Fortune",
-      "date": "11/26/2025, 03:38 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/articles/gold-price-forecast-stock-miners-ad3dd3dd?gaa_at=eafs&gaa_n=AWEtsqc9xcpNNszgxhmYCpEoRI_iWmLKvD8QpFpXmzpKJJqaS4XwxW_G9zob&gaa_ts=69278d26&gaa_sig=PFllWS-W_imnhntNarsWJ0G3b4GU18rEKvBYEBD_PuAGQscYBUWNe1a7nC_xVIvPS7i5Nw0WmbbE3nLUulckow%3D%3D",
-      "title": "Gold Prices Are Rising Again. Why $5,000 Could Be the Next Stop.",
-      "source": "Barron's",
-      "date": "11/10/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/india/gold-climbs-near-two-week-high-reinforced-us-rate-cut-bets-2025-11-26/",
-      "title": "Gold climbs to over one-week peak as hopes of Fed rate cut rises",
+      "url": "https://www.reuters.com/business/deutsche-bank-raises-2026-gold-price-forecast-4450oz-2025-11-26/",
+      "title": "Deutsche Bank raises 2026 gold price forecast to $4,450/oz",
       "source": "Reuters",
-      "date": "11/26/2025, 09:37 PM, +0000 UTC",
+      "date": "11/26/2025, 11:36 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-25-2025-gold-rises-above-4100-after-waller-backs-rate-cut-123653947.html",
-      "title": "Gold price today, Tuesday, November 25, 2025: Gold rises above $4,100 after Waller backs rate cut",
-      "source": "Yahoo Finance",
-      "date": "11/25/2025, 01:00 PM, +0000 UTC",
+      "url": "https://uk.finance.yahoo.com/news/deutsche-bank-commodities-gold-interest-rates-oil-pound-budget-095420535.html",
+      "title": "Deutsche Bank sees gold price averaging $4,450 next year",
+      "source": "Yahoo Finance UK",
+      "date": "11/27/2025, 09:54 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4848102-gold-price-up-2-5-percent-for-week-is-break-of-4200oz-certainty",
+      "title": "Gold Price Up 2.5% For The Week. Is A Break Of $4200/Oz A Certainty?",
+      "source": "Seeking Alpha",
+      "date": "11/26/2025, 11:45 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -145,44 +138,51 @@
       "source": "CNBC",
       "date": "11/25/2025, 05:21 AM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-november-24-gold-holds-below-4100-despite-rising-hopes-for-rate-reduction-123653697.html",
+      "title": "Gold price today, Monday, November 24: Gold holds below $4,100 despite rising hopes for rate reduction",
+      "source": "Yahoo Finance",
+      "date": "11/24/2025, 12:36 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-11-26/krw-usd-south-korea-closely-monitoring-speculative-one-sided-won-moves",
-      "title": "South Korea Is Closely Monitoring Speculative, One-Sided Won Moves, to Sternly Respond If Needed",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-27/inr-usd-why-is-india-rupee-so-weak-what-does-it-mean-for-prices-incomes",
+      "title": "How India’s Rupee Ended Up as Asia’s Worst Currency This Year",
       "source": "Bloomberg.com",
-      "date": "11/26/2025, 05:41 AM, +0000 UTC",
+      "date": "11/27/2025, 05:53 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4526306-tethers-ability-to-maintain-dollar-peg-downgraded-to-weak-at-sp",
-      "title": "Tether's ability to maintain dollar peg downgraded to 'weak' at S&P (USDT-USD:Cryptocurrency)",
-      "source": "Seeking Alpha",
-      "date": "11/26/2025, 04:44 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/nanocellulose-market-size-worth-usd-110400558.html",
-      "title": "Nanocellulose Market Size to Worth USD 6.44 Billion by 2035",
+      "url": "https://finance.yahoo.com/news/ethanol-market-size-worth-usd-173400202.html",
+      "title": "Ethanol Market Size to Worth USD 199.40 Billion by 2035",
       "source": "Yahoo Finance",
-      "date": "11/26/2025, 11:04 AM, +0000 UTC",
+      "date": "11/27/2025, 05:34 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/financial-advisory-services-market-hit-144500393.html",
-      "title": "Financial Advisory Services Market to Hit USD 169.22 Billion by 2033, Owing to Rising Demand for Digital and Personalized Financial Guidance | SNS Insider",
+      "url": "https://finance.yahoo.com/news/meat-snacks-market-size-exceed-144500905.html",
+      "title": "Meat Snacks Market Size to Exceed USD 20.49 Billion by 2034 | Towards FnB",
       "source": "Yahoo Finance",
-      "date": "11/26/2025, 02:45 PM, +0000 UTC",
+      "date": "11/27/2025, 02:45 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/dna-damaging-agents-market-grows-140000098.html",
-      "title": "DNA Damaging Agents Market Grows at 11.67% CAGR, to Hit USD 46.31 Billion by 2034",
+      "url": "https://finance.yahoo.com/news/aav-manufacturing-market-surge-usd-130000877.html",
+      "title": "AAV Manufacturing Service Market to Surge USD 6.25 Bn by 2035, Rising at a 15.84% CAGR",
       "source": "Yahoo Finance",
-      "date": "11/26/2025, 02:00 PM, +0000 UTC",
+      "date": "11/27/2025, 01:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/investment-banking-market-set-strong-082900651.html",
+      "title": "Investment Banking Market Set for Strong Expansion, Advancing Toward USD 254.00 Billion by 2033 amid Rising Global Capital Market Activity | Research by SNS Insider",
+      "source": "Yahoo Finance",
+      "date": "11/27/2025, 08:29 AM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-26T23:13:15.963Z"
+  "lastUpdated": "2025-11-27T23:13:26.627Z"
 }
