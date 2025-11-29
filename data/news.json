@@ -1,38 +1,38 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-sp-500-dow-rise-toward-a-5th-straight-day-of-gains-to-cap-a-rocky-month-140109029.html",
-      "title": "Stock market today: Nasdaq, S&P 500, Dow rise toward a 5th straight day of gains to cap a rocky month",
+      "url": "https://fortune.com/2025/11/29/stock-market-outlook-santa-claus-rally-sp500-forecast-8000-2026/",
+      "title": "Santa is coming to Wall Street early this season, and analysts say 2026 is shaping up to be another big year of gains",
+      "source": "Fortune",
+      "date": "11/29/2025, 10:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/historical-market-pattern-just-ended-183500325.html",
+      "title": "This Historical Market Pattern Just Ended, and It Could Be a Precursor to a Market Crash",
       "source": "Yahoo Finance",
-      "date": "11/28/2025, 05:42 PM, +0000 UTC",
+      "date": "11/29/2025, 06:35 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-industrials-s-p-500-and-nasdaq-poised-for-weakest-monthly-finish-since-spring?gaa_at=eafs&gaa_n=AWEtsqc2iW8hiwaZ7kLwSgyVIMzkNmiztniAF1NYNRyFQNDUevkkyqAFckMU&gaa_ts=692a3017&gaa_sig=DGDENRqgCexOvQkcFdYeDCrL1Zi2F9QHJqEsrfja6G9Ixre6-VuG21IaW8rY856dIThR9FF-8wUBWH-NA4yfFw%3D%3D",
-      "title": "Stock Market News, Nov. 28, 2025: S&P 500, Dow and Nasdaq finish November with 5-day winning streak as volatile month comes to a close",
-      "source": "MarketWatch",
-      "date": "11/28/2025, 06:38 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/story/stocks-stage-big-comeback-in-best-thanksgiving-week-since-2008-what-comes-next-a18a6bdf?gaa_at=eafs&gaa_n=AWEtsqeKkjQ-bRVuQ_iRJn__mQKjXk638sOMBEFSV_dy0lenvhcjAMWoJ2oL&gaa_ts=692a3017&gaa_sig=4EqyVdLsLbYAkOF_LsQ8io6ruhm31Xb3O7HEZbCmj3snqFk863g_oywej8qfEpKZyEO3H75sgQD6HKnq8GQA8Q%3D%3D",
-      "title": "Stocks stage big comeback in best Thanksgiving week since 2008. What comes next?",
-      "source": "MarketWatch",
-      "date": "11/28/2025, 10:27 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-112825?gaa_at=eafs&gaa_n=AWEtsqc2ahfK8Hx97amNGom4XfINAZ3H_LqtJuv-4d3_5teU2qJlbGr9zeip&gaa_ts=692a3017&gaa_sig=oAiCpMv4lkmLhsfcrhUTTT2fpFFwws7qxQfm3Vq2iQtshRbTlMwcQrkUUM82D4WLQfdfK689Um-W9nAQe4HanA%3D%3D",
-      "title": "Stock Market Today: Dow, S&P 500, Nasdaq Open Up on Black Friday; Amazon, Alphabet, More Movers",
-      "source": "Barron's",
-      "date": "11/28/2025, 06:41 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-intel-soars-amid-apple-deal-rumors-eli-lilly-stock-slides-intc-lly-11858650",
-      "title": "S&P 500 Gains and Losses Today: Intel Soars Amid Apple Deal Rumors; Eli Lilly Stock Slides",
+      "url": "https://www.investopedia.com/sandisk-joins-the-s-and-p-500-today-its-stock-has-been-a-huge-gainer-this-year-sndk-11858604",
+      "title": "Sandisk Joins the S&P 500 Today. Its Stock Has Been a Huge Gainer This Year.",
       "source": "Investopedia",
-      "date": "11/28/2025, 06:42 PM, +0000 UTC",
+      "date": "11/28/2025, 03:42 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4848621-the-7-biggest-s-and-p-500-stocks-might-be-all-we-need",
+      "title": "The 7 Biggest S&P 500 Stocks Might Be All We Need. (NYSEARCA:IVV)",
+      "source": "Seeking Alpha",
+      "date": "11/29/2025, 02:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/jp-morgan-sees-sp-500-7500-by-end-2026-double-digit-gain-here-2025-11-26/",
+      "title": "J.P. Morgan sees S&P 500 at 7,500 by end 2026, double-digit gain from here",
+      "source": "Reuters",
+      "date": "11/26/2025, 03:44 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -59,28 +59,21 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/11/26/us-treasury-yields-investors-weigh-the-state-of-the-us-economy.html",
-      "title": "10-year Treasury yield is little changed as investors weigh the state of the U.S. economy",
-      "source": "CNBC",
-      "date": "11/26/2025, 09:24 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/features/2025-11-02/us-treasury-rally-stuns-wall-street-with-best-return-since-2020",
+      "title": "Treasuries Rally Is Proving Trump’s ‘Sell America’ Critics Wrong",
+      "source": "Bloomberg.com",
+      "date": "11/02/2025, 07:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/us/us-posts-284-billion-october-budget-deficit-report-impacted-by-shutdown-2025-11-25/",
-      "title": "US budget deficit hits $284 billion in October; report impacted by shutdown",
-      "source": "Reuters",
-      "date": "11/25/2025, 08:56 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/11/12/us-treasury-yields-end-of-government-shutdown-nears-.html",
+      "title": "Treasury yields move lower as end of the government shutdown nears",
+      "source": "CNBC",
+      "date": "11/12/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
-    {
-      "url": "https://www.bloomberg.com/opinion/articles/2025-11-26/oil-market-gloom-about-long-term-prices-is-overdone",
-      "title": "The Oil Market Is Always Wrong About Long-Term Prices",
-      "source": "Bloomberg.com",
-      "date": "11/26/2025, 04:00 AM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://www.reuters.com/business/energy/swelling-supply-keep-oil-prices-under-strain-2026-2025-11-28/",
       "title": "Swelling supply to keep oil prices under strain in 2026",
@@ -96,17 +89,24 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/brent-little-changed-investors-zoom-russia-ukraine-talks-opec-2025-11-28/",
-      "title": "Oil falls on drawn-out Ukraine peace talks, all eyes on upcoming OPEC+ meeting",
+      "url": "https://www.reuters.com/business/energy/oil-prices-drop-expectations-ceasefire-ukraine-unlocking-russian-supply-2025-11-27/",
+      "title": "Oil prices settle up in low volume on US holiday; Russia-Ukraine talks in focus",
       "source": "Reuters",
-      "date": "11/28/2025, 08:20 PM, +0000 UTC",
+      "date": "11/27/2025, 07:02 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-stabilises-after-ukraine-peace-talks-push-prices-one-month-lows-2025-11-26/",
-      "title": "Oil edges up as investors await clarity on supply, Russia-Ukraine deal",
+      "url": "https://www.reuters.com/business/energy/saudi-arabia-may-reduce-january-oil-prices-asia-five-year-low-2025-11-28/",
+      "title": "Saudi Arabia may reduce January oil prices to Asia to five-year low",
       "source": "Reuters",
-      "date": "11/26/2025, 08:48 PM, +0000 UTC",
+      "date": "11/28/2025, 07:33 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/petrobras-cuts-capex-plan-lower-103000170.html",
+      "title": "Petrobras Cuts Capex Plan on Lower Oil Prices",
+      "source": "Yahoo Finance",
+      "date": "11/28/2025, 10:30 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -126,24 +126,24 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-25-2025-gold-rises-above-4100-after-waller-backs-rate-cut-123653947.html",
-      "title": "Gold price today, Tuesday, November 25, 2025: Gold rises above $4,100 after Waller backs rate cut",
-      "source": "Yahoo Finance",
-      "date": "11/25/2025, 01:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.investopedia.com/why-many-experts-believe-gold-prices-will-surpass-usd5000-in-2026-11858606",
-      "title": "Why Some Experts Believe Gold Prices Could Reach $5,000 in 2026",
-      "source": "Investopedia",
-      "date": "11/28/2025, 05:09 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://fortune.com/article/current-price-of-gold-11-26-2025/",
       "title": "Current price of gold as of November 26, 2025",
       "source": "Fortune",
       "date": "11/26/2025, 03:34 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/11/28/goldman-sachs-investor-poll-gold-can-top-5k-in-2026-.html",
+      "title": "Goldman Sachs polled institutional investors on gold, and found many expect it to hit $5K next year",
+      "source": "CNBC",
+      "date": "11/28/2025, 03:46 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/gold-clinches-fourth-straight-monthly-gain-closes-in-on-record-high-as-markets-solidify-rate-cut-bets-181701120.html",
+      "title": "Gold clinches fourth straight monthly gain, closes in on record high as markets solidify rate cut bets",
+      "source": "Yahoo Finance",
+      "date": "11/28/2025, 06:17 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -156,15 +156,8 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-track-worst-week-four-months-case-fed-cut-builds-2025-11-28/",
-      "title": "US dollar set for worst week since July as Fed rate cut looms",
-      "source": "Reuters",
-      "date": "11/28/2025, 07:53 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://seekingalpha.com/article/4848197-bitcoin-this-time-is-already-different",
-      "title": "Bitcoin: This Time Is Already Different (Cryptocurrency:BTC-USD)",
+      "title": "Bitcoin: This Time Is Already Different (Technical Analysis)",
       "source": "Seeking Alpha",
       "date": "11/27/2025, 10:26 AM, +0000 UTC",
       "snippet": ""
@@ -177,12 +170,19 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4848589-ethereum-price-prediction-buyers-defend-3k-outflows-ease-oversold-bounce-gains-traction",
-      "title": "ETH-USD: Buyers Defend $3k As Outflows Ease, Oversold Bounce Traction (Technical Analysis)",
+      "url": "https://seekingalpha.com/article/4848699-how-us-dollar-weakness-could-buoy-emerging-markets",
+      "title": "How U.S. Dollar Weakness Could Buoy Emerging Markets",
       "source": "Seeking Alpha",
-      "date": "11/28/2025, 05:10 PM, +0000 UTC",
+      "date": "11/29/2025, 08:20 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-11-27/inr-usd-why-is-india-rupee-so-weak-what-does-it-mean-for-prices-incomes",
+      "title": "How India’s Rupee Ended Up as Asia’s Worst Currency This Year",
+      "source": "Bloomberg.com",
+      "date": "11/27/2025, 05:53 AM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-11-28T23:13:19.892Z"
+  "lastUpdated": "2025-11-29T23:13:16.885Z"
 }
