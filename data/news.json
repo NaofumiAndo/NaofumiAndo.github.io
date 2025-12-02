@@ -1,42 +1,63 @@
 {
   "sp500": [
     {
-      "url": "https://www.barrons.com/articles/worst-stocks-chipotle-growth-1729e633?gaa_at=eafs&gaa_n=AWEtsqcVoaHJnauTwjQyDJm4puBTH9I4S8PoG6xb7S6R7mDDt4ac65qAjD0R&gaa_ts=692e24c6&gaa_sig=IsA10uMDKMKzhprl_PYJXi7IZdLdk107T35vHO3-Gfcayu1xDVKoYU_QG1U6oOmGUMQ52Pd6T0E_KFVd-ZdYiw%3D%3D",
-      "title": "The 12 Worst Stocks of 2025—and the 1 That Could Turn Around",
-      "source": "Barron's",
-      "date": "12/01/2025, 09:47 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-step-higher-as-bitcoin-surges-in-broad-bounce-back-143326837.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq step higher as bitcoin surges in broad bounce back",
+      "source": "Yahoo Finance",
+      "date": "12/02/2025, 08:21 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-120125?gaa_at=eafs&gaa_n=AWEtsqdQDNNrnCDbrI6t2xxzmcdZFHH0Rceavx9sl3l7R96b4QX1lDPgwrdQ&gaa_ts=692e24c6&gaa_sig=uY7iTqmyjcdHjk4Xp98ulvxxly2i8RMG8jB9Nz2gh272j6a-Ri8e8EFGaqEDW4HJ3Fc84ehWsRefgoPREeiwiQ%3D%3D",
-      "title": "Stock Market Today: Stocks Close Lower, Kicking Off December in the Red",
-      "source": "Barron's",
-      "date": "12/01/2025, 10:27 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-slide-as-bitcoin-tumbles-to-kick-off-december-210035496.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slide as bitcoin tumbles to kick off December",
+      "source": "Yahoo Finance",
+      "date": "12/01/2025, 09:03 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-moderna-plunges-synopsys-surges-on-nvidia-deal-snps-mrna-11859854",
-      "title": "S&P 500 Gains and Losses Today: Moderna Plunges; Synopsys Surges on Nvidia Deal",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-02/asian-stocks-eye-cautious-gains-as-crypto-rebounds-markets-wrap",
+      "title": "Asian Stocks Eye Cautious Gains as Crypto Rebounds: Markets Wrap",
+      "source": "Bloomberg.com",
+      "date": "12/02/2025, 10:32 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-boeing-climbs-on-positive-outlook-intel-extends-rally-11860501",
+      "title": "S&P 500 Gains and Losses Today: Boeing Climbs on Positive Outlook; Intel Extends Rally",
       "source": "Investopedia",
-      "date": "12/01/2025, 09:46 PM, +0000 UTC",
+      "date": "12/02/2025, 10:17 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/crh-vertiv-ares-alnylam-sp500-stocks-rebalancing-10a39a07?gaa_at=eafs&gaa_n=AWEtsqenDTSCdz_HuHCYf-Tnu8AOQ8QiQnAvds915CLg3rwjp6QnqJxaEsfZ&gaa_ts=692e24c6&gaa_sig=AGQvovB10s4l5P95dfSy_as6V9BS5305R6BUi-FFbrjX_TuaCdNCYhdTfpBZtoL6ip9Ruga5BuCYeibH9a4g4A%3D%3D",
-      "title": "CRH, Vertiv, Ares, Alnylam Could Be Added to S&P 500 Friday in Rebalancing",
+      "url": "https://www.barrons.com/articles/sp-500-addtions-vertiv-stock-rebalance-10a39a07?gaa_at=eafs&gaa_n=AWEtsqcjyV6VLhZFuE8dT9ak4SUzDgfCecSykrh6EsY8dlYjtlLhTyFl1Mov&gaa_ts=692f7632&gaa_sig=TTKW_luoXJ7MSGXHSR4puZ7U5i0mQ5Op3b0XkjAl6KPxDLfci3dNEsTgJz7ZJ4-_mc5QMM8qklUGwT9ptVQJlQ%3D%3D",
+      "title": "Vertiv and 3 More Stocks Could Be Added to the S&P 500 in Friday Rebalancing",
       "source": "Barron's",
-      "date": "12/01/2025, 10:09 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://uk.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-wall-street-enters-final-trading-month-of-2025-011408966.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures sink, bitcoin plummets in downbeat start to December",
-      "source": "Yahoo Finance UK",
-      "date": "12/01/2025, 01:08 PM, +0000 UTC",
+      "date": "12/02/2025, 01:11 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-12-02/bessent-praises-santander-for-pulling-out-of-gunvor-credit-deal",
+      "title": "US Treasury Attacks Gunvor Again a Day After Abrupt CEO Exit",
+      "source": "Bloomberg.com",
+      "date": "12/02/2025, 05:52 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/treasury-investigating-tax-fraud-allegations-minnesota-bessent-says-2025-12-01/",
+      "title": "Treasury investigating tax fraud allegations in Minnesota, Bessent says",
+      "source": "Reuters",
+      "date": "12/01/2025, 11:09 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-120125/card/u-s-treasury-yields-rise-after-boj-governor-comments-xk8CdQvduaAUwuKqlNCm?gaa_at=eafs&gaa_n=AWEtsqcyGmR0lIML4TTs1CvByUt8kSSsYFQrN0mQ_x0IAEzeloUsQ9DTiizv&gaa_ts=692f7637&gaa_sig=EcPrYQU9B3seYVUx3ePPaik8oQsCoehInb9I5yzFUEKr_HJF-gGkJoJMsNWjca-gA-gtMSApIXu3wa0XdyFXQw%3D%3D",
+      "title": "U.S. Treasury Yields Rise After BOJ Governor Comments",
+      "source": "Barron's",
+      "date": "12/01/2025, 11:52 AM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.cnbc.com/2025/12/01/us-treasury-yields-traders-increase-bets-on-fed-rate-cut-.html",
       "title": "Treasury yields move higher as markets look to faster economic growth in 2026",
@@ -45,40 +66,19 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/treasury-investigating-tax-fraud-allegations-minnesota-bessent-says-2025-12-01/",
-      "title": "Treasury investigating tax fraud allegations in Minnesota, Bessent says",
+      "url": "https://www.reuters.com/business/blackrock-turns-bearish-long-term-treasuries-ai-funding-wave-looms-2025-12-02/",
+      "title": "BlackRock turns bearish on long-term Treasuries as AI funding wave looms",
       "source": "Reuters",
-      "date": "12/01/2025, 10:25 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/news/4526953-us-treasury-yields-rise-amid-sharp-jump-in-japanese-government-bond-yields",
-      "title": "U.S. Treasury yields rise amid sharp jump in Japanese government bond yields",
-      "source": "Seeking Alpha",
-      "date": "12/01/2025, 02:36 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/us/bessent-says-us-treasury-working-cut-off-federal-benefits-illegal-aliens-2025-11-28/",
-      "title": "Bessent says US Treasury working to cut off federal benefits to 'illegal aliens'",
-      "source": "Reuters",
-      "date": "11/28/2025, 07:06 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.investopedia.com/inside-buffett-s-strategy-berkshire-hathaway-owns-more-treasury-bills-than-the-federal-reserve-11850030",
-      "title": "Inside Buffett's Strategy: Berkshire Hathaway Owns More Treasury Bills Than the Federal Reserve",
-      "source": "Investopedia",
-      "date": "11/15/2025, 08:00 AM, +0000 UTC",
+      "date": "12/02/2025, 03:48 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/business/energy/swelling-supply-keep-oil-prices-under-strain-2026-2025-11-28/",
-      "title": "Swelling supply to keep oil prices under strain in 2026",
-      "source": "Reuters",
-      "date": "11/28/2025, 11:38 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-01/cheap-oil-prices-who-wins-and-loses-in-a-world-with-surplus-crude",
+      "title": "There’s Too Much Oil. Who Are the Winners and Losers?",
+      "source": "Bloomberg.com",
+      "date": "12/01/2025, 08:15 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -89,33 +89,54 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-01/gasoline-prices-fall-to-four-year-low-on-cheap-oil-flat-demand",
-      "title": "Gasoline Prices Fall to Four-Year Low on Cheap Oil, Flat Demand",
-      "source": "Bloomberg.com",
-      "date": "12/01/2025, 05:23 PM, +0000 UTC",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-supply-chain-disruption-963d6115?gaa_at=eafs&gaa_n=AWEtsqfC2ulNhdN0SE-g1H1q2iRp5yDhA8wuJVdtV8n4q0-LImWpFrVmIp1y&gaa_ts=692f763b&gaa_sig=Ct-M7b4ZNo7pzl9H-yCV3g8OynqBVWiPAglK3Bf87llbr9Uz59L2alQJ2j1QapcmuJe0TcDMVrfbAEB_koPcuA%3D%3D",
+      "title": "Oil Prices Fall as Markets Watch Peace Talks",
+      "source": "The Wall Street Journal",
+      "date": "12/02/2025, 02:15 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/oil-price-2026-russia-venezuela-opec-d687a86e?gaa_at=eafs&gaa_n=AWEtsqfTsDjHlSPFOpUd28n2Wf_5kTRIDP6uWuqLJjPKhWH1mZMENwZMT0ki&gaa_ts=692e24ce&gaa_sig=HDz8O39brkuCPkfbUyygltBqZcPI29-azsaWS8GwjH_yWojtuyjRrSFvnbVd4IW4rcDJ7cUNNvU-GFHGehhLPg%3D%3D",
-      "title": "There’s an Oil Glut. That Might Not Tank Prices.",
-      "source": "Barron's",
-      "date": "12/01/2025, 07:44 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/oil-rises-geopolitical-risks-supply-2025-12-02/",
+      "title": "Oil eases amid uncertainty around Russia-Ukraine peace plan, oversupply worries",
+      "source": "Reuters",
+      "date": "12/02/2025, 08:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4526668-oil-prices-rise-as-opec-holds-oil-production-steady",
-      "title": "Oil prices rise as OPEC+ holds oil production steady (USO:NYSEARCA)",
-      "source": "Seeking Alpha",
-      "date": "12/01/2025, 01:48 AM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/oil-prices-fall-rising-us-inventories-reinforce-oversupply-concerns-2025-11-19/",
+      "title": "Oil settles down on renewed push to end Russia-Ukraine war",
+      "source": "Reuters",
+      "date": "11/19/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-november-28-gold-rises-with-volatility-amid-outage-123653352.html",
-      "title": "Gold price today, Friday, November 28: Gold rises with volatility amid outage",
-      "source": "Yahoo Finance",
-      "date": "11/28/2025, 03:24 PM, +0000 UTC",
+      "url": "https://fortune.com/article/current-price-of-gold-12-01-2025/",
+      "title": "Current price of gold as of December 1, 2025",
+      "source": "Fortune",
+      "date": "12/01/2025, 02:08 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-12-02-2025/",
+      "title": "Current price of gold as of December 2, 2025",
+      "source": "Fortune",
+      "date": "12/02/2025, 02:25 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/india/gold-prices-ease-firmer-yields-us-data-focus-2025-12-02/",
+      "title": "Gold falls on profit booking, investors eye Fed rate cut signals",
+      "source": "Reuters",
+      "date": "12/02/2025, 07:10 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/02/gold-prices-ease-on-firmer-yields-us-data-in-focus.html",
+      "title": "Gold falls on profit-booking; investors eye Fed rate cut signals",
+      "source": "CNBC",
+      "date": "12/02/2025, 04:40 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -124,37 +145,9 @@
       "source": "Investopedia",
       "date": "11/28/2025, 05:09 PM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-december-1-gold-rises-above-4200-as-bitcoin-stock-futures-decline-130155132.html",
-      "title": "Gold price today, Monday, December 1: Gold rises above $4,200 as Bitcoin, stock futures decline",
-      "source": "Yahoo Finance",
-      "date": "12/01/2025, 01:01 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/deutsche-bank-raises-2026-gold-price-forecast-4450oz-2025-11-26/",
-      "title": "Deutsche Bank raises 2026 gold price forecast to $4,450/oz",
-      "source": "Reuters",
-      "date": "11/26/2025, 11:36 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/india/gold-climbs-six-week-high-risk-off-sentiment-equities-lower-dollar-2025-12-01/",
-      "title": "Gold touches six-week high as rate cut bets weigh on dollar; silver hits record high",
-      "source": "Reuters",
-      "date": "12/01/2025, 07:16 PM, +0000 UTC",
-      "snippet": ""
     }
   ],
   "dollar": [
-    {
-      "url": "https://www.reuters.com/world/india/massive-economic-growth-beat-hands-struggling-indian-rupee-rare-lift-2025-12-01/",
-      "title": "Rupee hits all-time low, holds above 90/USD mark with central bank help",
-      "source": "Reuters",
-      "date": "12/01/2025, 10:10 AM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://www.bloomberg.com/news/articles/2025-12-01/indian-rupee-slides-to-record-low-as-central-bank-steps-away",
       "title": "INR USD: Indian Rupee Slides to Record Low as Central Bank Steps Away",
@@ -163,26 +156,33 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4526705-japan-yield-spike-is-hitting-the-risk-on-trade-premarket",
-      "title": "Japan yield spike is hitting the risk-on trade premarket (JPY:USD:)",
+      "url": "https://www.reuters.com/world/india/massive-economic-growth-beat-hands-struggling-indian-rupee-rare-lift-2025-12-01/",
+      "title": "Rupee hits all-time low, holds above 90/USD mark with central bank help",
+      "source": "Reuters",
+      "date": "12/01/2025, 10:10 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/bitcoin-giant-strategy-establishes-1-152439247.html",
+      "title": "Bitcoin Giant Strategy Establishes $1.44 Billion USD Reserve—But Still Might Sell BTC",
+      "source": "Yahoo Finance",
+      "date": "12/01/2025, 03:24 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4848936-bitcoin-likely-peaked-in-this-price-cycle",
+      "title": "Bitcoin Likely Peaked In This Price Cycle (BTC-USD)",
       "source": "Seeking Alpha",
-      "date": "12/01/2025, 10:17 AM, +0000 UTC",
+      "date": "12/01/2025, 02:33 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/strategy-unveils-dollar-soothe-bitcoin-134335226.html",
-      "title": "Strategy’s Dollar Reserve Fails to Soothe Bitcoin-Sales Concern",
+      "url": "https://finance.yahoo.com/news/oncology-market-size-worth-usd-152700666.html",
+      "title": "Oncology Market Size Worth USD 668.26 Billion by 2034",
       "source": "Yahoo Finance",
-      "date": "12/01/2025, 09:26 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/protein-ingredients-market-size-exceed-151000316.html",
-      "title": "Protein Ingredients Market Size to Exceed USD 91.78 Billion by 2034 | Towards FnB",
-      "source": "Yahoo Finance",
-      "date": "12/01/2025, 03:10 PM, +0000 UTC",
+      "date": "12/02/2025, 03:27 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-01T23:14:07.503Z"
+  "lastUpdated": "2025-12-02T23:13:45.707Z"
 }
