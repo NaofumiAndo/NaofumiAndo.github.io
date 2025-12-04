@@ -1,47 +1,47 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-and-sp-500-rise-nasdaq-pares-losses-as-key-adp-jobs-data-shows-weakness-000151469.html",
-      "title": "Stock market today: Dow and S&P 500 rise, Nasdaq pares losses as key ADP jobs data shows weakness",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-steady-as-wall-street-cements-in-rate-cut-hopes-235214820.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq steady as Wall Street cements in rate-cut hopes",
       "source": "Yahoo Finance",
-      "date": "12/03/2025, 05:30 PM, +0000 UTC",
+      "date": "12/04/2025, 02:35 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-120325?gaa_at=eafs&gaa_n=AWEtsqcRmkuPFk1xE93SWTdi_sIxgOjA8JJWWtZrL3fs91yQQB8NSBoDifxq&gaa_ts=6930c74d&gaa_sig=ulGDRy72nugEAqSNSQyGWDYN5xKcBlXWhVxCjl3ljfIE3jL8H59uqgLUoyrXjbxbWxWDXZewvufKqHzL9RzBsw%3D%3D",
-      "title": "Stock Market Rises on Renewed Fed Rate Cut Hopes",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-04-2025?gaa_at=eafs&gaa_n=AWEtsqe84OZp8tiMdEWRntZW7sWGiADLdMEsTE9OCW1TLiIb-uXLPl7KvK1Z&gaa_ts=69321939&gaa_sig=u9vIyKlpN_XA66ZmehsIGNPPSjBRP_F0jXunwDgttJNoZM1dy92D4AfJ5-guYtp4OkWUcnarmHM_q8TxH_OJWQ%3D%3D",
+      "title": "Stock Market Today: Dow, S&P 500 Slip; Hims, Meta in Focus — Live Updates",
+      "source": "The Wall Street Journal",
+      "date": "12/04/2025, 09:49 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-120425?gaa_at=eafs&gaa_n=AWEtsqeVvPMX0DZnk_4we1D7pcx6AP4P2I7rDAEW4Ltuwg9gH8_7_36P_5XS&gaa_ts=69321939&gaa_sig=47be8U6KilVIsL6zHcVH9MDH9hdQctpfrdnQcTuvRmOoFLe8aI4QK2pm0THoN9hZWlarZKbjRRfhiOd6cHA0yQ%3D%3D",
+      "title": "Stock Market Today: Dow Falls; Nasdaq, S&P 500 Rise; Russell 2000 Gains; Snowflake, UiPath, Salesforce, Nvidia and More Movers",
       "source": "Barron's",
-      "date": "12/03/2025, 10:01 PM, +0000 UTC",
+      "date": "12/04/2025, 09:31 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-03/stock-market-today-dow-s-p-live-updates",
-      "title": "Asian Stocks to Gain as Bets for Fed Rate Cut Rise: Markets Wrap",
-      "source": "Bloomberg",
-      "date": "12/03/2025, 10:27 PM, +0000 UTC",
+      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-dollar-general-soars-on-strong-earnings-intel-stock-slumps-intc-dg-11862048",
+      "title": "S&P 500 Gains and Losses Today: Dollar General Soars on Strong Earnings; Intel Stock Slumps",
+      "source": "Investopedia",
+      "date": "12/04/2025, 09:52 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/03/these-stocks-could-be-added-to-the-sp-500-when-benchmark-reshuffles-this-month.html",
-      "title": "These stocks could be added to the S&P 500 when benchmark reshuffles this month",
-      "source": "CNBC",
-      "date": "12/03/2025, 05:34 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/story/reasons-to-be-optimistic-about-the-s-p-500s-worst-performing-stocks-26f298f9?gaa_at=eafs&gaa_n=AWEtsqcktGqhwDjS2MuYBVaKGAybVSGql3LLM1cJgL2KbXJKE6oCyKeL3Wwy&gaa_ts=6930c74d&gaa_sig=XAhO3Sbhcrje3AiWZEcvD-_vgUGKgCCoeKU-qx_9ksp3FkREJ2Ptayh0cIBlVtHnnlKjy877hlJzgJXwR64RGQ%3D%3D",
-      "title": "Reasons to be optimistic about the S&P 500’s worst-performing stocks",
-      "source": "MarketWatch",
-      "date": "12/02/2025, 11:51 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-03/tech-is-getting-left-behind-in-the-s-p-500-s-latest-rebound",
+      "title": "Tech Is Getting Left Behind in the S&P 500’s Latest Rebound",
+      "source": "Bloomberg.com",
+      "date": "12/03/2025, 12:26 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-02/bessent-praises-santander-for-pulling-out-of-gunvor-credit-deal",
-      "title": "US Treasury Attacks Gunvor Again a Day After Abrupt CEO Exit",
-      "source": "Bloomberg.com",
-      "date": "12/02/2025, 05:52 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/03/us-treasury-yields-investors-await-further-economic-data-.html",
+      "title": "10-year Treasury yield moves lower after surprise decline in private payrolls",
+      "source": "CNBC",
+      "date": "12/03/2025, 10:30 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -52,47 +52,47 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/03/us-treasury-yields-investors-await-further-economic-data-.html",
-      "title": "10-year Treasury yield moves lower after surprise decline in private payrolls",
-      "source": "CNBC",
-      "date": "12/03/2025, 10:30 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-02/bessent-praises-santander-for-pulling-out-of-gunvor-credit-deal",
+      "title": "US Treasury Attacks Gunvor Again a Day After Abrupt CEO Exit",
+      "source": "Bloomberg.com",
+      "date": "12/02/2025, 05:52 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.nytimes.com/video/us/politics/100000010561883/nyt-dealbook-bessent-treasury.html",
-      "title": "Video: Treasury Secretary Scott Bessent Says He’s ‘Evolved’ on Tariffs",
-      "source": "The New York Times",
-      "date": "12/03/2025, 05:19 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/lower-rates-would-likely-eliminate-need-50-year-mortgage-treasury-adviser-says-2025-12-03/",
+      "title": "Lower interest rates would likely eliminate the need for 50-year mortgage, US Treasury adviser says",
+      "source": "Reuters",
+      "date": "12/04/2025, 06:11 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-120125/card/u-s-treasury-yields-rise-after-boj-governor-comments-xk8CdQvduaAUwuKqlNCm?gaa_at=eafs&gaa_n=AWEtsqfrYi3rZ2O36aZSkBuyD9Q5qHkbOFFeUK4Ve_zy0oDy3aLTXou8XbVf&gaa_ts=6930c752&gaa_sig=ut9Bhm4g-sbCK3SzmeEWlAMX3K2QNYaHkreO6d77Sb2ZC7Ba93tj4eKU922-x_tMZOGLJUP564ZtWlD8S8GS-A%3D%3D",
-      "title": "U.S. Treasury Yields Rise After BOJ Governor Comments",
-      "source": "Barron's",
-      "date": "12/01/2025, 11:52 AM, +0000 UTC",
+      "url": "https://uk.finance.yahoo.com/news/gold-prices-pound-dollar-oil-latest-112456823.html",
+      "title": "Gold prices slump following jump in US Treasury yields",
+      "source": "Yahoo Finance UK",
+      "date": "12/02/2025, 11:24 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-01/cheap-oil-prices-who-wins-and-loses-in-a-world-with-surplus-crude",
-      "title": "There’s Too Much Oil. Who Are the Winners and Losers?",
-      "source": "Bloomberg",
-      "date": "12/01/2025, 08:15 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-04/saudi-arabia-cuts-flagship-oil-price-to-lowest-in-five-years",
+      "title": "Saudi Arabia Cuts Flagship Oil Price to Lowest in Five Years",
+      "source": "Bloomberg.com",
+      "date": "12/04/2025, 02:57 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://uk.finance.yahoo.com/news/oil-price-gold-pound-interest-rates-currency-commodities-latest-092919092.html",
-      "title": "Oil price leaps after OPEC+ keeps output unchanged and Ukraine attacks",
-      "source": "Yahoo Finance UK",
-      "date": "12/01/2025, 09:29 AM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/oil-prices-firm-after-ukrainian-strikes-russian-oil-infrastructure-stalled-peace-2025-12-04/",
+      "title": "Oil settles up on expectations of Fed rate cut, Ukraine peace talks stalling",
+      "source": "Reuters",
+      "date": "12/04/2025, 08:15 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/03/oil-prices-fall-on-weak-demand-as-markets-await-ukraine-peace-effort-for-supply-signs.html",
-      "title": "Oil rises as Moscow peace talks fail to reach breakthrough",
-      "source": "CNBC",
-      "date": "12/03/2025, 03:17 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/gasoline-prices-fall-four-low-172340088.html",
+      "title": "Gasoline Prices Fall to Four-Year Low on Cheap Oil, Flat Demand",
+      "source": "Yahoo Finance",
+      "date": "12/01/2025, 05:23 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -103,17 +103,38 @@
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/story/why-oil-producers-are-adding-to-the-global-supply-glut-despite-low-crude-prices-169e7469?gaa_at=eafs&gaa_n=AWEtsqcjw5WMp5gGZW5qQEhC2tUOJm6LY0YBOmXD13DAq7io6RMU63-UEwC0&gaa_ts=6930c757&gaa_sig=attDnrKXpex15AT4kAZo4aU6AytqGvFzqiSUhO0s8g9c8knal_KGoFHGe7emZn2dj3cY-uyMZZGVSkKDdFG7-A%3D%3D",
-      "title": "Why oil producers are adding to the global supply glut despite low crude prices",
-      "source": "MarketWatch",
-      "date": "12/03/2025, 12:00 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/03/oil-prices-fall-on-weak-demand-as-markets-await-ukraine-peace-effort-for-supply-signs.html",
+      "title": "Oil rises on expectations of Fed rate cut, Ukraine peace talks stalling",
+      "source": "CNBC",
+      "date": "12/03/2025, 03:17 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-december-1-gold-rises-above-4200-as-bitcoin-stock-futures-decline-130155132.html",
+      "title": "Gold price today, Monday, December 1: Gold rises above $4,200 as Bitcoin, stock futures decline",
+      "source": "Yahoo Finance",
+      "date": "12/01/2025, 01:01 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/gold-price-oil-gold-interest-rates-dollar-us-101354039.html",
+      "title": "Gold prices forecast to surge 30% next year amid flight to safety",
+      "source": "Yahoo Finance UK",
+      "date": "12/04/2025, 10:13 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-12-01-2025/",
+      "title": "Current price of gold as of December 1, 2025",
+      "source": "Fortune",
+      "date": "12/01/2025, 02:08 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://www.cnbc.com/2025/12/03/gold-rebounds-on-fed-cut-expectations-silver-hits-record-high.html",
-      "title": "Gold rises as weak payroll data fuels Fed rate cut bets; silver hits record",
+      "title": "Gold holds steady, silver scales record high",
       "source": "CNBC",
       "date": "12/03/2025, 08:51 AM, +0000 UTC",
       "snippet": ""
@@ -124,35 +145,28 @@
       "source": "Reuters",
       "date": "12/02/2025, 07:10 PM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-03/silver-price-hits-record-high-why-it-has-been-surging-even-more-than-gold",
-      "title": "Why Silver Price Has Been Surging Even More Than Gold",
-      "source": "Bloomberg.com",
-      "date": "12/03/2025, 12:01 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/02/gold-prices-ease-on-firmer-yields-us-data-in-focus.html",
-      "title": "Gold falls on profit-booking; investors eye Fed rate cut signals",
-      "source": "CNBC",
-      "date": "12/02/2025, 04:40 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-december-1-gold-rises-above-4200-as-bitcoin-stock-futures-decline-130155132.html",
-      "title": "Gold price today, Monday, December 1: Gold rises above $4,200 as Bitcoin, stock futures decline",
-      "source": "Yahoo Finance",
-      "date": "12/01/2025, 01:01 PM, +0000 UTC",
-      "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/india/massive-economic-growth-beat-hands-struggling-indian-rupee-rare-lift-2025-12-01/",
-      "title": "Rupee hits all-time low, holds above 90/USD mark with central bank help",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-weak-with-rate-cut-enthusiasm-intact-euro-7-week-high-2025-12-04/",
+      "title": "Dollar extends weakness; yen at 2-1/2 week high",
       "source": "Reuters",
-      "date": "12/01/2025, 10:10 AM, +0000 UTC",
+      "date": "12/04/2025, 04:10 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4850411-usdjpy-drops-below-155-00-has-the-2025-yearly-top-been-reached",
+      "title": "USD/JPY Drops Below 155.00: Has The 2025 Yearly Top Been Reached? (null:USD:JPY)",
+      "source": "Seeking Alpha",
+      "date": "12/04/2025, 07:28 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-12-04/indian-rupee-s-undervaluation-to-lure-global-funds-analysts-say",
+      "title": "Indian Rupee’s Undervaluation to Lure Global Funds, Analysts Say: INR/USD",
+      "source": "Bloomberg.com",
+      "date": "12/04/2025, 08:33 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -163,26 +177,12 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/india/indian-rupee-falls-90usd-persistent-outflows-trade-deal-limbo-2025-12-03/",
-      "title": "India rupee falls to record low below 90, risks steeper slide without central bank help",
-      "source": "Reuters",
-      "date": "12/03/2025, 10:21 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/article/4849840-dbjp-jpy-and-usd-face-similar-issues-limiting-hedge-value",
-      "title": "DBJP: JPY And USD Face Similar Issues, Limiting Hedge Value (NYSEARCA:DBJP)",
-      "source": "Seeking Alpha",
-      "date": "12/03/2025, 05:24 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-takes-breather-ahead-fed-2025-12-03/",
-      "title": "Euro hits almost seven-week high, dollar broadly lower",
-      "source": "Reuters",
-      "date": "12/03/2025, 08:22 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/factors-driving-microencapsulation-technology-market-160000643.html",
+      "title": "What Factors Are Driving the Microencapsulation Technology Market Toward USD 16 Billion by 2034?",
+      "source": "Yahoo Finance",
+      "date": "12/04/2025, 04:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-03T23:12:06.868Z"
+  "lastUpdated": "2025-12-04T23:13:54.513Z"
 }
