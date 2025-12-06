@@ -1,24 +1,17 @@
 {
   "sp500": [
     {
-      "url": "https://www.barrons.com/articles/sp-500-rebalance-stocks-crh-carvana-comfort-systems-usa-45ef7420?gaa_at=eafs&gaa_n=AWEtsqdx25VRRtYeoxlIX7ye6WBgh4URiwdOiIIbaOy9j5IkomslhHmY2QWH&gaa_ts=69336abc&gaa_sig=jkIeV4HjPlCcGhuP7QDwRjClUGA83HqOKJzN0CyzgP6hsj_UaoLsnVkINIIICRYtK7RnBPnYVFuWyshQUCou-w%3D%3D",
-      "title": "Carvana, CRH, and Comfort Systems USA to Join S&P 500",
-      "source": "Barron's",
-      "date": "12/05/2025, 10:53 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/06/sp-500-quietly-rebounds-to-near-a-new-record-where-to-next-after-a-quick-round-trip-.html",
+      "title": "S&P 500 quietly rebounds to near a new record. Where to next after a quick round trip?",
+      "source": "CNBC",
+      "date": "12/06/2025, 01:38 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-05/carvana-crh-and-comfort-systems-to-join-s-p-500-in-rebalancing",
-      "title": "Carvana, CRH and Comfort Systems to Join S&P 500 in Rebalancing",
-      "source": "Bloomberg.com",
-      "date": "12/05/2025, 10:41 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.marketwatch.com/story/an-s-p-500-shakeup-is-due-soon-these-stocks-could-join-the-index-7da8a0a9?gaa_at=eafs&gaa_n=AWEtsqfAepTtKnNw_vQU45q89F-C31kwuWjJ3SpiLWpybWSPNS1Q9s9erWn1&gaa_ts=69336abc&gaa_sig=_eGviaTsOhRCffyLVcSlwOuRx_gpb797_-wcBrfOs8pp7Ep5RYOpnbmaJPYXp54QahgX4jn1iHm7R403T1y1_A%3D%3D",
-      "title": "An S&P 500 shake-up is due soon. These stocks could join the index.",
-      "source": "MarketWatch",
-      "date": "12/05/2025, 05:11 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4850769-s-and-p-500-a-chart-youve-probably-seen-and-misread",
+      "title": "S&P 500: A Chart You've Probably Seen And Misread (SP500)",
+      "source": "Seeking Alpha",
+      "date": "12/05/2025, 07:15 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -29,26 +22,26 @@
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-ulta-beauty-pops-netflix-warner-bros-deal-shakes-up-streaming-stocks-ulta-nflx-wbd-11863191",
-      "title": "S&P 500 Gains and Losses Today: Ulta Beauty Pops; Netflix-Warner Bros. Deal Shakes Up Streaming Stocks",
+      "url": "https://www.investopedia.com/s-and-p-500-gains-and-losses-today-dollar-general-soars-on-strong-earnings-intel-stock-slumps-intc-dg-11862048",
+      "title": "S&P 500 Gains and Losses Today: Dollar General Soars on Strong Earnings; Intel Stock Slumps",
       "source": "Investopedia",
-      "date": "12/05/2025, 09:30 PM, +0000 UTC",
+      "date": "12/04/2025, 09:52 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/06/berkshire-hathaway-is-on-track-to-lag-behind-the-sp-500-in-buffetts-last-year-as-ceo.html",
+      "title": "Berkshire Hathaway is on track to lag behind the S&P 500 in Buffett's last year as CEO",
+      "source": "CNBC",
+      "date": "12/06/2025, 01:33 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://finance.yahoo.com/news/us-treasury-market-tops-30-201438217.html",
-      "title": "US Treasury Market Tops $30 Trillion, Doubling Since 2018",
-      "source": "Yahoo Finance",
-      "date": "12/04/2025, 08:14 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/03/us-treasury-yields-investors-await-further-economic-data-.html",
-      "title": "10-year Treasury yield moves lower after surprise decline in private payrolls",
+      "url": "https://www.cnbc.com/2025/12/05/us-treasury-yields-investors-await-delayed-inflation-data.html",
+      "title": "Treasury yields move higher after cooler PCE inflation data",
       "source": "CNBC",
-      "date": "12/03/2025, 10:30 AM, +0000 UTC",
+      "date": "12/05/2025, 09:55 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -59,6 +52,13 @@
       "snippet": ""
     },
     {
+      "url": "https://www.bloomberg.com/news/articles/2025-12-04/treasury-debt-outstanding-tops-30-trillion-doubling-since-2018",
+      "title": "US Treasury Market Tops $30 Trillion, Doubling Since 2018",
+      "source": "Bloomberg.com",
+      "date": "12/04/2025, 08:14 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://www.reuters.com/business/lower-rates-would-likely-eliminate-need-50-year-mortgage-treasury-adviser-says-2025-12-03/",
       "title": "Lower interest rates would likely eliminate the need for 50-year mortgage, US Treasury adviser says",
       "source": "Reuters",
@@ -66,10 +66,10 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-02/bessent-praises-santander-for-pulling-out-of-gunvor-credit-deal",
-      "title": "US Treasury Attacks Gunvor Again a Day After Abrupt CEO Exit",
-      "source": "Bloomberg.com",
-      "date": "12/02/2025, 05:52 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/03/us-treasury-yields-investors-await-further-economic-data-.html",
+      "title": "10-year Treasury yield moves lower after surprise decline in private payrolls",
+      "source": "CNBC",
+      "date": "12/03/2025, 10:30 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -96,28 +96,21 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-05/platts-to-stop-reflecting-fuel-cargoes-made-from-russian-crude",
-      "title": "Platts to Stop Reflecting Fuel Cargoes Made From Russian Crude",
-      "source": "Bloomberg.com",
-      "date": "12/05/2025, 06:08 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4850880-50-oil-price-scenario-enterprise-products-partners-better-positioned-than-energy-transfer",
+      "title": "$50 Oil Price Scenario: Enterprise Products Partners Better Positioned Than Energy Transfer",
+      "source": "Seeking Alpha",
+      "date": "12/06/2025, 06:02 AM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.reuters.com/business/energy/eu-g7-weigh-ban-maritime-services-russian-oil-exports-end-price-cap-2025-12-05/",
       "title": "Exclusive: EU, G7 weigh ban on maritime services for Russian oil exports, end to price cap",
       "source": "Reuters",
-      "date": "12/05/2025, 04:18 PM, +0000 UTC",
+      "date": "12/06/2025, 07:24 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-12-04-2025/",
-      "title": "Current price of gold as of December 4, 2025",
-      "source": "Fortune",
-      "date": "12/04/2025, 02:10 PM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://uk.finance.yahoo.com/news/gold-price-oil-gold-interest-rates-dollar-us-101354039.html",
       "title": "Gold prices forecast to surge 30% next year amid flight to safety",
@@ -126,47 +119,54 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-05-2025/",
-      "title": "Current price of gold as of December 5, 2025",
-      "source": "Fortune",
-      "date": "12/05/2025, 02:19 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/india/gold-flat-higher-yields-counter-weak-dollar-ahead-us-inflation-read-2025-12-05/",
-      "title": "Gold gains on Fed rate cut optimism; silver hits record high",
-      "source": "Reuters",
-      "date": "12/05/2025, 07:18 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-december-5-gold-remains-above-4200-amid-mixed-jobs-data-130155836.html",
       "title": "Gold price today, Friday, December 5: Gold remains above $4,200 amid mixed jobs data",
       "source": "Yahoo Finance",
       "date": "12/05/2025, 01:02 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-december-3-gold-continues-to-hang-around-4200-130155896.html",
+      "title": "Gold price today, Wednesday, December 3: Gold continues to hang around $4,200",
+      "source": "Yahoo Finance",
+      "date": "12/03/2025, 12:48 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/gold-price-rally-silver-commodities-083050694.html",
+      "title": "Gold rally rubs off on silver",
+      "source": "Yahoo Finance UK",
+      "date": "12/04/2025, 08:30 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-12-05-2025/",
+      "title": "Current price of gold as of December 5, 2025",
+      "source": "Fortune",
+      "date": "12/05/2025, 02:19 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/americas/argentina-unveils-tender-local-us-dollar-bond-milei-seeks-market-return-2025-12-05/",
-      "title": "Argentina unveils tender for local US dollar bond as Milei seeks market return",
-      "source": "Reuters",
-      "date": "12/05/2025, 04:01 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4850864-sp-usd-select-leveraged-loan-index-comprehensive-approach-to-leveraged-loan-market",
+      "title": "S&P USD Select Leveraged Loan Index: A Comprehensive Approach To The Leveraged Loan Market",
+      "source": "Seeking Alpha",
+      "date": "12/06/2025, 03:10 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4528797-european-indexes-extend-gains-with-fed-decision-in-focus",
-      "title": "STOXX 600 registers weekly gain; Fed decision in focus (EUR:USD)",
-      "source": "Seeking Alpha",
-      "date": "12/05/2025, 05:10 PM, +0000 UTC",
+      "url": "https://www.reuters.com/world/africa/dollar-eases-traders-eye-december-fed-cut-weakening-us-jobs-market-2025-11-12/",
+      "title": "US dollar drops as government reopens after record shutdown",
+      "source": "Reuters",
+      "date": "11/13/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.reuters.com/world/asia-pacific/dollar-hovers-near-five-week-low-fed-rate-cut-bets-2025-12-05/",
       "title": "Dollar slips as traders eye next week's Fed meeting",
       "source": "Reuters",
-      "date": "12/05/2025, 08:42 PM, +0000 UTC",
+      "date": "12/06/2025, 07:39 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -184,5 +184,5 @@
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-05T23:13:58.310Z"
+  "lastUpdated": "2025-12-06T23:13:09.782Z"
 }
