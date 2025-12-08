@@ -1,54 +1,54 @@
 {
   "sp500": [
     {
-      "url": "https://www.cnbc.com/2025/12/06/sp-500-quietly-rebounds-to-near-a-new-record-where-to-next-after-a-quick-round-trip-.html",
-      "title": "S&P 500 quietly rebounds to near a new record. Where to next after a quick round trip?",
-      "source": "CNBC",
-      "date": "12/06/2025, 01:38 PM, +0000 UTC",
+      "url": "https://www.marketwatch.com/story/this-financial-company-was-just-added-to-the-s-p-500-and-its-stock-is-surging-db3d7dd3?gaa_at=eafs&gaa_n=AWEtsqemqR_ApMDXx7CyqH4tqU14kJrtCVXdqySa195b_TeG0iG8Kyp6abqW&gaa_ts=69375f4b&gaa_sig=gvKTYDBA_EZMosz1cCatXhqkHkHfKgC7bepQrfbksAkB_Y_7zzdXc4ZxYM0rGB07m8X3QkuOC0Dt57cznrgLqA%3D%3D",
+      "title": "This financial company was just added to the S&P 500, and its stock is surging",
+      "source": "MarketWatch",
+      "date": "12/08/2025, 11:04 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-dow-rise-as-fed-favored-pce-inflation-data-cools-151830205.html",
-      "title": "Stock market today: S&P 500, Nasdaq notch fourth day of gains with next week's Fed meeting in focus",
-      "source": "Yahoo Finance",
-      "date": "12/05/2025, 09:07 PM, +0000 UTC",
+      "url": "https://www.investopedia.com/these-3-stocks-are-set-to-join-the-s-and-p-500-soon-and-rising-cvna-crh-fix-11863953",
+      "title": "These 3 Stocks Are Set to Join the S&P 500 Soon and Rising",
+      "source": "Investopedia",
+      "date": "12/08/2025, 04:48 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/2025/12/05/stocks-incoming-liquidity-sp-500-record-high/",
-      "title": "Stocks: Facing a vast wave of incoming liquidity, the S&P 500 prepares to surf to a new record high",
-      "source": "Fortune",
-      "date": "12/05/2025, 11:57 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/news/4529120-paramount-is-top-s-and-p-500-weekly-loser-after-netflix-wins-the-fight-for-warner-bros",
-      "title": "Paramount is top S&P 500 weekly loser after Netflix wins the fight for Warner Bros. (PSKY)",
+      "url": "https://seekingalpha.com/article/4850943-s-and-p-500-sell-strength-technical-analysis",
+      "title": "S&P 500: Sell Strength (Technical Analysis) (SP500)",
       "source": "Seeking Alpha",
-      "date": "12/06/2025, 06:05 PM, +0000 UTC",
+      "date": "12/07/2025, 09:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-120525?gaa_at=eafs&gaa_n=AWEtsqe231dviwTXGorbvFui4d9DDmplpDBiw7wQVvw1dALEor5QGVI2L723&gaa_ts=69360d87&gaa_sig=nw8o0UOGe--VvHpJ7zHyQPZb-f-XqjW_fVUMBQf8Nmrfd5q3Oj80QrVzjV_PWak1Y0s5FDmDfXwSY5nI-reKsg%3D%3D",
-      "title": "Stock Market News From Dec. 5, 2025: S&P 500 Ends Short of Record",
-      "source": "Barron's",
-      "date": "12/05/2025, 10:38 PM, +0000 UTC",
+      "url": "https://fortune.com/2025/12/07/millionaire-youtuber-hank-green-investing-tips-gen-z-invest-in-market-avoid-ai-bubble-diversification/",
+      "title": "YouTuber Hank Green tells Gen Z to rethink their Tesla bets to avoid AI-bubble fallout",
+      "source": "Fortune",
+      "date": "12/07/2025, 12:05 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall with Wall Street awaiting expected Fed rate cut",
+      "source": "Yahoo Finance",
+      "date": "12/08/2025, 07:46 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.cnbc.com/2025/12/05/us-treasury-yields-investors-await-delayed-inflation-data.html",
-      "title": "Treasury yields move higher after cooler PCE inflation data",
+      "url": "https://www.cnbc.com/2025/12/07/treasury-secretary-bessent-divested-soybean-farm.html",
+      "title": "Treasury Secretary Bessent says he has divested his soybean farm",
       "source": "CNBC",
-      "date": "12/05/2025, 09:55 AM, +0000 UTC",
+      "date": "12/07/2025, 09:40 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-04/treasury-debt-outstanding-tops-30-trillion-doubling-since-2018",
-      "title": "Treasury Debt Outstanding Tops $30 Trillion, Doubling Since 2018",
-      "source": "Bloomberg.com",
-      "date": "12/04/2025, 08:14 PM, +0000 UTC",
+      "url": "https://www.nytimes.com/2025/12/06/business/dealbook/scott-bessent-dealbook.html",
+      "title": "Scott Bessent on Tariffs, the Fed and the Economy",
+      "source": "The New York Times",
+      "date": "12/06/2025, 01:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -59,28 +59,21 @@
       "snippet": ""
     },
     {
-      "url": "https://www.ft.com/content/ad4bfd8b-a0f8-4f9e-a234-eed589e3d0ab",
-      "title": "Bond investors warned US Treasury over picking Kevin Hassett as Fed chair",
-      "source": "Financial Times",
-      "date": "12/03/2025, 06:18 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/wall-st-futures-edge-up-fed-interest-rate-cut-decision-nears-2025-12-08/",
+      "title": "US stocks end lower as investors wait for Fed rate decision",
+      "source": "Reuters",
+      "date": "12/08/2025, 09:47 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/03/us-treasury-yields-investors-await-further-economic-data-.html",
-      "title": "10-year Treasury yield moves lower after surprise decline in private payrolls",
-      "source": "CNBC",
-      "date": "12/03/2025, 10:30 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/us-treasury-market-tops-30-201438217.html",
+      "title": "US Treasury Market Tops $30 Trillion, Doubling Since 2018",
+      "source": "Yahoo Finance",
+      "date": "12/04/2025, 08:14 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-04/saudi-arabia-cuts-flagship-oil-price-to-lowest-in-five-years",
-      "title": "Saudi Arabia Cuts Flagship Oil Price to Lowest in Five Years",
-      "source": "Bloomberg.com",
-      "date": "12/04/2025, 02:57 PM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://www.reuters.com/business/energy/eu-g7-weigh-ban-maritime-services-russian-oil-exports-end-price-cap-2025-12-05/",
       "title": "Exclusive: EU, G7 weigh ban on maritime services for Russian oil exports, end to price cap",
@@ -89,17 +82,10 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4850818-bonterra-energy-improving-aeco-prices-help-offset-sub-60-oil-prices",
-      "title": "Bonterra Energy: Improving AECO Prices Help Offset Sub-$60 Oil Prices (BNEFF)",
+      "url": "https://seekingalpha.com/article/4850880-50-oil-price-scenario-enterprise-products-partners-better-positioned-than-energy-transfer",
+      "title": "$50 Oil Price Scenario: Enterprise Products Partners Better Positioned Than Energy Transfer",
       "source": "Seeking Alpha",
-      "date": "12/05/2025, 11:27 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-prices-head-2-weekly-gain-fed-hopes-boost-market-venezuela-tensions-loom-2025-12-05/",
-      "title": "Oil climbs to 2-week high on Fed rate-cut signals, supply concerns",
-      "source": "Reuters",
-      "date": "12/05/2025, 08:20 PM, +0000 UTC",
+      "date": "12/06/2025, 06:02 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -108,81 +94,95 @@
       "source": "Bloomberg.com",
       "date": "12/05/2025, 06:08 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-12-04/saudi-arabia-cuts-flagship-oil-price-to-lowest-in-five-years",
+      "title": "Saudi Arabia Cuts Flagship Oil Price to Lowest in Five Years",
+      "source": "Bloomberg.com",
+      "date": "12/04/2025, 02:57 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-holds-two-week-highs-expected-us-rate-cut-geopolitical-risks-2025-12-08/",
+      "title": "Oil falls 2% as Iraqi oilfield production restored, Ukraine talks continue",
+      "source": "Reuters",
+      "date": "12/08/2025, 08:25 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-december-5-gold-remains-above-4200-amid-mixed-jobs-data-130155836.html",
-      "title": "Gold price today, Friday, December 5: Gold remains above $4,200 amid mixed jobs data",
-      "source": "Yahoo Finance",
-      "date": "12/05/2025, 01:02 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-12-05-2025/",
-      "title": "Current price of gold as of December 5, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-12-08-2025/",
+      "title": "Current price of gold as of December 8, 2025",
       "source": "Fortune",
-      "date": "12/05/2025, 02:19 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-12-04-2025/",
-      "title": "Current price of gold as of December 4, 2025",
-      "source": "Fortune",
-      "date": "12/04/2025, 02:10 PM, +0000 UTC",
+      "date": "12/08/2025, 02:22 PM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://fortune.com/article/current-price-of-gold-09-12-2025/",
       "title": "Current price of gold as of September 12, 2025",
       "source": "Fortune",
-      "date": "12/07/2025, 04:28 PM, +0000 UTC",
+      "date": "12/08/2025, 07:20 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/india/gold-flat-higher-yields-counter-weak-dollar-ahead-us-inflation-read-2025-12-05/",
-      "title": "Gold gains on Fed rate cut optimism; silver hits record high",
+      "url": "https://uk.finance.yahoo.com/news/gold-price-oil-gold-interest-rates-dollar-103833596.html",
+      "title": "Gold back above $4,200 as Fed cut bets rise",
+      "source": "Yahoo Finance UK",
+      "date": "12/08/2025, 10:38 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/commentary/breakingviews/golds-bubble-behaviour-may-signal-paradigm-shift-2025-12-05/",
+      "title": "Breakingviews - Gold’s bubble behaviour may signal paradigm shift",
       "source": "Reuters",
-      "date": "12/05/2025, 07:18 PM, +0000 UTC",
+      "date": "12/05/2025, 12:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-12-05-2025/",
+      "title": "Current price of gold as of December 5, 2025",
+      "source": "Fortune",
+      "date": "12/05/2025, 02:21 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://seekingalpha.com/article/4850864-sp-usd-select-leveraged-loan-index-comprehensive-approach-to-leveraged-loan-market",
-      "title": "S&P USD Select Leveraged Loan Index: A Comprehensive Approach To The Leveraged Loan Market",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-08/-usd-cdf-congo-s-fx-reserves-fuel-currency-s-29-rally-to-no-1-spot-in-africa",
+      "title": "(USD:CDF) Congo’s FX Reserves Fuel Currency’s 29% Rally to No.1 Spot in Africa",
+      "source": "Bloomberg.com",
+      "date": "12/08/2025, 05:15 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-finds-footing-ahead-fed-meet-2025-12-08/",
+      "title": "US dollar firms on expectations of limited Fed easing",
+      "source": "Reuters",
+      "date": "12/08/2025, 08:43 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/news/4529373-crypto-fund-record-716-million-inflows-last-week-report",
+      "title": "Crypto funds record $716 million inflows last week - report (BTC-USD:Cryptocurrency)",
       "source": "Seeking Alpha",
-      "date": "12/06/2025, 03:10 AM, +0000 UTC",
+      "date": "12/08/2025, 02:34 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/silicon-tetrachloride-market-size-reach-123000860.html",
-      "title": "Silicon Tetrachloride Market Size to Reach USD 3.47 Billion by 2032 Caused by Increasing Demand in Fiber Optics | SNS Insider",
-      "source": "Yahoo Finance",
-      "date": "12/07/2025, 12:30 PM, +0000 UTC",
+      "url": "https://sg.finance.yahoo.com/news/precision-fermentation-market-expected-generate-154500182.html",
+      "title": "Precision Fermentation Market is expected to generate a revenue of USD 34.2 Billion by 2032, Globally, at 40.1% CAGR: Verified Market Research®",
+      "source": "Yahoo Finance Singapore",
+      "date": "12/08/2025, 03:45 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/ophthalmic-drugs-market-size-cross-130500143.html",
-      "title": "Ophthalmic Drugs Market Size to Cross USD 62.74 Billion by 2032, Driven by Advances in Eye Care Treatments and Rising Global Vision Disorders - SNS Insider",
-      "source": "Yahoo Finance",
-      "date": "12/07/2025, 01:05 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/carbon-black-market-size-reach-123000822.html",
-      "title": "Carbon Black Market Size to Reach USD 38.54 Billion by 2033 Owing to its Extensive Use in the Automotive Industry | SNS Insider",
-      "source": "Yahoo Finance",
-      "date": "12/06/2025, 12:30 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/kitting-automation-systems-market-size-140000864.html",
-      "title": "Kitting Automation Systems Market Size to Hit USD 7.15 Billion by 2033, at 12.53% CAGR | SNS Insider",
-      "source": "Yahoo Finance",
-      "date": "12/05/2025, 02:00 PM, +0000 UTC",
+      "url": "https://uk.finance.yahoo.com/news/global-immunoassay-market-hit-usd-143500338.html",
+      "title": "Global Immunoassay Market to Hit USD 47.7 Billion by 2030, Driven by Rising Chronic and Infectious Diseases",
+      "source": "Yahoo Finance UK",
+      "date": "12/08/2025, 02:35 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-07T23:13:05.108Z"
+  "lastUpdated": "2025-12-08T23:14:07.491Z"
 }
