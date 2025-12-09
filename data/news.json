@@ -1,47 +1,61 @@
 {
   "sp500": [
     {
-      "url": "https://www.marketwatch.com/story/this-financial-company-was-just-added-to-the-s-p-500-and-its-stock-is-surging-db3d7dd3?gaa_at=eafs&gaa_n=AWEtsqemqR_ApMDXx7CyqH4tqU14kJrtCVXdqySa195b_TeG0iG8Kyp6abqW&gaa_ts=69375f4b&gaa_sig=gvKTYDBA_EZMosz1cCatXhqkHkHfKgC7bepQrfbksAkB_Y_7zzdXc4ZxYM0rGB07m8X3QkuOC0Dt57cznrgLqA%3D%3D",
-      "title": "This financial company was just added to the S&P 500, and its stock is surging",
-      "source": "MarketWatch",
-      "date": "12/08/2025, 11:04 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/08/stock-market-today-live-updates.html",
+      "title": "S&P 500 closes little changed ahead of Fed decision, JPMorgan weighs on Dow",
+      "source": "CNBC",
+      "date": "12/09/2025, 09:15 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/these-3-stocks-are-set-to-join-the-s-and-p-500-soon-and-rising-cvna-crh-fix-11863953",
-      "title": "These 3 Stocks Are Set to Join the S&P 500 Soon and Rising",
-      "source": "Investopedia",
-      "date": "12/08/2025, 04:48 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/article/4850943-s-and-p-500-sell-strength-technical-analysis",
-      "title": "S&P 500: Sell Strength (Technical Analysis) (SP500)",
-      "source": "Seeking Alpha",
-      "date": "12/07/2025, 09:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/2025/12/07/millionaire-youtuber-hank-green-investing-tips-gen-z-invest-in-market-avoid-ai-bubble-diversification/",
-      "title": "YouTuber Hank Green tells Gen Z to rethink their Tesla bets to avoid AI-bubble fallout",
-      "source": "Fortune",
-      "date": "12/07/2025, 12:05 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-with-wall-street-awaiting-expected-fed-rate-cut-001431871.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall with Wall Street awaiting expected Fed rate cut",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-meeting-kicks-off-jolts-data-shows-openings-rose-143633201.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed meeting kicks off, JOLTS data shows openings rose",
       "source": "Yahoo Finance",
-      "date": "12/08/2025, 07:46 PM, +0000 UTC",
+      "date": "12/09/2025, 06:15 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-09-2025?gaa_at=eafs&gaa_n=AWEtsqeLGjGdb7DyBXiZUxrdFXJ9dku2o0UYdLM3FpazuLc6R1krGLRU0XbX&gaa_ts=6938b0f1&gaa_sig=yl_pe1hVDyV-0J6PJqQmqHv69lWW9rw7_e2PFRf2eS0qQ9ETg-28X3aTyMX8LGy_LUVyZe84rqM8567SnCBmBg%3D%3D",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Edge Up; JPMorgan, Nvidia in Focus — Live Updates",
+      "source": "The Wall Street Journal",
+      "date": "12/09/2025, 10:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/wall-st-futures-flat-fed-decision-looms-nvidia-gains-2025-12-09/",
+      "title": "S&P 500 ends slightly down as investors await Fed rate decision",
+      "source": "Reuters",
+      "date": "12/09/2025, 09:52 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dwo-sp500-nasdaq-slightly-higher-fed-rate-decision-looms-jolts-data?gaa_at=eafs&gaa_n=AWEtsqcFLkcQaccQ4wI4nWZx71Ss7s_k8o2D4wR0NGHyT8UavvSnERvv84cK&gaa_ts=6938b0f1&gaa_sig=xM7Nj_zPYoO0GQ4IXZrqOPiePyfOQWQBjtrZbIMCToHyyBu95xD2OYQG_aMZFqlOOKYCtrRkpaptysFdcVozZg%3D%3D",
+      "title": "Stock Market News, Dec. 9, 2025: Dow ends 0.4% lower, S&P 500 and Nasdaq finish mixed as Fed decision looms tomorrow; traders digest job openings data",
+      "source": "MarketWatch",
+      "date": "12/09/2025, 09:24 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.cnbc.com/2025/12/07/treasury-secretary-bessent-divested-soybean-farm.html",
-      "title": "Treasury Secretary Bessent says he has divested his soybean farm",
+      "url": "https://www.cnbc.com/2025/12/08/us-treasury-yields-hold-steady-as-investors-await-expected-fed-rate-cut-.html",
+      "title": "Treasury yields tick higher as traders await Fed meeting",
       "source": "CNBC",
-      "date": "12/07/2025, 09:40 PM, +0000 UTC",
+      "date": "12/08/2025, 09:12 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/americas/us-imposes-sanctions-network-it-accuses-fueling-war-sudan-2025-12-09/",
+      "title": "U.S. imposes sanctions on network it accuses of fueling war in Sudan",
+      "source": "Reuters",
+      "date": "12/09/2025, 03:11 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-12-08/treasury-yields-hit-multimonth-highs-before-us-auctions-fed",
+      "title": "Treasury Yields Hit Multimonth Highs Before US Auctions, Fed",
+      "source": "Bloomberg.com",
+      "date": "12/08/2025, 09:12 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -52,47 +66,26 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/treasury-investigating-tax-fraud-allegations-minnesota-bessent-says-2025-12-01/",
-      "title": "Treasury investigating tax fraud allegations in Minnesota, Bessent says",
-      "source": "Reuters",
-      "date": "12/01/2025, 11:09 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/wall-st-futures-edge-up-fed-interest-rate-cut-decision-nears-2025-12-08/",
-      "title": "US stocks end lower as investors wait for Fed rate decision",
-      "source": "Reuters",
-      "date": "12/08/2025, 09:47 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/us-treasury-market-tops-30-201438217.html",
-      "title": "US Treasury Market Tops $30 Trillion, Doubling Since 2018",
-      "source": "Yahoo Finance",
-      "date": "12/04/2025, 08:14 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/07/treasury-secretary-bessent-divested-soybean-farm.html",
+      "title": "Treasury Secretary Bessent says he has divested his soybean farm",
+      "source": "CNBC",
+      "date": "12/07/2025, 09:40 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/business/energy/eu-g7-weigh-ban-maritime-services-russian-oil-exports-end-price-cap-2025-12-05/",
-      "title": "Exclusive: EU, G7 weigh ban on maritime services for Russian oil exports, end to price cap",
-      "source": "Reuters",
-      "date": "12/06/2025, 07:24 AM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/09/oil-edges-down-with-ukraine-peace-talks-us-rate-decision-in-spotlight.html",
+      "title": "Oil prices fall with Ukraine peace talks, US rate decision in spotlight",
+      "source": "CNBC",
+      "date": "12/09/2025, 06:17 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4850880-50-oil-price-scenario-enterprise-products-partners-better-positioned-than-energy-transfer",
-      "title": "$50 Oil Price Scenario: Enterprise Products Partners Better Positioned Than Energy Transfer",
-      "source": "Seeking Alpha",
-      "date": "12/06/2025, 06:02 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-05/platts-to-stop-reflecting-fuel-cargoes-made-from-russian-crude",
-      "title": "Platts to Stop Reflecting Fuel Cargoes Made From Russian Crude",
-      "source": "Bloomberg.com",
-      "date": "12/05/2025, 06:08 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/global-oil-glut-fears-weigh-164004667.html",
+      "title": "Global Oil Glut Fears Weigh on Crude Prices",
+      "source": "Yahoo Finance",
+      "date": "12/09/2025, 04:40 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -103,10 +96,17 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-holds-two-week-highs-expected-us-rate-cut-geopolitical-risks-2025-12-08/",
-      "title": "Oil falls 2% as Iraqi oilfield production restored, Ukraine talks continue",
+      "url": "https://www.reuters.com/business/energy/oil-prices-firm-after-ukrainian-strikes-russian-oil-infrastructure-stalled-peace-2025-12-04/",
+      "title": "Oil settles up on expectations of Fed rate cut, Ukraine peace talks stalling",
       "source": "Reuters",
-      "date": "12/08/2025, 08:25 PM, +0000 UTC",
+      "date": "12/04/2025, 08:15 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-prices-head-2-weekly-gain-fed-hopes-boost-market-venezuela-tensions-loom-2025-12-05/",
+      "title": "Oil climbs to 2-week high on Fed rate-cut signals, supply concerns",
+      "source": "Reuters",
+      "date": "12/05/2025, 08:20 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -115,39 +115,46 @@
       "url": "https://fortune.com/article/current-price-of-gold-12-08-2025/",
       "title": "Current price of gold as of December 8, 2025",
       "source": "Fortune",
-      "date": "12/08/2025, 02:22 PM, +0000 UTC",
+      "date": "12/08/2025, 02:20 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/india/gold-prices-steady-markets-brace-hawkish-fed-tone-2025-12-09/",
+      "title": "Gold rises ahead of Fed rate cut decision, silver hits $60/oz milestone",
+      "source": "Reuters",
+      "date": "12/09/2025, 08:29 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-11-12-2025/",
+      "title": "Current price of gold as of November 12, 2025",
+      "source": "Fortune",
+      "date": "12/09/2025, 06:52 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/09/gold-prices-steady-as-markets-brace-for-hawkish-fed-tone.html",
+      "title": "Gold rises ahead of Fed rate cut decision, silver hits $60/oz milestone",
+      "source": "CNBC",
+      "date": "12/09/2025, 06:24 AM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://fortune.com/article/current-price-of-gold-09-12-2025/",
       "title": "Current price of gold as of September 12, 2025",
       "source": "Fortune",
-      "date": "12/08/2025, 07:20 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://uk.finance.yahoo.com/news/gold-price-oil-gold-interest-rates-dollar-103833596.html",
-      "title": "Gold back above $4,200 as Fed cut bets rise",
-      "source": "Yahoo Finance UK",
-      "date": "12/08/2025, 10:38 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/commentary/breakingviews/golds-bubble-behaviour-may-signal-paradigm-shift-2025-12-05/",
-      "title": "Breakingviews - Gold’s bubble behaviour may signal paradigm shift",
-      "source": "Reuters",
-      "date": "12/05/2025, 12:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-12-05-2025/",
-      "title": "Current price of gold as of December 5, 2025",
-      "source": "Fortune",
-      "date": "12/05/2025, 02:21 PM, +0000 UTC",
+      "date": "12/09/2025, 04:06 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/yen-resilient-after-earthquake-hits-japan-fed-rba-view-2025-12-09/",
+      "title": "US dollar rises after jobs data; Fed cut expected but hawkish comments likely",
+      "source": "Reuters",
+      "date": "12/09/2025, 08:47 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.bloomberg.com/news/articles/2025-12-08/-usd-cdf-congo-s-fx-reserves-fuel-currency-s-29-rally-to-no-1-spot-in-africa",
       "title": "(USD:CDF) Congo’s FX Reserves Fuel Currency’s 29% Rally to No.1 Spot in Africa",
@@ -156,33 +163,26 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-finds-footing-ahead-fed-meet-2025-12-08/",
-      "title": "US dollar firms on expectations of limited Fed easing",
-      "source": "Reuters",
-      "date": "12/08/2025, 08:43 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/news/4529373-crypto-fund-record-716-million-inflows-last-week-report",
-      "title": "Crypto funds record $716 million inflows last week - report (BTC-USD:Cryptocurrency)",
+      "url": "https://seekingalpha.com/article/4851417-audusd-major-bullish-breakout-aussie-ahead-of-rba",
+      "title": "AUD/USD: Major Bullish Breakout Of Aussie Ahead Of RBA",
       "source": "Seeking Alpha",
-      "date": "12/08/2025, 02:34 PM, +0000 UTC",
+      "date": "12/09/2025, 06:18 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://sg.finance.yahoo.com/news/precision-fermentation-market-expected-generate-154500182.html",
-      "title": "Precision Fermentation Market is expected to generate a revenue of USD 34.2 Billion by 2032, Globally, at 40.1% CAGR: Verified Market Research®",
-      "source": "Yahoo Finance Singapore",
-      "date": "12/08/2025, 03:45 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/processed-seafood-market-size-worth-141700753.html",
+      "title": "Processed Seafood Market Size to Worth USD 549.31 Billion by 2035, Driven by Rising Demand for Convenient, Protein-Rich Foods",
+      "source": "Yahoo Finance",
+      "date": "12/09/2025, 02:17 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://uk.finance.yahoo.com/news/global-immunoassay-market-hit-usd-143500338.html",
-      "title": "Global Immunoassay Market to Hit USD 47.7 Billion by 2030, Driven by Rising Chronic and Infectious Diseases",
-      "source": "Yahoo Finance UK",
-      "date": "12/08/2025, 02:35 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/real-world-data-rwd-market-124100810.html",
+      "title": "Real-World Data (RWD) Market Size Worth USD 6.37 Bn by 2034 Driven by AI Adoption, Precision Medicine, and Drug Development Demand",
+      "source": "Yahoo Finance",
+      "date": "12/09/2025, 12:41 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-08T23:14:07.491Z"
+  "lastUpdated": "2025-12-09T23:14:51.947Z"
 }
