@@ -1,54 +1,54 @@
 {
   "sp500": [
     {
-      "url": "https://www.investopedia.com/these-3-stocks-are-set-to-join-the-s-and-p-500-soon-and-rising-cvna-crh-fix-11863953",
-      "title": "These 3 Stocks Are Set to Join the S&P 500 Soon and Rising",
-      "source": "Investopedia",
-      "date": "12/08/2025, 04:48 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-08/stocks-drift-before-fed-netflix-deal-draws-antitrust-scrutiny",
-      "title": "Stocks Drift Before Fed; Netflix Deal Draws Antitrust Scrutiny",
+      "url": "https://www.bloomberg.com/news/videos/2025-12-11/s-p-500-hits-new-record-closing-bell-video",
+      "title": "Watch S&P 500 Hits New Record as Oracle Shares Slide | Closing Bell",
       "source": "Bloomberg.com",
-      "date": "12/08/2025, 09:24 PM, +0000 UTC",
+      "date": "12/11/2025, 11:03 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.ft.com/content/7a30a8ca-ba43-46d3-bbb9-796610a13d8b",
-      "title": "Federal Reserve live: S&P 500 finishes shy of record after Fed delivers rate cut hat-trick",
-      "source": "Financial Times",
-      "date": "12/10/2025, 09:00 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/11/tom-lee-sees-sp-500-hitting-7700-in-2026-extending-bull-market.html",
+      "title": "Tom Lee sees S&P 500 hitting 7,700 in 2026, extending bull market to fourth year",
+      "source": "CNBC",
+      "date": "12/11/2025, 02:33 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/dow-jones-today-12102025-11865741",
-      "title": "Markets News, Dec. 10, 2025: Stocks Surge After Federal Reserve Cuts Interest Rates; S&P 500 Just Misses New Closing Record",
-      "source": "Investopedia",
-      "date": "12/10/2025, 10:43 PM, +0000 UTC",
+      "url": "https://www.barrons.com/articles/dividend-etfs-beating-s-p-500-8f01c1c6?gaa_at=eafs&gaa_n=AWEtsqf8FURhVF9667jFgs84PgH54H7B6BSJBVCjJWfsIoGXCvOeZM4qgVFk&gaa_ts=693b53d8&gaa_sig=5tX_fI7z4vVRarikKoui35KUSP58sspf0VH8a_sBzkU3rjk4uNV6omBBD6UemTUu_9c7gr0Qzk_Lez3eT-4B8A%3D%3D",
+      "title": "5 Dividend ETFs That Are Crushing the S&P 500",
+      "source": "Barron's",
+      "date": "12/10/2025, 01:35 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://ca.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-wobble-with-fed-rate-decision-on-deck-235110523.html",
-      "title": "Stock market today: Dow surges, S&P 500 rallies near record as Fed cuts rates, Powell offers no 'surprises'",
-      "source": "Yahoo! Finance Canada",
-      "date": "12/10/2025, 09:13 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/10/stock-market-today-live-updates.html",
+      "title": "S&P 500, Dow close at record highs as Oracle sparks rush out of AI trade into broader market",
+      "source": "CNBC",
+      "date": "12/11/2025, 09:19 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-650-points-to-post-record-sp-500-climbs-above-6900-for-first-time-210051184.html",
+      "title": "Stock market today: Dow jumps 650 points to post record, S&P 500 climbs above 6,900 for first time",
+      "source": "Yahoo Finance",
+      "date": "12/11/2025, 09:21 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.cnbc.com/2025/12/10/us-treasury-yields-fed-rate-cut-decision-comes-into-focus-.html",
-      "title": "Treasury yields slide as Fed cuts rates, expands short term bond-buying",
-      "source": "CNBC",
-      "date": "12/10/2025, 10:00 AM, +0000 UTC",
+      "url": "https://www.reuters.com/business/us-treasury-proposes-taking-more-central-role-enforcing-anti-money-laundering-2025-12-10/",
+      "title": "US Treasury proposes taking more central role in enforcing anti-money-laundering rules, WSJ reports",
+      "source": "Reuters",
+      "date": "12/10/2025, 02:23 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/americas/us-imposes-sanctions-network-it-accuses-fueling-war-sudan-2025-12-09/",
-      "title": "U.S. imposes sanctions on network it accuses of fueling war in Sudan",
-      "source": "Reuters",
-      "date": "12/09/2025, 03:11 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/10/us-treasury-yields-fed-rate-cut-decision-comes-into-focus-.html",
+      "title": "Treasury yields slide as Fed cuts rates, expands short term bond-buying",
+      "source": "cnbc.com",
+      "date": "12/10/2025, 10:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -59,26 +59,26 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4851879-us-curve-outlook-why-us-treasury-yields-surging-before-fed",
-      "title": "U.S. Curve Outlook: Why U.S. Treasury Yields Are Surging Before The Fed",
-      "source": "Seeking Alpha",
-      "date": "12/10/2025, 05:30 AM, +0000 UTC",
+      "url": "https://www.reuters.com/world/americas/us-imposes-sanctions-network-it-accuses-fueling-war-sudan-2025-12-09/",
+      "title": "U.S. imposes sanctions on network it accuses of fueling war in Sudan",
+      "source": "Reuters",
+      "date": "12/09/2025, 03:11 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/07/treasury-secretary-bessent-divested-soybean-farm.html",
-      "title": "Treasury Secretary Bessent says he has divested his soybean farm",
-      "source": "CNBC",
-      "date": "12/07/2025, 09:40 PM, +0000 UTC",
+      "url": "https://www.ft.com/content/ad4bfd8b-a0f8-4f9e-a234-eed589e3d0ab",
+      "title": "Bond investors warned US Treasury over picking Kevin Hassett as Fed chair",
+      "source": "Financial Times",
+      "date": "12/03/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://finance.yahoo.com/news/crude-oil-prices-weakens-oversupply-163640177.html",
-      "title": "Crude Oil Prices Weakens on Oversupply Concerns",
+      "url": "https://finance.yahoo.com/news/crude-oil-prices-retreat-concerns-163747361.html",
+      "title": "Crude Oil Prices Retreat on Concerns Over a Global Oil Glut",
       "source": "Yahoo Finance",
-      "date": "12/10/2025, 04:36 PM, +0000 UTC",
+      "date": "12/11/2025, 04:37 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -89,54 +89,47 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/oil-prices-may-fall-55-153900481.html",
-      "title": "Oil Prices May Fall to $55 by 2026—Bad News for This Energy ETF",
-      "source": "Yahoo Finance",
-      "date": "12/09/2025, 03:39 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-prices-firm-after-ukrainian-strikes-russian-oil-infrastructure-stalled-peace-2025-12-04/",
-      "title": "Oil settles up on expectations of Fed rate cut, Ukraine peace talks stalling",
+      "url": "https://www.reuters.com/business/energy/oil-prices-head-2-weekly-gain-fed-hopes-boost-market-venezuela-tensions-loom-2025-12-05/",
+      "title": "Oil climbs to 2-week high on Fed rate-cut signals, supply concerns",
       "source": "Reuters",
-      "date": "12/04/2025, 08:15 PM, +0000 UTC",
+      "date": "12/05/2025, 08:20 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-04/saudi-arabia-cuts-flagship-oil-price-to-lowest-in-five-years",
-      "title": "Saudi Arabia Cuts Flagship Oil Price to Lowest in Five Years",
-      "source": "Bloomberg.com",
-      "date": "12/04/2025, 02:57 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/03/oil-prices-fall-on-weak-demand-as-markets-await-ukraine-peace-effort-for-supply-signs.html",
+      "title": "Oil rises on expectations of Fed rate cut, Ukraine peace talks stalling",
+      "source": "CNBC",
+      "date": "12/02/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-extends-gains-after-us-seizure-tanker-off-venezuela-2025-12-11/",
+      "title": "Oil retreats as investors' focus returns to Ukraine peace talks",
+      "source": "Reuters",
+      "date": "12/11/2025, 06:22 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
       "url": "https://fortune.com/article/current-price-of-gold-12-10-2025/",
-      "title": "Current price of gold: Month Day, Year",
+      "title": "Current price of gold as of December 10, 2025",
       "source": "Fortune",
-      "date": "12/10/2025, 02:29 PM, +0000 UTC",
+      "date": "12/10/2025, 02:31 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/coeur-minings-liquidity-increases-gold-133900024.html",
-      "title": "Coeur Mining's Liquidity Increases on Gold Price Surge & Production",
-      "source": "Yahoo Finance",
-      "date": "12/10/2025, 01:39 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-12-08-2025/",
-      "title": "Current price of gold as of December 8, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-12-11-2025/",
+      "title": "Current price of gold as of December 11, 2025",
       "source": "Fortune",
-      "date": "12/08/2025, 02:22 PM, +0000 UTC",
+      "date": "12/11/2025, 02:26 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/silver-extends-gains-above-60-002958873.html",
-      "title": "Gold Gains as Fed Delivers Expected Cut With Less Hawkish Tilt",
-      "source": "Yahoo Finance",
-      "date": "12/10/2025, 09:12 PM, +0000 UTC",
+      "url": "https://fortune.com/article/current-price-of-gold-11-12-2025/",
+      "title": "Current price of gold as of November 12, 2025",
+      "source": "Fortune",
+      "date": "12/11/2025, 01:03 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -145,44 +138,51 @@
       "source": "CNBC",
       "date": "12/09/2025, 06:24 AM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/india/gold-inches-up-ahead-fed-verdict-silver-powers-fresh-records-above-60-2025-12-10/",
+      "title": "Gold gains after Fed rate cut, silver hits all-time peak",
+      "source": "Reuters",
+      "date": "12/10/2025, 08:36 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/asia-pacific/yen-weak-dollar-steady-countdown-fed-2025-12-10/",
-      "title": "Dollar loses ground against peers after Fed cuts rates",
-      "source": "Reuters",
-      "date": "12/10/2025, 07:28 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.reuters.com/world/africa/us-dollar-slides-after-fed-cuts-rates-expected-2025-12-10/",
-      "title": "US dollar tumbles after Fed cuts rates, Powell comments",
+      "title": "FOREX US dollar tumbles after Fed cuts rates, Powell comments",
       "source": "Reuters",
-      "date": "12/10/2025, 09:21 PM, +0000 UTC",
+      "date": "12/10/2025, 11:34 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/cocoa-ingredients-market-size-exceed-114000983.html",
-      "title": "Cocoa Ingredients Market Size to Exceed USD 20.70 Billion by 2034 | Towards FnB",
-      "source": "Yahoo Finance",
-      "date": "12/10/2025, 11:40 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-11/inr-usd-indian-rupee-falls-to-fresh-low-on-outflows-trade-deal-impasse",
+      "title": "Indian Rupee Falls to New Record Low on Outflows, Trade Impasse",
+      "source": "Bloomberg.com",
+      "date": "12/11/2025, 08:47 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/crypto-market-news-today-december-072351187.html",
-      "title": "Crypto Market News Today, December 10: Green BTC USD Inflows with ETH to Bitcoin Price Broke Downtrend with 12% Rally as Short Positions Wiped Out",
+      "url": "https://finance.yahoo.com/news/coaxial-cables-market-reach-usd-090200650.html",
+      "title": "Coaxial Cables Market To Reach USD 102.74 billion by 2032",
       "source": "Yahoo Finance",
-      "date": "12/10/2025, 07:23 AM, +0000 UTC",
+      "date": "12/11/2025, 09:02 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/sustainable-aviation-fuel-market-size-142000154.html",
-      "title": "Sustainable Aviation Fuel Market Size to Worth USD 357.41 Billion by 2035 - Exclusive Report by Towards Chemical and Materials",
+      "url": "https://finance.yahoo.com/news/agent-performance-optimization-market-set-143000634.html",
+      "title": "Agent Performance Optimization Market Set for Steady Growth to USD 4.84 Billion by 2033, Driven by Rising Demand for Enhanced Customer Experience and Operational Efficiency | SNS Insider",
       "source": "Yahoo Finance",
-      "date": "12/10/2025, 02:20 PM, +0000 UTC",
+      "date": "12/11/2025, 02:30 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/protective-relay-market-size-surpass-120000596.html",
+      "title": "Protective Relay Market Size to Surpass USD 5.04 Billion by 2033 | Report by SNS Insider",
+      "source": "Yahoo Finance",
+      "date": "12/11/2025, 12:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-10T23:12:25.992Z"
+  "lastUpdated": "2025-12-11T23:14:26.041Z"
 }
