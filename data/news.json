@@ -1,42 +1,49 @@
 {
   "sp500": [
     {
-      "url": "https://www.bloomberg.com/news/videos/2025-12-11/s-p-500-hits-new-record-closing-bell-video",
-      "title": "Watch S&P 500 Hits New Record as Oracle Shares Slide | Closing Bell",
-      "source": "Bloomberg.com",
-      "date": "12/11/2025, 11:03 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/11/tom-lee-sees-sp-500-hitting-7700-in-2026-extending-bull-market.html",
-      "title": "Tom Lee sees S&P 500 hitting 7,700 in 2026, extending bull market to fourth year",
-      "source": "CNBC",
-      "date": "12/11/2025, 02:33 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/articles/dividend-etfs-beating-s-p-500-8f01c1c6?gaa_at=eafs&gaa_n=AWEtsqf8FURhVF9667jFgs84PgH54H7B6BSJBVCjJWfsIoGXCvOeZM4qgVFk&gaa_ts=693b53d8&gaa_sig=5tX_fI7z4vVRarikKoui35KUSP58sspf0VH8a_sBzkU3rjk4uNV6omBBD6UemTUu_9c7gr0Qzk_Lez3eT-4B8A%3D%3D",
-      "title": "5 Dividend ETFs That Are Crushing the S&P 500",
-      "source": "Barron's",
-      "date": "12/10/2025, 01:35 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/10/stock-market-today-live-updates.html",
-      "title": "S&P 500, Dow close at record highs as Oracle sparks rush out of AI trade into broader market",
-      "source": "CNBC",
-      "date": "12/11/2025, 09:19 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-650-points-to-post-record-sp-500-climbs-above-6900-for-first-time-210051184.html",
-      "title": "Stock market today: Dow jumps 650 points to post record, S&P 500 climbs above 6,900 for first time",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-to-cap-brutal-week-for-tech-stocks-210016552.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq sink to cap brutal week for tech stocks",
       "source": "Yahoo Finance",
-      "date": "12/11/2025, 09:21 PM, +0000 UTC",
+      "date": "12/12/2025, 09:36 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/11/stock-market-today-live-updates.html",
+      "title": "S&P 500 retreats from record Friday, closes down for week as investors rush out of AI trade",
+      "source": "CNBC",
+      "date": "12/12/2025, 09:20 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-121225?gaa_at=eafs&gaa_n=AWEtsqe_jQGD_c-zDpx-twND9eGDBoKusUF9Qb_VT8kzm8IEDBDI7S4OJOlp&gaa_ts=693ca557&gaa_sig=KtEn8dQ3gMVutaOqn4afM6Dau12CVcatLfUFFQn42ObUFzT42fvm6Npixh1sc2QUbYDHfuzIq1-OqyzESZvl1w%3D%3D",
+      "title": "Stock Market Today: Why the Dow, S&P 500, Nasdaq Fell; Broadcom, Oracle, Nvidia, Tesla, More Movers",
+      "source": "Barron's",
+      "date": "12/12/2025, 09:54 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/nasdaq-sp-500-futures-slip-broadcom-outlook-reignites-ai-bubble-fears-2025-12-12/",
+      "title": "Wall Street ends lower; fears of AI bubble and inflation send investors away",
+      "source": "Reuters",
+      "date": "12/12/2025, 09:41 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-set-to-rise-as-investors-eye-value-over-growth-after-fed-cut?gaa_at=eafs&gaa_n=AWEtsqcN_NPTgS4OZ69MbU8Co6FpsIMwpPkq3gqRNbxRDeGC-jYFExKPv7OH&gaa_ts=693ca557&gaa_sig=ywB-JoZ6b7Pfsk_zd4MSw6QLM7zS9cJMcrX25LHCIoHU20T-O182_JsD147nrSjKbJc5lJ5oIYnudNko3TNDIQ%3D%3D",
+      "title": "Stock Market on Dec 12, 2025: Dow, S&P 500 and Nasdaq end down as AI-related selling puts stock market under pressure; U.S. equities mostly fall on the week",
+      "source": "MarketWatch",
+      "date": "12/12/2025, 09:44 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
+    {
+      "url": "https://www.cnbc.com/2025/12/12/us-treasury-yields-investors-digest-fed-cut-speculate-future-rates.html",
+      "title": "10-year Treasury yield rebounds after 2-day slide as Goolsbee urges caution on further cuts",
+      "source": "CNBC",
+      "date": "12/12/2025, 11:40 AM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.reuters.com/business/us-treasury-proposes-taking-more-central-role-enforcing-anti-money-laundering-2025-12-10/",
       "title": "US Treasury proposes taking more central role in enforcing anti-money-laundering rules, WSJ reports",
@@ -45,40 +52,40 @@
       "snippet": ""
     },
     {
+      "url": "https://www.cnbc.com/2025/12/11/us-treasury-yields-investors-digest-feds-latest-rate-cut-.html",
+      "title": "10-year Treasury yield moves lower as investors digest Fed's latest rate cut",
+      "source": "CNBC",
+      "date": "12/11/2025, 10:39 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/finance/fed-says-will-start-reserve-management-treasury-bill-buying-2025-12-10/",
+      "title": "Fed says it will start technical buying of Treasury bills to manage market liquidity",
+      "source": "Reuters",
+      "date": "12/10/2025, 10:35 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://www.cnbc.com/2025/12/10/us-treasury-yields-fed-rate-cut-decision-comes-into-focus-.html",
       "title": "Treasury yields slide as Fed cuts rates, expands short term bond-buying",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "date": "12/10/2025, 10:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-08/treasury-yields-hit-multimonth-highs-before-us-auctions-fed",
-      "title": "Treasury Yields Hit Multimonth Highs Before US Auctions, Fed",
-      "source": "Bloomberg.com",
-      "date": "12/08/2025, 09:12 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/americas/us-imposes-sanctions-network-it-accuses-fueling-war-sudan-2025-12-09/",
-      "title": "U.S. imposes sanctions on network it accuses of fueling war in Sudan",
-      "source": "Reuters",
-      "date": "12/09/2025, 03:11 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.ft.com/content/ad4bfd8b-a0f8-4f9e-a234-eed589e3d0ab",
-      "title": "Bond investors warned US Treasury over picking Kevin Hassett as Fed chair",
-      "source": "Financial Times",
-      "date": "12/03/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://finance.yahoo.com/news/crude-oil-prices-retreat-concerns-163747361.html",
-      "title": "Crude Oil Prices Retreat on Concerns Over a Global Oil Glut",
-      "source": "Yahoo Finance",
-      "date": "12/11/2025, 04:37 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/oil-prices-up-us-venezuela-tensions-set-weekly-decline-2025-12-12/",
+      "title": "Oil posts weekly loss on oversupply concerns",
+      "source": "Reuters",
+      "date": "12/12/2025, 08:43 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/oil-prices-venezuela-supply-gold-pound-latest-100332016.html",
+      "title": "Oil prices climb fuelled by Venezuelan supply disruption concerns",
+      "source": "Yahoo Finance UK",
+      "date": "12/12/2025, 10:03 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -89,24 +96,17 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-prices-head-2-weekly-gain-fed-hopes-boost-market-venezuela-tensions-loom-2025-12-05/",
-      "title": "Oil climbs to 2-week high on Fed rate-cut signals, supply concerns",
-      "source": "Reuters",
-      "date": "12/05/2025, 08:20 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/occidental-petroleum-oxy-taking-fresh-190724717.html",
+      "title": "Occidental Petroleum (OXY): Taking a Fresh Look at Valuation After Recent Share Price Weakness",
+      "source": "Yahoo Finance",
+      "date": "12/12/2025, 07:07 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/03/oil-prices-fall-on-weak-demand-as-markets-await-ukraine-peace-effort-for-supply-signs.html",
-      "title": "Oil rises on expectations of Fed rate cut, Ukraine peace talks stalling",
-      "source": "CNBC",
-      "date": "12/02/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-extends-gains-after-us-seizure-tanker-off-venezuela-2025-12-11/",
-      "title": "Oil retreats as investors' focus returns to Ukraine peace talks",
-      "source": "Reuters",
-      "date": "12/11/2025, 06:22 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/crude-oil-prices-slip-dollar-163628143.html",
+      "title": "Crude Oil Prices Slip on Dollar Strength and Oil Glut Concerns",
+      "source": "Yahoo Finance",
+      "date": "12/12/2025, 04:36 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -115,35 +115,35 @@
       "url": "https://fortune.com/article/current-price-of-gold-12-10-2025/",
       "title": "Current price of gold as of December 10, 2025",
       "source": "Fortune",
-      "date": "12/10/2025, 02:31 PM, +0000 UTC",
+      "date": "12/10/2025, 02:29 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-11-2025/",
-      "title": "Current price of gold as of December 11, 2025",
-      "source": "Fortune",
-      "date": "12/11/2025, 02:26 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-11-12-2025/",
-      "title": "Current price of gold as of November 12, 2025",
-      "source": "Fortune",
-      "date": "12/11/2025, 01:03 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/09/gold-prices-steady-as-markets-brace-for-hawkish-fed-tone.html",
-      "title": "Gold rises ahead of Fed rate cut decision, silver hits $60/oz milestone",
+      "url": "https://www.cnbc.com/2025/12/12/gold-hits-seven-week-high-on-safe-haven-demand-silver-notches-peak.html",
+      "title": "Silver falls from record peak as investors book profits, gold rises to seven-week high",
       "source": "CNBC",
-      "date": "12/09/2025, 06:24 AM, +0000 UTC",
+      "date": "12/12/2025, 11:34 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/india/gold-inches-up-ahead-fed-verdict-silver-powers-fresh-records-above-60-2025-12-10/",
-      "title": "Gold gains after Fed rate cut, silver hits all-time peak",
-      "source": "Reuters",
-      "date": "12/10/2025, 08:36 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/coeur-minings-liquidity-increases-gold-133900024.html",
+      "title": "Coeur Mining's Liquidity Increases on Gold Price Surge & Production",
+      "source": "Yahoo Finance",
+      "date": "12/10/2025, 01:39 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-12-08-2025/",
+      "title": "Current price of gold as of December 8, 2025",
+      "source": "Fortune",
+      "date": "12/08/2025, 02:22 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-09-12-2025/",
+      "title": "Current price of gold as of September 12, 2025",
+      "source": "Fortune",
+      "date": "12/09/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -156,33 +156,33 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-11/inr-usd-indian-rupee-falls-to-fresh-low-on-outflows-trade-deal-impasse",
-      "title": "Indian Rupee Falls to New Record Low on Outflows, Trade Impasse",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-11/krw-usd-south-korea-may-step-up-currency-defense-near-1-500-level-analysts-say",
+      "title": "KRW/USD: South Korea May Step Up Currency Defense Near 1,500 Level, Analysts Say",
       "source": "Bloomberg.com",
-      "date": "12/11/2025, 08:47 AM, +0000 UTC",
+      "date": "12/11/2025, 01:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/coaxial-cables-market-reach-usd-090200650.html",
-      "title": "Coaxial Cables Market To Reach USD 102.74 billion by 2032",
-      "source": "Yahoo Finance",
-      "date": "12/11/2025, 09:02 AM, +0000 UTC",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-staggers-third-straight-weekly-drop-investors-ponder-fed-outlook-2025-12-12/",
+      "title": "US dollar advances after recent fall; sterling dips after GDP data",
+      "source": "Reuters",
+      "date": "12/12/2025, 08:41 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/agent-performance-optimization-market-set-143000634.html",
-      "title": "Agent Performance Optimization Market Set for Steady Growth to USD 4.84 Billion by 2033, Driven by Rising Demand for Enhanced Customer Experience and Operational Efficiency | SNS Insider",
+      "url": "https://finance.yahoo.com/news/firmware-signing-platform-market-size-140000269.html",
+      "title": "Firmware Signing Platform Market Size to Reach USD 6.29 Billion by 2033 | Report by SNS Insider",
       "source": "Yahoo Finance",
-      "date": "12/11/2025, 02:30 PM, +0000 UTC",
+      "date": "12/12/2025, 02:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/protective-relay-market-size-surpass-120000596.html",
-      "title": "Protective Relay Market Size to Surpass USD 5.04 Billion by 2033 | Report by SNS Insider",
+      "url": "https://finance.yahoo.com/news/goat-dairy-products-market-poised-113100063.html",
+      "title": "Goat Dairy Products Market Poised to Hit USD 182.78 Billion by 2034, Fueled by Growing Demand for Nutritional and Premium Dairy Options",
       "source": "Yahoo Finance",
-      "date": "12/11/2025, 12:00 PM, +0000 UTC",
+      "date": "12/12/2025, 11:31 AM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-11T23:14:26.041Z"
+  "lastUpdated": "2025-12-12T23:14:24.941Z"
 }
