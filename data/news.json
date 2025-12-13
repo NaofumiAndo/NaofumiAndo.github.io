@@ -1,42 +1,49 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-to-cap-brutal-week-for-tech-stocks-210016552.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq sink to cap brutal week for tech stocks",
-      "source": "Yahoo Finance",
-      "date": "12/12/2025, 09:36 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4853062-s-and-p-500-bears-stop-fighting-the-last-war",
+      "title": "S&P 500 Bears: Stop Fighting The Last War (DJI)",
+      "source": "Seeking Alpha",
+      "date": "12/12/2025, 10:43 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/11/stock-market-today-live-updates.html",
-      "title": "S&P 500 retreats from record Friday, closes down for week as investors rush out of AI trade",
-      "source": "CNBC",
-      "date": "12/12/2025, 09:20 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-121225?gaa_at=eafs&gaa_n=AWEtsqe_jQGD_c-zDpx-twND9eGDBoKusUF9Qb_VT8kzm8IEDBDI7S4OJOlp&gaa_ts=693ca557&gaa_sig=KtEn8dQ3gMVutaOqn4afM6Dau12CVcatLfUFFQn42ObUFzT42fvm6Npixh1sc2QUbYDHfuzIq1-OqyzESZvl1w%3D%3D",
-      "title": "Stock Market Today: Why the Dow, S&P 500, Nasdaq Fell; Broadcom, Oracle, Nvidia, Tesla, More Movers",
+      "url": "https://www.barrons.com/articles/s-p-500-market-cap-revenue-etf-f079e636?gaa_at=eafs&gaa_n=AWEtsqemRHN80XLGY6t_w4ygKGLivK9ouGk8TRqYpWH_e4bekkNi_evWw3cc&gaa_ts=693df6a0&gaa_sig=YHid5X4KVPVHl7gPXOxBOWML83bAGKZky_O4m3J0uNNo4D6xKBCoWXpgE3WVxy-2xm9W_3KpTaYL1P5RUrS4pw%3D%3D",
+      "title": "Look Past The S&P 500’s Market Cap and Focus on Revenue Instead",
       "source": "Barron's",
-      "date": "12/12/2025, 09:54 PM, +0000 UTC",
+      "date": "12/11/2025, 07:51 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-120825/card/the-s-p-500-s-record-bid-stalls-again-ahead-of-fed-decision-WuRZQmM5vpK341AOPMW3?gaa_at=eafs&gaa_n=AWEtsqetr38A_0LUaVlqClHfmqP4VsCtNwhG3Qc85o2XSiwEttxePe2b6VUO&gaa_ts=693df6a0&gaa_sig=fJCwA7f-WpLQxviO7YiNOGfm8hruX3G6bUHDSwSG6RD_YkwbhljeeJnT-uokS3RrOq-fBxQA_aSHrV8arTwKAg%3D%3D",
+      "title": "The S&P 500's Record Bid Stalls Again Ahead of Fed Decision",
+      "source": "Barron's",
+      "date": "12/13/2025, 10:49 AM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.reuters.com/business/nasdaq-sp-500-futures-slip-broadcom-outlook-reignites-ai-bubble-fears-2025-12-12/",
       "title": "Wall Street ends lower; fears of AI bubble and inflation send investors away",
       "source": "Reuters",
-      "date": "12/12/2025, 09:41 PM, +0000 UTC",
+      "date": "12/12/2025, 11:56 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-set-to-rise-as-investors-eye-value-over-growth-after-fed-cut?gaa_at=eafs&gaa_n=AWEtsqcN_NPTgS4OZ69MbU8Co6FpsIMwpPkq3gqRNbxRDeGC-jYFExKPv7OH&gaa_ts=693ca557&gaa_sig=ywB-JoZ6b7Pfsk_zd4MSw6QLM7zS9cJMcrX25LHCIoHU20T-O182_JsD147nrSjKbJc5lJ5oIYnudNko3TNDIQ%3D%3D",
-      "title": "Stock Market on Dec 12, 2025: Dow, S&P 500 and Nasdaq end down as AI-related selling puts stock market under pressure; U.S. equities mostly fall on the week",
-      "source": "MarketWatch",
-      "date": "12/12/2025, 09:44 PM, +0000 UTC",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-120825/card/s-p-500-inches-higher-sitting-just-below-its-record-close-rgpKvcwhRfvtEdNT6wcI?gaa_at=eafs&gaa_n=AWEtsqefU9f9JWFDUeRaj2YsX2hf7VIT38hsAgw4mbkWK9raP6DsqsTYWJSF&gaa_ts=693df6a0&gaa_sig=r2GhInJHzt9u18VJuZ1CRXsL0mPdPNr9jyjH8xpbDJlnseEHsPyElhrPop7Q3w7UgJ91olSZKl-klnM3sIGjlA%3D%3D",
+      "title": "S&P 500 Wavers, Sitting Just Below Its Record Close",
+      "source": "Barron's",
+      "date": "12/13/2025, 11:13 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
+    {
+      "url": "https://www.reuters.com/world/us-treasury-probe-businesses-involved-minnesota-fraud-case-bessent-says-2025-12-12/",
+      "title": "U.S. Treasury to probe businesses involved in Minnesota fraud case, Bessent says",
+      "source": "Reuters",
+      "date": "12/12/2025, 04:11 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.cnbc.com/2025/12/12/us-treasury-yields-investors-digest-fed-cut-speculate-future-rates.html",
       "title": "10-year Treasury yield rebounds after 2-day slide as Goolsbee urges caution on further cuts",
@@ -59,17 +66,10 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/finance/fed-says-will-start-reserve-management-treasury-bill-buying-2025-12-10/",
-      "title": "Fed says it will start technical buying of Treasury bills to manage market liquidity",
-      "source": "Reuters",
-      "date": "12/10/2025, 10:35 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/10/us-treasury-yields-fed-rate-cut-decision-comes-into-focus-.html",
-      "title": "Treasury yields slide as Fed cuts rates, expands short term bond-buying",
-      "source": "CNBC",
-      "date": "12/10/2025, 10:00 AM, +0000 UTC",
+      "url": "https://www.wsj.com/finance/investing/jgbs-rise-tracking-gains-in-u-s-treasurys-d790b611?gaa_at=eafs&gaa_n=AWEtsqeC77t3rhl9H_23Lz6VniagvACxUImE8ccCLVMUKLpDcz2cFbMRo2fM&gaa_ts=693df6a5&gaa_sig=E_6qrO6UAaHktUuaoX3Bwog_4OYLJC_tJB7Vd_3WLyAZlZv8eMwemNi9zeN13uBZeY-M_rL2rTTHvVSad6Z14Q%3D%3D",
+      "title": "Treasury Yields, Dollar Down as Markets Adjust Fed Outlook",
+      "source": "The Wall Street Journal",
+      "date": "12/11/2025, 08:42 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -82,13 +82,6 @@
       "snippet": ""
     },
     {
-      "url": "https://uk.finance.yahoo.com/news/oil-prices-venezuela-supply-gold-pound-latest-100332016.html",
-      "title": "Oil prices climb fuelled by Venezuelan supply disruption concerns",
-      "source": "Yahoo Finance UK",
-      "date": "12/12/2025, 10:03 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.bloomberg.com/news/articles/2025-12-10/wall-street-sees-modest-oil-price-decline-next-year-on-surplus",
       "title": "Wall Street Sees Modest Oil Price Decline Next Year on Surplus",
       "source": "Bloomberg.com",
@@ -96,17 +89,24 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/occidental-petroleum-oxy-taking-fresh-190724717.html",
-      "title": "Occidental Petroleum (OXY): Taking a Fresh Look at Valuation After Recent Share Price Weakness",
+      "url": "https://finance.yahoo.com/news/jp-morgan-says-oil-prices-150000026.html",
+      "title": "JP Morgan Says Oil Prices Could Plunge Into $30s by 2027",
       "source": "Yahoo Finance",
-      "date": "12/12/2025, 07:07 PM, +0000 UTC",
+      "date": "11/24/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/crude-oil-prices-slip-dollar-163628143.html",
-      "title": "Crude Oil Prices Slip on Dollar Strength and Oil Glut Concerns",
-      "source": "Yahoo Finance",
-      "date": "12/12/2025, 04:36 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/oil-steady-supply-concerns-cap-gains-market-eyes-ukraine-peace-talks-2025-12-10/",
+      "title": "Oil settles higher after US seizes tanker off Venezuela's coast",
+      "source": "Reuters",
+      "date": "12/10/2025, 08:45 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/russias-oil-gas-revenue-seen-halving-december-lowest-since-august-2020-2025-12-12/",
+      "title": "Exclusive: Russia's monthly oil and gas revenue poised to hit lowest since August 2020",
+      "source": "Reuters",
+      "date": "12/12/2025, 01:22 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -126,6 +126,13 @@
       "snippet": ""
     },
     {
+      "url": "https://uk.finance.yahoo.com/news/gold-oil-prices-pound-dollar-latest-fed-interest-rates-095729371.html",
+      "title": "Gold prices dip ahead of Fed interest rate decision",
+      "source": "Yahoo Finance UK",
+      "date": "12/10/2025, 09:57 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://finance.yahoo.com/news/coeur-minings-liquidity-increases-gold-133900024.html",
       "title": "Coeur Mining's Liquidity Increases on Gold Price Surge & Production",
       "source": "Yahoo Finance",
@@ -133,26 +140,19 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-08-2025/",
-      "title": "Current price of gold as of December 8, 2025",
-      "source": "Fortune",
-      "date": "12/08/2025, 02:22 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-09-12-2025/",
-      "title": "Current price of gold as of September 12, 2025",
-      "source": "Fortune",
-      "date": "12/09/2025, 08:00 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-december-12-gold-opens-above-4300-for-the-first-time-since-october-124120039.html",
+      "title": "Gold price today, Friday, December 12: Gold opens above $4,300 for the first time since October",
+      "source": "Yahoo Finance",
+      "date": "12/12/2025, 12:53 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/africa/us-dollar-slides-after-fed-cuts-rates-expected-2025-12-10/",
-      "title": "FOREX US dollar tumbles after Fed cuts rates, Powell comments",
-      "source": "Reuters",
-      "date": "12/10/2025, 11:34 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4852771-bitcoin-set-for-the-2026-macro-reset",
+      "title": "Bitcoin Stock: Set For The 2026 Macro Reset (Cryptocurrency:BTC-USD)",
+      "source": "Seeking Alpha",
+      "date": "12/12/2025, 01:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -170,19 +170,19 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/firmware-signing-platform-market-size-140000269.html",
-      "title": "Firmware Signing Platform Market Size to Reach USD 6.29 Billion by 2033 | Report by SNS Insider",
-      "source": "Yahoo Finance",
-      "date": "12/12/2025, 02:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://finance.yahoo.com/news/goat-dairy-products-market-poised-113100063.html",
       "title": "Goat Dairy Products Market Poised to Hit USD 182.78 Billion by 2034, Fueled by Growing Demand for Nutritional and Premium Dairy Options",
       "source": "Yahoo Finance",
       "date": "12/12/2025, 11:31 AM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/firmware-signing-platform-market-size-140000269.html",
+      "title": "Firmware Signing Platform Market Size to Reach USD 6.29 Billion by 2033 | Report by SNS Insider",
+      "source": "Yahoo Finance",
+      "date": "12/12/2025, 02:00 PM, +0000 UTC",
+      "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-12T23:14:24.941Z"
+  "lastUpdated": "2025-12-13T23:13:31.526Z"
 }
