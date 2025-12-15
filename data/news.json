@@ -1,10 +1,24 @@
 {
   "sp500": [
     {
-      "url": "https://www.cnbc.com/2025/12/14/stock-market-today-live-updates.html",
-      "title": "Stock futures are little changed as big week of economic data kicks off: Live updates",
-      "source": "CNBC",
-      "date": "12/14/2025, 11:04 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4853215-s-and-p-500-warning-shot-fired-as-bond-rates-finally-matter-this-could-get-ugly",
+      "title": "S&P 500: Warning Shot Fired, As Bond Rates Finally Matter. This Could Get Ugly",
+      "source": "Seeking Alpha",
+      "date": "12/14/2025, 04:54 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.investopedia.com/servicenow-stock-plunges-to-lead-s-and-p-500-decliners-on-monday-here-is-why-11868924",
+      "title": "ServiceNow Stock Plunges to Lead S&P 500 Decliners on Monday. Here's Why.",
+      "source": "Investopedia",
+      "date": "12/15/2025, 06:21 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/2025/12/15/magnificent-7-stocks-underperformed-market/",
+      "title": "The Magnificent 7 isn’t that magnificent: 5 of the stocks have underperformed the market this year",
+      "source": "Fortune",
+      "date": "12/15/2025, 11:56 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -15,102 +29,95 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/todays-market-p-500-falls-183508150.html",
-      "title": "Nasdaq Slides as Broadcom Forecasts Shake AI Trade",
-      "source": "Yahoo Finance",
-      "date": "12/14/2025, 03:49 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-120825/card/the-s-p-500-s-record-bid-stalls-again-ahead-of-fed-decision-WuRZQmM5vpK341AOPMW3?gaa_at=eafs&gaa_n=AWEtsqek4uc__JtwuZGxaIzEl37lxH9C-aG5IrKNdVatyf6LTwI-JCP2H9k1&gaa_ts=693f4815&gaa_sig=gBm_sVUZsNnoi8KhipnxUcStuG-5HHTOui8uNHPu4oxqHCBOS3oL7wZn2ZWQ0qEBraedTNurtW2qSyHkDvas9A%3D%3D",
-      "title": "The S&P 500's Record Bid Stalls Again Ahead of Fed Decision",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-121525?gaa_at=eafs&gaa_n=AWEtsqcLoB2M7fUpRv-5ZNt3w16RleY9ezbCoZQ7kq4tHB3S1xzfoy08Rzsm&gaa_ts=694099e7&gaa_sig=qhgdV7gB5WJRQYTeVkqr_N5Dvyc4rQcm7xqz6BNfutdPTyOO6r8THfe8T2_f9sIZ3SCIBvxSv80TAIcYVzYTaw%3D%3D",
+      "title": "The S&P 500 Loses Steam Ahead of Jobs Report",
       "source": "Barron's",
-      "date": "12/13/2025, 10:48 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/11/stock-market-today-live-updates.html",
-      "title": "S&P 500 retreats from record Friday, closes down for week as investors rush out of AI trade",
-      "source": "CNBC",
-      "date": "12/12/2025, 09:06 PM, +0000 UTC",
+      "date": "12/15/2025, 09:44 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.reuters.com/world/us-treasury-probe-businesses-involved-minnesota-fraud-case-bessent-says-2025-12-12/",
-      "title": "U.S. Treasury to probe businesses involved in Minnesota fraud case, Bessent says",
-      "source": "reuters.com",
-      "date": "12/12/2025, 04:11 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/12/us-treasury-yields-investors-digest-fed-cut-speculate-future-rates.html",
-      "title": "10-year Treasury yield rebounds after 2-day slide as Goolsbee urges caution on further cuts",
+      "url": "https://www.cnbc.com/2025/12/15/us-treasury-yields-busy-week-of-economic-data-ahead-.html",
+      "title": "Treasury yields decline as investors look ahead to busy week of economic data",
       "source": "CNBC",
-      "date": "12/12/2025, 11:40 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.nytimes.com/2025/12/06/business/dealbook/scott-bessent-dealbook.html",
-      "title": "Scott Bessent on Tariffs, the Fed and the Economy",
-      "source": "The New York Times",
-      "date": "12/06/2025, 08:00 AM, +0000 UTC",
+      "date": "12/15/2025, 11:19 AM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.bloomberg.com/news/articles/2025-12-14/bond-market-debate-over-fed-s-path-in-2026-is-about-to-heat-up",
       "title": "Bond-Market Debate Over Fed’s Path in 2026 Is About to Heat Up",
       "source": "Bloomberg.com",
-      "date": "12/14/2025, 08:00 PM, +0000 UTC",
+      "date": "12/15/2025, 10:16 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-12-15/treasuries-gain-led-by-short-maturities-as-fed-debate-simmers",
+      "title": "Treasuries Gain Led by Short Maturities as Fed Debate Simmers",
+      "source": "Bloomberg.com",
+      "date": "12/15/2025, 08:06 PM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.nytimes.com/2025/12/14/us/coins-us-250th-anniversary.html",
       "title": "The War on ‘Wokeness’ Comes to the U.S. Mint",
       "source": "The New York Times",
-      "date": "12/14/2025, 10:03 AM, +0000 UTC",
+      "date": "12/15/2025, 06:12 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/us-treasury-probe-businesses-involved-minnesota-fraud-case-bessent-says-2025-12-12/",
+      "title": "U.S. Treasury to probe businesses involved in Minnesota fraud case, Bessent says",
+      "source": "Reuters",
+      "date": "12/12/2025, 04:11 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/business/energy/oil-prices-up-us-venezuela-tensions-set-weekly-decline-2025-12-12/",
-      "title": "Oil posts weekly loss on oversupply concerns",
-      "source": "reuters.com",
-      "date": "12/12/2025, 08:43 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/ukraine-strikes-key-russian-oil-122800963.html",
-      "title": "Ukraine Strikes Key Russian Oil Platform in Caspian Sea",
-      "source": "Yahoo Finance",
-      "date": "12/11/2025, 12:28 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-04/saudi-arabia-cuts-flagship-oil-price-to-lowest-in-five-years",
-      "title": "Saudi Arabia Cuts Flagship Oil Price to Lowest in Five Years",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-15/chevron-reduces-price-for-venezuelan-oil-after-tanker-seizure",
+      "title": "Chevron Reduces Price for Venezuelan Oil After Tanker Seizure",
       "source": "Bloomberg.com",
-      "date": "12/04/2025, 08:00 AM, +0000 UTC",
+      "date": "12/15/2025, 06:23 PM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.reuters.com/business/energy/russias-oil-gas-revenue-seen-halving-december-lowest-since-august-2020-2025-12-12/",
       "title": "Exclusive: Russia's monthly oil and gas revenue poised to hit lowest since August 2020",
-      "source": "reuters.com",
+      "source": "Reuters",
       "date": "12/12/2025, 01:22 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-steady-supply-concerns-cap-gains-market-eyes-ukraine-peace-talks-2025-12-10/",
-      "title": "Oil settles higher after US seizes tanker off Venezuela's coast",
-      "source": "reuters.com",
-      "date": "12/10/2025, 08:45 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/oil-tanker-rates-stay-strong-into-2026-sanctions-remove-ships-hire-2025-12-15/",
+      "title": "Oil tanker rates to stay strong into 2026 as sanctions remove ships for hire",
+      "source": "Reuters",
+      "date": "12/15/2025, 08:38 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/middle-east/saudi-bourse-leads-most-gulf-stocks-lower-oil-prices-fall-2025-12-14/",
+      "title": "Saudi bourse leads most Gulf stocks lower as oil prices fall",
+      "source": "Reuters",
+      "date": "12/14/2025, 01:25 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-prices-firm-after-ukrainian-strikes-russian-oil-infrastructure-stalled-peace-2025-12-04/",
+      "title": "Oil settles up on expectations of Fed rate cut, Ukraine peace talks stalling",
+      "source": "Reuters",
+      "date": "12/04/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-12-12-2025/",
+      "title": "Current price of gold as of December 12, 2025",
+      "source": "Fortune",
+      "date": "12/12/2025, 02:08 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-december-12-gold-opens-above-4300-for-the-first-time-since-october-124120039.html",
       "title": "Gold price today, Friday, December 12: Gold opens above $4,300 for the first time since October",
@@ -119,49 +126,63 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-11-2025/",
-      "title": "Current price of gold as of December 11, 2025",
+      "url": "https://finance.yahoo.com/news/gold-silver-prices-hold-steady-with-underlying-bullish-trend-in-place-175620537.html",
+      "title": "Gold, silver prices hold steady with 'underlying bullish trend' in place",
+      "source": "Yahoo Finance",
+      "date": "12/15/2025, 05:56 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-12-15-2025/",
+      "title": "Current price of gold as of December 15, 2025",
       "source": "Fortune",
-      "date": "12/11/2025, 02:23 PM, +0000 UTC",
+      "date": "12/15/2025, 02:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://uk.finance.yahoo.com/news/gold-price-us-interest-rates-federal-reserve-oil-pound-094658564.html",
-      "title": "Gold price climbs after interest rates cut by Federal Reserve",
-      "source": "Yahoo Finance UK",
-      "date": "12/11/2025, 09:46 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-12-10-2025/",
-      "title": "Current price of gold as of December 10, 2025",
-      "source": "Fortune",
-      "date": "12/10/2025, 02:29 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/12/gold-hits-seven-week-high-on-safe-haven-demand-silver-notches-peak.html",
-      "title": "Silver falls from record peak as investors book profits, gold rises to seven-week high",
-      "source": "CNBC",
-      "date": "12/12/2025, 11:34 AM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4531714-gold-price-edges-higher-ahead-of-key-economic-reports-this-week",
+      "title": "Gold price edges higher ahead of key economic reports this week (GLD:NYSEARCA)",
+      "source": "Seeking Alpha",
+      "date": "12/15/2025, 10:50 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://finance.yahoo.com/news/sol-usd-preparing-breakout-solana-115536528.html",
-      "title": "Is SOL USD Preparing for a Breakout as Solana Price Holds Above Key Support?",
-      "source": "Yahoo Finance",
-      "date": "12/14/2025, 11:55 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-15/usd-thb-thai-baht-surges-to-four-year-high-ahead-of-bot-rate-decision",
+      "title": "USD/THB: Thai Baht Surges to Four-Year High Ahead of BOT Rate Decision",
+      "source": "Bloomberg.com",
+      "date": "12/15/2025, 06:56 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/global-fuel-cell-market-poised-095100057.html",
-      "title": "Global Fuel Cell Market Poised to Reach USD 18.16 Billion by 2030 with 26.3% CAGR",
+      "url": "https://finance.yahoo.com/news/edgeti-announces-closing-over-subscribed-215100229.html",
+      "title": "EdgeTI Announces Closing of Over Subscribed $8,010,000 USD Private Placement Convertible Debenture Units",
       "source": "Yahoo Finance",
-      "date": "12/12/2025, 09:51 AM, +0000 UTC",
+      "date": "12/15/2025, 09:51 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/news/4531632-crypto-slump-weighs-on-coinbase-robinhood-miners-and-related-stocks",
+      "title": "Crypto slump weighs on Coinbase, Robinhood, miners, and related stocks (BTC-USD:Cryptocurrency)",
+      "source": "Seeking Alpha",
+      "date": "12/15/2025, 06:33 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/solid-state-laser-market-size-120000897.html",
+      "title": "Solid State Laser Market Size to Worth USD 5.65 Billion by 2033 | Research by SNS Insider",
+      "source": "Yahoo Finance",
+      "date": "12/15/2025, 12:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://sg.finance.yahoo.com/news/food-preservatives-market-growth-outlook-150700787.html",
+      "title": "Food Preservatives Market Growth Outlook: CAGR of 4.7% and Value Reaching USD 5.01 Billion by 2032",
+      "source": "Yahoo Finance Singapore",
+      "date": "12/15/2025, 03:07 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-14T23:13:19.868Z"
+  "lastUpdated": "2025-12-15T23:14:41.122Z"
 }
