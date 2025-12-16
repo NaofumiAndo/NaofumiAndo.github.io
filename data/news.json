@@ -1,13 +1,6 @@
 {
   "sp500": [
     {
-      "url": "https://seekingalpha.com/article/4853215-s-and-p-500-warning-shot-fired-as-bond-rates-finally-matter-this-could-get-ugly",
-      "title": "S&P 500: Warning Shot Fired, As Bond Rates Finally Matter. This Could Get Ugly",
-      "source": "Seeking Alpha",
-      "date": "12/14/2025, 04:54 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.investopedia.com/servicenow-stock-plunges-to-lead-s-and-p-500-decliners-on-monday-here-is-why-11868924",
       "title": "ServiceNow Stock Plunges to Lead S&P 500 Decliners on Monday. Here's Why.",
       "source": "Investopedia",
@@ -15,24 +8,31 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/2025/12/15/magnificent-7-stocks-underperformed-market/",
-      "title": "The Magnificent 7 isn’t that magnificent: 5 of the stocks have underperformed the market this year",
+      "url": "https://fortune.com/2025/12/16/stocks-global-selloff-ai-bubble-ends/",
+      "title": "Global selloff in stocks signals AI bubble may be ending in the healthiest way possible",
       "source": "Fortune",
-      "date": "12/15/2025, 11:56 AM, +0000 UTC",
+      "date": "12/16/2025, 11:45 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4853166-s-and-p-500-the-december-inflection-technical-analysis",
-      "title": "S&P 500: The December Inflection (Technical Analysis) (SP500)",
-      "source": "Seeking Alpha",
-      "date": "12/14/2025, 09:00 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-16/wall-street-sees-rare-earnings-growth-supporting-s-p-s-bull-case",
+      "title": "Wall Street Sees Rare Earnings Growth Supporting S&P’s Bull Case",
+      "source": "Bloomberg.com",
+      "date": "12/16/2025, 10:30 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-121525?gaa_at=eafs&gaa_n=AWEtsqcLoB2M7fUpRv-5ZNt3w16RleY9ezbCoZQ7kq4tHB3S1xzfoy08Rzsm&gaa_ts=694099e7&gaa_sig=qhgdV7gB5WJRQYTeVkqr_N5Dvyc4rQcm7xqz6BNfutdPTyOO6r8THfe8T2_f9sIZ3SCIBvxSv80TAIcYVzYTaw%3D%3D",
-      "title": "The S&P 500 Loses Steam Ahead of Jobs Report",
-      "source": "Barron's",
-      "date": "12/15/2025, 09:44 PM, +0000 UTC",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-nasdag-eyes-four-day-losing-streak-dow-sp500-lower-ai-falters-jobs-report?gaa_at=eafs&gaa_n=AWEtsqfG6bpJy4Kilt-AWalj1IjKYUPcOYjXTYB5fl9ess9Ttr7RQBfqN5Gb&gaa_ts=6941eb40&gaa_sig=3w8b9F7JGv-x5vcdHaxuQbiTpZq40KrI_cMRuFcvDofd6UMgepqDtWcD6CwTxtEhhZajpiw599ad6Oa4OOjzEg%3D%3D",
+      "title": "Stock Market News, Dec. 16, 2025: Dow, S&P 500 log 3-day lose streaks, Nasdaq ends higher after U.S. jobs report; oil hits lowest level since 2021",
+      "source": "MarketWatch",
+      "date": "12/16/2025, 09:22 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.investopedia.com/dow-jones-today-12162025-11869953",
+      "title": "Dow Jones Today: Stock Indexes End Mixed After Delayed Jobs Data; Unemployment Rate Higher Than Expected",
+      "source": "Investopedia",
+      "date": "12/16/2025, 08:36 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -45,84 +45,77 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-14/bond-market-debate-over-fed-s-path-in-2026-is-about-to-heat-up",
-      "title": "Bond-Market Debate Over Fed’s Path in 2026 Is About to Heat Up",
-      "source": "Bloomberg.com",
-      "date": "12/15/2025, 10:16 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/us-treasurys-bessent-kevin-warsh-130412196.html",
+      "title": "US Treasury's Bessent: Kevin Warsh and Kevin Hassett both qualified for Fed",
+      "source": "Yahoo Finance",
+      "date": "12/16/2025, 01:04 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-15/treasuries-gain-led-by-short-maturities-as-fed-debate-simmers",
-      "title": "Treasuries Gain Led by Short Maturities as Fed Debate Simmers",
-      "source": "Bloomberg.com",
-      "date": "12/15/2025, 08:06 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.nytimes.com/2025/12/14/us/coins-us-250th-anniversary.html",
-      "title": "The War on ‘Wokeness’ Comes to the U.S. Mint",
-      "source": "The New York Times",
-      "date": "12/15/2025, 06:12 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/us-treasury-probe-businesses-involved-minnesota-fraud-case-bessent-says-2025-12-12/",
-      "title": "U.S. Treasury to probe businesses involved in Minnesota fraud case, Bessent says",
+      "url": "https://www.reuters.com/business/us-treasurys-bessent-kevin-warsh-kevin-hassett-both-qualified-fed-2025-12-16/",
+      "title": "US Treasury's Bessent says next Fed chair needs 'an open mind'",
       "source": "Reuters",
-      "date": "12/12/2025, 04:11 PM, +0000 UTC",
+      "date": "12/16/2025, 03:01 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2025-12-16/",
+      "title": "Equities fall with US Treasury yields after data, oil sinks",
+      "source": "Reuters",
+      "date": "12/16/2025, 08:19 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-12-16/treasuries-fluctuate-after-us-jobless-rate-exceeds-estimate",
+      "title": "Treasuries Fluctuate After US Jobless Rate Exceeds Estimate",
+      "source": "Bloomberg.com",
+      "date": "12/16/2025, 08:10 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-15/chevron-reduces-price-for-venezuelan-oil-after-tanker-seizure",
-      "title": "Chevron Reduces Price for Venezuelan Oil After Tanker Seizure",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-16/putin-s-war-chest-hammered-by-lower-oil-exports-and-falling-prices",
+      "title": "Russia’s War Chest Hammered as Oil Flows and Prices Plunge",
       "source": "Bloomberg.com",
-      "date": "12/15/2025, 06:23 PM, +0000 UTC",
+      "date": "12/16/2025, 01:10 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/russias-oil-gas-revenue-seen-halving-december-lowest-since-august-2020-2025-12-12/",
-      "title": "Exclusive: Russia's monthly oil and gas revenue poised to hit lowest since August 2020",
+      "url": "https://www.reuters.com/markets/commodities/china-accelerates-crude-stockpiling-amid-weaker-oil-price-trend-2025-12-16/",
+      "title": "China accelerates crude stockpiling amid weaker oil price trend",
       "source": "Reuters",
-      "date": "12/12/2025, 01:22 PM, +0000 UTC",
+      "date": "12/16/2025, 01:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-tanker-rates-stay-strong-into-2026-sanctions-remove-ships-hire-2025-12-15/",
-      "title": "Oil tanker rates to stay strong into 2026 as sanctions remove ships for hire",
-      "source": "Reuters",
-      "date": "12/15/2025, 08:38 AM, +0000 UTC",
+      "url": "https://www.barrons.com/articles/crude-oil-wti-brent-price-today-8e54b1f1?gaa_at=eafs&gaa_n=AWEtsqehBTq2MsyY9I_Jw8zf6Us4qsgR4vvTjFifH3GC63zURTRqEdIGzboy&gaa_ts=6941eb4a&gaa_sig=MyDu5mbF0BppglezsLa_cIU_nuk9DFVrfiZTTo3LKsa68JO0OOj7iTrReyCiDpV5Txk18n1wdlvxPshIxPoL2g%3D%3D",
+      "title": "Oil Prices Tumble to Lowest Levels Since 2021. Here Are the Big Concerns.",
+      "source": "Barron's",
+      "date": "12/16/2025, 03:50 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/middle-east/saudi-bourse-leads-most-gulf-stocks-lower-oil-prices-fall-2025-12-14/",
-      "title": "Saudi bourse leads most Gulf stocks lower as oil prices fall",
-      "source": "Reuters",
-      "date": "12/14/2025, 01:25 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-16/russia-oil-prices-hit-lowest-since-war-began-on-western-pressure",
+      "title": "Russia Oil Prices Hit Lowest Since War Began on Western Pressure",
+      "source": "Bloomberg.com",
+      "date": "12/16/2025, 10:22 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-prices-firm-after-ukrainian-strikes-russian-oil-infrastructure-stalled-peace-2025-12-04/",
-      "title": "Oil settles up on expectations of Fed rate cut, Ukraine peace talks stalling",
-      "source": "Reuters",
-      "date": "12/04/2025, 08:00 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/brent-oil-extends-slide-below-084313042.html",
+      "title": "Oil Falls Below $55 on Signs of Surplus and Ukraine Peace Talks",
+      "source": "Yahoo Finance",
+      "date": "12/16/2025, 08:52 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-12-2025/",
-      "title": "Current price of gold as of December 12, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-12-15-2025/",
+      "title": "Current price of gold as of December 15, 2025",
       "source": "Fortune",
-      "date": "12/12/2025, 02:08 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-december-12-gold-opens-above-4300-for-the-first-time-since-october-124120039.html",
-      "title": "Gold price today, Friday, December 12: Gold opens above $4,300 for the first time since October",
-      "source": "Yahoo Finance",
-      "date": "12/12/2025, 12:53 PM, +0000 UTC",
+      "date": "12/15/2025, 02:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -133,17 +126,24 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-15-2025/",
-      "title": "Current price of gold as of December 15, 2025",
-      "source": "Fortune",
-      "date": "12/15/2025, 02:30 PM, +0000 UTC",
+      "url": "https://www.reuters.com/world/india/gold-edges-higher-dollar-eases-ahead-year-end-us-jobs-data-2025-12-16/",
+      "title": "Gold inches up as US unemployment rate rises in November",
+      "source": "Reuters",
+      "date": "12/16/2025, 07:01 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4531714-gold-price-edges-higher-ahead-of-key-economic-reports-this-week",
-      "title": "Gold price edges higher ahead of key economic reports this week (GLD:NYSEARCA)",
-      "source": "Seeking Alpha",
-      "date": "12/15/2025, 10:50 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-december-16-2025-gold-dips-but-remains-above-3400-ahead-of-jobs-data-125044663.html",
+      "title": "Gold price today, Tuesday, December 16, 2025: Gold dips but remains above $3,400 ahead of jobs data",
+      "source": "Yahoo Finance",
+      "date": "12/16/2025, 12:45 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://fortune.com/article/current-price-of-gold-12-16-2025/",
+      "title": "Current price of gold as of December 16, 2025",
+      "source": "Fortune",
+      "date": "12/16/2025, 02:16 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -156,33 +156,33 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/edgeti-announces-closing-over-subscribed-215100229.html",
-      "title": "EdgeTI Announces Closing of Over Subscribed $8,010,000 USD Private Placement Convertible Debenture Units",
+      "url": "https://www.reuters.com/world/africa/dollar-defensive-traders-eye-delayed-us-jobs-data-2025-12-16/",
+      "title": "Dollar eases against peers after better-than-expected U.S. jobs data",
+      "source": "Reuters",
+      "date": "12/16/2025, 08:46 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/robotic-process-automation-rpa-market-124400884.html",
+      "title": "Robotic Process Automation (RPA) Market Size Expands from USD 35.27 Bn in 2026 to USD 247.34 Bn by 2035 Fueled by AI-Powered Automation and Digitalization",
       "source": "Yahoo Finance",
-      "date": "12/15/2025, 09:51 PM, +0000 UTC",
+      "date": "12/16/2025, 12:44 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4531632-crypto-slump-weighs-on-coinbase-robinhood-miners-and-related-stocks",
-      "title": "Crypto slump weighs on Coinbase, Robinhood, miners, and related stocks (BTC-USD:Cryptocurrency)",
-      "source": "Seeking Alpha",
-      "date": "12/15/2025, 06:33 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/solid-state-laser-market-size-120000897.html",
-      "title": "Solid State Laser Market Size to Worth USD 5.65 Billion by 2033 | Research by SNS Insider",
+      "url": "https://finance.yahoo.com/news/plastic-resin-market-size-worth-155600840.html",
+      "title": "Plastic Resin Market Size to Worth USD 1,384.76 Billion by 2035 - Exclusive Report by Towards Chemical and Materials",
       "source": "Yahoo Finance",
-      "date": "12/15/2025, 12:00 PM, +0000 UTC",
+      "date": "12/16/2025, 03:56 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://sg.finance.yahoo.com/news/food-preservatives-market-growth-outlook-150700787.html",
-      "title": "Food Preservatives Market Growth Outlook: CAGR of 4.7% and Value Reaching USD 5.01 Billion by 2032",
+      "url": "https://sg.finance.yahoo.com/news/growing-global-demand-electric-toothbrush-090800287.html",
+      "title": "Growing Global Demand: Electric Toothbrush Market to Reach USD 1.22 Billion by 2032",
       "source": "Yahoo Finance Singapore",
-      "date": "12/15/2025, 03:07 PM, +0000 UTC",
+      "date": "12/16/2025, 09:08 AM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-15T23:14:41.122Z"
+  "lastUpdated": "2025-12-16T23:14:02.973Z"
 }
