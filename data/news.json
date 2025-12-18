@@ -1,54 +1,47 @@
 {
   "sp500": [
     {
-      "url": "https://seekingalpha.com/news/4532536-interactive-brokers-steve-sosnick-s-and-p-500-pt-at-6500-investors-beware-of-shifting-market",
-      "title": "Interactive Brokers’ Steve Sosnick: S&P 500 PT at 6,500; investors beware of shifting market dynamics",
-      "source": "Seeking Alpha",
-      "date": "12/17/2025, 04:07 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/2025/12/17/microsoft-apple-meta-and-amazons-stocks-are-lagging-the-sp-500-this-year-but-google-is-up-62-and-ai-investors-think-it-has-room-to-run/",
-      "title": "Is Google running away with the AI race? Its stock price sure seems to say so",
-      "source": "Fortune",
-      "date": "12/17/2025, 09:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/17/will-there-be-a-santa-claus-rally-sp-500-says-maybe-not-.html",
-      "title": "Will there be a Santa Claus rally? S&P 500 is showing signs there may not be",
+      "url": "https://www.cnbc.com/2025/12/18/stock-market-today-live-updates.html",
+      "title": "S&P 500 futures are little changed after index ends four-day losing run: Live updates",
       "source": "CNBC",
-      "date": "12/17/2025, 02:20 PM, +0000 UTC",
+      "date": "12/18/2025, 11:06 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/dow-jones-today-12172025-11870938",
-      "title": "Markets News, Dec. 17, 2025: Major Indexes End Sharply Lower as Tech Stocks Resume Retreat; S&P 500, Dow Post 4th Straight Loss",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-as-cpi-inflation-eases-in-november-micron-boosts-tech-143506528.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq jump after cooler CPI inflation reading as AI trade reignites",
+      "source": "Yahoo Finance",
+      "date": "12/18/2025, 07:18 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.investopedia.com/dow-jones-today-12182025-11871902",
+      "title": "Dow Jones Today: Stock Indexes Close Sharply Higher After Cool Inflation Data; Dow, S&P 500 Snap 4-Session Skids; Gold Hits New Record",
       "source": "Investopedia",
-      "date": "12/17/2025, 10:35 PM, +0000 UTC",
+      "date": "12/18/2025, 09:05 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/16/stock-market-today-live-updates.html",
-      "title": "S&P 500 posts four-day losing streak, Nasdaq tumbles 1.8% as Oracle sells off: Live updates",
-      "source": "CNBC",
-      "date": "12/17/2025, 09:24 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4854511-s-and-p-500-butterfly-effect-from-japan-rate-hike",
+      "title": "S&P 500: Butterfly Effect From Japan Rate Hike",
+      "source": "Seeking Alpha",
+      "date": "12/18/2025, 10:22 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.investopedia.com/can-the-s-and-p-500-get-to-8000-these-experts-say-yes-but-it-ll-take-big-rate-cuts-11872292",
+      "title": "Can the S&P 500 Get to 8000? These Experts Say Yes—But It'll Take Big Rate Cuts",
+      "source": "Investopedia",
+      "date": "12/18/2025, 07:24 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2025-12-16/",
-      "title": "Equities fall with US Treasury yields after data, oil sinks",
-      "source": "Reuters",
-      "date": "12/17/2025, 12:21 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/u-treasury-blocks-bid-lukoil-073212557.html",
-      "title": "U.S. Treasury Blocks Bid for Lukoil’s Foreign Assets",
-      "source": "Yahoo Finance",
-      "date": "12/16/2025, 07:32 AM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/17/us-treasury-yields-investors-look-ahead-to-inflation-data-.html",
+      "title": "10-year Treasury yield is little changed as investors look ahead to inflation data",
+      "source": "CNBC",
+      "date": "12/17/2025, 11:36 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -59,21 +52,49 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/17/us-treasury-yields-investors-look-ahead-to-inflation-data-.html",
-      "title": "10-year Treasury yield is little changed as investors look ahead to inflation data",
-      "source": "CNBC",
-      "date": "12/17/2025, 11:36 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.reuters.com/markets/us/us-treasuries-rebuilding-risk-premia-2025-12-16/",
       "title": "US Treasuries rebuilding risk premia",
       "source": "Reuters",
       "date": "12/16/2025, 11:00 AM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/u-treasury-blocks-bid-lukoil-073212557.html",
+      "title": "U.S. Treasury Blocks Bid for Lukoil’s Foreign Assets",
+      "source": "Yahoo Finance",
+      "date": "12/16/2025, 07:32 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/18/us-treasury-yields-investors-await-inflation-data-.html",
+      "title": "10-year Treasury yield slides after much lighter November inflation than expected",
+      "source": "CNBC",
+      "date": "12/18/2025, 09:59 AM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "oil": [
+    {
+      "url": "https://www.bloomberg.com/graphics/2025-global-oil-supply-prices/",
+      "title": "The World Is Awash With Oil and Prices Are Poised to Keep Falling",
+      "source": "Bloomberg.com",
+      "date": "12/18/2025, 10:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/articles/gas-prices-demand-oil-winter-russia-24414931?gaa_at=eafs&gaa_n=AWEtsqfVnH-wRJ6MMHavTMs3Dq3kDhkDuO5GJ04CrhxGnQmQSBYKlKOpXzji&gaa_ts=69448e67&gaa_sig=mkgmn1Q1UUbQfUaUa7TpTB3pEIjBCcBV4RkKZhU53aE5wkF87se5GiKiWohj1Q_-cS7FTw1ElTFp0apikCZDVg%3D%3D",
+      "title": "Gas Prices Are Near a 5-Year Low. What’s Driving the Drop.",
+      "source": "Barron's",
+      "date": "12/16/2025, 06:40 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/news/4532521-oil-and-gas-equipment-stocks-that-defy-falling-oil-prices-in-2025",
+      "title": "Oil and gas equipment stocks that defy falling oil prices in 2025",
+      "source": "Seeking Alpha",
+      "date": "12/17/2025, 04:38 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.reuters.com/markets/commodities/china-accelerates-crude-stockpiling-amid-weaker-oil-price-trend-2025-12-16/",
       "title": "China accelerates crude stockpiling amid weaker oil price trend",
@@ -82,61 +103,40 @@
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/finance/stocks/u-s-futures-global-markets-rise-as-commodities-spurred-by-trumps-venezuela-blockade-ead8f461?gaa_at=eafs&gaa_n=AWEtsqc64mspphUEaUiQZQH7ze2xyrgeKvOTbvWioEdoDfmHDlP2u2wEoEfQ&gaa_ts=69433cd9&gaa_sig=f-UshiATpuziWjN4CbNgbSypiBVzkCTVpOPOuhoUb2VA43Bg8fge0AUw7oPS9Rqvb5Ct5R3DBQKoSD_C-GXBcA%3D%3D",
-      "title": "Tech Slide Weighs on Nasdaq; Oil Prices Gain",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-climb-amid-geopolitical-tensions-8c360c40?gaa_at=eafs&gaa_n=AWEtsqeHwLaOUZaalhcMh-xXFKgC5tJhrgpFnyUqyfEDdvatIeE054DnDyOH&gaa_ts=69448e67&gaa_sig=Dhg7-ceyFs8g1vlbjDklElfAHqcHOld_z3KY4yLpHuqyzYIfCsmqdjgFH5VPqnGRxXrFofFXWs7s75bFbCWSrw%3D%3D",
+      "title": "Oil Adds to Gains with Venezuela, Russia-Ukraine in Focus",
       "source": "The Wall Street Journal",
-      "date": "12/17/2025, 09:23 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/2025/12/17/gas-prices-pump-lowest-pandemic-record-holiday-christmas-travel/",
-      "title": "Prices at the gas pump are the lowest since the pandemic and still falling—just in time for record-high holiday travel",
-      "source": "Fortune",
-      "date": "12/17/2025, 09:57 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-17/canadian-oil-sands-buck-price-decline-with-plans-for-2026-growth",
-      "title": "Canadian Oil Sands Buck Price Decline With Plans for 2026 Growth",
-      "source": "Bloomberg.com",
-      "date": "12/17/2025, 07:07 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-up-15-trump-orders-blockade-sanctioned-oil-tankers-leaving-entering-2025-12-17/",
-      "title": "Oil rises as Trump's Venezuela blockade takes edge off global crude surplus concerns",
-      "source": "Reuters",
-      "date": "12/17/2025, 08:17 PM, +0000 UTC",
+      "date": "12/18/2025, 08:41 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-16-2025/",
-      "title": "Current price of gold as of December 16, 2025",
+      "url": "https://fortune.com/article/current-price-of-gold-12-15-2025/",
+      "title": "Current price of gold as of December 15, 2025",
       "source": "Fortune",
-      "date": "12/16/2025, 02:14 PM, +0000 UTC",
+      "date": "12/15/2025, 02:29 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/b2gold-btg-draws-analyst-interest-065601529.html",
-      "title": "B2Gold (BTG) Draws Analyst Interest for High Gold-Price Leverage",
-      "source": "Yahoo Finance",
-      "date": "12/17/2025, 06:56 AM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-18/australia-lifts-commodity-export-outlook-on-iron-ore-gold-price",
+      "title": "Australia Lifts Commodity Export Outlook on Iron Ore, Gold Price",
+      "source": "Bloomberg.com",
+      "date": "12/18/2025, 01:01 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/gold-silver-prices-hold-steady-with-underlying-bullish-trend-in-place-175620537.html",
-      "title": "Gold, silver prices hold steady with 'underlying bullish trend' in place",
-      "source": "Yahoo Finance",
-      "date": "12/15/2025, 05:56 PM, +0000 UTC",
+      "url": "https://www.reuters.com/world/india/gold-steady-ahead-key-us-inflation-data-silver-near-record-highs-2025-12-18/",
+      "title": "Gold inches down as market digests US CPI data",
+      "source": "Reuters",
+      "date": "12/18/2025, 07:42 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://uk.finance.yahoo.com/news/gold-price-oil-gold-commodities-pound-084746433.html",
-      "title": "Gold price climbs above $4,300 amid weaker dollar and Fed rate cut bets",
-      "source": "Yahoo Finance UK",
-      "date": "12/17/2025, 08:47 AM, +0000 UTC",
+      "url": "https://fortune.com/article/current-price-of-gold-12-18-2025/",
+      "title": "Current price of gold as of Thursday December 18, 2025",
+      "source": "Fortune",
+      "date": "12/18/2025, 02:20 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -149,40 +149,40 @@
   ],
   "dollar": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-15/usd-thb-thai-baht-surges-to-four-year-high-ahead-of-bot-rate-decision",
-      "title": "USD/THB: Thai Baht Surges to Four-Year High Ahead of BOT Rate Decision",
-      "source": "Bloomberg.com",
-      "date": "12/15/2025, 06:56 AM, +0000 UTC",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-holds-gains-against-sterling-yen-central-bank-decisions-loom-2025-12-18/",
+      "title": "Dollar falls versus yen after smaller-than-expected rise in US inflation, euro eases",
+      "source": "Reuters",
+      "date": "12/18/2025, 08:31 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4532387-eurozone-inflation-holds-steady-at-21-in-november",
-      "title": "Eurozone inflation holds steady at 2.1% in November (EUR:USD:)",
+      "url": "https://seekingalpha.com/news/4532942-bitcoin-climbs-on-back-of-soft-cpi-data",
+      "title": "Bitcoin climbs on back of soft CPI data (BTC-USD:Cryptocurrency)",
       "source": "Seeking Alpha",
-      "date": "12/17/2025, 10:01 AM, +0000 UTC",
+      "date": "12/18/2025, 03:12 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-17/india-rupee-roars-back-on-rbi-s-support-up-most-in-seven-months",
-      "title": "India Rupee Roars Back on RBI’s Support, Up Most in Seven Months: INR/USD",
-      "source": "Bloomberg.com",
-      "date": "12/17/2025, 10:21 AM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4854473-dogecoins-persistent-selling-pressure-keeps-downtrend-intact-technical-analysis",
+      "title": "Dogecoin's Persistent Selling Pressure Keeps Downtrend Intact (undefined:DOGE-USD)",
+      "source": "Seeking Alpha",
+      "date": "12/18/2025, 07:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-17/inr-usd-rupee-slide-puts-spotlight-on-limits-to-india-s-currency-defense",
-      "title": "Rupee Slide Puts Spotlight on Limits to India’s Currency Defense",
-      "source": "Bloomberg.com",
-      "date": "12/17/2025, 01:16 AM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4854477-xrp-stabilizes-near-1-83-after-losing-breakout-structure-technical-analysis",
+      "title": "XRP Stabilizes Near $1.83 After Losing Breakout Structure (undefined:XRP-USD)",
+      "source": "Seeking Alpha",
+      "date": "12/18/2025, 07:50 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/waves-tidal-energy-market-approach-165800461.html",
-      "title": "Waves and Tidal Energy Market to Approach USD 1.85 Billion by 2032 as Governments Scale Predictable Ocean Power for Grid Stability and Energy Security",
-      "source": "Yahoo Finance",
-      "date": "12/17/2025, 04:58 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4854480-ethereum-stabilizes-near-2820-after-losing-trend-support-technical-analysis",
+      "title": "Ethereum Stabilizes Near $2,820 After Losing Trend Support (Technical Analysis)",
+      "source": "Seeking Alpha",
+      "date": "12/18/2025, 08:25 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-17T23:14:17.912Z"
+  "lastUpdated": "2025-12-18T23:14:33.036Z"
 }
