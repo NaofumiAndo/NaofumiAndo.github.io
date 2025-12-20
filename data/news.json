@@ -1,98 +1,91 @@
 {
   "sp500": [
     {
-      "url": "https://www.wsj.com/finance/stocks/s-p-500-hovers-near-record-with-wall-street-hoping-for-a-year-end-rally-53cf6057?gaa_at=eafs&gaa_n=AWEtsqdLlrBmuhb0bCbSVcuSeoZ966M4wapmWhT7LkKIaTkO5KM9U6D98t0K&gaa_ts=6945dfe7&gaa_sig=4-QCtRyvuVp0llBGlqv42N9Ct8gyhXGpfd_JvGE7bwKUsLDrEMhnirzw-GOtCg18z5v7yTadaacbURbXYs0ttQ%3D%3D",
-      "title": "S&P 500 Hovers Near Record With Wall Street Hoping for a Year-End Rally",
-      "source": "The Wall Street Journal",
-      "date": "12/19/2025, 09:59 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-19-2025?gaa_at=eafs&gaa_n=AWEtsqd9Dz9oZhobOYPTO2XbFxhU7QcrZLTohXEZ-p9QPH4kln8LE8Z6wwMi&gaa_ts=6945dfe7&gaa_sig=63i8PWEoW_oMu4Jo38hGZ3miMoemuEly3fMYyEmKWznTcbExBLXBkXFH-cEJ-MUIO6wvm3H-8iNrhBVH89qFCw%3D%3D",
-      "title": "Stock Market Today: Dow Rises; Japan Rate Hike Spurs Bond Yields — Live Updates",
-      "source": "The Wall Street Journal",
-      "date": "12/19/2025, 10:22 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/18/stock-market-today-live-updates.html",
-      "title": "S&P 500 posts back-to-back gains Friday as AI trade makes a comeback: Live updates",
-      "source": "CNBC",
-      "date": "12/19/2025, 09:47 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rise-with-wall-street-set-to-wrap-up-latest-volatile-week-231719825.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as Nvidia, Oracle shine in tech revival",
+      "url": "https://finance.yahoo.com/news/prediction-3-vanguard-etfs-could-165000666.html",
+      "title": "Prediction: These 3 Vanguard ETFs Could Crush the S&P 500 in 2026 and Beyond",
       "source": "Yahoo Finance",
-      "date": "12/19/2025, 07:08 PM, +0000 UTC",
+      "date": "12/20/2025, 04:50 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/dow-jones-today-12192025-11872970",
-      "title": "Markets News, Dec. 19, 2025: Major Stock Indexes Close Sharply Higher for 2nd Straight Day as Tech Rally Continues; S&P 500, Nasdaq Post Weekly Gains",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-121825?gaa_at=eafs&gaa_n=AWEtsqe550hyrdG9Wp6Tz3369QMF4QHR8Samz8pdp6SWrjyAv-dZWcdw4DZ7&gaa_ts=69473127&gaa_sig=T1d9y9b80oRrkKlWFBmbU3JUFTr2t1swKw1xHLWj65bA5BseA_caobVBug09NG6J1mvlL1RDBU3IequcyuEQGg%3D%3D",
+      "title": "Stock Market News From Dec. 18, 2025: Dow, S&P 500, Nasdaq Rally After CPI",
+      "source": "Barron's",
+      "date": "12/18/2025, 10:11 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.investopedia.com/can-the-s-and-p-500-get-to-8000-these-experts-say-yes-but-it-ll-take-big-rate-cuts-11872292",
+      "title": "Can the S&P 500 Get to 8000? These Experts Say Yes—But It'll Take Big Rate Cuts",
       "source": "Investopedia",
-      "date": "12/19/2025, 09:12 PM, +0000 UTC",
+      "date": "12/18/2025, 07:24 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4854891-2026-outlook-for-the-s-and-p-500-stay-with-tech-stocks",
+      "title": "2026 Outlook For The S&P 500: Stay With Tech Stocks (NYSEARCA:XLK)",
+      "source": "Seeking Alpha",
+      "date": "12/20/2025, 12:29 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-19-2025?gaa_at=eafs&gaa_n=AWEtsqcyNgTD4qAbtABzeKGT-fc5PUy_XcXOTFRt_loF1cgCofTosZHbAc0b&gaa_ts=69473127&gaa_sig=KIyYxDUEKQlztTB4S4U-qQAde8feLq1ZKraOLgDu21oUM6PYUWM3RHQKz8BAFrrXtlXvHqdpQLHlAOtpLxFJ2A%3D%3D",
+      "title": "Stock Market News Dec. 19, 2025: Nasdaq Rallies; Global Bond Yields Rise",
+      "source": "wsj.com",
+      "date": "12/20/2025, 01:08 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
       "url": "https://www.bloomberg.com/news/articles/2025-12-19/treasury-maintains-us-debt-sales-timing-after-trump-holiday-move",
-      "title": "Treasury Maintains US Debt Sales Timing After Trump Holiday Move",
+      "title": "Treasury Keeps US Debt Sales Timing After Trump Holiday Move",
       "source": "Bloomberg.com",
       "date": "12/19/2025, 06:04 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/19/us-treasury-yields-inch-investors-digest-cooler-inflation-data-.html",
-      "title": "Treasury yields inch higher as investors digest cooler inflation data",
+      "url": "https://www.cnbc.com/2025/12/18/us-treasury-yields-investors-await-inflation-data-.html",
+      "title": "10-year Treasury yield slides after much lighter November inflation than expected",
       "source": "CNBC",
-      "date": "12/19/2025, 10:32 AM, +0000 UTC",
+      "date": "12/18/2025, 09:59 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/americas/us-imposes-new-venezuela-related-sanctions-seven-people-treasury-department-says-2025-12-19/",
-      "title": "US imposes new Venezuela-related sanctions on seven people, Treasury Department says",
-      "source": "Reuters",
-      "date": "12/19/2025, 07:33 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4533623-us-treasury-keeps-debt-sale-schedule-unchanged-after-trumps-holiday-announcement",
+      "title": "U.S. Treasury keeps debt sale schedule unchanged after Trump's holiday announcement",
+      "source": "Seeking Alpha",
+      "date": "12/19/2025, 05:25 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-17/us-treasury-imposes-sanctions-on-mexican-cartel-accused-of-fuel-theft",
-      "title": "US Treasury Imposes Sanctions on Mexican Cartel Accused of Fuel Theft",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-18/foreign-holdings-of-treasuries-dipped-in-october-as-china-sold",
+      "title": "Foreign Holdings of Treasuries Fell in October as China Sold",
       "source": "Bloomberg.com",
-      "date": "12/17/2025, 05:48 PM, +0000 UTC",
+      "date": "12/18/2025, 10:08 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/treasury-keeps-us-debt-sales-180403174.html",
-      "title": "Treasury keeps US debt sales timing after Trump holiday move",
-      "source": "Yahoo Finance",
-      "date": "12/19/2025, 08:08 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/17/us-treasury-yields-investors-look-ahead-to-inflation-data-.html",
+      "title": "10-year Treasury yield is little changed as investors look ahead to inflation data",
+      "source": "CNBC",
+      "date": "12/17/2025, 11:36 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/business/goldman-sees-gold-4900-by-december-2026-projects-oil-price-decline-copper-2025-12-18/",
-      "title": "Goldman sees gold at $4,900 by December 2026, projects oil price decline; copper remains favored industrial metal",
-      "source": "Reuters",
-      "date": "12/18/2025, 07:50 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/16/crude-oil-prices-today.html",
-      "title": "U.S. crude oil closes at lowest level since early 2021 as looming surplus weighs on market",
-      "source": "CNBC",
-      "date": "12/16/2025, 02:02 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/videos/2025-12-19/oil-poised-to-keep-falling-with-world-awash-in-supply-video",
-      "title": "Watch Oil Prices Poised to Keep Falling With World Awash in Supply",
+      "url": "https://www.bloomberg.com/graphics/2025-global-oil-supply-prices/",
+      "title": "The World Is Awash With Oil and Prices Are Poised to Keep Falling",
       "source": "Bloomberg.com",
-      "date": "12/19/2025, 10:45 PM, +0000 UTC",
+      "date": "12/18/2025, 10:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/us-crude-futures-gain-trumps-venezuela-blockade-2025-12-17/",
+      "title": "Oil prices settle slightly higher as market assesses mounting supply risks",
+      "source": "Reuters",
+      "date": "12/18/2025, 09:11 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -103,19 +96,40 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/graphics/2025-global-oil-supply-prices/",
-      "title": "The World Is Awash With Oil and Prices Are Poised to Keep Falling",
-      "source": "Bloomberg.com",
-      "date": "12/18/2025, 10:00 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/goldman-sees-gold-4900-by-december-2026-projects-oil-price-decline-copper-2025-12-18/",
+      "title": "Goldman sees gold at $4,900 by December 2026, projects oil price decline; copper remains favored industrial metal",
+      "source": "Reuters",
+      "date": "12/18/2025, 07:50 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/19/crude-oil-prices-today-trump-venezuela.html",
+      "title": "Oil prices rise after Trump says he won't rule out war with Venezuela",
+      "source": "CNBC",
+      "date": "12/19/2025, 01:20 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://www.reuters.com/business/finance/gold-forecast-glitter-again-next-year-despite-biggest-gain-since-1979-2025-12-17/",
-      "title": "Gold forecast to glitter again next year despite biggest gain since 1979",
+      "url": "https://fortune.com/article/current-price-of-gold-12-19-2025/",
+      "title": "Current price of gold as of December 19, 2025",
+      "source": "Fortune",
+      "date": "12/19/2025, 02:21 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/goldman-sees-gold-4900-by-december-2026-projects-oil-price-decline-copper-2025-12-18/",
+      "title": "Goldman sees gold at $4,900 by December 2026, projects oil price decline; copper remains favored industrial metal",
       "source": "Reuters",
-      "date": "12/17/2025, 12:28 PM, +0000 UTC",
+      "date": "12/18/2025, 07:50 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/gold-price-oil-gold-commodities-pound-084746433.html",
+      "title": "Gold price climbs above $4,300 amid weaker dollar and Fed rate cut bets",
+      "source": "Yahoo Finance UK",
+      "date": "12/17/2025, 08:47 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -126,24 +140,10 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/india/gold-prices-slip-lower-us-inflation-figures-firmer-dollar-2025-12-19/",
-      "title": "Silver climbs to record high, gold posts weekly gain on rate cut bets",
+      "url": "https://www.reuters.com/world/india/gold-steady-ahead-key-us-inflation-data-silver-near-record-highs-2025-12-18/",
+      "title": "Gold inches down as market digests US CPI data",
       "source": "Reuters",
-      "date": "12/19/2025, 07:45 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-12-19-2025/",
-      "title": "Current price of gold as of December 19, 2025",
-      "source": "Fortune",
-      "date": "12/19/2025, 02:22 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/goldman-sees-gold-4900-by-december-2026-projects-oil-price-decline-copper-2025-12-18/",
-      "title": "Goldman sees gold at $4,900 by December 2026, projects oil price decline; copper remains favored industrial metal",
-      "source": "Reuters",
-      "date": "12/18/2025, 07:50 PM, +0000 UTC",
+      "date": "12/18/2025, 07:42 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -156,17 +156,17 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/asia-pacific/fragile-yen-tenterhooks-ahead-boj-2025-12-19/",
-      "title": "Yen weakens against peers after BOJ raises interest rates",
-      "source": "Reuters",
-      "date": "12/19/2025, 09:12 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/global-veterinary-stereotactic-radiosurgery-system-150000405.html",
+      "title": "Global Veterinary Stereotactic Radiosurgery System Market to Hit USD 7.46 Billion by 2032 – SNS Insider",
+      "source": "Yahoo Finance",
+      "date": "12/20/2025, 03:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-17/india-rupee-roars-back-on-rbi-s-support-up-most-in-seven-months",
-      "title": "India Rupee Roars Back on RBI’s Support, Up Most in Seven Months: INR/USD",
-      "source": "Bloomberg.com",
-      "date": "12/17/2025, 10:21 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/zefiro-subsidiary-completes-usd-1-223000289.html",
+      "title": "Zefiro Subsidiary Completes USD $1.5 Million Infrastructure Project Near Pittsburgh and Prepares to Undertake a USD $5 Million Project in Louisiana",
+      "source": "Yahoo Finance",
+      "date": "12/18/2025, 10:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -177,12 +177,12 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/commercial-vehicle-thermal-system-market-090200817.html",
-      "title": "Commercial Vehicle Thermal System Market to Reach USD 58.98 Billion by 2032: Growth Driven by Technological Advancements and Regulatory Changes",
+      "url": "https://finance.yahoo.com/news/paypal-pyusd-stablecoin-fund-ai-150000819.html",
+      "title": "PayPal to use PYUSD stablecoin to fund AI infrastructure through USD.AI",
       "source": "Yahoo Finance",
-      "date": "12/19/2025, 09:02 AM, +0000 UTC",
+      "date": "12/18/2025, 03:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-19T23:14:41.763Z"
+  "lastUpdated": "2025-12-20T23:13:37.679Z"
 }
