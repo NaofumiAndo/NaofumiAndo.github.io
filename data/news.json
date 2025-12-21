@@ -1,17 +1,10 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/prediction-3-vanguard-etfs-could-165000666.html",
-      "title": "Prediction: These 3 Vanguard ETFs Could Crush the S&P 500 in 2026 and Beyond",
-      "source": "Yahoo Finance",
-      "date": "12/20/2025, 04:50 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-121825?gaa_at=eafs&gaa_n=AWEtsqe550hyrdG9Wp6Tz3369QMF4QHR8Samz8pdp6SWrjyAv-dZWcdw4DZ7&gaa_ts=69473127&gaa_sig=T1d9y9b80oRrkKlWFBmbU3JUFTr2t1swKw1xHLWj65bA5BseA_caobVBug09NG6J1mvlL1RDBU3IequcyuEQGg%3D%3D",
-      "title": "Stock Market News From Dec. 18, 2025: Dow, S&P 500, Nasdaq Rally After CPI",
-      "source": "Barron's",
-      "date": "12/18/2025, 10:11 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/22/ftse-100-outperformed-sp-500-this-year-is-more-upside-ahead-in-2026.html",
+      "title": "UK stocks outperformed Wall Street this year — and investors see more upside ahead in 2026",
+      "source": "CNBC",
+      "date": "12/21/2025, 11:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -22,21 +15,35 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4854891-2026-outlook-for-the-s-and-p-500-stay-with-tech-stocks",
-      "title": "2026 Outlook For The S&P 500: Stay With Tech Stocks (NYSEARCA:XLK)",
+      "url": "https://seekingalpha.com/article/4854947-my-s-and-p-500-prediction-on-sector-out-performers-and-laggards-in-2026",
+      "title": "My S&P 500 Prediction On Sector Outperformers And Laggards In 2026 (NYSEARCA:IVV)",
       "source": "Seeking Alpha",
-      "date": "12/20/2025, 12:29 PM, +0000 UTC",
+      "date": "12/21/2025, 02:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-19-2025?gaa_at=eafs&gaa_n=AWEtsqcyNgTD4qAbtABzeKGT-fc5PUy_XcXOTFRt_loF1cgCofTosZHbAc0b&gaa_ts=69473127&gaa_sig=KIyYxDUEKQlztTB4S4U-qQAde8feLq1ZKraOLgDu21oUM6PYUWM3RHQKz8BAFrrXtlXvHqdpQLHlAOtpLxFJ2A%3D%3D",
-      "title": "Stock Market News Dec. 19, 2025: Nasdaq Rallies; Global Bond Yields Rise",
-      "source": "wsj.com",
-      "date": "12/20/2025, 01:08 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/prediction-3-vanguard-etfs-could-165000666.html",
+      "title": "Prediction: These 3 Vanguard ETFs Could Crush the S&P 500 in 2026 and Beyond",
+      "source": "Yahoo Finance",
+      "date": "12/20/2025, 04:50 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4854914-s-and-p-500-enjoy-the-rally-it-may-be-the-last-technical-analysis",
+      "title": "S&P 500: Enjoy The Rally, It May Be The Last (Technical Analysis) (SP500)",
+      "source": "Seeking Alpha",
+      "date": "12/21/2025, 09:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
+    {
+      "url": "https://www.cnbc.com/2025/12/19/us-treasury-yields-inch-investors-digest-cooler-inflation-data-.html",
+      "title": "Treasury yields inch higher as investors digest cooler inflation data",
+      "source": "CNBC",
+      "date": "12/19/2025, 10:32 AM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.bloomberg.com/news/articles/2025-12-19/treasury-maintains-us-debt-sales-timing-after-trump-holiday-move",
       "title": "Treasury Keeps US Debt Sales Timing After Trump Holiday Move",
@@ -45,31 +52,24 @@
       "snippet": ""
     },
     {
+      "url": "https://www.reuters.com/world/americas/us-imposes-new-venezuela-related-sanctions-seven-people-treasury-department-says-2025-12-19/",
+      "title": "US imposes new Venezuela-related sanctions on seven people, Treasury Department says",
+      "source": "Reuters",
+      "date": "12/19/2025, 07:33 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/markets/us/us-treasuries-rebuilding-risk-premia-2025-12-16/",
+      "title": "US Treasuries rebuilding risk premia",
+      "source": "Reuters",
+      "date": "12/16/2025, 11:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://www.cnbc.com/2025/12/18/us-treasury-yields-investors-await-inflation-data-.html",
       "title": "10-year Treasury yield slides after much lighter November inflation than expected",
       "source": "CNBC",
       "date": "12/18/2025, 09:59 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/news/4533623-us-treasury-keeps-debt-sale-schedule-unchanged-after-trumps-holiday-announcement",
-      "title": "U.S. Treasury keeps debt sale schedule unchanged after Trump's holiday announcement",
-      "source": "Seeking Alpha",
-      "date": "12/19/2025, 05:25 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-18/foreign-holdings-of-treasuries-dipped-in-october-as-china-sold",
-      "title": "Foreign Holdings of Treasuries Fell in October as China Sold",
-      "source": "Bloomberg.com",
-      "date": "12/18/2025, 10:08 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/17/us-treasury-yields-investors-look-ahead-to-inflation-data-.html",
-      "title": "10-year Treasury yield is little changed as investors look ahead to inflation data",
-      "source": "CNBC",
-      "date": "12/17/2025, 11:36 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -79,20 +79,6 @@
       "title": "The World Is Awash With Oil and Prices Are Poised to Keep Falling",
       "source": "Bloomberg.com",
       "date": "12/18/2025, 10:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/us-crude-futures-gain-trumps-venezuela-blockade-2025-12-17/",
-      "title": "Oil prices settle slightly higher as market assesses mounting supply risks",
-      "source": "Reuters",
-      "date": "12/18/2025, 09:11 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/exxonmobil-weather-prevailing-softness-oil-120700633.html",
-      "title": "Can ExxonMobil Weather the Prevailing Softness in Oil Price?",
-      "source": "Yahoo Finance",
-      "date": "12/18/2025, 12:07 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -107,6 +93,20 @@
       "title": "Oil prices rise after Trump says he won't rule out war with Venezuela",
       "source": "CNBC",
       "date": "12/19/2025, 01:20 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/us-crude-futures-gain-trumps-venezuela-blockade-2025-12-17/",
+      "title": "Oil prices settle slightly higher as market assesses mounting supply risks",
+      "source": "Reuters",
+      "date": "12/18/2025, 09:11 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-set-close-lower-second-straight-week-2025-12-19/",
+      "title": "Oil prices climb as US blocks Venezuelan tankers, eyes on Russia-Ukraine talks",
+      "source": "Reuters",
+      "date": "12/19/2025, 08:30 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -133,17 +133,17 @@
       "snippet": ""
     },
     {
+      "url": "https://seekingalpha.com/article/4854965-galiano-gold-ghanas-incident-over-team-back-on-production-expansion",
+      "title": "Galiano Gold: Ghana's Incident Over, Team Back On Production Expansion (NYSE:GAU)",
+      "source": "Seeking Alpha",
+      "date": "12/21/2025, 01:55 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://finance.yahoo.com/news/gold-silver-near-record-highs-045218752.html",
       "title": "Gold Wavers Near Record High as US Data Support Rate-Cut Bets",
       "source": "Yahoo Finance",
       "date": "12/19/2025, 10:20 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/india/gold-steady-ahead-key-us-inflation-data-silver-near-record-highs-2025-12-18/",
-      "title": "Gold inches down as market digests US CPI data",
-      "source": "Reuters",
-      "date": "12/18/2025, 07:42 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -156,33 +156,12 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/global-veterinary-stereotactic-radiosurgery-system-150000405.html",
-      "title": "Global Veterinary Stereotactic Radiosurgery System Market to Hit USD 7.46 Billion by 2032 – SNS Insider",
-      "source": "Yahoo Finance",
-      "date": "12/20/2025, 03:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://finance.yahoo.com/news/zefiro-subsidiary-completes-usd-1-223000289.html",
       "title": "Zefiro Subsidiary Completes USD $1.5 Million Infrastructure Project Near Pittsburgh and Prepares to Undertake a USD $5 Million Project in Louisiana",
       "source": "Yahoo Finance",
       "date": "12/18/2025, 10:30 PM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/laser-cladding-market-size-exceed-110000664.html",
-      "title": "Laser Cladding Market Size to Exceed USD 1570.45 Million by 2033 | Report by SNS Insider",
-      "source": "Yahoo Finance",
-      "date": "12/19/2025, 11:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/paypal-pyusd-stablecoin-fund-ai-150000819.html",
-      "title": "PayPal to use PYUSD stablecoin to fund AI infrastructure through USD.AI",
-      "source": "Yahoo Finance",
-      "date": "12/18/2025, 03:00 PM, +0000 UTC",
-      "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-20T23:13:37.679Z"
+  "lastUpdated": "2025-12-21T23:13:45.333Z"
 }
