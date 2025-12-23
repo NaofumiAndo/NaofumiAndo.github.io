@@ -1,54 +1,54 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/stocks-climb-commodities-gold-hits-063533147.html",
-      "title": "Stock Bulls Drive S&P 500 to the Brink of Record: Markets Wrap",
-      "source": "Yahoo Finance",
-      "date": "12/22/2025, 10:07 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/article/4854914-s-and-p-500-enjoy-the-rally-it-may-be-the-last-technical-analysis",
-      "title": "S&P 500: Enjoy The Rally, It May Be The Last (Technical Analysis) (SP500)",
-      "source": "Seeking Alpha",
-      "date": "12/21/2025, 09:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/21/stock-market-today-live-updates.html",
-      "title": "S&P 500 posts third-straight winning day, buoyed by AI trade: Live updates",
+      "url": "https://www.cnbc.com/video/2025/12/23/fast-money-traders-talk-sp-500-hitting-record-high.html",
+      "title": "'Fast Money' traders talk S&P 500 hitting record high",
       "source": "CNBC",
-      "date": "12/22/2025, 09:17 PM, +0000 UTC",
+      "date": "12/23/2025, 10:19 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-22-2025?gaa_at=eafs&gaa_n=AWEtsqf2uTKFQMKyFVlZNhehVABAYOb4ZGzumOv7xddS4oUz1gOU_leBuu5Q&gaa_ts=6949d454&gaa_sig=TFAJmR6DAxDqWj4wz0VUW0nGFVhBYuWWdt2lnDLoJZC4l4IdTs5o1E5L6QTN5T2diTF5mHaJTcYIrDWwSEBF_g%3D%3D",
-      "title": "Stock Market Today: Dow Up 250 Points; Gold, Silver Prices Rally — Live Updates",
-      "source": "The Wall Street Journal",
-      "date": "12/22/2025, 09:26 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-us-gdp-unexpectedly-accelerates-233402738.html",
+      "title": "Stock market today: S&P 500 notches latest 2025 record as Wall Street's winning streak reaches 4",
+      "source": "Yahoo Finance",
+      "date": "12/23/2025, 09:03 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-gain-as-year-end-push-continues-gold-tops-4-400?gaa_at=eafs&gaa_n=AWEtsqeyG9dbHWhKt5yIkGKVC0CkXgNLAZLwWsHuqttzRDHNsKf19Djd_pel&gaa_ts=6949d454&gaa_sig=YgYlQHYDGvu5DC3ytIbe7L5aQ3mNAVc3IO4ZP8SULU4LOadhTsXmphMJsMVqI_lRGkMsNC9DA-wbuCCXtHWSOg%3D%3D",
-      "title": "Stock Market News Dec. 22, 2025: Dow, S&P 500 and Nasdaq record third straight daily gain as investors eye 'Santa Claus rally'; gold, silver hit records",
-      "source": "MarketWatch",
-      "date": "12/22/2025, 09:39 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4534746-wall-street-dow-sp500-nasdaq",
+      "title": "S&P 500 notched a record close as Wall Street ended higher after GDP data",
+      "source": "Seeking Alpha",
+      "date": "12/23/2025, 09:05 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-after-us-gdp-growth-unexpectedly-accelerates-233402073.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip after US GDP growth unexpectedly accelerates",
+      "source": "Yahoo Finance",
+      "date": "12/23/2025, 02:06 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2025-12-23/s-p-500-closes-at-record-amid-mixed-data-evening-briefing-americas",
+      "title": "S&P 500 Closes at Record High Amid Mix of Data",
+      "source": "Bloomberg.com",
+      "date": "12/23/2025, 11:06 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.reuters.com/markets/us/surprise-asset-year-30-year-us-treasury-bond-2025-12-22/",
-      "title": "Surprise asset of the year? The 30-year US Treasury bond",
-      "source": "Reuters",
-      "date": "12/22/2025, 02:10 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/23/us-treasury-yields-decline-ahead-of-key-debt-auctions.html",
+      "title": "10-year Treasury yield is little changed after latest U.S. GDP report",
+      "source": "CNBC",
+      "date": "12/23/2025, 08:21 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-19/treasury-maintains-us-debt-sales-timing-after-trump-holiday-move",
-      "title": "Treasury Keeps US Debt Sales Timing After Trump Holiday Move",
-      "source": "Bloomberg.com",
-      "date": "12/19/2025, 06:04 PM, +0000 UTC",
+      "url": "https://www.reuters.com/markets/us/surprise-asset-year-30-year-us-treasury-bond-2025-12-22/",
+      "title": "Surprise asset of the year? The 30-year US Treasury bond",
+      "source": "Reuters",
+      "date": "12/23/2025, 12:30 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -66,10 +66,10 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/treasury-keeps-us-debt-sales-180403174.html",
-      "title": "Treasury Keeps US Debt Sales Timing After Trump Holiday Move",
-      "source": "Yahoo Finance",
-      "date": "12/19/2025, 06:04 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-23/treasuries-slip-as-us-gdp-posts-fastest-growth-in-two-years",
+      "title": "Treasuries Slip as US GDP Posts Fastest Growth in Two Years",
+      "source": "Bloomberg.com",
+      "date": "12/23/2025, 08:44 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -78,28 +78,28 @@
       "url": "https://www.reuters.com/markets/commodities/china-overtakes-opec-main-oil-price-maker-2025-12-22/",
       "title": "China overtakes OPEC+ as the main oil price maker",
       "source": "Reuters",
-      "date": "12/22/2025, 11:08 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/video/oil-price-outlook-2026-wait-220000605.html",
-      "title": "Oil price outlook: 2026 is a 'wait-and-see story'",
-      "source": "Yahoo Finance",
-      "date": "12/22/2025, 10:00 PM, +0000 UTC",
+      "date": "12/23/2025, 01:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.reuters.com/business/energy/oil-prices-gain-us-interception-venezuelan-oil-tanker-over-weekend-2025-12-22/",
-      "title": "Oil prices rise on risk of disruptions to Venezuela, Russia supply",
+      "title": "Oil settles higher on risk of disruptions to Venezuela, Russia supply",
       "source": "Reuters",
-      "date": "12/22/2025, 06:44 PM, +0000 UTC",
+      "date": "12/22/2025, 08:34 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/markets/commodities/oils-geopolitical-premium-vanished-2025-may-not-return-2025-12-22/",
-      "title": "Oil’s geopolitical premium vanished in 2025 - and may not return",
+      "url": "https://www.reuters.com/business/energy/oil-price-gains-after-us-interception-venezuelan-oil-tanker-over-weekend-2025-12-21/",
+      "title": "Oil price gains after US interception of Venezuelan oil tanker over weekend",
       "source": "Reuters",
-      "date": "12/22/2025, 11:00 AM, +0000 UTC",
+      "date": "12/21/2025, 11:40 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/oil-prices-fall-to-4-year-low-below-55-as-supply-glut-shows-up-163301947.html",
+      "title": "Oil prices fall to 4-year low below $55 as supply glut shows up",
+      "source": "Yahoo Finance",
+      "date": "12/16/2025, 09:58 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -112,27 +112,6 @@
   ],
   "gold": [
     {
-      "url": "https://fortune.com/2025/12/22/gold-price-chaos-cheap-money-crypto-new-record-high/",
-      "title": "Chaos, cheap money, and a collapse in crypto send gold up 69% for the year, hitting a new record high",
-      "source": "Fortune",
-      "date": "12/22/2025, 04:10 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://uk.finance.yahoo.com/news/gold-price-oil-gold-commodities-pound-100326851.html",
-      "title": "Gold prices hit record high on US interest rate cut bets",
-      "source": "Yahoo Finance UK",
-      "date": "12/22/2025, 10:03 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-22/gold-price-record-why-us-rate-cut-bets-safe-haven-appeal-are-fueling-rally",
-      "title": "How Gold’s Safe-Haven Appeal Is Fueling Record Prices",
-      "source": "Bloomberg.com",
-      "date": "12/22/2025, 10:47 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://fortune.com/article/current-price-of-gold-12-22-2025/",
       "title": "Current price of gold as of December 22, 2025",
       "source": "Fortune",
@@ -140,19 +119,47 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/gold-silver-hit-record-highs-as-precious-metals-pace-toward-best-year-since-1979-175056057.html",
-      "title": "Gold, silver hit record highs as precious metals pace toward best year since 1979",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-december-23-2025-gold-opens-at-a-record-448180-131757196.html",
+      "title": "Gold price today, Tuesday, December 23, 2025: Gold opens at a record $4,481.80",
       "source": "Yahoo Finance",
-      "date": "12/22/2025, 09:45 PM, +0000 UTC",
+      "date": "12/23/2025, 12:57 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-12-22/gold-climbs-to-record-on-us-rate-cut-bets-and-geopolitical-risk",
+      "title": "Gold and Silver Rise to Records on Rate-Cut Bets, Global Risks",
+      "source": "Bloomberg.com",
+      "date": "12/23/2025, 09:54 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-12-23-2025/card/gold-price-rises-above-4-500-KLakl8OxQfYWxJVExorB?gaa_at=eafs&gaa_n=AWEtsqesq2vcwYbcTHNtZInOh6Z7DyaU-a0ZytF2H1tGWrdsj-TMvQxFCQpU&gaa_ts=694b25cb&gaa_sig=0bKUjDE63FuOmceMpepmZ59HzKTnC25Q2V21BjSA8WjIG72c4VfkN8ge8TEC9x8rSw-jfASZf9QTYYvvneAw_A%3D%3D",
+      "title": "Gold Price Rises, Closing at New Record",
+      "source": "The Wall Street Journal",
+      "date": "12/23/2025, 08:49 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/africa/south-african-rand-climbs-further-gold-price-2025-12-23/",
+      "title": "South African rand climbs further on gold price",
+      "source": "Reuters",
+      "date": "12/23/2025, 08:17 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/asia-pacific/yen-wallows-near-record-low-euro-boj-keeps-cautious-tone-after-rate-hike-2025-12-22/",
-      "title": "Japan's yen rises vs dollar on intervention hints; US dollar slumps",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-22/thb-usd-why-thailand-s-baht-currency-is-defying-economic-gravity",
+      "title": "Why Thailand Currency’s Surge Defies Economic Gravity",
+      "source": "Bloomberg.com",
+      "date": "12/22/2025, 09:53 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/us-dollar-trims-losses-after-stronger-than-expected-growth-data-2025-12-23/",
+      "title": "US dollar retreats as prospect of Fed rate cuts overshadows growth data",
       "source": "Reuters",
-      "date": "12/22/2025, 09:06 PM, +0000 UTC",
+      "date": "12/23/2025, 08:04 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -163,26 +170,19 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-22/thb-usd-why-thailand-s-baht-currency-is-defying-economic-gravity",
-      "title": "Why Thailand Currency’s Surge Defies Economic Gravity",
-      "source": "Bloomberg.com",
-      "date": "12/22/2025, 09:53 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/millet-starch-market-size-exceed-150000325.html",
+      "title": "Millet Starch Market Size to Exceed USD 9.95 Billion by 2035 | Towards FnB",
+      "source": "Yahoo Finance",
+      "date": "12/23/2025, 03:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/dire-year-dollar-has-little-light-end-tunnel-2026-2025-12-22/",
-      "title": "Dire year for dollar has little light at end of tunnel in 2026",
-      "source": "Reuters",
-      "date": "12/22/2025, 11:03 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-22/krw-usd-why-is-south-korea-worried-about-the-weak-won",
-      "title": "KRW/USD: Why is South Korea Worried About the Weak Won?",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-23/usd-dollar-s-worst-slide-since-2017-has-further-to-go-options-show",
+      "title": "(USD) Dollar’s Worst Slide Since 2017 Has Further to Go, Options Show",
       "source": "Bloomberg.com",
-      "date": "12/22/2025, 09:02 AM, +0000 UTC",
+      "date": "12/23/2025, 09:08 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-22T23:14:23.617Z"
+  "lastUpdated": "2025-12-23T23:13:59.816Z"
 }
