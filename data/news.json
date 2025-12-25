@@ -1,20 +1,6 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-notch-records-nasdaq-gains-as-wall-street-flies-high-into-christmas-holiday-180542226.html",
-      "title": "Stock market today: Dow, S&P 500 notch records, Nasdaq gains as Wall Street flies high into Christmas holiday",
-      "source": "Yahoo Finance",
-      "date": "12/24/2025, 07:42 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.investopedia.com/dow-jones-today-12242025-11875790",
-      "title": "Dow Jones Today: S&P 500 Sets All-Time High, Stocks Rise in Shortened Session; Gold, Silver Hit New Records",
-      "source": "Investopedia",
-      "date": "12/24/2025, 07:20 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://seekingalpha.com/article/4855667-how-the-s-and-p-500-reaches-10000-in-2026",
       "title": "How The S&P 500 Reaches 10,000 In 2026 (NYSEARCA:SPY)",
       "source": "Seeking Alpha",
@@ -22,28 +8,35 @@
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-update-d6f4947f?gaa_at=eafs&gaa_n=AWEtsqfEnsVfhX425S-lmni3LrSm5z6Hsoh-xfmjrQZDL_ZAaS6nklqb8QO7&gaa_ts=694c774b&gaa_sig=7Tfk4qwxe3_6VS4QsPBV0SW2sEknnl44QRjOlVD1iYjbM3qcpd1AtPcMmF2hnjoAG9XOnZqkrO2LrilAMaBDDA%3D%3D",
-      "title": "Nike Climb Boosts Dow, S&P 500",
-      "source": "The Wall Street Journal",
-      "date": "12/24/2025, 07:03 PM, +0000 UTC",
+      "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-d2c830eb?gaa_at=eafs&gaa_n=AWEtsqcAl87CRgoDtKxHpnEraPlW1XPflJSfLxOJVC70ObUpFOCgMWPzDPNB&gaa_ts=694dc8d3&gaa_sig=iJ-uoT9HamDDIZZb0d8bDdMR5rmYL0R7gKlHt-VU4COGmd0hCoAIemCV_cUfsd7QcLDComcdb3iRDdClVFq8HQ%3D%3D",
+      "title": "S&P 500 Record Sets Up a Santa Rally. This Could Be the Stock Market’s Scrooge and 4 Other Things to Know Today.",
+      "source": "Barron's",
+      "date": "12/24/2025, 11:55 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/us-stock-market-today-p-100450700.html",
+      "title": "US Stock Market Today: S&P 500 Futures Rise amid Hot Jobs, Fewer Cut Bets",
+      "source": "Yahoo Finance",
+      "date": "12/25/2025, 10:04 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-122425?gaa_at=eafs&gaa_n=AWEtsqdug0JLascxJffyonLTVEAp4NRRM-GWm777MtTVY1bYfr3LxhPaAico&gaa_ts=694dc8d3&gaa_sig=ue0k9PHJxYPmc3XTvRiLg7Vne185fxjH7CaPa_Ovu04V-15BFotBWEjtWv-hLHMOIVgcCqIw9-5oDukIfx_TIQ%3D%3D",
+      "title": "S&P 500 Closes at a Record on Christmas Eve for the First Time in More Than a Decade",
+      "source": "Barron's",
+      "date": "12/24/2025, 06:43 PM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-pix-2025-12-24/",
       "title": "S&P 500, Dow hit all-time closing highs; gold, silver touch records",
       "source": "Reuters",
-      "date": "12/24/2025, 06:33 PM, +0000 UTC",
+      "date": "12/24/2025, 09:51 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
-    {
-      "url": "https://www.reuters.com/markets/us/surprise-asset-year-30-year-us-treasury-bond-2025-12-22/",
-      "title": "Surprise asset of the year? The 30-year US Treasury bond",
-      "source": "Reuters",
-      "date": "12/23/2025, 12:30 AM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://www.cnbc.com/2025/12/23/us-treasury-yields-decline-ahead-of-key-debt-auctions.html",
       "title": "10-year Treasury yield is little changed after latest U.S. GDP report",
@@ -52,24 +45,31 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-23/treasuries-slip-as-us-gdp-posts-fastest-growth-in-two-years",
-      "title": "Treasuries Slip as US GDP Posts Fastest Growth in Two Years",
-      "source": "Bloomberg",
-      "date": "12/23/2025, 08:44 PM, +0000 UTC",
+      "url": "https://www.reuters.com/markets/us/surprise-asset-year-30-year-us-treasury-bond-2025-12-22/",
+      "title": "Surprise asset of the year? The 30-year US Treasury bond",
+      "source": "Reuters",
+      "date": "12/23/2025, 12:30 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/22/treasury-yields-edge-higher-as-holiday-shortened-week-starts.html",
-      "title": "U.S. Treasury yields edge higher as investors prepare for holiday-shortened week",
-      "source": "CNBC",
-      "date": "12/22/2025, 09:24 AM, +0000 UTC",
+      "url": "https://www.nytimes.com/2025/11/09/us/trump-commemorative-coin.html",
+      "title": "A Two-Headed Coin That Always Comes Up ‘Trump’",
+      "source": "The New York Times",
+      "date": "11/09/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/24/10-year-treasury-yields-dip-as-stronger-gdp-data-clouds-rate-path.html",
-      "title": "10-year Treasury yield moves lower as investors mull rates path following strong GDP data",
-      "source": "CNBC",
-      "date": "12/24/2025, 09:24 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/treasury-secretary-predicts-historic-merger-172553654.html",
+      "title": "Treasury Secretary predicts historic merger could make 2026 a ‘very good year’",
+      "source": "Yahoo Finance",
+      "date": "12/25/2025, 05:25 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-122325/card/treasury-yields-fall-ahead-of-string-of-u-s-data-eDrTsxHwWe5xXsyanF8K?gaa_at=eafs&gaa_n=AWEtsqdx6zhQc-CnBQhpbnCh46BC42M_39E3pmKe04V8H2HT-k63OTV1orQh&gaa_ts=694dc8d8&gaa_sig=aqFDqZxER9nRe2-v_VI5725f8K-2WZjaSgU85_5W3qwFJZmlNu1eFapW-e1qKZ3kNWB14k7f_CC-sqdBtq5OXw%3D%3D",
+      "title": "Treasury Yields Fall Ahead of String of U.S. Data",
+      "source": "Barron's",
+      "date": "12/23/2025, 09:10 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -82,31 +82,31 @@
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/oil-prices-stocks-valuations-77320288?gaa_at=eafs&gaa_n=AWEtsqcrl8lvaW8SNP3V6q7jIg9fBRqdwZxzZugJppE2owLJWsUfFu0CYl-U&gaa_ts=694c7754&gaa_sig=gqioDUWL-Xg1FtJR8fqiUfyNGZccGhqrnmnST1m5AkO9w-5aFN8rRQn7cY7eIeq5EzDOlybzIf0FHNztFFKINA%3D%3D",
+      "url": "https://www.barrons.com/articles/oil-prices-stocks-valuations-77320288?gaa_at=eafs&gaa_n=AWEtsqehHhflG-S5XKcL5Xe4u49kdxrgL2wzje0cL4mgRarWrVlvTH3xRuF4&gaa_ts=694dc8df&gaa_sig=4aNyC6SvTJf_0sNlSlSwTthkIMhxTrbNJSfEVjUVO35eMB05CQvq3qxHsYX3uSu_CS1hNqMi42g-dJjT_MoCBQ%3D%3D",
       "title": "Oil Prices Crashed This Year. Why the Stocks Have Held Up.",
       "source": "Barron's",
       "date": "12/24/2025, 06:09 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-prices-gain-us-interception-venezuelan-oil-tanker-over-weekend-2025-12-22/",
-      "title": "Oil settles higher on risk of disruptions to Venezuela, Russia supply",
-      "source": "Reuters",
-      "date": "12/22/2025, 08:34 PM, +0000 UTC",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-futures-edge-lower-on-likely-technical-correction-d9771516?gaa_at=eafs&gaa_n=AWEtsqeyOainO-nRYOvL66O3M8rbj23_4Kv8KzoiwPqgFiCtv-EjC9elnxF5&gaa_ts=694dc8df&gaa_sig=q8PMMkJJVNLUz6POzgVD9qIrz7LdsFFn1xN8pyMxaXdLXVdr2NfNnoe2fMJumyT6rxmRKEHiSey47LzGoMY4YA%3D%3D",
+      "title": "Oil Prices Flat After Hitting Largest Gain Since October on Monday",
+      "source": "The Wall Street Journal",
+      "date": "12/23/2025, 09:13 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-gain-oil-price-rise-strong-us-growth-2025-12-24/",
-      "title": "Most Gulf markets ease despite firmer oil prices",
-      "source": "Reuters",
-      "date": "12/24/2025, 01:29 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/graphics/2025-global-oil-supply-prices/",
+      "title": "The World Is Awash With Oil and Prices Are Poised to Keep Falling",
+      "source": "Bloomberg.com",
+      "date": "12/18/2025, 10:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-slips-market-weighs-venezuela-russia-supply-risks-2025-12-23/",
-      "title": "Oil up as market weighs strong US economic growth, supply risks",
-      "source": "Reuters",
-      "date": "12/23/2025, 10:45 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/oil-prices-fall-to-4-year-low-below-55-as-supply-glut-shows-up-163301947.html",
+      "title": "Oil prices fall to 4-year low below $55 as supply glut shows up",
+      "source": "Yahoo Finance",
+      "date": "12/16/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -126,40 +126,33 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-22/gold-price-record-why-us-rate-cut-bets-safe-haven-appeal-are-fueling-rally",
-      "title": "How Gold’s Safe-Haven Appeal Is Fueling Record Prices",
-      "source": "Bloomberg",
-      "date": "12/22/2025, 03:16 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-december-22-gold-elevates-to-a-new-record-high-after-opening-131757496.html",
+      "title": "Gold price today, Monday, December 22: Gold elevates to a new record high after opening",
+      "source": "Yahoo Finance",
+      "date": "12/22/2025, 05:18 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/why-many-experts-believe-gold-prices-will-surpass-usd5000-in-2026-11858606",
-      "title": "Why Some Experts Believe Gold Prices Could Reach $5,000 in 2026",
-      "source": "Investopedia",
-      "date": "11/28/2025, 08:00 AM, +0000 UTC",
+      "url": "https://fortune.com/2025/12/24/gold-price-went-through-the-roof-this-year-gold-etf/",
+      "title": "Why gold went through the roof this year—and why its price may have been raised permanently",
+      "source": "Fortune",
+      "date": "12/24/2025, 12:40 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-23/gold-steadies-near-record-high-as-venezuela-tensions-persist",
-      "title": "Gold Soars Above $4,500 for First Time on Geopolitics, Rates",
-      "source": "Bloomberg",
-      "date": "12/24/2025, 08:18 PM, +0000 UTC",
+      "url": "https://fortune.com/2025/12/22/gold-price-chaos-cheap-money-crypto-new-record-high/",
+      "title": "Chaos, cheap money, and a collapse in crypto send gold up 69% for the year, hitting a new record high",
+      "source": "Fortune",
+      "date": "12/22/2025, 04:10 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-22/krw-usd-why-is-south-korea-worried-about-the-weak-won",
-      "title": "KRW/USD: Why is South Korea Worried About the Weak Won?",
-      "source": "Bloomberg",
-      "date": "12/22/2025, 09:02 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-set-worst-year-since-2003-rate-outlooks-diverge-2025-12-24/",
-      "title": "Yen stronger as traders wary of intervention",
-      "source": "Reuters",
-      "date": "12/24/2025, 05:44 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4535038-santa-rally-leaves-bitcoin-behind",
+      "title": "Santa rally leaves bitcoin behind (BTC-USD:Cryptocurrency)",
+      "source": "Seeking Alpha",
+      "date": "12/24/2025, 03:25 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -170,19 +163,26 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4535038-santa-rally-leaves-bitcoin-behind",
-      "title": "Santa rally leaves bitcoin behind (BTC-USD:Cryptocurrency)",
-      "source": "Seeking Alpha",
-      "date": "12/24/2025, 03:25 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.reuters.com/world/asia-pacific/us-dollar-trims-losses-after-stronger-than-expected-growth-data-2025-12-23/",
       "title": "US dollar retreats as prospect of Fed rate cuts overshadows growth data",
       "source": "Reuters",
       "date": "12/23/2025, 08:04 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/microbiology-culture-market-size-growth-140000470.html",
+      "title": "Microbiology Culture Market Size on a Growth Path Towards USD 16.55 Billion by 2035",
+      "source": "Yahoo Finance",
+      "date": "12/23/2025, 02:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2025-12-22/krw-usd-why-is-south-korea-worried-about-the-weak-won",
+      "title": "KRW/USD: Why is South Korea Worried About the Weak Won?",
+      "source": "Bloomberg.com",
+      "date": "12/22/2025, 09:02 AM, +0000 UTC",
+      "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-24T23:14:09.980Z"
+  "lastUpdated": "2025-12-25T23:14:21.692Z"
 }
