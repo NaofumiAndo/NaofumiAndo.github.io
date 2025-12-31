@@ -1,10 +1,17 @@
 {
   "sp500": [
     {
-      "url": "https://www.marketwatch.com/story/these-stocks-doubled-the-s-p-500s-return-in-2025-why-a-2026-repeat-looks-likely-bdc93716?gaa_at=eafs&gaa_n=AWEtsqdFCXt_GUPSdO2QxJMOFU6shEVHNW1KSxm17IsjqnhOOfueIPNbKGoX&gaa_ts=6954602f&gaa_sig=-FGtKgOjgE4SwXQrfnZQDWrkO83bQnWELqcyFBSYy9FJCY4bPO8-PdFtoJ94inh7cD9aOvAZMhcKTEwlSabIWQ%3D%3D",
-      "title": "These undervalued stocks blew away the S&P 500 in 2025 — a 2026 repeat is likely",
+      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-gained-the-most-in-2025-98be5881?gaa_at=eafs&gaa_n=AWEtsqfnptoFrVVhJjW8N8odnX6gLzFw05-1kzB3T8EgfLrfq6vX7QzrUIXp&gaa_ts=6955b1cc&gaa_sig=qN71hTwNh3YPiupEp4tnPpUwA_2O7X7GjJbFOVSnAflk_ZPx9Wzxr4tvukVBmm5XpiknVjr8ryEVSI1Qk6kiwA%3D%3D",
+      "title": "20 stocks in the S&P 500 that gained the most in 2025",
       "source": "MarketWatch",
-      "date": "12/30/2025, 12:35 PM, +0000 UTC",
+      "date": "12/31/2025, 02:36 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html",
+      "title": "Will the A.I. Boom Continue to Drive Up Stocks in 2026?",
+      "source": "The New York Times",
+      "date": "12/31/2025, 10:02 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -15,33 +22,26 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/29/stock-market-today-live-updates.html",
-      "title": "S&P 500 posts third consecutive losing day as year-end approaches: Live updates",
+      "url": "https://www.cnbc.com/2025/12/30/stock-market-today-live-updates.html",
+      "title": "S&P 500 closes lower Wednesday, but wraps 2025 with a 16% gain: Live updates",
       "source": "CNBC",
-      "date": "12/30/2025, 09:24 PM, +0000 UTC",
+      "date": "12/31/2025, 09:26 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-dip-silver-gold-rally?gaa_at=eafs&gaa_n=AWEtsqc6RFuuYeksG3TA8znklruewvQgHw4TYLjpfJW_H8wBrT6uKkEL9Ew-&gaa_ts=6954602f&gaa_sig=AvAg0HecVuc0hzkEWGnA8qgtMQtlWZJ81T_Tw-FtwtqN_KSi0I3P-oBVcEGIk1HLOsbgSQJKAgUS8BLYT0VpuA%3D%3D",
-      "title": "Stock Market News, Dec. 30, 2025: Dow, S&P 500 and Nasdaq close lower for three consecutive days, gold and silver continue rally",
-      "source": "MarketWatch",
-      "date": "12/30/2025, 09:09 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://uk.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-slip-with-fed-minutes-on-deck-143647849.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq waver as Fed minutes show division over December rate cut",
-      "source": "Yahoo Finance UK",
-      "date": "12/30/2025, 08:30 PM, +0000 UTC",
+      "url": "https://www.barrons.com/articles/western-digital-stock-best-sp500-2025-trade-desk-worst-f1bfdea5?gaa_at=eafs&gaa_n=AWEtsqeHI4o-M6GnNlprmZ5gSEQ_yOxKVONSaATFD6EatTj24W_TQeqwU9Q1&gaa_ts=6955b1cc&gaa_sig=yaVloEBZgSYGDerb5N1uYZouX5hgobpDUYhZKfEO9rnITa58T2yyBeV5EM3BlTxjWxmWCarw8DKX6DJUjTmIWQ%3D%3D",
+      "title": "How Western Digital Became S&P 500’s Best Stock in 2025. Why Trade Desk Was the Worst.",
+      "source": "Barron's",
+      "date": "12/31/2025, 09:40 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://fortune.com/2025/12/27/us-debt-38-trillion-hedge-funds-bond-yields-rates-treasury-market/",
-      "title": "U.S. debt's 'easy times' are now over as hedge funds jump into the bond market",
-      "source": "Fortune",
-      "date": "12/27/2025, 06:15 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/energy/us-targets-crude-oil-tankers-firms-new-venezuela-related-sanctions-treasury-2025-12-31/",
+      "title": "US issues fresh sanctions targeting Venezuela's oil sector",
+      "source": "Reuters",
+      "date": "12/31/2025, 09:36 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -49,6 +49,13 @@
       "title": "The tenuous peace between Trump and the $30 trillion US bond market",
       "source": "Reuters",
       "date": "12/29/2025, 09:48 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/americas/us-issues-sanctions-related-iran-venezuela-weapons-trade-2025-12-30/",
+      "title": "US issues sanctions related to Iran and Venezuela weapons trade",
+      "source": "Reuters",
+      "date": "12/30/2025, 04:05 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -64,16 +71,23 @@
       "source": "CNBC",
       "date": "12/22/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://www.nytimes.com/2025/11/09/us/trump-commemorative-coin.html",
-      "title": "A Two-Headed Coin That Always Comes Up ‘Trump’",
-      "source": "The New York Times",
-      "date": "11/09/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
     }
   ],
   "oil": [
+    {
+      "url": "https://www.reuters.com/business/energy/oil-slips-brent-heads-longest-stretch-annual-losses-2025-2025-12-31/",
+      "title": "Oil prices log steepest annual drop since 2020",
+      "source": "Reuters",
+      "date": "12/31/2025, 08:10 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/articles/silver-prices-top-oil-prices-by-the-barrel-bc9ec668?gaa_at=eafs&gaa_n=AWEtsqfVAWn-PDT8ZDLf64UQBAoVakihEwBERnOQsfIC9cnMiBILk-EH5ZvI&gaa_ts=6955b1d4&gaa_sig=oKr3eTt1Yer1yB6YyPlKXkfu-RPCBDMCWgCMVs7prxVcA670U-Y8djB1vU3hFfBGlXub5mkr_sIxiSk3b3VkfQ%3D%3D",
+      "title": "Silver Prices Top Oil Prices by the Barrel. That’s a Warning.",
+      "source": "Barron's",
+      "date": "12/30/2025, 03:32 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://finance.yahoo.com/news/big-oil-prepares-leaner-prices-220000463.html",
       "title": "Big Oil Prepares for Leaner Prices and Harder Choices in 2026",
@@ -82,17 +96,10 @@
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/silver-prices-top-oil-prices-by-the-barrel-bc9ec668?gaa_at=eafs&gaa_n=AWEtsqccdSx8Wn6y6zyMtZsjpztbnqUR-s-__aMBFTUCT01gLgKra85-gFwk&gaa_ts=6954603d&gaa_sig=LNoWQxJAlqfZn2fXkBgsSohDNpGjtaRbC8JgButHfodIErljVLt4s2g78MDOe0YzwuosnVy665CwzhnCjAPu3Q%3D%3D",
-      "title": "Silver Prices Top Oil Prices by the Barrel. That’s a Warning.",
-      "source": "Barron's",
-      "date": "12/30/2025, 03:32 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/saudi-arabia-may-lower-february-crude-prices-asia-third-month-2025-12-29/",
-      "title": "Saudi Arabia may lower February crude prices to Asia for a third month",
+      "url": "https://www.reuters.com/business/energy/oil-gains-investors-weigh-middle-east-tensions-2025-12-29/",
+      "title": "Oil settles up over 2% on dented peace hopes in Ukraine, tensions in Yemen",
       "source": "Reuters",
-      "date": "12/29/2025, 09:08 AM, +0000 UTC",
+      "date": "12/29/2025, 08:22 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -101,23 +108,9 @@
       "source": "Yahoo Finance",
       "date": "12/30/2025, 02:32 PM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-gains-investors-weigh-middle-east-tensions-2025-12-29/",
-      "title": "Oil settles up over 2% on dented peace hopes in Ukraine, tensions in Yemen",
-      "source": "Reuters",
-      "date": "12/29/2025, 08:22 PM, +0000 UTC",
-      "snippet": ""
     }
   ],
   "gold": [
-    {
-      "url": "https://fortune.com/article/current-price-of-gold-12-29-2025/",
-      "title": "Current price of gold as of December 29, 2025",
-      "source": "Fortune",
-      "date": "12/29/2025, 02:19 PM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://www.investopedia.com/gold-prices-record-highs-2026-outlook-11871125",
       "title": "Gold Prices Soared This Year. Will 2026 Bring More Record Highs?",
@@ -126,42 +119,49 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-30-2025/",
-      "title": "Current price of gold as of December 30, 2025",
-      "source": "Fortune",
-      "date": "12/30/2025, 03:33 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-december-29-gold-price-softens-below-4500-after-record-open-130441419.html",
-      "title": "Gold price today, Monday, December 29: Gold price softens below $4,500 after record open",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-december-31-gold-price-declines-but-remains-on-track-for-a-record-year-130441596.html",
+      "title": "Gold price today, Wednesday, December 31: Gold price declines but remains on track for a record year",
       "source": "Yahoo Finance",
-      "date": "12/29/2025, 01:04 PM, +0000 UTC",
+      "date": "12/31/2025, 12:43 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/gold-and-silver-prices-plunged-monday-after-big-rally-here-is-why-precious-metals-11877050",
-      "title": "Gold and Silver Prices Plunged Monday After Last Week's Big Rally. Here's Why.",
-      "source": "Investopedia",
-      "date": "12/29/2025, 09:32 PM, +0000 UTC",
+      "url": "https://fortune.com/article/current-price-of-gold-12-29-2025/",
+      "title": "Current price of gold as of December 29, 2025",
+      "source": "Fortune",
+      "date": "12/29/2025, 02:21 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/31/gold-and-silver-prices-fall-after-cme-raises-precious-metals-margins.html",
+      "title": "Gold, silver prices fall after CME raises precious metals margins — again",
+      "source": "CNBC",
+      "date": "12/31/2025, 01:18 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/gold-price-oil-commodities-pound-092259065.html",
+      "title": "Gold slips but heads for strongest annual gain in over 40 years",
+      "source": "Yahoo Finance UK",
+      "date": "12/31/2025, 09:23 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-steady-ahead-fed-minutes-sluggish-end-dismal-2025-2025-12-30/",
-      "title": "Dollar holds gains after Fed minutes",
-      "source": "Reuters",
-      "date": "12/30/2025, 07:52 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2025-12-31/ghs-usd-gold-spurs-ghana-s-cedi-to-first-annual-gain-since-at-least-1994",
+      "title": "Gold Spurs Ghana’s Cedi to First Annual Gain Since at Least 1994",
+      "source": "Bloomberg.com",
+      "date": "12/31/2025, 08:32 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/why-the-dollar-isn-t-as-strong-as-it-used-to-be-11875778",
-      "title": "Why the Dollar Isn’t as Strong as It Used to Be",
-      "source": "Investopedia",
-      "date": "12/29/2025, 12:00 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4535707-crypto-funds-record-446-million-outflows-last-week-report",
+      "title": "Crypto funds record $446 million outflows last week - report (BTC-USD:Cryptocurrency)",
+      "source": "Seeking Alpha",
+      "date": "12/29/2025, 03:41 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-30T23:13:45.449Z"
+  "lastUpdated": "2025-12-31T23:14:14.080Z"
 }
