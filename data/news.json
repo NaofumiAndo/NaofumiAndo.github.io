@@ -1,7 +1,7 @@
 {
   "sp500": [
     {
-      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-gained-the-most-in-2025-98be5881?gaa_at=eafs&gaa_n=AWEtsqfnptoFrVVhJjW8N8odnX6gLzFw05-1kzB3T8EgfLrfq6vX7QzrUIXp&gaa_ts=6955b1cc&gaa_sig=qN71hTwNh3YPiupEp4tnPpUwA_2O7X7GjJbFOVSnAflk_ZPx9Wzxr4tvukVBmm5XpiknVjr8ryEVSI1Qk6kiwA%3D%3D",
+      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-gained-the-most-in-2025-98be5881?gaa_at=eafs&gaa_n=AWEtsqf82csNVmQRwcHzcwjr1G1_LJkF50db23iFGe9xAcMLSW1VR4aH8WdA&gaa_ts=69570375&gaa_sig=9vW1Q-7-4ift1pRH6hjgtO22vRvcgGR9CtznStPEnwWQQdZwQwiyxkJzW4TPe88negix1BXpQOzfRxVZBkNQvw%3D%3D",
       "title": "20 stocks in the S&P 500 that gained the most in 2025",
       "source": "MarketWatch",
       "date": "12/31/2025, 02:36 PM, +0000 UTC",
@@ -15,33 +15,54 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4856393-2026-s-and-p-500-outlook-why-the-index-will-hit-8300",
-      "title": "2026 S&P 500 Outlook: Why The Index Will Hit 8,300",
+      "url": "https://finance.yahoo.com/news/stocks-market-biggest-winners-losers-110007084.html",
+      "title": "These Stocks Are the Market’s Biggest Winners and Losers in 2025",
+      "source": "Yahoo Finance",
+      "date": "01/01/2026, 01:12 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/us-stock-futures-stabilize-after-tech-led-dip-halts-year-end-rally-2025-12-30/",
+      "title": "S&P 500, Nasdaq end slightly down in holiday-thin trade, Meta gains on deal",
+      "source": "Reuters",
+      "date": "12/30/2025, 11:50 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/news/4536052-sp500-nasdaq-composite-dow-jones-stock-market-news",
+      "title": "S&P 500 finishes with 16% gain in 2025 (SP500:)",
       "source": "Seeking Alpha",
-      "date": "12/30/2025, 03:30 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/30/stock-market-today-live-updates.html",
-      "title": "S&P 500 closes lower Wednesday, but wraps 2025 with a 16% gain: Live updates",
-      "source": "CNBC",
-      "date": "12/31/2025, 09:26 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/articles/western-digital-stock-best-sp500-2025-trade-desk-worst-f1bfdea5?gaa_at=eafs&gaa_n=AWEtsqeHI4o-M6GnNlprmZ5gSEQ_yOxKVONSaATFD6EatTj24W_TQeqwU9Q1&gaa_ts=6955b1cc&gaa_sig=yaVloEBZgSYGDerb5N1uYZouX5hgobpDUYhZKfEO9rnITa58T2yyBeV5EM3BlTxjWxmWCarw8DKX6DJUjTmIWQ%3D%3D",
-      "title": "How Western Digital Became S&P 500’s Best Stock in 2025. Why Trade Desk Was the Worst.",
-      "source": "Barron's",
-      "date": "12/31/2025, 09:40 PM, +0000 UTC",
+      "date": "12/31/2025, 09:07 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.reuters.com/business/energy/us-targets-crude-oil-tankers-firms-new-venezuela-related-sanctions-treasury-2025-12-31/",
-      "title": "US issues fresh sanctions targeting Venezuela's oil sector",
+      "url": "https://www.cnbc.com/2025/12/22/treasury-yields-edge-higher-as-holiday-shortened-week-starts.html",
+      "title": "U.S. Treasury yields edge higher as investors prepare for holiday-shortened week",
+      "source": "CNBC",
+      "date": "12/22/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/us-treasury-rejects-xtellus-bid-russias-lukoil-assets-sources-say-2025-12-15/",
+      "title": "Exclusive: U.S. Treasury rejects Xtellus-led bid for Lukoil assets, sources say",
       "source": "Reuters",
-      "date": "12/31/2025, 09:36 PM, +0000 UTC",
+      "date": "12/15/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.ft.com/content/ad4bfd8b-a0f8-4f9e-a234-eed589e3d0ab",
+      "title": "Bond investors warned US Treasury over picking Kevin Hassett as Fed chair",
+      "source": "Financial Times",
+      "date": "12/03/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/31/10-year-treasury-yield-in-focus-as-investors-monitor-economic-data.html",
+      "title": "10-year Treasury yield closes out 2025 lower for year, but rises on final day",
+      "source": "CNBC",
+      "date": "12/31/2025, 09:23 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -50,56 +71,21 @@
       "source": "Reuters",
       "date": "12/29/2025, 09:48 AM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/americas/us-issues-sanctions-related-iran-venezuela-weapons-trade-2025-12-30/",
-      "title": "US issues sanctions related to Iran and Venezuela weapons trade",
-      "source": "Reuters",
-      "date": "12/30/2025, 04:05 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-26/fed-data-show-december-surge-in-10-year-treasury-delivery-fails",
-      "title": "Fed Data Show December Surge in 10-Year Treasury Delivery Fails",
-      "source": "Bloomberg.com",
-      "date": "12/26/2025, 07:51 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2025/12/22/treasury-yields-edge-higher-as-holiday-shortened-week-starts.html",
-      "title": "U.S. Treasury yields edge higher as investors prepare for holiday-shortened week",
-      "source": "CNBC",
-      "date": "12/22/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/business/energy/oil-slips-brent-heads-longest-stretch-annual-losses-2025-2025-12-31/",
-      "title": "Oil prices log steepest annual drop since 2020",
+      "url": "https://www.cnbc.com/2025/12/30/oil-prices-retreat-slightly-investors-wary-of-russiaukraine-tensions.html",
+      "title": "Oil prices steady as Russia-Ukraine peace hopes fade, Yemen tensions rise",
+      "source": "CNBC",
+      "date": "12/30/2025, 05:25 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-prices-retreat-slightly-investors-wary-russiaukraine-tensions-2025-12-30/",
+      "title": "Oil flat as Russia-Ukraine peace hopes fade, Yemen tensions rise",
       "source": "Reuters",
-      "date": "12/31/2025, 08:10 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/articles/silver-prices-top-oil-prices-by-the-barrel-bc9ec668?gaa_at=eafs&gaa_n=AWEtsqfVAWn-PDT8ZDLf64UQBAoVakihEwBERnOQsfIC9cnMiBILk-EH5ZvI&gaa_ts=6955b1d4&gaa_sig=oKr3eTt1Yer1yB6YyPlKXkfu-RPCBDMCWgCMVs7prxVcA670U-Y8djB1vU3hFfBGlXub5mkr_sIxiSk3b3VkfQ%3D%3D",
-      "title": "Silver Prices Top Oil Prices by the Barrel. That’s a Warning.",
-      "source": "Barron's",
-      "date": "12/30/2025, 03:32 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/big-oil-prepares-leaner-prices-220000463.html",
-      "title": "Big Oil Prepares for Leaner Prices and Harder Choices in 2026",
-      "source": "Yahoo Finance",
-      "date": "12/30/2025, 10:00 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-gains-investors-weigh-middle-east-tensions-2025-12-29/",
-      "title": "Oil settles up over 2% on dented peace hopes in Ukraine, tensions in Yemen",
-      "source": "Reuters",
-      "date": "12/29/2025, 08:22 PM, +0000 UTC",
+      "date": "12/30/2025, 08:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -108,14 +94,28 @@
       "source": "Yahoo Finance",
       "date": "12/30/2025, 02:32 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/16/crude-oil-prices-today.html",
+      "title": "U.S. crude oil closes at lowest level since early 2021 as looming surplus weighs on market",
+      "source": "CNBC",
+      "date": "12/16/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/saudi-arabia-may-lower-february-crude-prices-asia-third-month-2025-12-29/",
+      "title": "Saudi Arabia may lower February crude prices to Asia for a third month",
+      "source": "Reuters",
+      "date": "12/29/2025, 09:08 AM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://www.investopedia.com/gold-prices-record-highs-2026-outlook-11871125",
-      "title": "Gold Prices Soared This Year. Will 2026 Bring More Record Highs?",
-      "source": "Investopedia",
-      "date": "12/30/2025, 05:14 PM, +0000 UTC",
+      "url": "https://fortune.com/article/current-price-of-gold-12-29-2025/",
+      "title": "Current price of gold as of December 29, 2025",
+      "source": "Fortune",
+      "date": "12/29/2025, 02:21 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -126,13 +126,6 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-29-2025/",
-      "title": "Current price of gold as of December 29, 2025",
-      "source": "Fortune",
-      "date": "12/29/2025, 02:21 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.cnbc.com/2025/12/31/gold-and-silver-prices-fall-after-cme-raises-precious-metals-margins.html",
       "title": "Gold, silver prices fall after CME raises precious metals margins — again",
       "source": "CNBC",
@@ -140,19 +133,26 @@
       "snippet": ""
     },
     {
-      "url": "https://uk.finance.yahoo.com/news/gold-price-oil-commodities-pound-092259065.html",
-      "title": "Gold slips but heads for strongest annual gain in over 40 years",
+      "url": "https://fortune.com/article/current-price-of-gold-12-31-2025/",
+      "title": "Current price of gold as of December 31, 2025",
+      "source": "Fortune",
+      "date": "12/31/2025, 03:41 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/gold-price-oil-commodities-pound-092427320.html",
+      "title": "Gold recovers after sell-off as investors look to further gains in 2026",
       "source": "Yahoo Finance UK",
-      "date": "12/31/2025, 09:23 AM, +0000 UTC",
+      "date": "12/30/2025, 09:24 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2025-12-31/ghs-usd-gold-spurs-ghana-s-cedi-to-first-annual-gain-since-at-least-1994",
-      "title": "Gold Spurs Ghana’s Cedi to First Annual Gain Since at Least 1994",
-      "source": "Bloomberg.com",
-      "date": "12/31/2025, 08:32 AM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/ray-dalio-warned-america-debt-123500877.html",
+      "title": "Ray Dalio warned America’s in a ‘debt death spiral’, with US dollar at risk. Here’s the shockproof asset he recommends",
+      "source": "Yahoo Finance",
+      "date": "01/01/2026, 12:35 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -163,5 +163,5 @@
       "snippet": ""
     }
   ],
-  "lastUpdated": "2025-12-31T23:14:14.080Z"
+  "lastUpdated": "2026-01-01T23:14:55.830Z"
 }
