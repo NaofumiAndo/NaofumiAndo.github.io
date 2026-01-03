@@ -1,17 +1,17 @@
 {
   "sp500": [
     {
-      "url": "https://www.cnbc.com/2025/12/30/stock-market-today-live-updates.html",
-      "title": "S&P 500 closes lower Wednesday, but wraps 2025 with a 16% gain: Live updates",
-      "source": "CNBC",
-      "date": "12/31/2025, 09:04 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-02/us-stocks-climb-to-start-2026-and-revive-hopes-for-santa-rally",
+      "title": "US Stocks Climb to Start 2026 and Revive Hopes for Santa Rally",
+      "source": "Bloomberg.com",
+      "date": "01/02/2026, 09:24 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/western-digital-stock-best-sp500-2025-trade-desk-worst-f1bfdea5?gaa_at=eafs&gaa_n=AWEtsqfJGx7soBZjBxQsjlx61m6Go08MuY7g4qG7_TLZ--K6JGpDvYyJP0bZ&gaa_ts=695854cd&gaa_sig=Pi7Hv_kHg_u3BD17SHdlwAGeQSBYsf90ltWggY6t0oRMn7mdbdjBF3OHSpdW2I98ZB9fI-SgKTg5jb8bixCpuQ%3D%3D",
-      "title": "How Western Digital Became S&P 500’s Best Stock in 2025. Why Trade Desk Was the Worst.",
-      "source": "Barron's",
-      "date": "12/31/2025, 09:40 PM, +0000 UTC",
+      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-gained-the-most-in-2025-98be5881?gaa_at=eafs&gaa_n=AWEtsqcCAg-s467dB2cBlX3z5chbOAdSAPtdbXzwE0yzVTph05ojpRdbjr9O&gaa_ts=6959a649&gaa_sig=TXWq1-OkUuNN4sLCgsgbyDn6SilUNyrwVwcY0-is9YdRHQJ6B-CLMTXmnx-W-OptDd7_JIuRAHmK6v15l6_hxA%3D%3D",
+      "title": "20 stocks in the S&P 500 that gained the most in 2025",
+      "source": "MarketWatch",
+      "date": "12/31/2025, 02:36 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -22,17 +22,17 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-02/us-stocks-climb-to-start-2026-and-revive-hopes-for-santa-rally",
-      "title": "US Stocks Climb to Start 2026 and Revive Hopes for Santa Rally",
-      "source": "Bloomberg.com",
-      "date": "01/02/2026, 09:24 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/30/stock-market-today-live-updates.html",
+      "title": "S&P 500 closes lower Wednesday, but wraps 2025 with a 16% gain: Live updates",
+      "source": "CNBC",
+      "date": "12/31/2025, 09:04 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.nytimes.com/2025/12/31/business/stock-market-2025-artificial-intelligence-bubble.html",
-      "title": "Will the A.I. Boom Continue to Drive Up Stocks in 2026?",
-      "source": "The New York Times",
-      "date": "12/31/2025, 10:02 AM, +0000 UTC",
+      "url": "https://www.reuters.com/business/us-stock-futures-make-positive-start-2026-risk-appetite-returns-after-recent-2026-01-02/",
+      "title": "Dow closes higher on first day of 2026, still no Santa Claus rally",
+      "source": "Reuters",
+      "date": "01/02/2026, 11:51 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -52,6 +52,13 @@
       "snippet": ""
     },
     {
+      "url": "https://www.nytimes.com/2025/12/06/business/dealbook/scott-bessent-dealbook.html",
+      "title": "Scott Bessent on Tariffs, the Fed and the Economy",
+      "source": "The New York Times",
+      "date": "12/06/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://www.ft.com/content/ad4bfd8b-a0f8-4f9e-a234-eed589e3d0ab",
       "title": "Bond investors warned US Treasury over picking Kevin Hassett as Fed chair",
       "source": "Financial Times",
@@ -59,63 +66,56 @@
       "snippet": ""
     },
     {
-      "url": "https://www.nytimes.com/2025/11/09/us/trump-commemorative-coin.html",
-      "title": "A Two-Headed Coin That Always Comes Up ‘Trump’",
-      "source": "The New York Times",
-      "date": "11/09/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-02/us-30-year-yields-rise-to-highest-since-september-on-growth-risk",
-      "title": "US 30-Year Yields Rise to Highest Since September on Growth Risk",
-      "source": "Bloomberg.com",
-      "date": "01/02/2026, 09:09 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2026/01/02/10-year-treasury-holds-steady-on-first-trading-day-of-2026.html",
+      "title": "10-year Treasury moves higher on first trading day of 2026",
+      "source": "CNBC",
+      "date": "01/02/2026, 11:19 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.wsj.com/articles/oil-rises-prices-could-remain-near-five-year-low-this-year-32e178ef?gaa_at=eafs&gaa_n=AWEtsqdd_IwJGR-1VHN52RZ7N4UACUjq8OnnPvHfoiQPQjTXfNyG3UKSyWIy&gaa_ts=695854d5&gaa_sig=mLZRteqOAbAXLV-X5D80uY4veDToaT8D4S-IwSwWvmWqWt8wXTLfnwdVvPJ_dW8Rp78hy704lZhAlZzmB90xyg%3D%3D",
-      "title": "Oil Futures Slip in First Trading Day of the Year",
+      "url": "https://www.reuters.com/business/energy/oil-edges-higher-following-biggest-annual-loss-since-2020-2026-01-02/",
+      "title": "Oil prices settle lower after biggest annual loss since 2020",
+      "source": "Reuters",
+      "date": "01/02/2026, 07:58 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/livecoverage/venezuela-strikes/card/what-happens-to-oil-prices-if-more-venezuelan-crude-flows--cRvm4OFtl5CziJAwT2lO?gaa_at=eafs&gaa_n=AWEtsqd8YTMaV7Je_PUNO8_J0zQpmbuHYNxgAGK7fdDFbwZPSrFOGocD7k_M&gaa_ts=6959a653&gaa_sig=vBeZ1XLo0lVZtiEZkzx4LLc50D5oWMYz4zJzN2ZyXVHPL--yaTNl_i1IWLewsIDFvLMkwA2yWYKfcy2s2GQyow%3D%3D",
+      "title": "What Happens to Oil Prices if More Venezuelan Crude Flows?",
       "source": "The Wall Street Journal",
-      "date": "01/02/2026, 08:14 PM, +0000 UTC",
+      "date": "01/03/2026, 07:43 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/saudi-arabia-may-lower-february-crude-prices-asia-third-month-2025-12-29/",
-      "title": "Saudi Arabia may lower February crude prices to Asia for a third month",
-      "source": "Reuters",
-      "date": "01/02/2026, 06:07 AM, +0000 UTC",
+      "url": "https://www.barrons.com/articles/silvers-up-oils-down-is-this-a-bubble-indicator-a1276331?gaa_at=eafs&gaa_n=AWEtsqeZJGqv8B3j2-w3y0AFf_c9zSkH8jSc9mvQMeBF_oOQNLJVAicrjMQg&gaa_ts=6959a653&gaa_sig=xHKVGXtpltu6HS_0Po_gKpvCzfZYsMZ9mW07xgwhd2ww1E6rvAWp0DQuOz03QGK8pSsyT6PeRmEBxdnUeSNyFQ%3D%3D",
+      "title": "Silver’s Up, Oil’s Down. Is This a Bubble Indicator?",
+      "source": "Barron's",
+      "date": "01/03/2026, 12:47 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/energy/oil-prices-retreat-slightly-investors-wary-russiaukraine-tensions-2025-12-30/",
-      "title": "Oil flat as Russia-Ukraine peace hopes fade, Yemen tensions rise",
-      "source": "Reuters",
-      "date": "12/30/2025, 08:00 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2026/01/03/trump-venezuela-attack-oil-markets.html",
+      "title": "Maduro overthrow in oil-rich Venezuela unlikely to shake energy markets in the near term",
+      "source": "CNBC",
+      "date": "01/03/2026, 09:20 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/articles/investing/100615/will-oil-prices-go-2017.asp",
-      "title": "What Happened to Oil Prices in 2020",
-      "source": "Investopedia",
-      "date": "12/30/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/enterprise-products-weather-ongoing-oil-143200615.html",
-      "title": "Can Enterprise Products Weather the Ongoing Oil Price Softness?",
-      "source": "Yahoo Finance",
-      "date": "12/30/2025, 02:32 PM, +0000 UTC",
+      "url": "https://www.barrons.com/articles/maduro-capture-venezuela-oil-prices-f9081049?gaa_at=eafs&gaa_n=AWEtsqeUc55HuYlcI8eF-h5R-xpJxpPnXTtmuzpqvRHgZI-gW8Kv9J15PwKL&gaa_ts=6959a653&gaa_sig=_hdCDm471ACC0pVeabqgKU9cKtea78p9Ykb39GEAOvcJYnd6yZwRcYJAxmwuPX6blLm6GefJmtZ454dB_9XLhQ%3D%3D",
+      "title": "Trump Says U.S. Will ‘Run’ Venezuela After Capture of Maduro",
+      "source": "Barron's",
+      "date": "01/03/2026, 09:35 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://www.investopedia.com/gold-prices-record-highs-2026-outlook-11871125",
-      "title": "Gold Prices Soared This Year. Will 2026 Bring More Record Highs?",
-      "source": "Investopedia",
-      "date": "12/30/2025, 05:14 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/article/4856778-5-predictions-for-2026-gold-silver-bitcoin-ai-geopolitics",
+      "title": "5 Predictions For 2026: Gold, Silver, Bitcoin, AI, Geopolitics",
+      "source": "Seeking Alpha",
+      "date": "01/02/2026, 01:05 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -126,6 +126,13 @@
       "snippet": ""
     },
     {
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-geopolitical-risks-87eae219?gaa_at=eafs&gaa_n=AWEtsqee50Snrq6x68Y1oQPvmZWwSKn0MN3xYb-gszSpRFeqK0pUmGbO-nxV&gaa_ts=6959a65a&gaa_sig=jdU5fW8Ld4Xq6MIH85OK0F30u8UT1kwUeWPhfd52We5aiY3_jSeQWQJxwBbZOd6GJewKYxnsJ4Q8E96pXCbz6Q%3D%3D",
+      "title": "Gold Prices Suffer Their Biggest-Ever Weekly Decline",
+      "source": "The Wall Street Journal",
+      "date": "01/02/2026, 08:32 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
       "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-december-31-gold-price-declines-but-remains-on-track-for-a-record-year-130441596.html",
       "title": "Gold price today, Wednesday, December 31: Gold price declines but remains on track for a record year",
       "source": "Yahoo Finance",
@@ -133,33 +140,26 @@
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-01-02-2026/card/gold-prices-suffer-their-biggest-ever-weekly-decline-INDzsgJRPhLE4SwpYBd8?gaa_at=eafs&gaa_n=AWEtsqfb7IB1C0EEiKPApEXnLglessupr8FSPZEe1Zj9KBPaukWzk8cYCwDT&gaa_ts=695854df&gaa_sig=eaIeTfZMgWdp6DUJEC4K1m52-Y8lACVMp7k8WBTDVukaMGv-3qPn_6cOVPuegqiEn8Ut0ZOiGRb3P9fAu1kbbg%3D%3D",
-      "title": "Gold Prices Suffer Their Biggest-Ever Weekly Decline",
-      "source": "The Wall Street Journal",
-      "date": "01/02/2026, 08:24 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-01-02/",
-      "title": "Wall Street oscillates at the top of the new year; Treasury yields move higher",
-      "source": "Reuters",
-      "date": "01/02/2026, 08:04 PM, +0000 UTC",
+      "url": "https://www.investopedia.com/gold-prices-record-highs-2026-outlook-11871125",
+      "title": "Gold Prices Soared This Year. Will 2026 Bring More Record Highs?",
+      "source": "Investopedia",
+      "date": "12/30/2025, 05:14 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
     {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-makes-soft-start-2026-after-sharpest-drop-8-years-2026-01-02/",
-      "title": "Dollar rises to start 2026 after biggest annual drop in eight years",
-      "source": "Reuters",
-      "date": "01/02/2026, 07:41 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.bloomberg.com/news/articles/2026-01-02/-usd-zmw-zambia-s-de-dollarization-effort-gives-fresh-impetus-to-kwacha-rally",
       "title": "(USD: ZMW) Zambia’s De-Dollarization Effort Gives Fresh Impetus to Kwacha Rally",
       "source": "Bloomberg.com",
       "date": "01/02/2026, 03:33 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-makes-soft-start-2026-after-sharpest-drop-8-years-2026-01-02/",
+      "title": "Dollar rises to start 2026 after biggest annual drop in eight years",
+      "source": "Reuters",
+      "date": "01/02/2026, 07:41 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -177,12 +177,12 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/video/2026/01/02/bcas-chester-ntonifor-says-u-s-dollar-is-deeply-overvalued.html",
-      "title": "BCA's Chester Ntonifor says U.S. dollar is 'deeply overvalued'",
-      "source": "CNBC",
-      "date": "01/02/2026, 09:11 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/ray-dalio-warned-america-debt-123500877.html",
+      "title": "Ray Dalio warned America’s in a ‘debt death spiral’, with US dollar at risk. Here’s the shockproof asset he recommends",
+      "source": "Yahoo Finance",
+      "date": "01/01/2026, 12:35 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2026-01-02T23:14:15.603Z"
+  "lastUpdated": "2026-01-03T23:14:09.949Z"
 }
