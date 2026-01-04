@@ -8,17 +8,24 @@
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-gained-the-most-in-2025-98be5881?gaa_at=eafs&gaa_n=AWEtsqcCAg-s467dB2cBlX3z5chbOAdSAPtdbXzwE0yzVTph05ojpRdbjr9O&gaa_ts=6959a649&gaa_sig=TXWq1-OkUuNN4sLCgsgbyDn6SilUNyrwVwcY0-is9YdRHQJ6B-CLMTXmnx-W-OptDd7_JIuRAHmK6v15l6_hxA%3D%3D",
-      "title": "20 stocks in the S&P 500 that gained the most in 2025",
-      "source": "MarketWatch",
-      "date": "12/31/2025, 02:36 PM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4536489-bofa-warns-s-and-p-500-looks-expensive-favors-health-care-and-real-estate",
+      "title": "BofA warns S&P 500 looks expensive, favors health care and real estate",
+      "source": "Seeking Alpha",
+      "date": "01/04/2026, 03:19 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/news/4536336-steady-start-to-2026-few-s-and-p-500-stocks-signal-overbought-or-oversold-conditions",
-      "title": "Steady start to 2026: Few S&P 500 stocks signal overbought or oversold conditions",
-      "source": "Seeking Alpha",
-      "date": "01/02/2026, 04:02 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2026/01/03/these-are-the-most-overbought-and-oversold-stocks-in-the-sp-500-as-2026-begins.html",
+      "title": "These are the most overbought and oversold stocks in the S&P 500 as 2026 begins",
+      "source": "CNBC",
+      "date": "01/03/2026, 02:40 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/articles/s-p500-index-predictions-2026-b2c4fa3c?gaa_at=eafs&gaa_n=AWEtsqcVISWWViGOp3-cXY9w1A2cSZaFyauawkoMUV9mqev7SiO-U4fWcWq_&gaa_ts=695af7c9&gaa_sig=LDcBcRKmCeE58PRU2qQK6MS7u1ZT6853kbCkVV3GuPy7u7nmMrgraP4kcwioSfkSEebnO64j0OmisEndLaTuXg%3D%3D",
+      "title": "The S&P 500 Just Notched a Threepeat. What History Signals for 2026.",
+      "source": "Barron's",
+      "date": "01/02/2026, 06:27 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -27,21 +34,14 @@
       "source": "CNBC",
       "date": "12/31/2025, 09:04 PM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/us-stock-futures-make-positive-start-2026-risk-appetite-returns-after-recent-2026-01-02/",
-      "title": "Dow closes higher on first day of 2026, still no Santa Claus rally",
-      "source": "Reuters",
-      "date": "01/02/2026, 11:51 PM, +0000 UTC",
-      "snippet": ""
     }
   ],
   "treasury": [
     {
-      "url": "https://www.reuters.com/business/energy/us-targets-crude-oil-tankers-firms-new-venezuela-related-sanctions-treasury-2025-12-31/",
-      "title": "US issues fresh sanctions targeting Venezuela's oil sector",
+      "url": "https://www.reuters.com/business/us-treasury-rejects-xtellus-bid-russias-lukoil-assets-sources-say-2025-12-15/",
+      "title": "Exclusive: U.S. Treasury rejects Xtellus-led bid for Lukoil assets, sources say",
       "source": "Reuters",
-      "date": "12/31/2025, 09:36 PM, +0000 UTC",
+      "date": "12/15/2025, 08:00 AM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -52,13 +52,6 @@
       "snippet": ""
     },
     {
-      "url": "https://www.nytimes.com/2025/12/06/business/dealbook/scott-bessent-dealbook.html",
-      "title": "Scott Bessent on Tariffs, the Fed and the Economy",
-      "source": "The New York Times",
-      "date": "12/06/2025, 08:00 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.ft.com/content/ad4bfd8b-a0f8-4f9e-a234-eed589e3d0ab",
       "title": "Bond investors warned US Treasury over picking Kevin Hassett as Fed chair",
       "source": "Financial Times",
@@ -66,47 +59,54 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2026/01/02/10-year-treasury-holds-steady-on-first-trading-day-of-2026.html",
-      "title": "10-year Treasury moves higher on first trading day of 2026",
-      "source": "CNBC",
-      "date": "01/02/2026, 11:19 AM, +0000 UTC",
+      "url": "https://www.nytimes.com/2025/12/06/business/dealbook/scott-bessent-dealbook.html",
+      "title": "Scott Bessent on Tariffs, the Fed and the Economy",
+      "source": "The New York Times",
+      "date": "12/06/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/us-30-yields-rise-highest-075031491.html",
+      "title": "Long-Maturity Treasuries Fall After Market’s Best Year in Five",
+      "source": "Yahoo Finance",
+      "date": "01/02/2026, 09:09 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.reuters.com/business/energy/oil-edges-higher-following-biggest-annual-loss-since-2020-2026-01-02/",
-      "title": "Oil prices settle lower after biggest annual loss since 2020",
-      "source": "Reuters",
-      "date": "01/02/2026, 07:58 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.wsj.com/livecoverage/venezuela-strikes/card/what-happens-to-oil-prices-if-more-venezuelan-crude-flows--cRvm4OFtl5CziJAwT2lO?gaa_at=eafs&gaa_n=AWEtsqd8YTMaV7Je_PUNO8_J0zQpmbuHYNxgAGK7fdDFbwZPSrFOGocD7k_M&gaa_ts=6959a653&gaa_sig=vBeZ1XLo0lVZtiEZkzx4LLc50D5oWMYz4zJzN2ZyXVHPL--yaTNl_i1IWLewsIDFvLMkwA2yWYKfcy2s2GQyow%3D%3D",
-      "title": "What Happens to Oil Prices if More Venezuelan Crude Flows?",
-      "source": "The Wall Street Journal",
-      "date": "01/03/2026, 07:43 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/articles/silvers-up-oils-down-is-this-a-bubble-indicator-a1276331?gaa_at=eafs&gaa_n=AWEtsqeZJGqv8B3j2-w3y0AFf_c9zSkH8jSc9mvQMeBF_oOQNLJVAicrjMQg&gaa_ts=6959a653&gaa_sig=xHKVGXtpltu6HS_0Po_gKpvCzfZYsMZ9mW07xgwhd2ww1E6rvAWp0DQuOz03QGK8pSsyT6PeRmEBxdnUeSNyFQ%3D%3D",
-      "title": "Silver’s Up, Oil’s Down. Is This a Bubble Indicator?",
-      "source": "Barron's",
-      "date": "01/03/2026, 12:47 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2026/01/03/trump-venezuela-attack-oil-markets.html",
-      "title": "Maduro overthrow in oil-rich Venezuela unlikely to shake energy markets in the near term",
+      "url": "https://www.cnbc.com/2026/01/04/oil-prices-trump-maduro-venezuela.html",
+      "title": "Crude prices edge lower as Maduro overthrow casts uncertainty over oil-rich Venezuela",
       "source": "CNBC",
-      "date": "01/03/2026, 09:20 PM, +0000 UTC",
+      "date": "01/04/2026, 11:06 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/articles/maduro-capture-venezuela-oil-prices-f9081049?gaa_at=eafs&gaa_n=AWEtsqeUc55HuYlcI8eF-h5R-xpJxpPnXTtmuzpqvRHgZI-gW8Kv9J15PwKL&gaa_ts=6959a653&gaa_sig=_hdCDm471ACC0pVeabqgKU9cKtea78p9Ykb39GEAOvcJYnd6yZwRcYJAxmwuPX6blLm6GefJmtZ454dB_9XLhQ%3D%3D",
-      "title": "Trump Says U.S. Will ‘Run’ Venezuela After Capture of Maduro",
-      "source": "Barron's",
-      "date": "01/03/2026, 09:35 PM, +0000 UTC",
+      "url": "https://fortune.com/2026/01/04/venezuelan-oil-production-rebound-lower-crude-prices-long-term-pressure-russia/",
+      "title": "Venezuelan oil revival 'could cement lower prices' long term and pressure Russia, analyst says",
+      "source": "Fortune",
+      "date": "01/04/2026, 03:29 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-01-04/south-africa-gasoline-price-drops-to-four-year-low-on-oil-rand",
+      "title": "South Africa Gasoline Price Drops to Four-Year Low on Oil, Rand",
+      "source": "Bloomberg.com",
+      "date": "01/04/2026, 03:03 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.marketwatch.com/story/trump-takedown-of-venezuelas-dictator-could-inject-price-premium-into-oil-market-strategist-projects-33f066c3?gaa_at=eafs&gaa_n=AWEtsqeTa-1tQ9EyqBQS-_azS19OJNNQT8TsJBC-oggRJQmsCnAc7WNdNVXf&gaa_ts=695af7d7&gaa_sig=6XLyzX_c_hblTplwEaCwI_oysSFv4hUvIQscLGZ8ZMaflZG72XphwZ2GXEun9oMWeLeiXmSBZcXSIkcgLOCwaA%3D%3D",
+      "title": "Trump takedown of Venezuela’s dictator could inject price premium into oil market, strategist projects",
+      "source": "MarketWatch",
+      "date": "01/04/2026, 06:26 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-prices-likely-move-higher-venezuelan-turmoil-ample-supply-cap-gains-2026-01-04/",
+      "title": "Oil prices likely to move higher on Venezuelan turmoil, ample supply to cap gains",
+      "source": "Reuters",
+      "date": "01/04/2026, 07:14 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -119,17 +119,17 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-12-31-2025/",
-      "title": "Current price of gold as of December 31, 2025",
-      "source": "Fortune",
-      "date": "12/31/2025, 03:41 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-geopolitical-risks-87eae219?gaa_at=eafs&gaa_n=AWEtsqee50Snrq6x68Y1oQPvmZWwSKn0MN3xYb-gszSpRFeqK0pUmGbO-nxV&gaa_ts=6959a65a&gaa_sig=jdU5fW8Ld4Xq6MIH85OK0F30u8UT1kwUeWPhfd52We5aiY3_jSeQWQJxwBbZOd6GJewKYxnsJ4Q8E96pXCbz6Q%3D%3D",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-amid-geopolitical-risks-87eae219?gaa_at=eafs&gaa_n=AWEtsqd8BWQvvAStvg0_AS03d6QW_MPbWQD3xHx3wj_drPDS99BhEEE6_quW&gaa_ts=695af7dc&gaa_sig=HTdxEmQR9A1NaprZs1KW1WMONaWHs1j-CIEVYf54q0reow9PUJqFShN18dnPZTXDbmmUkCRBUTbIQolBAhmBug%3D%3D",
       "title": "Gold Prices Suffer Their Biggest-Ever Weekly Decline",
       "source": "The Wall Street Journal",
       "date": "01/02/2026, 08:32 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/world/india/precious-metals-kick-off-new-year-higher-after-robust-2025-rally-2026-01-02/",
+      "title": "Precious metals rise early in 2026 on rate cut bets and safe-haven demand",
+      "source": "Reuters",
+      "date": "01/02/2026, 07:04 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -140,10 +140,10 @@
       "snippet": ""
     },
     {
-      "url": "https://www.investopedia.com/gold-prices-record-highs-2026-outlook-11871125",
-      "title": "Gold Prices Soared This Year. Will 2026 Bring More Record Highs?",
-      "source": "Investopedia",
-      "date": "12/30/2025, 05:14 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2025/12/31/gold-and-silver-prices-fall-after-cme-raises-precious-metals-margins.html",
+      "title": "Gold, silver prices fall after CME raises precious metals margins — again",
+      "source": "CNBC",
+      "date": "12/31/2025, 01:18 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -184,5 +184,5 @@
       "snippet": ""
     }
   ],
-  "lastUpdated": "2026-01-03T23:14:09.949Z"
+  "lastUpdated": "2026-01-04T23:14:11.947Z"
 }
