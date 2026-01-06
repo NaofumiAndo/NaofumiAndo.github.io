@@ -1,38 +1,38 @@
 {
   "sp500": [
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-rally-as-techs-revive-oil-majors-jump-after-us-strike-in-venezuela-235634617.html",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rally as techs revive, oil majors jump after US strike in Venezuela",
+      "url": "https://www.marketwatch.com/story/its-rare-for-the-s-p-500-and-the-vix-to-post-gains-on-the-same-day-heres-why-it-just-happened-f3ba1311?gaa_at=eafs&gaa_n=AWEtsqedklwkj9Z45OBbRzYHh9zCHXWbvaVDTD7doHUkLNbXLuaZ_vwdNYmy&gaa_ts=695d9b0a&gaa_sig=4-EkSj20nmxSroKSY4hVNQW7VTpIB5lQsOi0HYdT9LCBVko_XdE0aLCuUcNN3a4RfmSxb-DvFfjpRX27waDcJQ%3D%3D",
+      "title": "It’s rare for the S&P 500 and the VIX to post gains on the same day. Here’s why it just happened.",
+      "source": "MarketWatch",
+      "date": "01/06/2026, 10:02 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-crosses-49000-sp-500-jumps-to-new-high-in-record-setting-start-to-year-194907643.html",
+      "title": "Stock market today: Dow crosses 49,000, S&P 500 jumps to new high in record-setting start to year",
       "source": "Yahoo Finance",
-      "date": "01/05/2026, 07:45 PM, +0000 UTC",
+      "date": "01/06/2026, 09:42 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-rise-after-us-takedown-in-venezuela-as-ai-hopes-revive-235634887.html",
-      "title": "Stock market today: S&P 500, Nasdaq futures rise after US takedown in Venezuela as AI hopes revive",
-      "source": "Yahoo Finance",
-      "date": "01/05/2026, 02:01 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-05/stock-market-today-dow-s-p-live-updates",
-      "title": "Asian Stocks Poised to Extend Record Global Rally: Markets Wrap",
-      "source": "Bloomberg.com",
-      "date": "01/05/2026, 10:30 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/articles/venezuela-maduro-panama-markets-1819db76?gaa_at=eafs&gaa_n=AWEtsqeNO_NxWQneSbqfltoyPD6fz6jEqfSahq0FEW7HhgjSSpDeQZr9eCgw&gaa_ts=695c496a&gaa_sig=8jiaviW476IMaKduMN9W10CwoOdHr5K1T914SIK2V-JiDUZlTUlplr5_Md6tnQBL95052n9v5VOVMYwFEzMefg%3D%3D",
-      "title": "What Does Venezuela Mean for Stocks? Look at Panama.",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-010626?gaa_at=eafs&gaa_n=AWEtsqf7gVwJbnx8jbZXqcR83TKShmfN978VZQIeAZ9mG1tnwKsIgbzHYN7U&gaa_ts=695d9b0a&gaa_sig=corbkVcPf7oaRlemkodOfGirIRjxuUMB1Fe4JqtLZKLOcGxhDcoA4l2YebOoXDVcFWLvUvt8m_rpPK1d9h8IJQ%3D%3D",
+      "title": "Stock Market Today: Dow Tops 49,000",
       "source": "Barron's",
-      "date": "01/05/2026, 10:07 PM, +0000 UTC",
+      "date": "01/06/2026, 09:09 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2026/01/03/these-are-the-most-overbought-and-oversold-stocks-in-the-sp-500-as-2026-begins.html",
-      "title": "These are the most overbought and oversold stocks in the S&P 500 as 2026 begins",
-      "source": "CNBC",
-      "date": "01/03/2026, 02:40 PM, +0000 UTC",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-record-nasdaq-sp500-higher-metals-surge?gaa_at=eafs&gaa_n=AWEtsqdRbmb5q0omRoaCnZhL2UTC35xHoUYqktM8BYMY_TJ0UmRYIEEO5eKz&gaa_ts=695d9b0a&gaa_sig=EJy7-iqESNSUwhRe6-dUZNwRlVW6Lmq9o-eQCrNvd1KrcJmHV8oVxhgxStk813XpTQsOb9zSd9Ss-mtFTh_cYg%3D%3D",
+      "title": "Stock Market Today: Dow set for fresh record and first close over 49,000, S&P 500 and Nasdaq gain in final hour trading; gold and silver continue their advance",
+      "source": "MarketWatch",
+      "date": "01/06/2026, 08:06 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://uk.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-gain-after-dows-rally-to-record-143551179.html",
+      "title": "Stock market today: Dow, S&P 500 aim for records as early 2026 rally builds steam",
+      "source": "Yahoo Finance UK",
+      "date": "01/06/2026, 07:56 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -45,20 +45,6 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-05/treasuries-advance-as-drop-in-oil-prices-eases-inflation-fears",
-      "title": "Treasuries Advance as Drop in Oil Prices Eases Inflation Fears",
-      "source": "Bloomberg.com",
-      "date": "01/05/2026, 08:50 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/article/4857250-weekly-treasury-simulation-january-2-2026-measuring-the-term-premium-in-us-treasuries",
-      "title": "Weekly Treasury Simulation, January 2, 2026: Measuring The Term Premium In U.S. Treasuries",
-      "source": "Seeking Alpha",
-      "date": "01/05/2026, 08:49 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
       "url": "https://www.reuters.com/business/us-treasury-rejects-xtellus-bid-russias-lukoil-assets-sources-say-2025-12-15/",
       "title": "Exclusive: U.S. Treasury rejects Xtellus-led bid for Lukoil assets, sources say",
       "source": "Reuters",
@@ -66,63 +52,91 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/2026/01/05/janet-yellen-warns-38-trillion-national-debt-fiscal-dominance-eric-leeper-heather-long/",
-      "title": "Janet Yellen warns the $38 trillion national debt is testing a red line economists have feared for decades",
+      "url": "https://fortune.com/2025/12/27/us-debt-38-trillion-hedge-funds-bond-yields-rates-treasury-market/",
+      "title": "U.S. debt's 'easy times' are now over as hedge funds jump into the bond market",
       "source": "Fortune",
-      "date": "01/05/2026, 07:31 PM, +0000 UTC",
+      "date": "12/27/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2025/12/22/treasury-yields-edge-higher-as-holiday-shortened-week-starts.html",
+      "title": "U.S. Treasury yields edge higher as investors prepare for holiday-shortened week",
+      "source": "CNBC",
+      "date": "12/22/2025, 08:00 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-01-06/bullish-treasuries-wagers-target-10-year-yields-falling-below-4",
+      "title": "Bullish Treasuries Wagers Target 10-Year Yields Falling Below 4%",
+      "source": "Bloomberg.com",
+      "date": "01/06/2026, 09:30 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-05/saudi-arabia-cuts-flagship-oil-price-to-asia-for-a-third-month",
-      "title": "Saudi Arabia Cuts Flagship Oil Price to Asia for a Third Month",
-      "source": "Bloomberg.com",
-      "date": "01/05/2026, 07:47 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/article/4857194-chevron-venezuela-could-keep-oil-price-below-60-for-longer",
-      "title": "Chevron: Venezuela Could Keep Oil Price Below $60 For Longer (NYSE:CVX)",
-      "source": "Seeking Alpha",
-      "date": "01/05/2026, 04:56 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-prices-forecast-ease-2026-under-pressure-ample-supply-2026-01-05/",
-      "title": "Oil prices forecast to ease in 2026 under pressure from ample supply",
-      "source": "Reuters",
-      "date": "01/05/2026, 12:31 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.wsj.com/business/energy-oil/why-oil-prices-are-barely-moving-after-the-venezuelan-incursion-f146ad11?gaa_at=eafs&gaa_n=AWEtsqf1HLbs4bKO28ZTJbTomiraXuzbC4UJ6gCVeB8_L89-zKCcXMZsNjNp&gaa_ts=695c4979&gaa_sig=Y24JK5Eo6azQCT8qBDL_X4GkJkyaZoY5DqYoTB-DBru2JgjZiDi-blnCj1nBbxjGeGertQInZYIjfNGRH3EJsg%3D%3D",
-      "title": "Why Oil Prices Are Barely Moving After the Venezuelan Incursion",
+      "url": "https://www.wsj.com/business/energy-oil/saudi-arabia-cuts-flagship-oil-price-to-asia-for-third-straight-month-27f065c5?gaa_at=eafs&gaa_n=AWEtsqelBtNue0MD7Li_R7ykEA2nBjdtZZSoUABXF2gsCyCDD0xVQaBF7w_g&gaa_ts=695d9b13&gaa_sig=JxDtrQJtH559i6YBg9OkxA5PgeR4wS0SBNgN3IrqDUaXUN0n3QiAcr5U9qz_Ivj7DxSD3h8xzo-qM1n7L9pVjQ%3D%3D",
+      "title": "Saudi Arabia Cuts Flagship Oil Price to Asia for Third Straight Month",
       "source": "The Wall Street Journal",
-      "date": "01/05/2026, 12:08 PM, +0000 UTC",
+      "date": "01/06/2026, 09:40 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493",
-      "title": "Oil prices move higher after Donald Trump’s Venezuela strikes",
-      "source": "Financial Times",
-      "date": "01/05/2026, 09:39 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-06/moscow-s-war-chest-hammered-by-plunge-in-russia-s-oil-exports-and-prices",
+      "title": "Russian Oil Flows and Prices Plunge to Hammer Putin’s War Chest",
+      "source": "Bloomberg.com",
+      "date": "01/06/2026, 01:43 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://ca.finance.yahoo.com/news/deloitte-holds-firm-on-canadian-oil-price-forecast-after-us-strike-on-venezuela-135922027.html",
+      "title": "Deloitte holds firm on Canadian oil price forecast after U.S. strike on Venezuela",
+      "source": "Yahoo! Finance Canada",
+      "date": "01/06/2026, 06:11 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/oil-falls-prospect-higher-venezuelan-output-ample-supply-outlook-2026-01-06/",
+      "title": "Oil falls 1% as investors weigh supply outlook, Venezuelan uncertainties",
+      "source": "Reuters",
+      "date": "01/06/2026, 08:43 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-on-prospects-for-relief-of-venezuela-related-sanctions-c9b08e44?gaa_at=eafs&gaa_n=AWEtsqftBz7jm1n4Cd-wlAgVBIyFzL5d7YL7X6RtvHOI53eKwoaHfgwKrGAN&gaa_ts=695d9b13&gaa_sig=eKloyijFEASivkyU-0TtAQg7rHJNJnPzGmtW-kbPxdneIjQxCGeTsOtHpSynMqOPblLQ66iZILBIFdCysCnTAg%3D%3D",
+      "title": "Oil Futures Give Back Post-Venezuela Incursion Gains",
+      "source": "The Wall Street Journal",
+      "date": "01/06/2026, 08:04 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://www.ft.com/content/a2b62f00-3174-4818-9a90-7489fc9be6d8",
-      "title": "Gold tipped to extend record-breaking rally in 2026",
-      "source": "Financial Times",
-      "date": "01/03/2026, 05:00 AM, +0000 UTC",
+      "url": "https://fortune.com/article/current-price-of-gold-01-06-2026/",
+      "title": "Current price of gold as of January 6, 2026",
+      "source": "Fortune",
+      "date": "01/06/2026, 02:06 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-january-6-2026-gold-opens-above-4400-ahead-of-new-economic-data-121857286.html",
+      "title": "Gold price today, Tuesday, January 6, 2026: Gold opens above $4,400 ahead of new economic data",
+      "source": "Yahoo Finance",
+      "date": "01/06/2026, 12:37 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.cnbc.com/2026/01/05/gold-surges-as-us-capture-of-venezuela-president-spurs-safe-haven-demand.html",
+      "title": "Gold hits one-week high after U.S. strikes in Venezuela",
+      "source": "CNBC",
+      "date": "01/05/2026, 05:02 AM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://fortune.com/article/current-price-of-gold-01-05-2025/",
       "title": "Current price of gold as of January 5, 2025",
       "source": "Fortune",
-      "date": "01/05/2026, 02:13 PM, +0000 UTC",
+      "date": "01/05/2026, 02:16 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -131,58 +145,37 @@
       "source": "Yahoo Finance",
       "date": "01/02/2026, 12:55 PM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/world/india/gold-surges-us-capture-venezuela-president-spurs-safe-haven-demand-2026-01-05/",
-      "title": "Gold hits one-week high after US strikes in Venezuela",
-      "source": "Reuters",
-      "date": "01/05/2026, 07:05 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.barrons.com/articles/gold-price-today-venezuela-maduro-silver-243ce84c?gaa_at=eafs&gaa_n=AWEtsqcsKoTtwXebmaIULOG6qIdCqtDsdnTbmZDCRUqMIB5vynQcTYxw1gNB&gaa_ts=695c497f&gaa_sig=35Iz2mAdYcNXZLtPgz0EflQeLAcaxNpKNSs7QKCBwucn17Qs90hh9poD494zRbQi60zV9Fq1Gi0-ypiGIftnBw%3D%3D",
-      "title": "Why Gold and Silver Are Getting a Boost From Arrest of Venezuela’s Maduro",
-      "source": "Barron's",
-      "date": "01/05/2026, 08:41 PM, +0000 UTC",
-      "snippet": ""
     }
   ],
   "dollar": [
     {
       "url": "https://finance.yahoo.com/news/emerging-market-stocks-set-record-022546949.html",
-      "title": "Emerging Currencies Shrug Off Weakness as USD Loses Haven Appeal",
+      "title": "EM Currencies Steady as USD Loses Haven Appeal",
       "source": "Yahoo Finance",
-      "date": "01/05/2026, 06:19 PM, +0000 UTC",
+      "date": "01/06/2026, 09:12 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/americas/dollar-firmer-venezuela-raid-hangs-over-sentiment-2026-01-05/",
-      "title": "Dollar retreats with markets focused on US data, shrugging off Venezuela",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-stabilises-venezuela-fears-subside-risk-on-mood-grows-2026-01-06/",
+      "title": "Dollar gains against peers with investors eyeing upcoming data",
       "source": "Reuters",
-      "date": "01/05/2026, 08:23 PM, +0000 UTC",
+      "date": "01/06/2026, 09:01 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-05/dollar-advances-as-maduro-ouster-fuels-rising-geopolitical-risks",
-      "title": "Dollar Advances as Maduro Ouster Fuels Rising Geopolitical Risks",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-06/-usd-zmw-zambia-kwacha-s-is-world-s-best-performing-currency",
+      "title": "Zambia’s Dollar-Usage Curb Underpins World-Beating Kwacha Rally",
       "source": "Bloomberg.com",
-      "date": "01/05/2026, 09:19 PM, +0000 UTC",
+      "date": "01/06/2026, 04:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4856827-bitcoin-may-plunge-after-january-fomc-meeting",
-      "title": "Bitcoin May Plunge After January FOMC Meeting (Cryptocurrency:BTC-USD)",
+      "url": "https://seekingalpha.com/news/4536969-morgan-stanley-bitcoin-trust-etf-files-preliminary-prospectus",
+      "title": "Morgan Stanley Bitcoin Trust ETF files preliminary prospectus (BTC-USD:Cryptocurrency)",
       "source": "Seeking Alpha",
-      "date": "01/02/2026, 04:29 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/news/billionaire-michael-saylor-strategy-adds-132552242.html",
-      "title": "Billionaire Michael Saylor’s Strategy Adds 1,287 BTC, Lifts USD Reserves to $2.25B",
-      "source": "Yahoo Finance",
-      "date": "01/05/2026, 01:25 PM, +0000 UTC",
+      "date": "01/06/2026, 01:59 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2026-01-05T23:14:44.490Z"
+  "lastUpdated": "2026-01-06T23:15:16.971Z"
 }
