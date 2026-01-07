@@ -1,38 +1,38 @@
 {
   "sp500": [
     {
-      "url": "https://www.marketwatch.com/story/its-rare-for-the-s-p-500-and-the-vix-to-post-gains-on-the-same-day-heres-why-it-just-happened-f3ba1311?gaa_at=eafs&gaa_n=AWEtsqedklwkj9Z45OBbRzYHh9zCHXWbvaVDTD7doHUkLNbXLuaZ_vwdNYmy&gaa_ts=695d9b0a&gaa_sig=4-EkSj20nmxSroKSY4hVNQW7VTpIB5lQsOi0HYdT9LCBVko_XdE0aLCuUcNN3a4RfmSxb-DvFfjpRX27waDcJQ%3D%3D",
-      "title": "It’s rare for the S&P 500 and the VIX to post gains on the same day. Here’s why it just happened.",
-      "source": "MarketWatch",
-      "date": "01/06/2026, 10:02 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2026/01/06/stock-market-today-live-updates.html",
+      "title": "Dow closes more than 450 points lower, S&P 500 pulls back from record: Live updates",
+      "source": "CNBC",
+      "date": "01/07/2026, 10:06 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-crosses-49000-sp-500-jumps-to-new-high-in-record-setting-start-to-year-194907643.html",
-      "title": "Stock market today: Dow crosses 49,000, S&P 500 jumps to new high in record-setting start to year",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-jobs-data-trumps-venezuela-oil-deal-take-focus-002323425.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq waver as jobs data, Trump's Venezuela oil deal take focus",
       "source": "Yahoo Finance",
-      "date": "01/06/2026, 09:42 PM, +0000 UTC",
+      "date": "01/07/2026, 03:42 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-010626?gaa_at=eafs&gaa_n=AWEtsqf7gVwJbnx8jbZXqcR83TKShmfN978VZQIeAZ9mG1tnwKsIgbzHYN7U&gaa_ts=695d9b0a&gaa_sig=corbkVcPf7oaRlemkodOfGirIRjxuUMB1Fe4JqtLZKLOcGxhDcoA4l2YebOoXDVcFWLvUvt8m_rpPK1d9h8IJQ%3D%3D",
-      "title": "Stock Market Today: Dow Tops 49,000",
-      "source": "Barron's",
-      "date": "01/06/2026, 09:09 PM, +0000 UTC",
+      "url": "https://www.wsj.com/business/buffetts-berkshire-successor-set-to-earn-one-of-top-salaries-for-an-s-p-500-ceo-9714060f?gaa_at=eafs&gaa_n=AWEtsqeKvubh4gUrIgaYZRwZWqmq4R1APUz5vswbQHrjs_kIm1sbyeeVAC2b&gaa_ts=695eeca8&gaa_sig=psICm54CfVW1zOiw65FAXK9nhDJpu96rb8ko3tJI3sLlkuVs4nU987B27Hhw7m9XpwB99nRPEOaZ8QDnj1TNwg%3D%3D",
+      "title": "Buffett’s Berkshire Successor Set to Earn One of Top Salaries for an S&P 500 CEO",
+      "source": "The Wall Street Journal",
+      "date": "01/07/2026, 10:25 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-record-nasdaq-sp500-higher-metals-surge?gaa_at=eafs&gaa_n=AWEtsqdRbmb5q0omRoaCnZhL2UTC35xHoUYqktM8BYMY_TJ0UmRYIEEO5eKz&gaa_ts=695d9b0a&gaa_sig=EJy7-iqESNSUwhRe6-dUZNwRlVW6Lmq9o-eQCrNvd1KrcJmHV8oVxhgxStk813XpTQsOb9zSd9Ss-mtFTh_cYg%3D%3D",
-      "title": "Stock Market Today: Dow set for fresh record and first close over 49,000, S&P 500 and Nasdaq gain in final hour trading; gold and silver continue their advance",
-      "source": "MarketWatch",
-      "date": "01/06/2026, 08:06 PM, +0000 UTC",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-07/stock-market-today-dow-s-p-live-updates",
+      "title": "Asian Stocks Set to Fall as 2026 Momentum Fades: Markets Wrap",
+      "source": "Bloomberg.com",
+      "date": "01/07/2026, 10:11 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://uk.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-gain-after-dows-rally-to-record-143551179.html",
-      "title": "Stock market today: Dow, S&P 500 aim for records as early 2026 rally builds steam",
-      "source": "Yahoo Finance UK",
-      "date": "01/06/2026, 07:56 PM, +0000 UTC",
+      "url": "https://www.reuters.com/business/sp-500-nasdaq-futures-inch-lower-after-rally-labor-data-focus-2026-01-07/",
+      "title": "S&P 500 ends lower, AI stocks buoy Nasdaq",
+      "source": "Reuters",
+      "date": "01/07/2026, 09:31 PM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -59,95 +59,102 @@
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2025/12/22/treasury-yields-edge-higher-as-holiday-shortened-week-starts.html",
-      "title": "U.S. Treasury yields edge higher as investors prepare for holiday-shortened week",
+      "url": "https://www.cnbc.com/2026/01/07/us-treasury-yields-investors-await-economic-data-.html",
+      "title": "10-year Treasury yield falls after weak ADP employment data",
       "source": "CNBC",
-      "date": "12/22/2025, 08:00 AM, +0000 UTC",
+      "date": "01/07/2026, 09:36 AM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.bloomberg.com/news/articles/2026-01-06/bullish-treasuries-wagers-target-10-year-yields-falling-below-4",
       "title": "Bullish Treasuries Wagers Target 10-Year Yields Falling Below 4%",
       "source": "Bloomberg.com",
-      "date": "01/06/2026, 09:30 PM, +0000 UTC",
+      "date": "01/07/2026, 10:19 AM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.wsj.com/business/energy-oil/saudi-arabia-cuts-flagship-oil-price-to-asia-for-third-straight-month-27f065c5?gaa_at=eafs&gaa_n=AWEtsqelBtNue0MD7Li_R7ykEA2nBjdtZZSoUABXF2gsCyCDD0xVQaBF7w_g&gaa_ts=695d9b13&gaa_sig=JxDtrQJtH559i6YBg9OkxA5PgeR4wS0SBNgN3IrqDUaXUN0n3QiAcr5U9qz_Ivj7DxSD3h8xzo-qM1n7L9pVjQ%3D%3D",
-      "title": "Saudi Arabia Cuts Flagship Oil Price to Asia for Third Straight Month",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-07/canadian-crude-price-tumbles-as-trump-targets-venezuela-s-oil",
+      "title": "Canadian Oil Price Tumbles as Trump Targets Venezuela’s Oil",
+      "source": "Bloomberg.com",
+      "date": "01/07/2026, 08:20 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.ft.com/content/4a21608d-363c-467c-9698-b6c083715493",
+      "title": "Oil prices move higher after Donald Trump’s Venezuela strikes",
+      "source": "Financial Times",
+      "date": "01/04/2026, 03:55 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.wsj.com/business/energy-oil/saudi-arabia-cuts-flagship-oil-price-to-asia-for-third-straight-month-27f065c5?gaa_at=eafs&gaa_n=AWEtsqeQ0Mi5j245Wz3QpU6J74-1PbQCE08JRaGrE6BcOOjjijKF5MzgZ85G&gaa_ts=695eecb1&gaa_sig=y3nXaEdJEcgUgKhWQ-vx-MJm7LtfgFR8QovYgkI7LLWQagD6gtBYNM5UpW0C-gm9jDjIjSHstxcGDKgz7Y0FFQ%3D%3D",
+      "title": "Saudi Arabia Cuts Flagship Oil Price to Asia for Third Straight Month - WSJ",
       "source": "The Wall Street Journal",
       "date": "01/06/2026, 09:40 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-06/moscow-s-war-chest-hammered-by-plunge-in-russia-s-oil-exports-and-prices",
-      "title": "Russian Oil Flows and Prices Plunge to Hammer Putin’s War Chest",
-      "source": "Bloomberg.com",
-      "date": "01/06/2026, 01:43 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://ca.finance.yahoo.com/news/deloitte-holds-firm-on-canadian-oil-price-forecast-after-us-strike-on-venezuela-135922027.html",
-      "title": "Deloitte holds firm on Canadian oil price forecast after U.S. strike on Venezuela",
-      "source": "Yahoo! Finance Canada",
-      "date": "01/06/2026, 06:11 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/oil-falls-prospect-higher-venezuelan-output-ample-supply-outlook-2026-01-06/",
-      "title": "Oil falls 1% as investors weigh supply outlook, Venezuelan uncertainties",
+      "url": "https://www.reuters.com/business/energy/oil-prices-forecast-ease-2026-under-pressure-ample-supply-2026-01-05/",
+      "title": "Oil prices forecast to ease in 2026 under pressure from ample supply",
       "source": "Reuters",
-      "date": "01/06/2026, 08:43 PM, +0000 UTC",
+      "date": "01/05/2026, 12:31 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-edges-lower-on-prospects-for-relief-of-venezuela-related-sanctions-c9b08e44?gaa_at=eafs&gaa_n=AWEtsqftBz7jm1n4Cd-wlAgVBIyFzL5d7YL7X6RtvHOI53eKwoaHfgwKrGAN&gaa_ts=695d9b13&gaa_sig=eKloyijFEASivkyU-0TtAQg7rHJNJnPzGmtW-kbPxdneIjQxCGeTsOtHpSynMqOPblLQ66iZILBIFdCysCnTAg%3D%3D",
-      "title": "Oil Futures Give Back Post-Venezuela Incursion Gains",
-      "source": "The Wall Street Journal",
-      "date": "01/06/2026, 08:04 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2026/01/04/oil-prices-trump-maduro-venezuela.html",
+      "title": "Crude prices rise more than 1% as Maduro overthrow casts uncertainty over oil-rich Venezuela",
+      "source": "CNBC",
+      "date": "01/04/2026, 11:06 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "gold": [
     {
-      "url": "https://fortune.com/article/current-price-of-gold-01-06-2026/",
-      "title": "Current price of gold as of January 6, 2026",
-      "source": "Fortune",
-      "date": "01/06/2026, 02:06 PM, +0000 UTC",
+      "url": "https://www.investopedia.com/gold-and-silver-prices-are-surging-again-following-venezuela-developments-11880292",
+      "title": "Gold and Silver Prices Are Surging Again Following Venezuela Developments",
+      "source": "Investopedia",
+      "date": "01/07/2026, 02:19 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-january-6-2026-gold-opens-above-4400-ahead-of-new-economic-data-121857286.html",
-      "title": "Gold price today, Tuesday, January 6, 2026: Gold opens above $4,400 ahead of new economic data",
+      "url": "https://www.reuters.com/world/india/gold-slides-1-week-high-profit-booking-dollar-strength-2026-01-07/",
+      "title": "Gold falls more than 1% as investors lock in profits",
+      "source": "Reuters",
+      "date": "01/07/2026, 06:44 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/articles/gold-silver-price-today-3f13a5f7?gaa_at=eafs&gaa_n=AWEtsqfAO8GBJLGLWZz54pYh7C8-RRvoH9z6u1z9g_mNgNjDunIH4DRIhnEw&gaa_ts=695eecb5&gaa_sig=vLjUpiTHsmcGmEoyuFlXF1u8UwyBel5zJai1_T1oRDWtNnMVbZprOxN69y6SNeLQEtWf3I6bGNqjKV7UEcfiRA%3D%3D",
+      "title": "Gold and Silver Prices Fall as Haven Play Stalls. Watch This Next Catalyst.",
+      "source": "Barron's",
+      "date": "01/07/2026, 07:04 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-january-5-gold-price-rises-after-us-captures-venezuelan-president-121857715.html",
+      "title": "Gold price today, Monday, January 5: Gold price rises after U.S. captures Venezuelan president",
       "source": "Yahoo Finance",
-      "date": "01/06/2026, 12:37 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.cnbc.com/2026/01/05/gold-surges-as-us-capture-of-venezuela-president-spurs-safe-haven-demand.html",
-      "title": "Gold hits one-week high after U.S. strikes in Venezuela",
-      "source": "CNBC",
-      "date": "01/05/2026, 05:02 AM, +0000 UTC",
+      "date": "01/05/2026, 12:18 PM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://fortune.com/article/current-price-of-gold-01-05-2025/",
       "title": "Current price of gold as of January 5, 2025",
       "source": "Fortune",
-      "date": "01/05/2026, 02:16 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-january-2-gold-rises-above-4400-to-start-2026-130441938.html",
-      "title": "Gold price today, Friday, January 2: Gold rises above $4,400 to start 2026",
-      "source": "Yahoo Finance",
-      "date": "01/02/2026, 12:55 PM, +0000 UTC",
+      "date": "01/05/2026, 02:10 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "dollar": [
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-01-07/usd-php-philippine-peso-drops-to-fresh-record-low-on-rate-cut-prospect",
+      "title": "Philippine Peso Drops to Fresh Record Low as Central Bank Says February Rate Cut on Table",
+      "source": "Bloomberg.com",
+      "date": "01/07/2026, 03:13 AM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://finance.yahoo.com/news/emerging-market-stocks-set-record-022546949.html",
       "title": "EM Currencies Steady as USD Loses Haven Appeal",
@@ -156,26 +163,26 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-stabilises-venezuela-fears-subside-risk-on-mood-grows-2026-01-06/",
-      "title": "Dollar gains against peers with investors eyeing upcoming data",
-      "source": "Reuters",
-      "date": "01/06/2026, 09:01 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-06/-usd-zmw-zambia-kwacha-s-is-world-s-best-performing-currency",
-      "title": "Zambia’s Dollar-Usage Curb Underpins World-Beating Kwacha Rally",
-      "source": "Bloomberg.com",
-      "date": "01/06/2026, 04:30 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://seekingalpha.com/news/4536969-morgan-stanley-bitcoin-trust-etf-files-preliminary-prospectus",
-      "title": "Morgan Stanley Bitcoin Trust ETF files preliminary prospectus (BTC-USD:Cryptocurrency)",
+      "url": "https://seekingalpha.com/news/4537403-bitcoins-slide-deepens-dragging-broader-crypto-market-lower",
+      "title": "Bitcoin's slide deepens, dragging broader crypto market lower (BTC-USD:Cryptocurrency)",
       "source": "Seeking Alpha",
-      "date": "01/06/2026, 01:59 PM, +0000 UTC",
+      "date": "01/07/2026, 04:46 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/advanced-ceramics-market-size-expected-160000719.html",
+      "title": "Advanced Ceramics Market Size is Expected to Reach USD 175.80 Billion by 2033 Owing to the Rising Demand for High-Performance Materials Across Industries Globally | SNS Insider",
+      "source": "Yahoo Finance",
+      "date": "01/07/2026, 04:00 PM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/thermal-energy-storage-market-size-140000970.html",
+      "title": "Thermal Energy Storage Market Size to Exceed USD 8.23 Billion by 2033 | Report by SNS Insider",
+      "source": "Yahoo Finance",
+      "date": "01/07/2026, 02:00 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2026-01-06T23:15:16.971Z"
+  "lastUpdated": "2026-01-07T23:15:43.981Z"
 }
