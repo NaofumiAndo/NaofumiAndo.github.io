@@ -1,42 +1,49 @@
 {
   "sp500": [
     {
-      "url": "https://www.cnbc.com/2026/01/08/stock-market-today-live-updates.html",
-      "title": "S&P 500 ends Friday with another record close, scores a winning week: Live updates",
-      "source": "CNBC",
-      "date": "01/09/2026, 10:33 PM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://sg.finance.yahoo.com/news/stock-market-today-dow-sp-500-jump-to-records-nasdaq-surges-as-stocks-end-2026s-first-week-with-big-gains-210029649.html",
+      "url": "https://uk.finance.yahoo.com/news/stock-market-today-dow-sp-500-jump-to-records-nasdaq-surges-as-stocks-end-2026s-first-week-with-big-gains-210029649.html",
       "title": "Stock market today: Dow, S&P 500 jump to records, Nasdaq surges as stocks end 2026's first week with big gains",
-      "source": "Yahoo Finance Singapore",
+      "source": "Yahoo Finance UK",
       "date": "01/09/2026, 09:00 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-010926?gaa_at=eafs&gaa_n=AWEtsqd7YvQOJhTrGuhgKfMyrhRb84S_iy2dWLOv93ohUwDAPHBZ5ut1JOD-&gaa_ts=69618f87&gaa_sig=5puAq1CqBrYTeoBR2CwL3hnyMr-AdddVeam0pL89bLDCeGY1GZvWmVphfIrfE5QEQU6pTbPwr4ic3NGcVo2ZeQ%3D%3D",
-      "title": "Stock Market Today: Dow, S&P 500 Mark New Records; Nasdaq Rises; Nvidia, Tesla, Oklo, Vistra, More Movers",
-      "source": "Barron's",
-      "date": "01/09/2026, 09:23 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2026/01/08/stock-market-today-live-updates.html",
+      "title": "S&P 500 ends Friday with another record close, scores a winning week: Live updates",
+      "source": "CNBC",
+      "date": "01/09/2026, 09:33 PM, +0000 UTC",
       "snippet": ""
     },
     {
       "url": "https://www.reuters.com/business/us-stock-futures-subdued-ahead-crucial-jobs-report-tariff-ruling-2026-01-09/",
       "title": "S&P 500 notches record high close driven by Broadcom, other chipmakers",
       "source": "Reuters",
-      "date": "01/09/2026, 09:39 PM, +0000 UTC",
+      "date": "01/09/2026, 11:16 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-pause-ahead-of-jobs-report?gaa_at=eafs&gaa_n=AWEtsqeOyUtRwrQfhpXQBmg-Ub7-jZkX_CBEn1lr9SbUkPOcpPPqzATTinZd&gaa_ts=69618f87&gaa_sig=cuAw-f4Ml0TiBmwfDo89dHRuDKABDEhGSs5S4999FeHE5KuqfMnpdZvPXXoPMR-yFOM0q1uWNGt-kfIiZrE4Ww%3D%3D",
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-and-nasdaq-set-to-pause-ahead-of-jobs-report?gaa_at=eafs&gaa_n=AWEtsqdlgKY0A0mwxo-tL2olE9vtHVVqfzaB__j8G9L26LmY-ruA1G8cu2xV&gaa_ts=6962e0c1&gaa_sig=R3NDYdIPxwW5vaWw2uHxjnTCdA_gHJuvRmlgXwC0uAumWdHehOnGYXSo7osfVoUvE1-UdFG67XSgGL-nxjARqw%3D%3D",
       "title": "Stock Market on Jan. 9, 2026: Dow and S&P 500 book fresh record highs, tech-heavy Nasdaq rises after U.S. jobs report; U.S. stocks notch weekly gains",
       "source": "MarketWatch",
       "date": "01/09/2026, 09:38 PM, +0000 UTC",
       "snippet": ""
+    },
+    {
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-010926?gaa_at=eafs&gaa_n=AWEtsqfNWAj_LwEQoTIvnvIXFZZLiEuprmjHZryhPInL1zibQa6W9JWAB8P1&gaa_ts=6962e0c1&gaa_sig=NRvi0xwLoFfLtVJsmSZZ3izj8TEuzMGneDBNrceWzM-AHGASIY2K9QH3vrjM5b5C7fx0WDO2OPBYzqU2hq8dIQ%3D%3D",
+      "title": "Stock Market News From Jan. 9, 2026: Dow, S&P 500 Mark Record Closes",
+      "source": "Barron's",
+      "date": "01/10/2026, 01:46 AM, +0000 UTC",
+      "snippet": ""
     }
   ],
   "treasury": [
+    {
+      "url": "https://www.reuters.com/business/energy/us-may-lift-more-venezuela-sanctions-next-week-bessent-says-2026-01-10/",
+      "title": "Exclusive: US may lift more Venezuela sanctions next week, Bessent says",
+      "source": "Reuters",
+      "date": "01/10/2026, 09:34 PM, +0000 UTC",
+      "snippet": ""
+    },
     {
       "url": "https://www.cnbc.com/2026/01/09/us-treasury-yields-investors-await-key-jobs-report-tariff-ruling.html",
       "title": "10-year Treasury yield inches down after mixed December employment data",
@@ -45,37 +52,30 @@
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/business/us-treasurys-bessent-says-rieder-not-yet-interviewed-top-fed-job-decision-likely-2026-01-08/",
-      "title": "US Treasury's Bessent says Rieder not yet interviewed for top Fed job, decision likely this month",
-      "source": "Reuters",
-      "date": "01/08/2026, 07:44 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/bessent-says-us-treasury-easily-004423132.html",
+      "title": "Bessent says US Treasury can easily cover any tariff refunds",
+      "source": "Yahoo Finance",
+      "date": "01/10/2026, 12:46 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2026/01/08/us-treasury-yields-investors-look-ahead-to-key-jobs-report.html",
-      "title": "Treasury yields move higher as investors look ahead to key jobs report",
-      "source": "CNBC",
-      "date": "01/08/2026, 10:29 AM, +0000 UTC",
+      "url": "https://fortune.com/2026/01/10/us-debt-ig-corporate-bonds-ai-boom-treasury-supply-bond-yields/",
+      "title": "As U.S. debt soars past $38 trillion, the flood of corporate bonds is a growing threat to the Treasury supply",
+      "source": "Fortune",
+      "date": "01/10/2026, 07:58 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.cnbc.com/2026/01/07/us-treasury-yields-investors-await-economic-data-.html",
-      "title": "10-year Treasury yield falls after weak ADP employment data",
-      "source": "CNBC",
-      "date": "01/07/2026, 09:36 AM, +0000 UTC",
-      "snippet": ""
-    },
-    {
-      "url": "https://www.reuters.com/video/watch/idRW563809012026RP1/",
-      "title": "Bessent says US Treasury is probing four Minnesota firms for fraud",
-      "source": "Reuters",
-      "date": "01/09/2026, 08:15 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/live/trump-tariffs-live-updates-bessent-says-treasury-can-cover-any-tariff-refunds-supreme-court-yet-to-rule-on-trumps-most-sweeping-duties-152657605.html",
+      "title": "Trump tariffs live updates: Bessent says Treasury can cover any tariff refunds; Supreme Court yet to rule on Trump's most sweeping duties",
+      "source": "Yahoo Finance",
+      "date": "01/10/2026, 04:15 PM, +0000 UTC",
       "snippet": ""
     }
   ],
   "oil": [
     {
-      "url": "https://www.wsj.com/business/energy-oil/trumps-50-oil-price-goal-is-doable-but-painful-8fc02415?gaa_at=eafs&gaa_n=AWEtsqfNt9BwV00AZgzwvdY318DLgfmN7vbJ6himqPMGnNmYJ9okyg3raMF4&gaa_ts=69618f94&gaa_sig=oN5YEJxTJKqtnEt3LX1dShhDknYqrm1KMlzwSOONapHDCwc6cRDQ1cHiXjuFhRHW5HQVqb4FmXOCnqG9Ue0X8A%3D%3D",
+      "url": "https://www.wsj.com/business/energy-oil/trumps-50-oil-price-goal-is-doable-but-painful-8fc02415?gaa_at=eafs&gaa_n=AWEtsqcD9DlEbbD0mq4exMH76LgQRyu1breq3thoRa21PWcJLj56q6xBmmSz&gaa_ts=6962e0c9&gaa_sig=iIPgWRsJJtqLYhACDwoq-rOUhiEdte78ryTvYR5t_fN2y770uf0r8XQYUDZ1XJcRFucIgfGuanWmUiKakbkV0g%3D%3D",
       "title": "Trump’s $50 Oil Price Goal Is Doable, but Painful",
       "source": "The Wall Street Journal",
       "date": "01/09/2026, 10:30 AM, +0000 UTC",
@@ -89,24 +89,24 @@
       "snippet": ""
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-09/saudi-oil-sales-to-asia-to-remain-robust-after-third-price-drop",
-      "title": "Saudi Oil Sales to Asia Remain Robust After Third Price Cut",
+      "url": "https://www.bloomberg.com/news/articles/2026-01-07/canadian-crude-price-tumbles-as-trump-targets-venezuela-s-oil",
+      "title": "Canadian Oil Price Tumbles as Trump Targets Venezuela’s Oil",
       "source": "Bloomberg.com",
-      "date": "01/09/2026, 07:41 AM, +0000 UTC",
+      "date": "01/07/2026, 08:20 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/devon-energy-dvn-oil-price-201410775.html",
-      "title": "What Devon Energy (DVN)'s Oil Price Pressure and Venezuelan Supply Questions Mean For Shareholders",
+      "url": "https://finance.yahoo.com/news/trump-wants-oil-prices-to-hit-50-a-barrel-the-math-doesnt-work-for-the-us-oil-industry-182639810.html",
+      "title": "Trump wants oil prices to hit $50 a barrel. The math doesn't work for the US oil industry.",
       "source": "Yahoo Finance",
-      "date": "01/09/2026, 08:14 PM, +0000 UTC",
+      "date": "01/09/2026, 10:48 AM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.wsj.com/business/energy-oil/consumers-love-cheap-gas-but-the-oil-patch-will-pay-the-price-515d0957?gaa_at=eafs&gaa_n=AWEtsqe5tOupzLQDLdqrXyV5TAkRDuravZh39iUxcQStBH_qgIr5i36qokeY&gaa_ts=69618f94&gaa_sig=nyVReIAFYX80UeYY321nHbA8ZApNF6xXi8TpTzhhBCa82P4KQowMFQ1T4HKz2OxwsOEktosqDsYohpR2h4uzcA%3D%3D",
-      "title": "Consumers Love Cheap Gas, but the Oil Patch Will Pay the Price",
-      "source": "The Wall Street Journal",
-      "date": "01/08/2026, 02:00 AM, +0000 UTC",
+      "url": "https://seekingalpha.com/news/4537547-oil-prices-slip-as-trump-says-venezuela-to-continue-supplying-oil-to-us-indefinitely",
+      "title": "Oil prices slip as Trump says Venezuela to continue supplying oil to U.S. 'indefinitely'",
+      "source": "Seeking Alpha",
+      "date": "01/08/2026, 12:25 AM, +0000 UTC",
       "snippet": ""
     }
   ],
@@ -119,17 +119,24 @@
       "snippet": ""
     },
     {
-      "url": "https://fortune.com/article/current-price-of-gold-01-07-2026/",
-      "title": "Current price of gold as of January 7, 2026",
+      "url": "https://fortune.com/article/current-price-of-gold-01-09-2026/",
+      "title": "Current price of gold as of January 9, 2026",
       "source": "Fortune",
-      "date": "01/07/2026, 02:04 PM, +0000 UTC",
+      "date": "01/09/2026, 02:23 PM, +0000 UTC",
       "snippet": ""
     },
     {
-      "url": "https://www.reuters.com/world/india/gold-falls-commodity-index-adjustments-weigh-ahead-us-jobs-data-2026-01-09/",
-      "title": "Gold set for weekly gain on US payrolls miss, broader uncertainty",
-      "source": "Reuters",
-      "date": "01/09/2026, 06:44 PM, +0000 UTC",
+      "url": "https://www.cnbc.com/2026/01/09/gold-prices-flat-as-caution-sets-in-ahead-of-key-us-employment-report.html",
+      "title": "Gold set for weekly gain on U.S. payrolls miss, broader uncertainty",
+      "source": "CNBC",
+      "date": "01/09/2026, 11:07 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://finance.yahoo.com/news/gold-heads-weekly-gain-traders-063700501.html",
+      "title": "Gold Edges Up as Traders Weigh US Jobs Data, Fed Rate Path",
+      "source": "Yahoo Finance",
+      "date": "01/09/2026, 10:30 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -138,23 +145,9 @@
       "source": "Fortune",
       "date": "01/08/2026, 02:26 PM, +0000 UTC",
       "snippet": ""
-    },
-    {
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-monday-january-5-gold-price-rises-after-us-captures-venezuelan-president-121857715.html",
-      "title": "Gold price today, Monday, January 5: Gold price rises after U.S. captures Venezuelan president",
-      "source": "Yahoo Finance",
-      "date": "01/05/2026, 12:18 PM, +0000 UTC",
-      "snippet": ""
     }
   ],
   "dollar": [
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-01-07/usd-php-philippine-peso-drops-to-fresh-record-low-on-rate-cut-prospect",
-      "title": "Philippine Peso Drops to Fresh Record Low as Central Bank Says February Rate Cut on Table",
-      "source": "Bloomberg.com",
-      "date": "01/07/2026, 03:13 AM, +0000 UTC",
-      "snippet": ""
-    },
     {
       "url": "https://seekingalpha.com/news/4537403-bitcoins-slide-deepens-dragging-broader-crypto-market-lower",
       "title": "Bitcoin's slide deepens, dragging broader crypto market lower (BTC-USD:Cryptocurrency)",
@@ -163,10 +156,10 @@
       "snippet": ""
     },
     {
-      "url": "https://seekingalpha.com/article/4858448-dogecoin-price-stabilizes-at-0-14-after-months-of-steady-decline-technical-analysis",
-      "title": "Dogecoin (DOGE-USD) Price Stabilizes At $0.14 After Months Of Decline (Technical Analysis)",
-      "source": "Seeking Alpha",
-      "date": "01/09/2026, 07:45 PM, +0000 UTC",
+      "url": "https://finance.yahoo.com/news/online-ocr-software-market-expected-154500720.html",
+      "title": "Online OCR Software Market is expected to generate a revenue of USD 208.5 Billion by 2031, Globally, at 17.2% CAGR: Verified Market Research®",
+      "source": "Yahoo Finance",
+      "date": "01/10/2026, 03:45 PM, +0000 UTC",
       "snippet": ""
     },
     {
@@ -177,12 +170,19 @@
       "snippet": ""
     },
     {
-      "url": "https://finance.yahoo.com/news/cloud-video-streaming-market-set-092100271.html",
-      "title": "Cloud Video Streaming Market Set to Hit USD 35.21 Billion by 2033, Driven by Rising OTT Adoption and Digital Content Demand | Research by SNS Insider",
+      "url": "https://finance.yahoo.com/news/controlled-environment-agriculture-market-reach-113000878.html",
+      "title": "Controlled Environment Agriculture Market to Reach USD 271.01 Billion by 2032 as Climate Volatility and Urban Food Demand Redefine Modern Farming",
       "source": "Yahoo Finance",
-      "date": "01/09/2026, 09:21 AM, +0000 UTC",
+      "date": "01/09/2026, 11:30 AM, +0000 UTC",
+      "snippet": ""
+    },
+    {
+      "url": "https://seekingalpha.com/article/4858443-ethereum-steadies-near-3100-trend-remains-under-pressure-technical-analysis",
+      "title": "Ethereum (ETH-USD) Steadies Near $3,100, Trend Remains Under Pressure (Technical Analysis)",
+      "source": "Seeking Alpha",
+      "date": "01/09/2026, 06:40 PM, +0000 UTC",
       "snippet": ""
     }
   ],
-  "lastUpdated": "2026-01-09T23:15:11.992Z"
+  "lastUpdated": "2026-01-10T23:14:01.867Z"
 }
